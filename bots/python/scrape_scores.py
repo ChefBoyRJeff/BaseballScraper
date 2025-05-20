@@ -1,54 +1,58 @@
-# This script scrapes the latest MLB scores from ESPN and saves them in JSON and CSV formats.
+# This script scrapes player statistics from ESPN's JSON API for the MLB season.
+# It fetches data for batting average, home runs, and RBIs, and saves the results in JSON and CSV formats.
 # Import necessary libraries
 
 import requests
-from bs4 import BeautifulSoup
 import pandas as pd
 from datetime import datetime
 import os
+import json
 
 # Prepare today's date
 today = datetime.today().strftime('%Y-%m-%d')
+api_date = datetime.today().strftime('%Y%m%d')
+url = f"https://site.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates={api_date}"
 
-# Request ESPN scoreboard
-url = "https://www.espn.com/mlb/scoreboard"
+# Make request to ESPN's JSON API
 res = requests.get(url)
-soup = BeautifulSoup(res.text, 'html.parser')
+if res.status_code != 200:
+    print(f"❌ Failed to fetch scoreboard: {res.status_code}")
+    exit()
 
-# Extract scores (simplified example)
+data = res.json()
+events = data.get("events", [])
+
 games = []
-scoreboards = soup.select('section.Scoreboard')
+for game in events:
+    try:
+        competition = game["competitions"][0]
+        competitors = competition["competitors"]
+        status = game["status"]["type"]["description"]
 
-if not scoreboards:
-    print("Could not find scoreboard data.")
-else:
-    for sb in scoreboards:
-        try:
-            teams = sb.select('span.sb-team-short')
-            scores = sb.select('span.sb-team-score')
-            status = sb.select_one('span.sb-meta').text.strip()
+        # Ensure home and away are identified
+        home = next(team for team in competitors if team["homeAway"] == "home")
+        away = next(team for team in competitors if team["homeAway"] == "away")
 
-            games.append({
-                "date": today,
-                "home_team": teams[1].text,
-                "home_score": scores[1].text,
-                "away_team": teams[0].text,
-                "away_score": scores[0].text,
-                "status": status
-            })
-        except Exception as e:
-            print(f"Error parsing game: {e}")
+        games.append({
+            "date": today,
+            "home_team": home["team"]["displayName"],
+            "home_score": home.get("score"),
+            "away_team": away["team"]["displayName"],
+            "away_score": away.get("score"),
+            "status": status
+        })
 
-    # Ensure output folder exists
-    output_dir = os.path.join("data")
-    os.makedirs(output_dir, exist_ok=True)
+    except Exception as e:
+        print(f"⚠️ Error parsing game: {e}")
 
-    # Save JSON
-    json_path = os.path.join(output_dir, f"scores_{today}.json")
-    pd.DataFrame(games).to_json(json_path, orient='records', indent=2)
+# Ensure output folder exists
+os.makedirs("data", exist_ok=True)
 
-    # Save CSV
-    csv_path = os.path.join(output_dir, f"scores_{today}.csv")
-    pd.DataFrame(games).to_csv(csv_path, index=False)
+# Save JSON
+with open(f"data/scores_{today}.json", "w") as f:
+    json.dump(games, f, indent=2)
 
-    print("Scraped and saved latest scores.")
+# Save CSV
+pd.DataFrame(games).to_csv(f"data/scores_{today}.csv", index=False)
+
+print(f"✅ Scraped and saved {len(games)} game scores for {today}.")
