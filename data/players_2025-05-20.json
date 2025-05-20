@@ -766,6 +766,15 @@
   },
   {
     "team": "Baltimore Orioles",
+    "name": "Chayce McDermott",
+    "position": "Starting Pitcher",
+    "jersey": "59",
+    "height": "6' 3\"",
+    "weight": "197 lbs",
+    "age": 26
+  },
+  {
+    "team": "Baltimore Orioles",
     "name": "Charlie Morton",
     "position": "Starting Pitcher",
     "jersey": "50",
@@ -799,15 +808,6 @@
     "height": "6' 1\"",
     "weight": "234 lbs",
     "age": 30
-  },
-  {
-    "team": "Baltimore Orioles",
-    "name": "Kade Strowd",
-    "position": "Relief Pitcher",
-    "jersey": "57",
-    "height": "6' 2\"",
-    "weight": "200 lbs",
-    "age": 27
   },
   {
     "team": "Baltimore Orioles",
@@ -1198,15 +1198,6 @@
   },
   {
     "team": "Chicago Cubs",
-    "name": "Porter Hodge",
-    "position": "Relief Pitcher",
-    "jersey": "37",
-    "height": "6' 4\"",
-    "weight": "230 lbs",
-    "age": 24
-  },
-  {
-    "team": "Chicago Cubs",
     "name": "Cade Horton",
     "position": "Starting Pitcher",
     "jersey": "22",
@@ -1270,6 +1261,15 @@
   },
   {
     "team": "Chicago Cubs",
+    "name": "Ethan Roberts",
+    "position": "Relief Pitcher",
+    "jersey": "39",
+    "height": "5' 10\"",
+    "weight": "180 lbs",
+    "age": 27
+  },
+  {
+    "team": "Chicago Cubs",
     "name": "Jameson Taillon",
     "position": "Starting Pitcher",
     "jersey": "50",
@@ -1294,15 +1294,6 @@
     "height": "6' 1\"",
     "weight": "230 lbs",
     "age": 26
-  },
-  {
-    "team": "Chicago Cubs",
-    "name": "Moises Ballesteros",
-    "position": "Catcher",
-    "jersey": "25",
-    "height": "5' 8\"",
-    "weight": "195 lbs",
-    "age": 21
   },
   {
     "team": "Chicago Cubs",
@@ -1387,6 +1378,15 @@
   },
   {
     "team": "Chicago Cubs",
+    "name": "Ian Happ",
+    "position": "Left Field",
+    "jersey": "8",
+    "height": "5' 11\"",
+    "weight": "205 lbs",
+    "age": 30
+  },
+  {
+    "team": "Chicago Cubs",
     "name": "Seiya Suzuki",
     "position": "Left Field",
     "jersey": "27",
@@ -1450,12 +1450,12 @@
   },
   {
     "team": "Chicago White Sox",
-    "name": "Yoendrys Gomez",
+    "name": "Adrian Houser",
     "position": "Relief Pitcher",
-    "jersey": "94",
+    "jersey": "47",
     "height": "6' 3\"",
-    "weight": "212 lbs",
-    "age": 25
+    "weight": "242 lbs",
+    "age": 32
   },
   {
     "team": "Chicago White Sox",
@@ -2602,15 +2602,6 @@
   },
   {
     "team": "Houston Astros",
-    "name": "Colton Gordon",
-    "position": "Starting Pitcher",
-    "jersey": "61",
-    "height": "6' 4\"",
-    "weight": "225 lbs",
-    "age": 26
-  },
-  {
-    "team": "Houston Astros",
     "name": "Ryan Gusto",
     "position": "Starting Pitcher",
     "jersey": "67",
@@ -2680,6 +2671,15 @@
     "height": "5' 11\"",
     "weight": "230 lbs",
     "age": 31
+  },
+  {
+    "team": "Houston Astros",
+    "name": "Brandon Walter",
+    "position": "Relief Pitcher",
+    "jersey": "60",
+    "height": "6' 2\"",
+    "weight": "201 lbs",
+    "age": 28
   },
   {
     "team": "Houston Astros",

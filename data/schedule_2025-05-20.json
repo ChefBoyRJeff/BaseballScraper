@@ -1,21 +1,5 @@
 [
   {
-    "date": "2025-05-19T23:40Z",
-    "name": "Cleveland Guardians at Minnesota Twins",
-    "shortName": "CLE @ MIN",
-    "status": "Suspended",
-    "competitors": [
-      {
-        "name": "Minnesota Twins",
-        "score": "2"
-      },
-      {
-        "name": "Cleveland Guardians",
-        "score": "1"
-      }
-    ]
-  },
-  {
     "date": "2025-05-20T22:40Z",
     "name": "Chicago Cubs at Miami Marlins",
     "shortName": "CHC @ MIA",
@@ -179,7 +163,7 @@
     "date": "2025-05-21T00:10Z",
     "name": "Cleveland Guardians at Minnesota Twins",
     "shortName": "CLE @ MIN",
-    "status": "Scheduled",
+    "status": "Postponed",
     "competitors": [
       {
         "name": "Minnesota Twins",

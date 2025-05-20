@@ -1,16 +1,29 @@
-# This script scrapes player injury data from ESPN's JSON API for the MLB season.
-# It handles teams with no injuries and saves results in JSON format.
+# scrape_injuries.py
+# Scrapes player injury data from ESPN's JSON API for the MLB season.
 
 import os
 import json
 import requests
 from datetime import datetime
+from dotenv import load_dotenv
+
+# Load environment variables from .env
+load_dotenv()
+DATA_DIR = os.getenv("DATA_DIR", "./data")
 
 URL = 'https://site.api.espn.com/apis/site/v2/sports/baseball/mlb/injuries'
 
+def log(msg):
+    print(f"[{datetime.now().isoformat()}] {msg}")
+
 def fetch_injuries():
-    response = requests.get(URL)
-    data = response.json()
+    try:
+        response = requests.get(URL)
+        response.raise_for_status()
+        data = response.json()
+    except Exception as e:
+        log(f"❌ Error fetching injury data: {e}")
+        return []
 
     injuries = []
 
@@ -31,13 +44,14 @@ def fetch_injuries():
     return injuries
 
 def save_injuries(injuries):
-    date = datetime.now().strftime('%Y-%m-%d')
-    os.makedirs('data', exist_ok=True)
-    with open(f'data/injuries_{date}.json', 'w') as f:
+    date_str = datetime.now().strftime('%Y-%m-%d')
+    os.makedirs(DATA_DIR, exist_ok=True)
+    filepath = os.path.join(DATA_DIR, f'injuries_{date_str}.json')
+    with open(filepath, 'w') as f:
         json.dump(injuries, f, indent=2)
-    print(f'✅ Injuries data saved ({len(injuries)} players).')
+    log(f"✅ Injuries data saved: {filepath} ({len(injuries)} players)")
 
 if __name__ == '__main__':
     injuries = fetch_injuries()
     save_injuries(injuries)
-    print('✅ Injuries data fetched.')
+    log("✅ Injuries data fetch complete.")

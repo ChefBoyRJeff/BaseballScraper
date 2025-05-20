@@ -1,40 +1,59 @@
-# This script scrapes player statistics from ESPN's JSON API for the MLB season.
-# It fetches data for batting average, home runs, and RBIs, and saves the results in JSON and CSV formats.
+# scrape_player_stats.py
+# Pulls MLB leader stats for HR, AVG, RBI from statsapi.mlb.com
 
-import requests, json, pandas as pd, os
+import requests
+import pandas as pd
+import json
+import os
 from datetime import datetime
 
-URL = "https://site.api.espn.com/apis/site/v2/sports/baseball/mlb/statistics/players"
+# Config
+STAT_CATEGORIES = ["homeRuns", "battingAverage", "rbi"]
+SEASON = datetime.now().year
+LIMIT = 50  # You can increase if needed
 
-def fetch_player_stats():
-    res = requests.get(URL)
-    data = res.json()
+def fetch_mlb_leaders():
+    url = "https://statsapi.mlb.com/api/v1/stats/leaders"
+    params = {
+        "leaderCategories": ",".join(STAT_CATEGORIES),
+        "season": SEASON,
+        "sportId": 1,
+        "limit": LIMIT
+    }
 
-    players = []
-    for category in data.get("categories", []):
-        stat_category = category.get("name")
-        for stat in category.get("leaders", []):
-            athlete = stat["athlete"]
-            players.append({
-                "name": athlete["fullName"],
-                "team": athlete["team"]["displayName"],
-                "position": athlete.get("position", {}).get("abbreviation"),
-                "stat_category": stat_category,
-                "value": stat["value"]
+    res = requests.get(url, params=params)
+    res.raise_for_status()
+    return res.json()
+
+def parse_leaders(data):
+    parsed = []
+    for category in data.get("leagueLeaders", []):
+        cat_name = category["leaderCategory"]
+        for player in category.get("leaders", []):
+            parsed.append({
+                "name": player["person"]["fullName"],
+                "team": player["team"]["name"],
+                "stat": cat_name,
+                "value": player["value"]
             })
+    return parsed
 
-    return players
-
-def save(players):
-    today = datetime.now().strftime("%Y-%m-%d")
+def save_output(leaders):
+    today = datetime.today().strftime("%Y-%m-%d")
     os.makedirs("data", exist_ok=True)
+
+    # JSON
     with open(f"data/player_stats_{today}.json", "w") as f:
-        json.dump(players, f, indent=2)
-    pd.DataFrame(players).to_csv(f"data/player_stats_{today}.csv", index=False)
-    print("✅ Player stats saved.")
+        json.dump(leaders, f, indent=2)
+
+    # CSV
+    pd.DataFrame(leaders).to_csv(f"data/player_stats_{today}.csv", index=False)
+    print(f"✅ Player stats saved to ./data/player_stats_{today}.json and .csv")
 
 if __name__ == "__main__":
-    data = fetch_player_stats()
-    save(data)
-    print("✅ Player stats fetched.")
-    
+    try:
+        raw_data = fetch_mlb_leaders()
+        parsed_stats = parse_leaders(raw_data)
+        save_output(parsed_stats)
+    except Exception as e:
+        print(f"❌ Error fetching or saving player stats: {e}")

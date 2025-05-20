@@ -1,1 +1,2216 @@
-[]
+[
+  {
+    "name": "Shohei Ohtani",
+    "team": "Los Angeles Dodgers",
+    "stat": "homeRuns",
+    "value": "17"
+  },
+  {
+    "name": "Kyle Schwarber",
+    "team": "Philadelphia Phillies",
+    "stat": "homeRuns",
+    "value": "16"
+  },
+  {
+    "name": "Aaron Judge",
+    "team": "New York Yankees",
+    "stat": "homeRuns",
+    "value": "15"
+  },
+  {
+    "name": "Cal Raleigh",
+    "team": "Seattle Mariners",
+    "stat": "homeRuns",
+    "value": "15"
+  },
+  {
+    "name": "Corbin Carroll",
+    "team": "Arizona Diamondbacks",
+    "stat": "homeRuns",
+    "value": "14"
+  },
+  {
+    "name": "Eugenio Su\u00e1rez",
+    "team": "Arizona Diamondbacks",
+    "stat": "homeRuns",
+    "value": "14"
+  },
+  {
+    "name": "Taylor Ward",
+    "team": "Los Angeles Angels",
+    "stat": "homeRuns",
+    "value": "13"
+  },
+  {
+    "name": "Pete Crow-Armstrong",
+    "team": "Chicago Cubs",
+    "stat": "homeRuns",
+    "value": "12"
+  },
+  {
+    "name": "Trent Grisham",
+    "team": "New York Yankees",
+    "stat": "homeRuns",
+    "value": "12"
+  },
+  {
+    "name": "Fernando Tatis Jr.",
+    "team": "San Diego Padres",
+    "stat": "homeRuns",
+    "value": "12"
+  },
+  {
+    "name": "Spencer Torkelson",
+    "team": "Detroit Tigers",
+    "stat": "homeRuns",
+    "value": "12"
+  },
+  {
+    "name": "James Wood",
+    "team": "Washington Nationals",
+    "stat": "homeRuns",
+    "value": "12"
+  },
+  {
+    "name": "Wilyer Abreu",
+    "team": "Boston Red Sox",
+    "stat": "homeRuns",
+    "value": "11"
+  },
+  {
+    "name": "Alex Bregman",
+    "team": "Boston Red Sox",
+    "stat": "homeRuns",
+    "value": "11"
+  },
+  {
+    "name": "Riley Greene",
+    "team": "Detroit Tigers",
+    "stat": "homeRuns",
+    "value": "11"
+  },
+  {
+    "name": "Seiya Suzuki",
+    "team": "Chicago Cubs",
+    "stat": "homeRuns",
+    "value": "11"
+  },
+  {
+    "name": "Byron Buxton",
+    "team": "Minnesota Twins",
+    "stat": "homeRuns",
+    "value": "10"
+  },
+  {
+    "name": "Wilmer Flores",
+    "team": "San Francisco Giants",
+    "stat": "homeRuns",
+    "value": "10"
+  },
+  {
+    "name": "Kyle Manzardo",
+    "team": "Cleveland Guardians",
+    "stat": "homeRuns",
+    "value": "10"
+  },
+  {
+    "name": "Cedric Mullins",
+    "team": "Baltimore Orioles",
+    "stat": "homeRuns",
+    "value": "10"
+  },
+  {
+    "name": "Logan O'Hoppe",
+    "team": "Los Angeles Angels",
+    "stat": "homeRuns",
+    "value": "10"
+  },
+  {
+    "name": "Jorge Polanco",
+    "team": "Seattle Mariners",
+    "stat": "homeRuns",
+    "value": "10"
+  },
+  {
+    "name": "Brent Rooker",
+    "team": "Athletics",
+    "stat": "homeRuns",
+    "value": "10"
+  },
+  {
+    "name": "Tyler Soderstrom",
+    "team": "Athletics",
+    "stat": "homeRuns",
+    "value": "10"
+  },
+  {
+    "name": "Kyle Stowers",
+    "team": "Miami Marlins",
+    "stat": "homeRuns",
+    "value": "10"
+  },
+  {
+    "name": "Dansby Swanson",
+    "team": "Chicago Cubs",
+    "stat": "homeRuns",
+    "value": "10"
+  },
+  {
+    "name": "Kyle Tucker",
+    "team": "Chicago Cubs",
+    "stat": "homeRuns",
+    "value": "10"
+  },
+  {
+    "name": "Pete Alonso",
+    "team": "New York Mets",
+    "stat": "homeRuns",
+    "value": "9"
+  },
+  {
+    "name": "Kerry Carpenter",
+    "team": "Detroit Tigers",
+    "stat": "homeRuns",
+    "value": "9"
+  },
+  {
+    "name": "Rafael Devers",
+    "team": "Boston Red Sox",
+    "stat": "homeRuns",
+    "value": "9"
+  },
+  {
+    "name": "Freddie Freeman",
+    "team": "Los Angeles Dodgers",
+    "stat": "homeRuns",
+    "value": "9"
+  },
+  {
+    "name": "Teoscar Hern\u00e1ndez",
+    "team": "Los Angeles Dodgers",
+    "stat": "homeRuns",
+    "value": "9"
+  },
+  {
+    "name": "Wyatt Langford",
+    "team": "Texas Rangers",
+    "stat": "homeRuns",
+    "value": "9"
+  },
+  {
+    "name": "Francisco Lindor",
+    "team": "New York Mets",
+    "stat": "homeRuns",
+    "value": "9"
+  },
+  {
+    "name": "Matt Olson",
+    "team": "Atlanta Braves",
+    "stat": "homeRuns",
+    "value": "9"
+  },
+  {
+    "name": "Andy Pages",
+    "team": "Los Angeles Dodgers",
+    "stat": "homeRuns",
+    "value": "9"
+  },
+  {
+    "name": "Jos\u00e9 Ram\u00edrez",
+    "team": "Cleveland Guardians",
+    "stat": "homeRuns",
+    "value": "9"
+  },
+  {
+    "name": "Ben Rice",
+    "team": "New York Yankees",
+    "stat": "homeRuns",
+    "value": "9"
+  },
+  {
+    "name": "Mike Trout",
+    "team": "Los Angeles Angels",
+    "stat": "homeRuns",
+    "value": "9"
+  },
+  {
+    "name": "CJ Abrams",
+    "team": "Washington Nationals",
+    "stat": "homeRuns",
+    "value": "8"
+  },
+  {
+    "name": "Jordan Beck",
+    "team": "Colorado Rockies",
+    "stat": "homeRuns",
+    "value": "8"
+  },
+  {
+    "name": "Mookie Betts",
+    "team": "Los Angeles Dodgers",
+    "stat": "homeRuns",
+    "value": "8"
+  },
+  {
+    "name": "Junior Caminero",
+    "team": "Tampa Bay Rays",
+    "stat": "homeRuns",
+    "value": "8"
+  },
+  {
+    "name": "Matt Chapman",
+    "team": "San Francisco Giants",
+    "stat": "homeRuns",
+    "value": "8"
+  },
+  {
+    "name": "Oneil Cruz",
+    "team": "Pittsburgh Pirates",
+    "stat": "homeRuns",
+    "value": "8"
+  },
+  {
+    "name": "Elly De La Cruz",
+    "team": "Cincinnati Reds",
+    "stat": "homeRuns",
+    "value": "8"
+  },
+  {
+    "name": "Tommy Edman",
+    "team": "Los Angeles Dodgers",
+    "stat": "homeRuns",
+    "value": "8"
+  },
+  {
+    "name": "Lourdes Gurriel Jr.",
+    "team": "Arizona Diamondbacks",
+    "stat": "homeRuns",
+    "value": "8"
+  },
+  {
+    "name": "Carson Kelly",
+    "team": "Chicago Cubs",
+    "stat": "homeRuns",
+    "value": "8"
+  },
+  {
+    "name": "Shea Langeliers",
+    "team": "Athletics",
+    "stat": "homeRuns",
+    "value": "8"
+  },
+  {
+    "name": "Nathaniel Lowe",
+    "team": "Washington Nationals",
+    "stat": "homeRuns",
+    "value": "8"
+  },
+  {
+    "name": "Sean Murphy",
+    "team": "Atlanta Braves",
+    "stat": "homeRuns",
+    "value": "8"
+  },
+  {
+    "name": "Brandon Nimmo",
+    "team": "New York Mets",
+    "stat": "homeRuns",
+    "value": "8"
+  },
+  {
+    "name": "Marcell Ozuna",
+    "team": "Atlanta Braves",
+    "stat": "homeRuns",
+    "value": "8"
+  },
+  {
+    "name": "Vinnie Pasquantino",
+    "team": "Kansas City Royals",
+    "stat": "homeRuns",
+    "value": "8"
+  },
+  {
+    "name": "Heliot Ramos",
+    "team": "San Francisco Giants",
+    "stat": "homeRuns",
+    "value": "8"
+  },
+  {
+    "name": "Austin Riley",
+    "team": "Atlanta Braves",
+    "stat": "homeRuns",
+    "value": "8"
+  },
+  {
+    "name": "Julio Rodr\u00edguez",
+    "team": "Seattle Mariners",
+    "stat": "homeRuns",
+    "value": "8"
+  },
+  {
+    "name": "Juan Soto",
+    "team": "New York Mets",
+    "stat": "homeRuns",
+    "value": "8"
+  },
+  {
+    "name": "Rowdy Tellez",
+    "team": "Seattle Mariners",
+    "stat": "homeRuns",
+    "value": "8"
+  },
+  {
+    "name": "Austin Wells",
+    "team": "New York Yankees",
+    "stat": "homeRuns",
+    "value": "8"
+  },
+  {
+    "name": "Carlos Rod\u00f3n",
+    "team": "New York Yankees",
+    "stat": "battingAverage",
+    "value": ".167"
+  },
+  {
+    "name": "Hunter Brown",
+    "team": "Houston Astros",
+    "stat": "battingAverage",
+    "value": ".170"
+  },
+  {
+    "name": "Nathan Eovaldi",
+    "team": "Texas Rangers",
+    "stat": "battingAverage",
+    "value": ".179"
+  },
+  {
+    "name": "Tyler Mahle",
+    "team": "Texas Rangers",
+    "stat": "battingAverage",
+    "value": ".185"
+  },
+  {
+    "name": "Max Fried",
+    "team": "New York Yankees",
+    "stat": "battingAverage",
+    "value": ".186"
+  },
+  {
+    "name": "Joe Ryan",
+    "team": "Minnesota Twins",
+    "stat": "battingAverage",
+    "value": ".186"
+  },
+  {
+    "name": "Yoshinobu Yamamoto",
+    "team": "Los Angeles Dodgers",
+    "stat": "battingAverage",
+    "value": ".187"
+  },
+  {
+    "name": "Paul Skenes",
+    "team": "Pittsburgh Pirates",
+    "stat": "battingAverage",
+    "value": ".190"
+  },
+  {
+    "name": "Freddy Peralta",
+    "team": "Milwaukee Brewers",
+    "stat": "battingAverage",
+    "value": ".193"
+  },
+  {
+    "name": "Nick Pivetta",
+    "team": "San Diego Padres",
+    "stat": "battingAverage",
+    "value": ".193"
+  },
+  {
+    "name": "Michael King",
+    "team": "San Diego Padres",
+    "stat": "battingAverage",
+    "value": ".195"
+  },
+  {
+    "name": "Grant Holmes",
+    "team": "Atlanta Braves",
+    "stat": "battingAverage",
+    "value": ".196"
+  },
+  {
+    "name": "Zack Wheeler",
+    "team": "Philadelphia Phillies",
+    "stat": "battingAverage",
+    "value": ".196"
+  },
+  {
+    "name": "Bryan Woo",
+    "team": "Seattle Mariners",
+    "stat": "battingAverage",
+    "value": ".200"
+  },
+  {
+    "name": "Garrett Crochet",
+    "team": "Boston Red Sox",
+    "stat": "battingAverage",
+    "value": ".201"
+  },
+  {
+    "name": "Merrill Kelly",
+    "team": "Arizona Diamondbacks",
+    "stat": "battingAverage",
+    "value": ".201"
+  },
+  {
+    "name": "Tyler Anderson",
+    "team": "Los Angeles Angels",
+    "stat": "battingAverage",
+    "value": ".202"
+  },
+  {
+    "name": "Jacob deGrom",
+    "team": "Texas Rangers",
+    "stat": "battingAverage",
+    "value": ".209"
+  },
+  {
+    "name": "Ronel Blanco",
+    "team": "Houston Astros",
+    "stat": "battingAverage",
+    "value": ".210"
+  },
+  {
+    "name": "Kris Bubic",
+    "team": "Kansas City Royals",
+    "stat": "battingAverage",
+    "value": ".210"
+  },
+  {
+    "name": "Andrew Heaney",
+    "team": "Pittsburgh Pirates",
+    "stat": "battingAverage",
+    "value": ".210"
+  },
+  {
+    "name": "Robbie Ray",
+    "team": "San Francisco Giants",
+    "stat": "battingAverage",
+    "value": ".210"
+  },
+  {
+    "name": "Kodai Senga",
+    "team": "New York Mets",
+    "stat": "battingAverage",
+    "value": ".210"
+  },
+  {
+    "name": "Reese Olson",
+    "team": "Detroit Tigers",
+    "stat": "battingAverage",
+    "value": ".215"
+  },
+  {
+    "name": "Shane Smith",
+    "team": "Chicago White Sox",
+    "stat": "battingAverage",
+    "value": ".217"
+  },
+  {
+    "name": "Tarik Skubal",
+    "team": "Detroit Tigers",
+    "stat": "battingAverage",
+    "value": ".219"
+  },
+  {
+    "name": "Cristopher S\u00e1nchez",
+    "team": "Philadelphia Phillies",
+    "stat": "battingAverage",
+    "value": ".220"
+  },
+  {
+    "name": "Mitchell Parker",
+    "team": "Washington Nationals",
+    "stat": "battingAverage",
+    "value": ".223"
+  },
+  {
+    "name": "Jeffrey Springs",
+    "team": "Athletics",
+    "stat": "battingAverage",
+    "value": ".225"
+  },
+  {
+    "name": "Kevin Gausman",
+    "team": "Toronto Blue Jays",
+    "stat": "battingAverage",
+    "value": ".226"
+  },
+  {
+    "name": "Erick Fedde",
+    "team": "St. Louis Cardinals",
+    "stat": "battingAverage",
+    "value": ".228"
+  },
+  {
+    "name": "Spencer Schwellenbach",
+    "team": "Atlanta Braves",
+    "stat": "battingAverage",
+    "value": ".228"
+  },
+  {
+    "name": "Tomoyuki Sugano",
+    "team": "Baltimore Orioles",
+    "stat": "battingAverage",
+    "value": ".228"
+  },
+  {
+    "name": "Framber Valdez",
+    "team": "Houston Astros",
+    "stat": "battingAverage",
+    "value": ".228"
+  },
+  {
+    "name": "Jake Irvin",
+    "team": "Washington Nationals",
+    "stat": "battingAverage",
+    "value": ".229"
+  },
+  {
+    "name": "Matthew Liberatore",
+    "team": "St. Louis Cardinals",
+    "stat": "battingAverage",
+    "value": ".229"
+  },
+  {
+    "name": "Seth Lugo",
+    "team": "Kansas City Royals",
+    "stat": "battingAverage",
+    "value": ".230"
+  },
+  {
+    "name": "Nick Lodolo",
+    "team": "Cincinnati Reds",
+    "stat": "battingAverage",
+    "value": ".232"
+  },
+  {
+    "name": "JP Sears",
+    "team": "Athletics",
+    "stat": "battingAverage",
+    "value": ".233"
+  },
+  {
+    "name": "Luis L. Ortiz",
+    "team": "Cleveland Guardians",
+    "stat": "battingAverage",
+    "value": ".235"
+  },
+  {
+    "name": "Logan Webb",
+    "team": "San Francisco Giants",
+    "stat": "battingAverage",
+    "value": ".235"
+  },
+  {
+    "name": "Luis Castillo",
+    "team": "Seattle Mariners",
+    "stat": "battingAverage",
+    "value": ".236"
+  },
+  {
+    "name": "Jameson Taillon",
+    "team": "Chicago Cubs",
+    "stat": "battingAverage",
+    "value": ".238"
+  },
+  {
+    "name": "Sonny Gray",
+    "team": "St. Louis Cardinals",
+    "stat": "battingAverage",
+    "value": ".239"
+  },
+  {
+    "name": "Zac Gallen",
+    "team": "Arizona Diamondbacks",
+    "stat": "battingAverage",
+    "value": ".241"
+  },
+  {
+    "name": "Clay Holmes",
+    "team": "New York Mets",
+    "stat": "battingAverage",
+    "value": ".242"
+  },
+  {
+    "name": "David Peterson",
+    "team": "New York Mets",
+    "stat": "battingAverage",
+    "value": ".242"
+  },
+  {
+    "name": "Luis Severino",
+    "team": "Athletics",
+    "stat": "battingAverage",
+    "value": ".243"
+  },
+  {
+    "name": "Jes\u00fas Luzardo",
+    "team": "Philadelphia Phillies",
+    "stat": "battingAverage",
+    "value": ".244"
+  },
+  {
+    "name": "Taj Bradley",
+    "team": "Tampa Bay Rays",
+    "stat": "battingAverage",
+    "value": ".246"
+  },
+  {
+    "name": "Michael Lorenzen",
+    "team": "Kansas City Royals",
+    "stat": "battingAverage",
+    "value": ".246"
+  },
+  {
+    "name": "Aaron Judge",
+    "team": "New York Yankees",
+    "stat": "battingAverage",
+    "value": ".401"
+  },
+  {
+    "name": "Freddie Freeman",
+    "team": "Los Angeles Dodgers",
+    "stat": "battingAverage",
+    "value": ".368"
+  },
+  {
+    "name": "Jacob Wilson",
+    "team": "Athletics",
+    "stat": "battingAverage",
+    "value": ".343"
+  },
+  {
+    "name": "Paul Goldschmidt",
+    "team": "New York Yankees",
+    "stat": "battingAverage",
+    "value": ".339"
+  },
+  {
+    "name": "Will Smith",
+    "team": "Los Angeles Dodgers",
+    "stat": "battingAverage",
+    "value": ".339"
+  },
+  {
+    "name": "Brendan Donovan",
+    "team": "St. Louis Cardinals",
+    "stat": "battingAverage",
+    "value": ".337"
+  },
+  {
+    "name": "Manny Machado",
+    "team": "San Diego Padres",
+    "stat": "battingAverage",
+    "value": ".317"
+  },
+  {
+    "name": "CJ Abrams",
+    "team": "Washington Nationals",
+    "stat": "battingAverage",
+    "value": ".312"
+  },
+  {
+    "name": "Shohei Ohtani",
+    "team": "Los Angeles Dodgers",
+    "stat": "battingAverage",
+    "value": ".312"
+  },
+  {
+    "name": "Steven Kwan",
+    "team": "Cleveland Guardians",
+    "stat": "battingAverage",
+    "value": ".311"
+  },
+  {
+    "name": "Jonathan Aranda",
+    "team": "Tampa Bay Rays",
+    "stat": "battingAverage",
+    "value": ".309"
+  },
+  {
+    "name": "Jeremy Pe\u00f1a",
+    "team": "Houston Astros",
+    "stat": "battingAverage",
+    "value": ".309"
+  },
+  {
+    "name": "Maikel Garcia",
+    "team": "Kansas City Royals",
+    "stat": "battingAverage",
+    "value": ".306"
+  },
+  {
+    "name": "Fernando Tatis Jr.",
+    "team": "San Diego Padres",
+    "stat": "battingAverage",
+    "value": ".304"
+  },
+  {
+    "name": "Kyle Stowers",
+    "team": "Miami Marlins",
+    "stat": "battingAverage",
+    "value": ".303"
+  },
+  {
+    "name": "Alex Bregman",
+    "team": "Boston Red Sox",
+    "stat": "battingAverage",
+    "value": ".303"
+  },
+  {
+    "name": "Trea Turner",
+    "team": "Philadelphia Phillies",
+    "stat": "battingAverage",
+    "value": ".303"
+  },
+  {
+    "name": "Geraldo Perdomo",
+    "team": "Arizona Diamondbacks",
+    "stat": "battingAverage",
+    "value": ".302"
+  },
+  {
+    "name": "Bobby Witt Jr.",
+    "team": "Kansas City Royals",
+    "stat": "battingAverage",
+    "value": ".302"
+  },
+  {
+    "name": "Jake Meyers",
+    "team": "Houston Astros",
+    "stat": "battingAverage",
+    "value": ".301"
+  },
+  {
+    "name": "Pete Alonso",
+    "team": "New York Mets",
+    "stat": "battingAverage",
+    "value": ".301"
+  },
+  {
+    "name": "Josh Naylor",
+    "team": "Arizona Diamondbacks",
+    "stat": "battingAverage",
+    "value": ".299"
+  },
+  {
+    "name": "Luis Arraez",
+    "team": "San Diego Padres",
+    "stat": "battingAverage",
+    "value": ".297"
+  },
+  {
+    "name": "Jos\u00e9 Ram\u00edrez",
+    "team": "Cleveland Guardians",
+    "stat": "battingAverage",
+    "value": ".296"
+  },
+  {
+    "name": "Josh Smith",
+    "team": "Texas Rangers",
+    "stat": "battingAverage",
+    "value": ".295"
+  },
+  {
+    "name": "Gavin Lux",
+    "team": "Cincinnati Reds",
+    "stat": "battingAverage",
+    "value": ".294"
+  },
+  {
+    "name": "Ryan O'Hearn",
+    "team": "Baltimore Orioles",
+    "stat": "battingAverage",
+    "value": ".294"
+  },
+  {
+    "name": "Brice Turang",
+    "team": "Milwaukee Brewers",
+    "stat": "battingAverage",
+    "value": ".293"
+  },
+  {
+    "name": "Nico Hoerner",
+    "team": "Chicago Cubs",
+    "stat": "battingAverage",
+    "value": ".293"
+  },
+  {
+    "name": "Bo Bichette",
+    "team": "Toronto Blue Jays",
+    "stat": "battingAverage",
+    "value": ".292"
+  },
+  {
+    "name": "Heliot Ramos",
+    "team": "San Francisco Giants",
+    "stat": "battingAverage",
+    "value": ".292"
+  },
+  {
+    "name": "Hunter Goodman",
+    "team": "Colorado Rockies",
+    "stat": "battingAverage",
+    "value": ".292"
+  },
+  {
+    "name": "Rhys Hoskins",
+    "team": "Milwaukee Brewers",
+    "stat": "battingAverage",
+    "value": ".291"
+  },
+  {
+    "name": "Vladimir Guerrero Jr.",
+    "team": "Toronto Blue Jays",
+    "stat": "battingAverage",
+    "value": ".288"
+  },
+  {
+    "name": "Austin Riley",
+    "team": "Atlanta Braves",
+    "stat": "battingAverage",
+    "value": ".287"
+  },
+  {
+    "name": "Rafael Devers",
+    "team": "Boston Red Sox",
+    "stat": "battingAverage",
+    "value": ".286"
+  },
+  {
+    "name": "Kerry Carpenter",
+    "team": "Detroit Tigers",
+    "stat": "battingAverage",
+    "value": ".284"
+  },
+  {
+    "name": "Zach McKinstry",
+    "team": "Detroit Tigers",
+    "stat": "battingAverage",
+    "value": ".284"
+  },
+  {
+    "name": "Gleyber Torres",
+    "team": "Detroit Tigers",
+    "stat": "battingAverage",
+    "value": ".284"
+  },
+  {
+    "name": "Pete Crow-Armstrong",
+    "team": "Chicago Cubs",
+    "stat": "battingAverage",
+    "value": ".282"
+  },
+  {
+    "name": "Nick Castellanos",
+    "team": "Philadelphia Phillies",
+    "stat": "battingAverage",
+    "value": ".282"
+  },
+  {
+    "name": "Josh Jung",
+    "team": "Texas Rangers",
+    "stat": "battingAverage",
+    "value": ".282"
+  },
+  {
+    "name": "Gavin Sheets",
+    "team": "San Diego Padres",
+    "stat": "battingAverage",
+    "value": ".281"
+  },
+  {
+    "name": "Andy Pages",
+    "team": "Los Angeles Dodgers",
+    "stat": "battingAverage",
+    "value": ".280"
+  },
+  {
+    "name": "Keibert Ruiz",
+    "team": "Washington Nationals",
+    "stat": "battingAverage",
+    "value": ".280"
+  },
+  {
+    "name": "Sal Frelick",
+    "team": "Milwaukee Brewers",
+    "stat": "battingAverage",
+    "value": ".279"
+  },
+  {
+    "name": "Francisco Lindor",
+    "team": "New York Mets",
+    "stat": "battingAverage",
+    "value": ".279"
+  },
+  {
+    "name": "James Wood",
+    "team": "Washington Nationals",
+    "stat": "battingAverage",
+    "value": ".279"
+  },
+  {
+    "name": "Corbin Carroll",
+    "team": "Arizona Diamondbacks",
+    "stat": "battingAverage",
+    "value": ".279"
+  },
+  {
+    "name": "Nolan Schanuel",
+    "team": "Los Angeles Angels",
+    "stat": "battingAverage",
+    "value": ".277"
+  },
+  {
+    "name": "Wilmer Flores",
+    "team": "San Francisco Giants",
+    "stat": "runsBattedIn",
+    "value": "42"
+  },
+  {
+    "name": "Aaron Judge",
+    "team": "New York Yankees",
+    "stat": "runsBattedIn",
+    "value": "41"
+  },
+  {
+    "name": "Seiya Suzuki",
+    "team": "Chicago Cubs",
+    "stat": "runsBattedIn",
+    "value": "39"
+  },
+  {
+    "name": "Pete Crow-Armstrong",
+    "team": "Chicago Cubs",
+    "stat": "runsBattedIn",
+    "value": "38"
+  },
+  {
+    "name": "Rafael Devers",
+    "team": "Boston Red Sox",
+    "stat": "runsBattedIn",
+    "value": "38"
+  },
+  {
+    "name": "Eugenio Su\u00e1rez",
+    "team": "Arizona Diamondbacks",
+    "stat": "runsBattedIn",
+    "value": "38"
+  },
+  {
+    "name": "Spencer Torkelson",
+    "team": "Detroit Tigers",
+    "stat": "runsBattedIn",
+    "value": "38"
+  },
+  {
+    "name": "Pete Alonso",
+    "team": "New York Mets",
+    "stat": "runsBattedIn",
+    "value": "37"
+  },
+  {
+    "name": "Geraldo Perdomo",
+    "team": "Arizona Diamondbacks",
+    "stat": "runsBattedIn",
+    "value": "37"
+  },
+  {
+    "name": "Kyle Schwarber",
+    "team": "Philadelphia Phillies",
+    "stat": "runsBattedIn",
+    "value": "36"
+  },
+  {
+    "name": "Alex Bregman",
+    "team": "Boston Red Sox",
+    "stat": "runsBattedIn",
+    "value": "35"
+  },
+  {
+    "name": "Teoscar Hern\u00e1ndez",
+    "team": "Los Angeles Dodgers",
+    "stat": "runsBattedIn",
+    "value": "35"
+  },
+  {
+    "name": "Freddie Freeman",
+    "team": "Los Angeles Dodgers",
+    "stat": "runsBattedIn",
+    "value": "34"
+  },
+  {
+    "name": "Elly De La Cruz",
+    "team": "Cincinnati Reds",
+    "stat": "runsBattedIn",
+    "value": "33"
+  },
+  {
+    "name": "Nathaniel Lowe",
+    "team": "Washington Nationals",
+    "stat": "runsBattedIn",
+    "value": "33"
+  },
+  {
+    "name": "Kyle Tucker",
+    "team": "Chicago Cubs",
+    "stat": "runsBattedIn",
+    "value": "33"
+  },
+  {
+    "name": "Corbin Carroll",
+    "team": "Arizona Diamondbacks",
+    "stat": "runsBattedIn",
+    "value": "32"
+  },
+  {
+    "name": "Cal Raleigh",
+    "team": "Seattle Mariners",
+    "stat": "runsBattedIn",
+    "value": "32"
+  },
+  {
+    "name": "Shohei Ohtani",
+    "team": "Los Angeles Dodgers",
+    "stat": "runsBattedIn",
+    "value": "31"
+  },
+  {
+    "name": "Mookie Betts",
+    "team": "Los Angeles Dodgers",
+    "stat": "runsBattedIn",
+    "value": "30"
+  },
+  {
+    "name": "Riley Greene",
+    "team": "Detroit Tigers",
+    "stat": "runsBattedIn",
+    "value": "30"
+  },
+  {
+    "name": "Jung Hoo Lee",
+    "team": "San Francisco Giants",
+    "stat": "runsBattedIn",
+    "value": "30"
+  },
+  {
+    "name": "Cedric Mullins",
+    "team": "Baltimore Orioles",
+    "stat": "runsBattedIn",
+    "value": "30"
+  },
+  {
+    "name": "Jorge Polanco",
+    "team": "Seattle Mariners",
+    "stat": "runsBattedIn",
+    "value": "30"
+  },
+  {
+    "name": "Tyler Soderstrom",
+    "team": "Athletics",
+    "stat": "runsBattedIn",
+    "value": "30"
+  },
+  {
+    "name": "Kyle Stowers",
+    "team": "Miami Marlins",
+    "stat": "runsBattedIn",
+    "value": "30"
+  },
+  {
+    "name": "James Wood",
+    "team": "Washington Nationals",
+    "stat": "runsBattedIn",
+    "value": "30"
+  },
+  {
+    "name": "Hunter Goodman",
+    "team": "Colorado Rockies",
+    "stat": "runsBattedIn",
+    "value": "29"
+  },
+  {
+    "name": "Lourdes Gurriel Jr.",
+    "team": "Arizona Diamondbacks",
+    "stat": "runsBattedIn",
+    "value": "29"
+  },
+  {
+    "name": "Josh Naylor",
+    "team": "Arizona Diamondbacks",
+    "stat": "runsBattedIn",
+    "value": "29"
+  },
+  {
+    "name": "Cody Bellinger",
+    "team": "New York Yankees",
+    "stat": "runsBattedIn",
+    "value": "28"
+  },
+  {
+    "name": "Javier B\u00e1ez",
+    "team": "Detroit Tigers",
+    "stat": "runsBattedIn",
+    "value": "28"
+  },
+  {
+    "name": "Jarren Duran",
+    "team": "Boston Red Sox",
+    "stat": "runsBattedIn",
+    "value": "28"
+  },
+  {
+    "name": "Bryce Harper",
+    "team": "Philadelphia Phillies",
+    "stat": "runsBattedIn",
+    "value": "28"
+  },
+  {
+    "name": "Francisco Lindor",
+    "team": "New York Mets",
+    "stat": "runsBattedIn",
+    "value": "28"
+  },
+  {
+    "name": "Vinnie Pasquantino",
+    "team": "Kansas City Royals",
+    "stat": "runsBattedIn",
+    "value": "28"
+  },
+  {
+    "name": "Austin Riley",
+    "team": "Atlanta Braves",
+    "stat": "runsBattedIn",
+    "value": "28"
+  },
+  {
+    "name": "Austin Wells",
+    "team": "New York Yankees",
+    "stat": "runsBattedIn",
+    "value": "28"
+  },
+  {
+    "name": "Wilyer Abreu",
+    "team": "Boston Red Sox",
+    "stat": "runsBattedIn",
+    "value": "27"
+  },
+  {
+    "name": "Byron Buxton",
+    "team": "Minnesota Twins",
+    "stat": "runsBattedIn",
+    "value": "27"
+  },
+  {
+    "name": "Willson Contreras",
+    "team": "St. Louis Cardinals",
+    "stat": "runsBattedIn",
+    "value": "27"
+  },
+  {
+    "name": "Brandon Nimmo",
+    "team": "New York Mets",
+    "stat": "runsBattedIn",
+    "value": "27"
+  },
+  {
+    "name": "Andy Pages",
+    "team": "Los Angeles Dodgers",
+    "stat": "runsBattedIn",
+    "value": "27"
+  },
+  {
+    "name": "Fernando Tatis Jr.",
+    "team": "San Diego Padres",
+    "stat": "runsBattedIn",
+    "value": "27"
+  },
+  {
+    "name": "Taylor Ward",
+    "team": "Los Angeles Angels",
+    "stat": "runsBattedIn",
+    "value": "27"
+  },
+  {
+    "name": "Michael Harris II",
+    "team": "Atlanta Braves",
+    "stat": "runsBattedIn",
+    "value": "26"
+  },
+  {
+    "name": "Dansby Swanson",
+    "team": "Chicago Cubs",
+    "stat": "runsBattedIn",
+    "value": "26"
+  },
+  {
+    "name": "Jacob Wilson",
+    "team": "Athletics",
+    "stat": "runsBattedIn",
+    "value": "26"
+  },
+  {
+    "name": "Christian Yelich",
+    "team": "Milwaukee Brewers",
+    "stat": "runsBattedIn",
+    "value": "26"
+  },
+  {
+    "name": "Miguel Amaya",
+    "team": "Chicago Cubs",
+    "stat": "runsBattedIn",
+    "value": "25"
+  },
+  {
+    "name": "Michael Busch",
+    "team": "Chicago Cubs",
+    "stat": "runsBattedIn",
+    "value": "25"
+  },
+  {
+    "name": "Nick Castellanos",
+    "team": "Philadelphia Phillies",
+    "stat": "runsBattedIn",
+    "value": "25"
+  },
+  {
+    "name": "Jackson Chourio",
+    "team": "Milwaukee Brewers",
+    "stat": "runsBattedIn",
+    "value": "25"
+  },
+  {
+    "name": "Tommy Edman",
+    "team": "Los Angeles Dodgers",
+    "stat": "runsBattedIn",
+    "value": "25"
+  },
+  {
+    "name": "Paul Goldschmidt",
+    "team": "New York Yankees",
+    "stat": "runsBattedIn",
+    "value": "25"
+  },
+  {
+    "name": "Rhys Hoskins",
+    "team": "Milwaukee Brewers",
+    "stat": "runsBattedIn",
+    "value": "25"
+  },
+  {
+    "name": "Kyle Manzardo",
+    "team": "Cleveland Guardians",
+    "stat": "runsBattedIn",
+    "value": "25"
+  },
+  {
+    "name": "Lars Nootbaar",
+    "team": "St. Louis Cardinals",
+    "stat": "runsBattedIn",
+    "value": "25"
+  },
+  {
+    "name": "Matt Olson",
+    "team": "Atlanta Braves",
+    "stat": "runsBattedIn",
+    "value": "25"
+  },
+  {
+    "name": "Julio Rodr\u00edguez",
+    "team": "Seattle Mariners",
+    "stat": "runsBattedIn",
+    "value": "25"
+  },
+  {
+    "name": "Anthony Volpe",
+    "team": "New York Yankees",
+    "stat": "runsBattedIn",
+    "value": "25"
+  },
+  {
+    "name": "Bobby Witt Jr.",
+    "team": "Kansas City Royals",
+    "stat": "runsBattedIn",
+    "value": "25"
+  },
+  {
+    "name": "Austin Wells",
+    "team": "New York Yankees",
+    "stat": "battingAverage",
+    "value": ".198"
+  },
+  {
+    "name": "Elias D\u00edaz",
+    "team": "San Diego Padres",
+    "stat": "battingAverage",
+    "value": ".206"
+  },
+  {
+    "name": "Yainer Diaz",
+    "team": "Houston Astros",
+    "stat": "battingAverage",
+    "value": ".207"
+  },
+  {
+    "name": "Luis Torrens",
+    "team": "New York Mets",
+    "stat": "battingAverage",
+    "value": ".210"
+  },
+  {
+    "name": "Jose Trevino",
+    "team": "Cincinnati Reds",
+    "stat": "battingAverage",
+    "value": ".210"
+  },
+  {
+    "name": "Danny Jansen",
+    "team": "Tampa Bay Rays",
+    "stat": "battingAverage",
+    "value": ".220"
+  },
+  {
+    "name": "Freddy Fermin",
+    "team": "Kansas City Royals",
+    "stat": "battingAverage",
+    "value": ".225"
+  },
+  {
+    "name": "Drake Baldwin",
+    "team": "Atlanta Braves",
+    "stat": "battingAverage",
+    "value": ".227"
+  },
+  {
+    "name": "Patrick Bailey",
+    "team": "San Francisco Giants",
+    "stat": "battingAverage",
+    "value": ".230"
+  },
+  {
+    "name": "Will Smith",
+    "team": "Los Angeles Dodgers",
+    "stat": "battingAverage",
+    "value": ".230"
+  },
+  {
+    "name": "Mart\u00edn Maldonado",
+    "team": "San Diego Padres",
+    "stat": "battingAverage",
+    "value": ".232"
+  },
+  {
+    "name": "Sean Murphy",
+    "team": "Atlanta Braves",
+    "stat": "battingAverage",
+    "value": ".233"
+  },
+  {
+    "name": "Miguel Amaya",
+    "team": "Chicago Cubs",
+    "stat": "battingAverage",
+    "value": ".234"
+  },
+  {
+    "name": "Jonah Heim",
+    "team": "Texas Rangers",
+    "stat": "battingAverage",
+    "value": ".234"
+  },
+  {
+    "name": "J.T. Realmuto",
+    "team": "Philadelphia Phillies",
+    "stat": "battingAverage",
+    "value": ".237"
+  },
+  {
+    "name": "Dillon Dingler",
+    "team": "Detroit Tigers",
+    "stat": "battingAverage",
+    "value": ".239"
+  },
+  {
+    "name": "Ryan Jeffers",
+    "team": "Minnesota Twins",
+    "stat": "battingAverage",
+    "value": ".239"
+  },
+  {
+    "name": "William Contreras",
+    "team": "Milwaukee Brewers",
+    "stat": "battingAverage",
+    "value": ".241"
+  },
+  {
+    "name": "Cal Raleigh",
+    "team": "Seattle Mariners",
+    "stat": "battingAverage",
+    "value": ".244"
+  },
+  {
+    "name": "Carlos Narv\u00e1ez",
+    "team": "Boston Red Sox",
+    "stat": "battingAverage",
+    "value": ".246"
+  },
+  {
+    "name": "Pedro Pag\u00e9s",
+    "team": "St. Louis Cardinals",
+    "stat": "battingAverage",
+    "value": ".246"
+  },
+  {
+    "name": "Alejandro Kirk",
+    "team": "Toronto Blue Jays",
+    "stat": "battingAverage",
+    "value": ".250"
+  },
+  {
+    "name": "Gabriel Moreno",
+    "team": "Arizona Diamondbacks",
+    "stat": "battingAverage",
+    "value": ".253"
+  },
+  {
+    "name": "Bo Naylor",
+    "team": "Cleveland Guardians",
+    "stat": "battingAverage",
+    "value": ".254"
+  },
+  {
+    "name": "Joey Bart",
+    "team": "Pittsburgh Pirates",
+    "stat": "battingAverage",
+    "value": ".258"
+  },
+  {
+    "name": "Matt Thaiss",
+    "team": "Chicago White Sox",
+    "stat": "battingAverage",
+    "value": ".260"
+  },
+  {
+    "name": "Carson Kelly",
+    "team": "Chicago Cubs",
+    "stat": "battingAverage",
+    "value": ".264"
+  },
+  {
+    "name": "Liam Hicks",
+    "team": "Miami Marlins",
+    "stat": "battingAverage",
+    "value": ".270"
+  },
+  {
+    "name": "Keibert Ruiz",
+    "team": "Washington Nationals",
+    "stat": "battingAverage",
+    "value": ".271"
+  },
+  {
+    "name": "Logan O'Hoppe",
+    "team": "Los Angeles Angels",
+    "stat": "battingAverage",
+    "value": ".272"
+  },
+  {
+    "name": "Shea Langeliers",
+    "team": "Athletics",
+    "stat": "battingAverage",
+    "value": ".274"
+  },
+  {
+    "name": "Adley Rutschman",
+    "team": "Baltimore Orioles",
+    "stat": "battingAverage",
+    "value": ".276"
+  },
+  {
+    "name": "Hunter Goodman",
+    "team": "Colorado Rockies",
+    "stat": "battingAverage",
+    "value": ".309"
+  },
+  {
+    "name": "Alejandro Kirk",
+    "team": "Toronto Blue Jays",
+    "stat": "homeRuns",
+    "value": "52"
+  },
+  {
+    "name": "Shea Langeliers",
+    "team": "Athletics",
+    "stat": "homeRuns",
+    "value": "52"
+  },
+  {
+    "name": "Gabriel Moreno",
+    "team": "Arizona Diamondbacks",
+    "stat": "homeRuns",
+    "value": "51"
+  },
+  {
+    "name": "Adley Rutschman",
+    "team": "Baltimore Orioles",
+    "stat": "homeRuns",
+    "value": "49"
+  },
+  {
+    "name": "Logan O'Hoppe",
+    "team": "Los Angeles Angels",
+    "stat": "homeRuns",
+    "value": "47"
+  },
+  {
+    "name": "William Contreras",
+    "team": "Milwaukee Brewers",
+    "stat": "homeRuns",
+    "value": "45"
+  },
+  {
+    "name": "Will Smith",
+    "team": "Los Angeles Dodgers",
+    "stat": "homeRuns",
+    "value": "40"
+  },
+  {
+    "name": "J.T. Realmuto",
+    "team": "Philadelphia Phillies",
+    "stat": "homeRuns",
+    "value": "39"
+  },
+  {
+    "name": "Danny Jansen",
+    "team": "Tampa Bay Rays",
+    "stat": "homeRuns",
+    "value": "38"
+  },
+  {
+    "name": "Bo Naylor",
+    "team": "Cleveland Guardians",
+    "stat": "homeRuns",
+    "value": "36"
+  },
+  {
+    "name": "Keibert Ruiz",
+    "team": "Washington Nationals",
+    "stat": "homeRuns",
+    "value": "36"
+  },
+  {
+    "name": "Dillon Dingler",
+    "team": "Detroit Tigers",
+    "stat": "homeRuns",
+    "value": "35"
+  },
+  {
+    "name": "Carlos Narv\u00e1ez",
+    "team": "Boston Red Sox",
+    "stat": "homeRuns",
+    "value": "34"
+  },
+  {
+    "name": "Jose Trevino",
+    "team": "Cincinnati Reds",
+    "stat": "homeRuns",
+    "value": "34"
+  },
+  {
+    "name": "Hunter Goodman",
+    "team": "Colorado Rockies",
+    "stat": "homeRuns",
+    "value": "33"
+  },
+  {
+    "name": "Cal Raleigh",
+    "team": "Seattle Mariners",
+    "stat": "homeRuns",
+    "value": "33"
+  },
+  {
+    "name": "Miguel Amaya",
+    "team": "Chicago Cubs",
+    "stat": "homeRuns",
+    "value": "32"
+  },
+  {
+    "name": "Austin Wells",
+    "team": "New York Yankees",
+    "stat": "homeRuns",
+    "value": "32"
+  },
+  {
+    "name": "Liam Hicks",
+    "team": "Miami Marlins",
+    "stat": "homeRuns",
+    "value": "31"
+  },
+  {
+    "name": "Patrick Bailey",
+    "team": "San Francisco Giants",
+    "stat": "homeRuns",
+    "value": "28"
+  },
+  {
+    "name": "Elias D\u00edaz",
+    "team": "San Diego Padres",
+    "stat": "homeRuns",
+    "value": "28"
+  },
+  {
+    "name": "Sean Murphy",
+    "team": "Atlanta Braves",
+    "stat": "homeRuns",
+    "value": "28"
+  },
+  {
+    "name": "Ben Rortvedt",
+    "team": "Tampa Bay Rays",
+    "stat": "homeRuns",
+    "value": "28"
+  },
+  {
+    "name": "Matt Thaiss",
+    "team": "Chicago White Sox",
+    "stat": "homeRuns",
+    "value": "28"
+  },
+  {
+    "name": "Joey Bart",
+    "team": "Pittsburgh Pirates",
+    "stat": "homeRuns",
+    "value": "27"
+  },
+  {
+    "name": "Yainer Diaz",
+    "team": "Houston Astros",
+    "stat": "homeRuns",
+    "value": "27"
+  },
+  {
+    "name": "Carson Kelly",
+    "team": "Chicago Cubs",
+    "stat": "homeRuns",
+    "value": "27"
+  },
+  {
+    "name": "Ryan Jeffers",
+    "team": "Minnesota Twins",
+    "stat": "homeRuns",
+    "value": "26"
+  },
+  {
+    "name": "Jonah Heim",
+    "team": "Texas Rangers",
+    "stat": "homeRuns",
+    "value": "25"
+  },
+  {
+    "name": "Jacob Stallings",
+    "team": "Colorado Rockies",
+    "stat": "homeRuns",
+    "value": "24"
+  },
+  {
+    "name": "Drake Baldwin",
+    "team": "Atlanta Braves",
+    "stat": "homeRuns",
+    "value": "23"
+  },
+  {
+    "name": "Pedro Pag\u00e9s",
+    "team": "St. Louis Cardinals",
+    "stat": "homeRuns",
+    "value": "21"
+  },
+  {
+    "name": "Salvador Perez",
+    "team": "Kansas City Royals",
+    "stat": "homeRuns",
+    "value": "19"
+  },
+  {
+    "name": "Luis Torrens",
+    "team": "New York Mets",
+    "stat": "homeRuns",
+    "value": "19"
+  },
+  {
+    "name": "Austin Barnes",
+    "team": "Los Angeles Dodgers",
+    "stat": "homeRuns",
+    "value": "18"
+  },
+  {
+    "name": "Mart\u00edn Maldonado",
+    "team": "San Diego Padres",
+    "stat": "homeRuns",
+    "value": "18"
+  },
+  {
+    "name": "Edgar Quero",
+    "team": "Chicago White Sox",
+    "stat": "homeRuns",
+    "value": "18"
+  },
+  {
+    "name": "Freddy Fermin",
+    "team": "Kansas City Royals",
+    "stat": "homeRuns",
+    "value": "17"
+  },
+  {
+    "name": "Austin Hedges",
+    "team": "Cleveland Guardians",
+    "stat": "homeRuns",
+    "value": "17"
+  },
+  {
+    "name": "Agust\u00edn Ram\u00edrez",
+    "team": "Miami Marlins",
+    "stat": "homeRuns",
+    "value": "17"
+  },
+  {
+    "name": "Christian V\u00e1zquez",
+    "team": "Minnesota Twins",
+    "stat": "homeRuns",
+    "value": "17"
+  },
+  {
+    "name": "Tyler Heineman",
+    "team": "Toronto Blue Jays",
+    "stat": "homeRuns",
+    "value": "16"
+  },
+  {
+    "name": "Jose Herrera",
+    "team": "Arizona Diamondbacks",
+    "stat": "homeRuns",
+    "value": "16"
+  },
+  {
+    "name": "Travis d'Arnaud",
+    "team": "Los Angeles Angels",
+    "stat": "homeRuns",
+    "value": "16"
+  },
+  {
+    "name": "Victor Caratini",
+    "team": "Houston Astros",
+    "stat": "homeRuns",
+    "value": "15"
+  },
+  {
+    "name": "Austin Wynns",
+    "team": "Cincinnati Reds",
+    "stat": "homeRuns",
+    "value": "14"
+  },
+  {
+    "name": "Kyle Higashioka",
+    "team": "Texas Rangers",
+    "stat": "homeRuns",
+    "value": "13"
+  },
+  {
+    "name": "Riley Adams",
+    "team": "Washington Nationals",
+    "stat": "homeRuns",
+    "value": "12"
+  },
+  {
+    "name": "Maverick Handley",
+    "team": "Baltimore Orioles",
+    "stat": "homeRuns",
+    "value": "12"
+  },
+  {
+    "name": "Mitch Garver",
+    "team": "Seattle Mariners",
+    "stat": "homeRuns",
+    "value": "11"
+  },
+  {
+    "name": "Gary S\u00e1nchez",
+    "team": "Baltimore Orioles",
+    "stat": "homeRuns",
+    "value": "11"
+  },
+  {
+    "name": "Connor Wong",
+    "team": "Boston Red Sox",
+    "stat": "homeRuns",
+    "value": "11"
+  },
+  {
+    "name": "Bowden Francis",
+    "team": "Toronto Blue Jays",
+    "stat": "homeRuns",
+    "value": "14"
+  },
+  {
+    "name": "Zack Littell",
+    "team": "Tampa Bay Rays",
+    "stat": "homeRuns",
+    "value": "13"
+  },
+  {
+    "name": "Jameson Taillon",
+    "team": "Chicago Cubs",
+    "stat": "homeRuns",
+    "value": "13"
+  },
+  {
+    "name": "Tanner Bibee",
+    "team": "Cleveland Guardians",
+    "stat": "homeRuns",
+    "value": "11"
+  },
+  {
+    "name": "Aaron Nola",
+    "team": "Philadelphia Phillies",
+    "stat": "homeRuns",
+    "value": "11"
+  },
+  {
+    "name": "Brandon Pfaadt",
+    "team": "Arizona Diamondbacks",
+    "stat": "homeRuns",
+    "value": "11"
+  },
+  {
+    "name": "Osvaldo Bido",
+    "team": "Athletics",
+    "stat": "homeRuns",
+    "value": "10"
+  },
+  {
+    "name": "Chase Dollander",
+    "team": "Colorado Rockies",
+    "stat": "homeRuns",
+    "value": "10"
+  },
+  {
+    "name": "Jack Flaherty",
+    "team": "Detroit Tigers",
+    "stat": "homeRuns",
+    "value": "10"
+  },
+  {
+    "name": "Zac Gallen",
+    "team": "Arizona Diamondbacks",
+    "stat": "homeRuns",
+    "value": "10"
+  },
+  {
+    "name": "Grant Holmes",
+    "team": "Atlanta Braves",
+    "stat": "homeRuns",
+    "value": "10"
+  },
+  {
+    "name": "Tanner Houck",
+    "team": "Boston Red Sox",
+    "stat": "homeRuns",
+    "value": "10"
+  },
+  {
+    "name": "Jake Irvin",
+    "team": "Washington Nationals",
+    "stat": "homeRuns",
+    "value": "10"
+  },
+  {
+    "name": "Dean Kremer",
+    "team": "Baltimore Orioles",
+    "stat": "homeRuns",
+    "value": "10"
+  },
+  {
+    "name": "Ryan Pepiot",
+    "team": "Tampa Bay Rays",
+    "stat": "homeRuns",
+    "value": "10"
+  },
+  {
+    "name": "Tyler Anderson",
+    "team": "Los Angeles Angels",
+    "stat": "homeRuns",
+    "value": "9"
+  },
+  {
+    "name": "Shane Baz",
+    "team": "Tampa Bay Rays",
+    "stat": "homeRuns",
+    "value": "9"
+  },
+  {
+    "name": "Jos\u00e9 Berr\u00edos",
+    "team": "Toronto Blue Jays",
+    "stat": "homeRuns",
+    "value": "9"
+  },
+  {
+    "name": "Sean Burke",
+    "team": "Chicago White Sox",
+    "stat": "homeRuns",
+    "value": "9"
+  },
+  {
+    "name": "Sonny Gray",
+    "team": "St. Louis Cardinals",
+    "stat": "homeRuns",
+    "value": "9"
+  },
+  {
+    "name": "Michael Lorenzen",
+    "team": "Kansas City Royals",
+    "stat": "homeRuns",
+    "value": "9"
+  },
+  {
+    "name": "Seth Lugo",
+    "team": "Kansas City Royals",
+    "stat": "homeRuns",
+    "value": "9"
+  },
+  {
+    "name": "Charlie Morton",
+    "team": "Baltimore Orioles",
+    "stat": "homeRuns",
+    "value": "9"
+  },
+  {
+    "name": "Antonio Senzatela",
+    "team": "Colorado Rockies",
+    "stat": "homeRuns",
+    "value": "9"
+  },
+  {
+    "name": "Tomoyuki Sugano",
+    "team": "Baltimore Orioles",
+    "stat": "homeRuns",
+    "value": "9"
+  },
+  {
+    "name": "Bryce Elder",
+    "team": "Atlanta Braves",
+    "stat": "homeRuns",
+    "value": "8"
+  },
+  {
+    "name": "MacKenzie Gore",
+    "team": "Washington Nationals",
+    "stat": "homeRuns",
+    "value": "8"
+  },
+  {
+    "name": "Max Meyer",
+    "team": "Miami Marlins",
+    "stat": "homeRuns",
+    "value": "8"
+  },
+  {
+    "name": "Andre Pallante",
+    "team": "St. Louis Cardinals",
+    "stat": "homeRuns",
+    "value": "8"
+  },
+  {
+    "name": "Cade Povich",
+    "team": "Baltimore Orioles",
+    "stat": "homeRuns",
+    "value": "8"
+  },
+  {
+    "name": "Eduardo Rodriguez",
+    "team": "Arizona Diamondbacks",
+    "stat": "homeRuns",
+    "value": "8"
+  },
+  {
+    "name": "Carlos Rod\u00f3n",
+    "team": "New York Yankees",
+    "stat": "homeRuns",
+    "value": "8"
+  },
+  {
+    "name": "Justin Verlander",
+    "team": "San Francisco Giants",
+    "stat": "homeRuns",
+    "value": "8"
+  },
+  {
+    "name": "Zack Wheeler",
+    "team": "Philadelphia Phillies",
+    "stat": "homeRuns",
+    "value": "8"
+  },
+  {
+    "name": "Bryse Wilson",
+    "team": "Chicago White Sox",
+    "stat": "homeRuns",
+    "value": "8"
+  },
+  {
+    "name": "Simeon Woods Richardson",
+    "team": "Minnesota Twins",
+    "stat": "homeRuns",
+    "value": "8"
+  },
+  {
+    "name": "Sandy Alcantara",
+    "team": "Miami Marlins",
+    "stat": "homeRuns",
+    "value": "7"
+  },
+  {
+    "name": "Ronel Blanco",
+    "team": "Houston Astros",
+    "stat": "homeRuns",
+    "value": "7"
+  },
+  {
+    "name": "Matthew Boyd",
+    "team": "Chicago Cubs",
+    "stat": "homeRuns",
+    "value": "7"
+  },
+  {
+    "name": "Taj Bradley",
+    "team": "Tampa Bay Rays",
+    "stat": "homeRuns",
+    "value": "7"
+  },
+  {
+    "name": "Carlos Carrasco",
+    "team": "New York Yankees",
+    "stat": "homeRuns",
+    "value": "7"
+  },
+  {
+    "name": "Kevin Gausman",
+    "team": "Toronto Blue Jays",
+    "stat": "homeRuns",
+    "value": "7"
+  },
+  {
+    "name": "Kyle Gibson",
+    "team": "Baltimore Orioles",
+    "stat": "homeRuns",
+    "value": "7"
+  },
+  {
+    "name": "Chad Green",
+    "team": "Toronto Blue Jays",
+    "stat": "homeRuns",
+    "value": "7"
+  },
+  {
+    "name": "Hunter Greene",
+    "team": "Cincinnati Reds",
+    "stat": "homeRuns",
+    "value": "7"
+  },
+  {
+    "name": "Emerson Hancock",
+    "team": "Seattle Mariners",
+    "stat": "homeRuns",
+    "value": "7"
+  },
+  {
+    "name": "Kyle Hendricks",
+    "team": "Los Angeles Angels",
+    "stat": "homeRuns",
+    "value": "7"
+  },
+  {
+    "name": "Shota Imanaga",
+    "team": "Chicago Cubs",
+    "stat": "homeRuns",
+    "value": "7"
+  },
+  {
+    "name": "Yusei Kikuchi",
+    "team": "Los Angeles Angels",
+    "stat": "homeRuns",
+    "value": "7"
+  },
+  {
+    "name": "Jack Kochanowicz",
+    "team": "Los Angeles Angels",
+    "stat": "homeRuns",
+    "value": "7"
+  },
+  {
+    "name": "Luis L. Ortiz",
+    "team": "Cleveland Guardians",
+    "stat": "homeRuns",
+    "value": "7"
+  },
+  {
+    "name": "Chris Paddack",
+    "team": "Minnesota Twins",
+    "stat": "homeRuns",
+    "value": "7"
+  },
+  {
+    "name": "Elvin Rodriguez",
+    "team": "Milwaukee Brewers",
+    "stat": "homeRuns",
+    "value": "7"
+  },
+  {
+    "name": "Joe Ryan",
+    "team": "Minnesota Twins",
+    "stat": "homeRuns",
+    "value": "7"
+  },
+  {
+    "name": "Spencer Schwellenbach",
+    "team": "Atlanta Braves",
+    "stat": "homeRuns",
+    "value": "7"
+  },
+  {
+    "name": "Brady Singer",
+    "team": "Cincinnati Reds",
+    "stat": "homeRuns",
+    "value": "7"
+  },
+  {
+    "name": "Jeffrey Springs",
+    "team": "Athletics",
+    "stat": "homeRuns",
+    "value": "7"
+  },
+  {
+    "name": "Hayden Wesneski",
+    "team": "Houston Astros",
+    "stat": "homeRuns",
+    "value": "7"
+  },
+  {
+    "name": "Gavin Williams",
+    "team": "Cleveland Guardians",
+    "stat": "homeRuns",
+    "value": "7"
+  },
+  {
+    "name": "Jacob deGrom",
+    "team": "Texas Rangers",
+    "stat": "homeRuns",
+    "value": "7"
+  }
+]
