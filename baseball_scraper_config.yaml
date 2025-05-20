@@ -3,72 +3,115 @@
 project:
   name: BaseballScraper
   description: >
-    A Python-based scraper that pulls MLB live scores from ESPN and saves the data in CSV and JSON formats.
-    Automates execution using Windows Task Scheduler and PowerShell.
-  version: 1.0.0
+    A full-featured Python and Node.js-based scraper system that pulls MLB data from ESPN.
+    Includes live scores, player stats, rosters, standings, injuries, and schedules.
+    Outputs to CSV and JSON. Supports automated execution via PowerShell and Windows Task Scheduler.
+  version: 2.0.0
   author: Jeff Jones
   email: jcode3026@gmail.com
   github: ChefBoyRJeff
   date_created: 2025-05-20
   last_updated: 2025-05-20
   license: MIT
-  repository: https://github.com/yourusername/BaseballProject
+  repository: https://github.com/ChefBoyRJeff/BaseballProject
 
 environment:
-  language: Python
-  python_version: "3.9+"
+  language: Python & Node.js
+  python_version: "3.12+"
+  node_version: "18+"
   virtual_env: venv
-  dependencies:
+  python_dependencies:
     - requests
     - beautifulsoup4
     - pandas
+  node_dependencies:
+    - axios
+    - fs
+    - path
 
 structure:
   base_dir: BaseballScraper
   directories:
     - bots/python
+    - bots/node
     - data
     - venv
   files:
     - bots/python/scrape_scores.py
-    - run_scraper.ps1
+    - bots/python/scrape_standings.py
+    - bots/python/scrape_player_stats.py
+    - bots/python/scrape_players.py
+    - bots/python/scrape_injuries.py
+    - bots/python/scrape_schedule.py
+    - bots/node/scrapeScores.js
+    - bots/node/scrapeStandings.js
+    - bots/node/scrapePlayerStats.js
+    - bots/node/scrapePlayers.js
+    - bots/node/scrapeInjuries.js
+    - bots/node/scrapeSchedule.js
+    - run_scrapers.ps1
     - README.md
 
 output:
   formats:
     - csv
     - json
-  file_pattern: scores_YYYY-MM-DD.{csv,json}
+  file_pattern: [scores_YYYY-MM-DD, players_YYYY-MM-DD, injuries_YYYY-MM-DD, standings_YYYY-MM-DD].{csv,json}
   location: data/
 
 scheduler:
   platform: Windows Task Scheduler
   method: PowerShell Script
-  script_path: run_scraper.ps1
+  script_path: run_scrapers.ps1
   task_example:
     program: powershell.exe
-    arguments: -ExecutionPolicy Bypass -File "C:\\Path\\To\\run_scraper.ps1"
+    arguments: -ExecutionPolicy Bypass -File "C:\\Users\\jjone\\OneDrive\\Desktop\\BaseballProject\\BaseballScraper\\run_scrapers.ps1"
     frequency: daily
     time: "12:00 PM"
 
 powerShellScript:
-  filename: run_scraper.ps1
+  filename: run_scrapers.ps1
   contents: |
-    cd "C:\Path\To\BaseballScraper"
-    .\venv\Scripts\Activate.ps1
-    python bots/python/scrape_scores.py
+    # Activate the Python virtual environment
+    $venvPath = "C:\\Users\\jjone\\OneDrive\\Desktop\\BaseballProject\\BaseballScraper\\venv\\Scripts\\Activate.ps1"
+    & $venvPath
+
+    # Define base path
+    $basePath = "C:\\Users\\jjone\\OneDrive\\Desktop\\BaseballProject\\BaseballScraper"
+
+    Write-Host "Running Python scrapers..."
+    python "$basePath\\bots\\python\\scrape_scores.py"
+    python "$basePath\\bots\\python\\scrape_standings.py"
+    python "$basePath\\bots\\python\\scrape_player_stats.py"
+    python "$basePath\\bots\\python\\scrape_players.py"
+    python "$basePath\\bots\\python\\scrape_injuries.py"
+    python "$basePath\\bots\\python\\scrape_schedule.py"
+
+    Write-Host "Running Node.js scrapers..."
+    node "$basePath\\bots\\node\\scrapeScores.js"
+    node "$basePath\\bots\\node\\scrapeStandings.js"
+    node "$basePath\\bots\\node\\scrapePlayers.js"
+    node "$basePath\\bots\\node\\scrapeInjuries.js"
+    node "$basePath\\bots\\node\\scrapeSchedule.js"
+
+    Write-Host "✅ All scrapers finished."
 
 usage:
   setup:
     - Clone repository
-    - Create virtual environment
-    - Install dependencies
+    - Create virtual environment: python -m venv venv
+    - Activate environment: .\venv\Scripts\Activate.ps1
+    - pip install -r requirements.txt
+    - cd bots/node && npm install
   run_manual:
-    - Activate venv
-    - Run scrape_scores.py
+    - .\venv\Scripts\Activate.ps1
+    - python bots/python/scrape_scores.py
+    - node bots/node/scrapeScores.js
   run_scheduled:
-    - Add task in Task Scheduler pointing to run_scraper.ps1
-    - Confirm output in data/ folder
+    - Use Task Scheduler
+    - Trigger: daily at 12:00 PM
+    - Action: powershell.exe with argument to run run_scrapers.ps1
+    - Confirm JSON/CSV in `data/`
 
 example_output:
   json: |
@@ -85,7 +128,9 @@ example_output:
 
 contributing:
   guidelines:
-    - Add scrapers for player stats, standings, schedules, injuries
-    - Extend platform compatibility (Linux/macOS)
-    - Add error logging and retry mechanisms
+    - Add scrapers for new data categories (e.g., news, odds)
+    - Improve scheduler support for Linux/macOS (cron/bash)
+    - Add better logging and retry logic
+    - Write unit tests for parsing
+    - PRs welcome via GitHub
 
