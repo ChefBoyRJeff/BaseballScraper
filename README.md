@@ -1,20 +1,22 @@
-# 🧢 Baseball Scraper Project
+# 🍙 Baseball Scraper 
 
-This project scrapes MLB data from ESPN using Python and Node.js. It pulls **live scores**, **player stats**, **standings**, **rosters**, **schedules**, and **injuries**, and saves the results in both `.json` and `.csv` formats.
-
-## 📦 Features
-
-- ✅ Python + Node.js scrapers
-- ✅ Live scores via ESPN's hidden JSON API
-- ✅ Full roster scraping for all teams
-- ✅ Player stats, standings, and injury reports
-- ✅ Output in JSON & CSV
-- ✅ PowerShell automation support
-- ✅ Daily run via Task Scheduler
+This project scrapes MLB data from ESPN using **Python** and **Node.js**. It pulls **live scores**, **player stats**, **standings**, **rosters**, **schedules**, and **injuries**, and saves the results in both `.json` and `.csv` formats.
 
 ---
 
-## ⚙️ How to Set Up
+## 📆 Features
+
+* ✅ Python + Node.js scrapers
+* ✅ Live scores via ESPN's hidden JSON API
+* ✅ Full roster scraping for all teams
+* ✅ Player stats, standings, and injury reports
+* ✅ Output in JSON & CSV
+* ✅ PowerShell automation support
+* ✅ Daily execution via Task Scheduler
+
+---
+
+## ⚙️ Setup Instructions
 
 ### 🐧 Ubuntu / WSL (Linux-based setup)
 
@@ -35,65 +37,92 @@ source venv/bin/activate
 
 # Install Python dependencies
 pip install requests beautifulsoup4 pandas
+```
 
+---
 
-🪟 Windows (PowerShell & GitHub Desktop)
+### 🪠 Windows (PowerShell + GitHub Desktop)
 
-1. Clone using GitHub Desktop
+1. **Clone** using GitHub Desktop
+2. **Open** the folder in Visual Studio Code
+3. **Run in terminal:**
 
-2. Open in Visual Studio Code
+```powershell
+python -m venv venv
+.\venv\Scripts\Activate.ps1
+pip install requests beautifulsoup4 pandas
+cd bots\node
+npm install
+```
 
-3. In terminal:
-    python -m venv venv
-    .\venv\Scripts\Activate.ps1
-    pip install requests beautifulsoup4 pandas
-    cd bots/node
-    npm install
+---
 
-🚀 Running the Scraper
-✅ Manual (One-Off)
-Activate your environment and run:
-    .\venv\Scripts\Activate.ps1
-    python bots/python/scrape_scores.py
-    node bots/node/scrapeScores.js
+## 🚀 Running the Scraper
 
-Or to run everything:
-    .\run_scrapers.ps1
+### ✅ Manual Run
 
-🕒 Automated (Task Scheduler)
+Activate your environment and run scrapers manually:
 
-1. Open Task Scheduler
+```powershell
+.\venv\Scripts\Activate.ps1
+python bots/python/scrape_scores.py
+node bots/node/scrapeScores.js
+```
 
-2. Create new task → Trigger daily
+Run the full pipeline:
 
-3. Action:
+```powershell
+.\run_scrapers.ps1
+```
 
-    Program: powershell.exe
+---
 
-    Arguments:
-        -ExecutionPolicy Bypass -File "$env:USERPROFILE\Desktop\BaseballProject\BaseballScraper\run_scrapers.ps1"
+### 🕒 Automated Run (Windows Task Scheduler)
 
-📁 Output
+1. Open **Task Scheduler**
+2. Create a new task → Set to trigger **daily**
+3. Set the action to:
 
-All data is saved in the /data folder:
-   - scores_YYYY-MM-DD.json
-   - players_YYYY-MM-DD.csv
-   - standings_YYYY-MM-DD.csv
-   - injuries_YYYY-MM-DD.json
-   - and more!
+```text
+Program: powershell.exe
+Arguments: -ExecutionPolicy Bypass -File "$env:USERPROFILE\Desktop\BaseballProject\BaseballScraper\run_scrapers.ps1"
+```
 
-🤝 Contributing
+---
+
+## 📁 Output
+
+All files are saved to the `data/` directory in both `.csv` and `.json` formats:
+
+* `scores_YYYY-MM-DD.json`
+* `players_YYYY-MM-DD.csv`
+* `standings_YYYY-MM-DD.csv`
+* `injuries_YYYY-MM-DD.json`
+* ...and more!
+
+---
+
+## 🤝 Contributing
 
 Pull requests welcome!
 
-Ideas:
-   - Add betting odds scraper
-   - Add news/event feed
-   - Add error logs or retry wrappers
-   - Add Linux/macOS cron support
+### Suggestions:
 
-🧠 Author
+* Add betting odds scraper
+* Add news and event feeds
+* Add retry + error logging
+* Support Linux/macOS cron automation
 
-Name: Jeff Jones
-📧 jcode3026@gmail.com
-🔗 github.com/ChefBoyRJeff
+---
+
+## 🧐 Author
+
+**Jeff Jones**
+📧 [jcode3026@gmail.com](mailto:jcode3026@gmail.com)
+🔗 [github.com/ChefBoyRJeff](https://github.com/ChefBoyRJeff)
+
+---
+
+## 📄 License
+
+MIT License
