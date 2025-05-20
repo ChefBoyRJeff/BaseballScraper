@@ -7,12 +7,12 @@ $basePath = "C:\Users\jjone\OneDrive\Desktop\BaseballProject\BaseballScraper"
 
 # Run Python scrapers
 Write-Host "Running Python scrapers..."
-python "$basePath\python\scrape_scores.py"
-python "$basePath\python\scrape_standings.py"
-python "$basePath\python\scrape_player_stats.py"
-python "$basePath\python\scrape_players.py"
-python "$basePath\python\scrape_injuries.py"
-python "$basePath\python\scrape_schedule.py"
+python "$basePath\bots\python\scrape_scores.py"
+python "$basePath\bots\python\scrape_standings.py"
+python "$basePath\bots\python\scrape_player_stats.py"
+python "$basePath\bots\python\scrape_players.py"
+python "$basePath\bots\python\scrape_injuries.py"
+python "$basePath\bots\python\scrape_schedule.py"
 
 # Run Node.js scrapers
 Write-Host "Running Node.js scrapers..."
