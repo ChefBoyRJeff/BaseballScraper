@@ -1,5 +1,6 @@
-# This script scrapes player statistics from ESPN's JSON API for the MLB season.
-# It fetches data for batting average, home runs, and RBIs, and saves the results in JSON and CSV formats.
+# This script scrapes player injury data from ESPN's JSON API for the MLB season.
+# It handles teams with no injuries and saves results in JSON format.
+
 import os
 import json
 import requests
@@ -13,15 +14,18 @@ def fetch_injuries():
 
     injuries = []
 
-    for team in data['injuries']:
+    for team in data.get('injuries', []):
+        if 'players' not in team:
+            continue  # Skip teams with no injuries
+
         for player in team['players']:
             injuries.append({
                 'team': team['team']['displayName'],
-                'name': player['fullName'],
-                'position': player['position']['abbreviation'],
-                'status': player['status'],
-                'injury': player['injury'],
-                'date': player['date']
+                'name': player.get('fullName'),
+                'position': player.get('position', {}).get('abbreviation'),
+                'status': player.get('status'),
+                'injury': player.get('injury'),
+                'date': player.get('date')
             })
 
     return injuries
@@ -31,8 +35,9 @@ def save_injuries(injuries):
     os.makedirs('data', exist_ok=True)
     with open(f'data/injuries_{date}.json', 'w') as f:
         json.dump(injuries, f, indent=2)
-    print('✅ Injuries data saved.')
+    print(f'✅ Injuries data saved ({len(injuries)} players).')
 
 if __name__ == '__main__':
     injuries = fetch_injuries()
     save_injuries(injuries)
+    print('✅ Injuries data fetched.')
