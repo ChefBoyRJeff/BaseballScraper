@@ -1,0 +1,6329 @@
+[
+  {
+    "team": "atl",
+    "name": "Scott Blewett",
+    "position": "Relief Pitcher",
+    "jersey": "63",
+    "height": "6' 6\"",
+    "weight": "245 lbs",
+    "age": 29
+  },
+  {
+    "team": "atl",
+    "name": "Aaron Bummer",
+    "position": "Relief Pitcher",
+    "jersey": "49",
+    "height": "6' 3\"",
+    "weight": "215 lbs",
+    "age": 31
+  },
+  {
+    "team": "atl",
+    "name": "Enyel De Los Santos",
+    "position": "Relief Pitcher",
+    "jersey": "61",
+    "height": "6' 3\"",
+    "weight": "235 lbs",
+    "age": 29
+  },
+  {
+    "team": "atl",
+    "name": "Daysbel Hernandez",
+    "position": "Relief Pitcher",
+    "jersey": "62",
+    "height": "5' 10\"",
+    "weight": "220 lbs",
+    "age": 28
+  },
+  {
+    "team": "atl",
+    "name": "Grant Holmes",
+    "position": "Starting Pitcher",
+    "jersey": "66",
+    "height": "6' 0\"",
+    "weight": "226 lbs",
+    "age": 29
+  },
+  {
+    "team": "atl",
+    "name": "Raisel Iglesias",
+    "position": "Relief Pitcher",
+    "jersey": "26",
+    "height": "6' 2\"",
+    "weight": "190 lbs",
+    "age": 35
+  },
+  {
+    "team": "atl",
+    "name": "Pierce Johnson",
+    "position": "Relief Pitcher",
+    "jersey": "38",
+    "height": "6' 2\"",
+    "weight": "202 lbs",
+    "age": 34
+  },
+  {
+    "team": "atl",
+    "name": "Dylan Lee",
+    "position": "Relief Pitcher",
+    "jersey": "52",
+    "height": "6' 3\"",
+    "weight": "214 lbs",
+    "age": 30
+  },
+  {
+    "team": "atl",
+    "name": "Rafael Montero",
+    "position": "Relief Pitcher",
+    "jersey": "48",
+    "height": "6' 0\"",
+    "weight": "193 lbs",
+    "age": 34
+  },
+  {
+    "team": "atl",
+    "name": "Chris Sale",
+    "position": "Starting Pitcher",
+    "jersey": "51",
+    "height": "6' 6\"",
+    "weight": "180 lbs",
+    "age": 36
+  },
+  {
+    "team": "atl",
+    "name": "Spencer Schwellenbach",
+    "position": "Starting Pitcher",
+    "jersey": "56",
+    "height": "6' 1\"",
+    "weight": "200 lbs",
+    "age": 24
+  },
+  {
+    "team": "atl",
+    "name": "AJ Smith-Shawver",
+    "position": "Starting Pitcher",
+    "jersey": "32",
+    "height": "6' 3\"",
+    "weight": "205 lbs",
+    "age": 22
+  },
+  {
+    "team": "atl",
+    "name": "Spencer Strider",
+    "position": "Starting Pitcher",
+    "jersey": "99",
+    "height": "6' 0\"",
+    "weight": "195 lbs",
+    "age": 26
+  },
+  {
+    "team": "atl",
+    "name": "Drake Baldwin",
+    "position": "Catcher",
+    "jersey": "30",
+    "height": "6' 1\"",
+    "weight": "225 lbs",
+    "age": 24
+  },
+  {
+    "team": "atl",
+    "name": "Sean Murphy",
+    "position": "Catcher",
+    "jersey": "12",
+    "height": "6' 3\"",
+    "weight": "228 lbs",
+    "age": 30
+  },
+  {
+    "team": "atl",
+    "name": "Ozzie Albies",
+    "position": "Second Base",
+    "jersey": "1",
+    "height": "5' 7\"",
+    "weight": "165 lbs",
+    "age": 28
+  },
+  {
+    "team": "atl",
+    "name": "Nick Allen",
+    "position": "Shortstop",
+    "jersey": "2",
+    "height": "5' 8\"",
+    "weight": "166 lbs",
+    "age": 26
+  },
+  {
+    "team": "atl",
+    "name": "Orlando Arcia",
+    "position": "Shortstop",
+    "jersey": "11",
+    "height": "5' 11\"",
+    "weight": "187 lbs",
+    "age": 30
+  },
+  {
+    "team": "atl",
+    "name": "Matt Olson",
+    "position": "First Base",
+    "jersey": "28",
+    "height": "6' 4\"",
+    "weight": "225 lbs",
+    "age": 31
+  },
+  {
+    "team": "atl",
+    "name": "Austin Riley",
+    "position": "Third Base",
+    "jersey": "27",
+    "height": "6' 2\"",
+    "weight": "225 lbs",
+    "age": 28
+  },
+  {
+    "team": "atl",
+    "name": "Luke Williams",
+    "position": "Shortstop",
+    "jersey": "37",
+    "height": "6' 1\"",
+    "weight": "186 lbs",
+    "age": 28
+  },
+  {
+    "team": "atl",
+    "name": "Stuart Fairchild",
+    "position": "Right Field",
+    "jersey": "17",
+    "height": "5' 11\"",
+    "weight": "205 lbs",
+    "age": 29
+  },
+  {
+    "team": "atl",
+    "name": "Michael Harris II",
+    "position": "Center Field",
+    "jersey": "23",
+    "height": "6' 0\"",
+    "weight": "195 lbs",
+    "age": 24
+  },
+  {
+    "team": "atl",
+    "name": "Alex Verdugo",
+    "position": "Left Field",
+    "jersey": "8",
+    "height": "6' 0\"",
+    "weight": "209 lbs",
+    "age": 29
+  },
+  {
+    "team": "atl",
+    "name": "Eli White",
+    "position": "Right Field",
+    "jersey": "36",
+    "height": "6' 3\"",
+    "weight": "195 lbs",
+    "age": 30
+  },
+  {
+    "team": "atl",
+    "name": "Marcell Ozuna",
+    "position": "Designated Hitter",
+    "jersey": "20",
+    "height": "6' 1\"",
+    "weight": "225 lbs",
+    "age": 34
+  },
+  {
+    "team": "bos",
+    "name": "Brayan Bello",
+    "position": "Starting Pitcher",
+    "jersey": "66",
+    "height": "6' 1\"",
+    "weight": "195 lbs",
+    "age": 26
+  },
+  {
+    "team": "bos",
+    "name": "Brennan Bernardino",
+    "position": "Relief Pitcher",
+    "jersey": "83",
+    "height": "6' 4\"",
+    "weight": "180 lbs",
+    "age": 33
+  },
+  {
+    "team": "bos",
+    "name": "Nick Burdi",
+    "position": "Relief Pitcher",
+    "jersey": "68",
+    "height": "6' 3\"",
+    "weight": "225 lbs",
+    "age": 32
+  },
+  {
+    "team": "bos",
+    "name": "Aroldis Chapman",
+    "position": "Relief Pitcher",
+    "jersey": "44",
+    "height": "6' 4\"",
+    "weight": "235 lbs",
+    "age": 37
+  },
+  {
+    "team": "bos",
+    "name": "Garrett Crochet",
+    "position": "Starting Pitcher",
+    "jersey": "35",
+    "height": "6' 6\"",
+    "weight": "245 lbs",
+    "age": 25
+  },
+  {
+    "team": "bos",
+    "name": "Hunter Dobbins",
+    "position": "Starting Pitcher",
+    "jersey": "73",
+    "height": "6' 2\"",
+    "weight": "185 lbs",
+    "age": 25
+  },
+  {
+    "team": "bos",
+    "name": "Lucas Giolito",
+    "position": "Starting Pitcher",
+    "jersey": "54",
+    "height": "6' 6\"",
+    "weight": "245 lbs",
+    "age": 30
+  },
+  {
+    "team": "bos",
+    "name": "Liam Hendriks",
+    "position": "Relief Pitcher",
+    "jersey": "31",
+    "height": "6' 0\"",
+    "weight": "235 lbs",
+    "age": 36
+  },
+  {
+    "team": "bos",
+    "name": "Sean Newcomb",
+    "position": "Starting Pitcher",
+    "jersey": "19",
+    "height": "6' 5\"",
+    "weight": "255 lbs",
+    "age": 31
+  },
+  {
+    "team": "bos",
+    "name": "Justin Slaten",
+    "position": "Relief Pitcher",
+    "jersey": "63",
+    "height": "6' 4\"",
+    "weight": "222 lbs",
+    "age": 27
+  },
+  {
+    "team": "bos",
+    "name": "Greg Weissert",
+    "position": "Relief Pitcher",
+    "jersey": "57",
+    "height": "6' 2\"",
+    "weight": "235 lbs",
+    "age": 30
+  },
+  {
+    "team": "bos",
+    "name": "Garrett Whitlock",
+    "position": "Relief Pitcher",
+    "jersey": "22",
+    "height": "6' 5\"",
+    "weight": "222 lbs",
+    "age": 28
+  },
+  {
+    "team": "bos",
+    "name": "Justin Wilson",
+    "position": "Relief Pitcher",
+    "jersey": "32",
+    "height": "6' 2\"",
+    "weight": "205 lbs",
+    "age": 37
+  },
+  {
+    "team": "bos",
+    "name": "Carlos Narvaez",
+    "position": "Catcher",
+    "jersey": "75",
+    "height": "6' 0\"",
+    "weight": "190 lbs",
+    "age": 26
+  },
+  {
+    "team": "bos",
+    "name": "Connor Wong",
+    "position": "Catcher",
+    "jersey": "12",
+    "height": "5' 10\"",
+    "weight": "190 lbs",
+    "age": 29
+  },
+  {
+    "team": "bos",
+    "name": "Alex Bregman",
+    "position": "Third Base",
+    "jersey": "2",
+    "height": "5' 11\"",
+    "weight": "190 lbs",
+    "age": 31
+  },
+  {
+    "team": "bos",
+    "name": "Kristian Campbell",
+    "position": "Second Base",
+    "jersey": "28",
+    "height": "6' 3\"",
+    "weight": "191 lbs",
+    "age": 22
+  },
+  {
+    "team": "bos",
+    "name": "David Hamilton",
+    "position": "Second Base",
+    "jersey": "17",
+    "height": "5' 11\"",
+    "weight": "188 lbs",
+    "age": 27
+  },
+  {
+    "team": "bos",
+    "name": "Nick Sogard",
+    "position": "First Base",
+    "jersey": "20",
+    "height": "6' 1\"",
+    "weight": "189 lbs",
+    "age": 27
+  },
+  {
+    "team": "bos",
+    "name": "Trevor Story",
+    "position": "Shortstop",
+    "jersey": "10",
+    "height": "6' 1\"",
+    "weight": "209 lbs",
+    "age": 32
+  },
+  {
+    "team": "bos",
+    "name": "Abraham Toro",
+    "position": "First Base",
+    "jersey": "29",
+    "height": "6' 0\"",
+    "weight": "223 lbs",
+    "age": 28
+  },
+  {
+    "team": "bos",
+    "name": "Wilyer Abreu",
+    "position": "Right Field",
+    "jersey": "52",
+    "height": "5' 10\"",
+    "weight": "215 lbs",
+    "age": 25
+  },
+  {
+    "team": "bos",
+    "name": "Jarren Duran",
+    "position": "Left Field",
+    "jersey": "16",
+    "height": "6' 1\"",
+    "weight": "205 lbs",
+    "age": 28
+  },
+  {
+    "team": "bos",
+    "name": "Ceddanne Rafaela",
+    "position": "Center Field",
+    "jersey": "3",
+    "height": "5' 10\"",
+    "weight": "165 lbs",
+    "age": 24
+  },
+  {
+    "team": "bos",
+    "name": "Rob Refsnyder",
+    "position": "Right Field",
+    "jersey": "30",
+    "height": "6' 0\"",
+    "weight": "215 lbs",
+    "age": 34
+  },
+  {
+    "team": "bos",
+    "name": "Rafael Devers",
+    "position": "Designated Hitter",
+    "jersey": "11",
+    "height": "6' 0\"",
+    "weight": "235 lbs",
+    "age": 28
+  },
+  {
+    "team": "chc",
+    "name": "Matthew Boyd",
+    "position": "Starting Pitcher",
+    "jersey": "16",
+    "height": "6' 3\"",
+    "weight": "223 lbs",
+    "age": 34
+  },
+  {
+    "team": "chc",
+    "name": "Ben Brown",
+    "position": "Starting Pitcher",
+    "jersey": "32",
+    "height": "6' 6\"",
+    "weight": "210 lbs",
+    "age": 25
+  },
+  {
+    "team": "chc",
+    "name": "Chris Flexen",
+    "position": "Relief Pitcher",
+    "jersey": "77",
+    "height": "6' 3\"",
+    "weight": "220 lbs",
+    "age": 30
+  },
+  {
+    "team": "chc",
+    "name": "Porter Hodge",
+    "position": "Relief Pitcher",
+    "jersey": "37",
+    "height": "6' 4\"",
+    "weight": "230 lbs",
+    "age": 24
+  },
+  {
+    "team": "chc",
+    "name": "Cade Horton",
+    "position": "Starting Pitcher",
+    "jersey": "22",
+    "height": "6' 1\"",
+    "weight": "211 lbs",
+    "age": 23
+  },
+  {
+    "team": "chc",
+    "name": "Brad Keller",
+    "position": "Relief Pitcher",
+    "jersey": "40",
+    "height": "6' 5\"",
+    "weight": "255 lbs",
+    "age": 29
+  },
+  {
+    "team": "chc",
+    "name": "Julian Merryweather",
+    "position": "Relief Pitcher",
+    "jersey": "66",
+    "height": "6' 4\"",
+    "weight": "215 lbs",
+    "age": 33
+  },
+  {
+    "team": "chc",
+    "name": "Daniel Palencia",
+    "position": "Relief Pitcher",
+    "jersey": "48",
+    "height": "5' 11\"",
+    "weight": "160 lbs",
+    "age": 25
+  },
+  {
+    "team": "chc",
+    "name": "Drew Pomeranz",
+    "position": "Relief Pitcher",
+    "jersey": "45",
+    "height": "6' 5\"",
+    "weight": "246 lbs",
+    "age": 36
+  },
+  {
+    "team": "chc",
+    "name": "Ryan Pressly",
+    "position": "Relief Pitcher",
+    "jersey": "55",
+    "height": "6' 2\"",
+    "weight": "207 lbs",
+    "age": 36
+  },
+  {
+    "team": "chc",
+    "name": "Colin Rea",
+    "position": "Starting Pitcher",
+    "jersey": "53",
+    "height": "6' 5\"",
+    "weight": "220 lbs",
+    "age": 34
+  },
+  {
+    "team": "chc",
+    "name": "Jameson Taillon",
+    "position": "Starting Pitcher",
+    "jersey": "50",
+    "height": "6' 5\"",
+    "weight": "230 lbs",
+    "age": 33
+  },
+  {
+    "team": "chc",
+    "name": "Caleb Thielbar",
+    "position": "Relief Pitcher",
+    "jersey": "24",
+    "height": "6' 0\"",
+    "weight": "205 lbs",
+    "age": 38
+  },
+  {
+    "team": "chc",
+    "name": "Miguel Amaya",
+    "position": "Catcher",
+    "jersey": "9",
+    "height": "6' 1\"",
+    "weight": "230 lbs",
+    "age": 26
+  },
+  {
+    "team": "chc",
+    "name": "Moises Ballesteros",
+    "position": "Catcher",
+    "jersey": "25",
+    "height": "5' 8\"",
+    "weight": "195 lbs",
+    "age": 21
+  },
+  {
+    "team": "chc",
+    "name": "Carson Kelly",
+    "position": "Catcher",
+    "jersey": "15",
+    "height": "6' 1\"",
+    "weight": "212 lbs",
+    "age": 30
+  },
+  {
+    "team": "chc",
+    "name": "Jon Berti",
+    "position": "Third Base",
+    "jersey": "5",
+    "height": "5' 10\"",
+    "weight": "190 lbs",
+    "age": 35
+  },
+  {
+    "team": "chc",
+    "name": "Vidal Brujan",
+    "position": "Third Base",
+    "jersey": "17",
+    "height": "5' 9\"",
+    "weight": "180 lbs",
+    "age": 27
+  },
+  {
+    "team": "chc",
+    "name": "Michael Busch",
+    "position": "First Base",
+    "jersey": "29",
+    "height": "6' 0\"",
+    "weight": "210 lbs",
+    "age": 27
+  },
+  {
+    "team": "chc",
+    "name": "Nico Hoerner",
+    "position": "Second Base",
+    "jersey": "2",
+    "height": "5' 11\"",
+    "weight": "200 lbs",
+    "age": 28
+  },
+  {
+    "team": "chc",
+    "name": "Matt Shaw",
+    "position": "Second Base",
+    "jersey": "6",
+    "height": "5' 10\"",
+    "weight": "185 lbs",
+    "age": 23
+  },
+  {
+    "team": "chc",
+    "name": "Dansby Swanson",
+    "position": "Shortstop",
+    "jersey": "7",
+    "height": "6' 0\"",
+    "weight": "190 lbs",
+    "age": 31
+  },
+  {
+    "team": "chc",
+    "name": "Justin Turner",
+    "position": "First Base",
+    "jersey": "3",
+    "height": "5' 11\"",
+    "weight": "208 lbs",
+    "age": 40
+  },
+  {
+    "team": "chc",
+    "name": "Pete Crow-Armstrong",
+    "position": "Center Field",
+    "jersey": "4",
+    "height": "6' 0\"",
+    "weight": "184 lbs",
+    "age": 23
+  },
+  {
+    "team": "chc",
+    "name": "Seiya Suzuki",
+    "position": "Left Field",
+    "jersey": "27",
+    "height": "6' 0\"",
+    "weight": "182 lbs",
+    "age": 30
+  },
+  {
+    "team": "chc",
+    "name": "Kyle Tucker",
+    "position": "Right Field",
+    "jersey": "30",
+    "height": "6' 4\"",
+    "weight": "212 lbs",
+    "age": 28
+  },
+  {
+    "team": "chw",
+    "name": "Cam Booser",
+    "position": "Relief Pitcher",
+    "jersey": "71",
+    "height": "6' 3\"",
+    "weight": "230 lbs",
+    "age": 33
+  },
+  {
+    "team": "chw",
+    "name": "Sean Burke",
+    "position": "Starting Pitcher",
+    "jersey": "59",
+    "height": "6' 6\"",
+    "weight": "240 lbs",
+    "age": 25
+  },
+  {
+    "team": "chw",
+    "name": "Jonathan Cannon",
+    "position": "Starting Pitcher",
+    "jersey": "48",
+    "height": "6' 6\"",
+    "weight": "225 lbs",
+    "age": 24
+  },
+  {
+    "team": "chw",
+    "name": "Miguel Castro",
+    "position": "Relief Pitcher",
+    "jersey": "60",
+    "height": "6' 7\"",
+    "weight": "201 lbs",
+    "age": 30
+  },
+  {
+    "team": "chw",
+    "name": "Brandon Eisert",
+    "position": "Relief Pitcher",
+    "jersey": "53",
+    "height": "6' 2\"",
+    "weight": "210 lbs",
+    "age": 27
+  },
+  {
+    "team": "chw",
+    "name": "Yoendrys Gomez",
+    "position": "Relief Pitcher",
+    "jersey": "94",
+    "height": "6' 3\"",
+    "weight": "212 lbs",
+    "age": 25
+  },
+  {
+    "team": "chw",
+    "name": "Jordan Leasure",
+    "position": "Relief Pitcher",
+    "jersey": "49",
+    "height": "6' 3\"",
+    "weight": "220 lbs",
+    "age": 26
+  },
+  {
+    "team": "chw",
+    "name": "Davis Martin",
+    "position": "Starting Pitcher",
+    "jersey": "65",
+    "height": "6' 2\"",
+    "weight": "215 lbs",
+    "age": 28
+  },
+  {
+    "team": "chw",
+    "name": "Jared Shuster",
+    "position": "Relief Pitcher",
+    "jersey": "51",
+    "height": "6' 3\"",
+    "weight": "220 lbs",
+    "age": 26
+  },
+  {
+    "team": "chw",
+    "name": "Shane Smith",
+    "position": "Starting Pitcher",
+    "jersey": "64",
+    "height": "6' 3\"",
+    "weight": "240 lbs",
+    "age": 25
+  },
+  {
+    "team": "chw",
+    "name": "Mike Vasil",
+    "position": "Relief Pitcher",
+    "jersey": "61",
+    "height": "6' 5\"",
+    "weight": "225 lbs",
+    "age": 25
+  },
+  {
+    "team": "chw",
+    "name": "Bryse Wilson",
+    "position": "Relief Pitcher",
+    "jersey": "46",
+    "height": "6' 2\"",
+    "weight": "255 lbs",
+    "age": 27
+  },
+  {
+    "team": "chw",
+    "name": "Steven Wilson",
+    "position": "Relief Pitcher",
+    "jersey": "36",
+    "height": "6' 4\"",
+    "weight": "220 lbs",
+    "age": 30
+  },
+  {
+    "team": "chw",
+    "name": "Edgar Quero",
+    "position": "Catcher",
+    "jersey": "7",
+    "height": "5' 10\"",
+    "weight": "205 lbs",
+    "age": 22
+  },
+  {
+    "team": "chw",
+    "name": "Matt Thaiss",
+    "position": "Catcher",
+    "jersey": "29",
+    "height": "5' 11\"",
+    "weight": "215 lbs",
+    "age": 30
+  },
+  {
+    "team": "chw",
+    "name": "Vinny Capra",
+    "position": "Third Base",
+    "jersey": "41",
+    "height": "5' 8\"",
+    "weight": "188 lbs",
+    "age": 28
+  },
+  {
+    "team": "chw",
+    "name": "Timothy Elko",
+    "position": "First Base",
+    "jersey": "30",
+    "height": "6' 3\"",
+    "weight": "250 lbs",
+    "age": 26
+  },
+  {
+    "team": "chw",
+    "name": "Chase Meidroth",
+    "position": "Shortstop",
+    "jersey": "10",
+    "height": "5' 10\"",
+    "weight": "190 lbs",
+    "age": 23
+  },
+  {
+    "team": "chw",
+    "name": "Josh Rojas",
+    "position": "Third Base",
+    "jersey": "5",
+    "height": "6' 1\"",
+    "weight": "200 lbs",
+    "age": 30
+  },
+  {
+    "team": "chw",
+    "name": "Lenyn Sosa",
+    "position": "Second Base",
+    "jersey": "50",
+    "height": "5' 11\"",
+    "weight": "210 lbs",
+    "age": 25
+  },
+  {
+    "team": "chw",
+    "name": "Miguel Vargas",
+    "position": "Third Base",
+    "jersey": "20",
+    "height": "6' 2\"",
+    "weight": "225 lbs",
+    "age": 25
+  },
+  {
+    "team": "chw",
+    "name": "Andrew Vaughn",
+    "position": "First Base",
+    "jersey": "25",
+    "height": "5' 10\"",
+    "weight": "215 lbs",
+    "age": 27
+  },
+  {
+    "team": "chw",
+    "name": "Joshua Palacios",
+    "position": "Right Field",
+    "jersey": "47",
+    "height": "6' 0\"",
+    "weight": "210 lbs",
+    "age": 29
+  },
+  {
+    "team": "chw",
+    "name": "Luis Robert Jr.",
+    "position": "Center Field",
+    "jersey": "88",
+    "height": "6' 2\"",
+    "weight": "225 lbs",
+    "age": 27
+  },
+  {
+    "team": "chw",
+    "name": "Austin Slater",
+    "position": "Right Field",
+    "jersey": "15",
+    "height": "6' 1\"",
+    "weight": "205 lbs",
+    "age": 32
+  },
+  {
+    "team": "chw",
+    "name": "Michael A. Taylor",
+    "position": "Right Field",
+    "jersey": "21",
+    "height": "6' 4\"",
+    "weight": "215 lbs",
+    "age": 34
+  },
+  {
+    "team": "cin",
+    "name": "Andrew Abbott",
+    "position": "Starting Pitcher",
+    "jersey": "41",
+    "height": "6' 0\"",
+    "weight": "192 lbs",
+    "age": 25
+  },
+  {
+    "team": "cin",
+    "name": "Graham Ashcraft",
+    "position": "Relief Pitcher",
+    "jersey": "23",
+    "height": "6' 2\"",
+    "weight": "248 lbs",
+    "age": 27
+  },
+  {
+    "team": "cin",
+    "name": "Scott Barlow",
+    "position": "Relief Pitcher",
+    "jersey": "58",
+    "height": "6' 3\"",
+    "weight": "210 lbs",
+    "age": 32
+  },
+  {
+    "team": "cin",
+    "name": "Nick Lodolo",
+    "position": "Starting Pitcher",
+    "jersey": "40",
+    "height": "6' 6\"",
+    "weight": "216 lbs",
+    "age": 27
+  },
+  {
+    "team": "cin",
+    "name": "Nick Martinez",
+    "position": "Starting Pitcher",
+    "jersey": "28",
+    "height": "6' 1\"",
+    "weight": "200 lbs",
+    "age": 34
+  },
+  {
+    "team": "cin",
+    "name": "Luis Mey",
+    "position": "Relief Pitcher",
+    "jersey": "62",
+    "height": "6' 5\"",
+    "weight": "235 lbs",
+    "age": 23
+  },
+  {
+    "team": "cin",
+    "name": "Emilio Pagan",
+    "position": "Relief Pitcher",
+    "jersey": "15",
+    "height": "6' 2\"",
+    "weight": "208 lbs",
+    "age": 34
+  },
+  {
+    "team": "cin",
+    "name": "Chase Petty",
+    "position": "Starting Pitcher",
+    "jersey": "61",
+    "height": "6' 1\"",
+    "weight": "190 lbs",
+    "age": 22
+  },
+  {
+    "team": "cin",
+    "name": "Lyon Richardson",
+    "position": "Relief Pitcher",
+    "jersey": "72",
+    "height": "6' 2\"",
+    "weight": "207 lbs",
+    "age": 25
+  },
+  {
+    "team": "cin",
+    "name": "Taylor Rogers",
+    "position": "Relief Pitcher",
+    "jersey": "55",
+    "height": "6' 3\"",
+    "weight": "190 lbs",
+    "age": 34
+  },
+  {
+    "team": "cin",
+    "name": "Tony Santillan",
+    "position": "Relief Pitcher",
+    "jersey": "64",
+    "height": "6' 3\"",
+    "weight": "285 lbs",
+    "age": 28
+  },
+  {
+    "team": "cin",
+    "name": "Brady Singer",
+    "position": "Starting Pitcher",
+    "jersey": "51",
+    "height": "6' 5\"",
+    "weight": "215 lbs",
+    "age": 28
+  },
+  {
+    "team": "cin",
+    "name": "Brent Suter",
+    "position": "Relief Pitcher",
+    "jersey": "31",
+    "height": "6' 4\"",
+    "weight": "213 lbs",
+    "age": 35
+  },
+  {
+    "team": "cin",
+    "name": "Tyler Stephenson",
+    "position": "Catcher",
+    "jersey": "37",
+    "height": "6' 3\"",
+    "weight": "225 lbs",
+    "age": 28
+  },
+  {
+    "team": "cin",
+    "name": "Jose Trevino",
+    "position": "Catcher",
+    "jersey": "35",
+    "height": "5' 9\"",
+    "weight": "215 lbs",
+    "age": 32
+  },
+  {
+    "team": "cin",
+    "name": "Austin Wynns",
+    "position": "Catcher",
+    "jersey": "38",
+    "height": "6' 1\"",
+    "weight": "190 lbs",
+    "age": 34
+  },
+  {
+    "team": "cin",
+    "name": "Elly De La Cruz",
+    "position": "Shortstop",
+    "jersey": "44",
+    "height": "6' 5\"",
+    "weight": "200 lbs",
+    "age": 23
+  },
+  {
+    "team": "cin",
+    "name": "Santiago Espinal",
+    "position": "Third Base",
+    "jersey": "4",
+    "height": "5' 10\"",
+    "weight": "185 lbs",
+    "age": 30
+  },
+  {
+    "team": "cin",
+    "name": "Matt McLain",
+    "position": "Second Base",
+    "jersey": "9",
+    "height": "5' 9\"",
+    "weight": "180 lbs",
+    "age": 25
+  },
+  {
+    "team": "cin",
+    "name": "Spencer Steer",
+    "position": "First Base",
+    "jersey": "7",
+    "height": "5' 9\"",
+    "weight": "185 lbs",
+    "age": 27
+  },
+  {
+    "team": "cin",
+    "name": "Will Benson",
+    "position": "Right Field",
+    "jersey": "30",
+    "height": "6' 4\"",
+    "weight": "230 lbs",
+    "age": 26
+  },
+  {
+    "team": "cin",
+    "name": "TJ Friedl",
+    "position": "Center Field",
+    "jersey": "29",
+    "height": "5' 8\"",
+    "weight": "180 lbs",
+    "age": 29
+  },
+  {
+    "team": "cin",
+    "name": "Austin Hays",
+    "position": "Left Field",
+    "jersey": "12",
+    "height": "5' 11\"",
+    "weight": "200 lbs",
+    "age": 29
+  },
+  {
+    "team": "cin",
+    "name": "Rece Hinds",
+    "position": "Right Field",
+    "jersey": "57",
+    "height": "6' 3\"",
+    "weight": "215 lbs",
+    "age": 24
+  },
+  {
+    "team": "cin",
+    "name": "Connor Joe",
+    "position": "Left Field",
+    "jersey": "17",
+    "height": "5' 11\"",
+    "weight": "205 lbs",
+    "age": 32
+  },
+  {
+    "team": "cin",
+    "name": "Gavin Lux",
+    "position": "Left Field",
+    "jersey": "2",
+    "height": "5' 11\"",
+    "weight": "190 lbs",
+    "age": 27
+  },
+  {
+    "team": "cle",
+    "name": "Kolby Allard",
+    "position": "Relief Pitcher",
+    "jersey": "49",
+    "height": "6' 1\"",
+    "weight": "195 lbs",
+    "age": 27
+  },
+  {
+    "team": "cle",
+    "name": "Logan Allen",
+    "position": "Starting Pitcher",
+    "jersey": "26",
+    "height": "6' 0\"",
+    "weight": "190 lbs",
+    "age": 26
+  },
+  {
+    "team": "cle",
+    "name": "Tanner Bibee",
+    "position": "Starting Pitcher",
+    "jersey": "28",
+    "height": "6' 2\"",
+    "weight": "205 lbs",
+    "age": 26
+  },
+  {
+    "team": "cle",
+    "name": "Joey Cantillo",
+    "position": "Relief Pitcher",
+    "jersey": "54",
+    "height": "6' 4\"",
+    "weight": "225 lbs",
+    "age": 25
+  },
+  {
+    "team": "cle",
+    "name": "Slade Cecconi",
+    "position": "Starting Pitcher",
+    "jersey": "44",
+    "height": "6' 4\"",
+    "weight": "219 lbs",
+    "age": 25
+  },
+  {
+    "team": "cle",
+    "name": "Emmanuel Clase",
+    "position": "Relief Pitcher",
+    "jersey": "48",
+    "height": "6' 2\"",
+    "weight": "206 lbs",
+    "age": 27
+  },
+  {
+    "team": "cle",
+    "name": "Matt Festa",
+    "position": "Relief Pitcher",
+    "jersey": "52",
+    "height": "6' 1\"",
+    "weight": "195 lbs",
+    "age": 32
+  },
+  {
+    "team": "cle",
+    "name": "Hunter Gaddis",
+    "position": "Relief Pitcher",
+    "jersey": "33",
+    "height": "6' 6\"",
+    "weight": "260 lbs",
+    "age": 27
+  },
+  {
+    "team": "cle",
+    "name": "Tim Herrin",
+    "position": "Relief Pitcher",
+    "jersey": "29",
+    "height": "6' 6\"",
+    "weight": "230 lbs",
+    "age": 28
+  },
+  {
+    "team": "cle",
+    "name": "Jakob Junis",
+    "position": "Relief Pitcher",
+    "jersey": "16",
+    "height": "6' 3\"",
+    "weight": "238 lbs",
+    "age": 32
+  },
+  {
+    "team": "cle",
+    "name": "Luis Ortiz",
+    "position": "Starting Pitcher",
+    "jersey": "45",
+    "height": "6' 2\"",
+    "weight": "235 lbs",
+    "age": 26
+  },
+  {
+    "team": "cle",
+    "name": "Cade Smith",
+    "position": "Relief Pitcher",
+    "jersey": "36",
+    "height": "6' 5\"",
+    "weight": "230 lbs",
+    "age": 26
+  },
+  {
+    "team": "cle",
+    "name": "Gavin Williams",
+    "position": "Starting Pitcher",
+    "jersey": "32",
+    "height": "6' 6\"",
+    "weight": "250 lbs",
+    "age": 25
+  },
+  {
+    "team": "cle",
+    "name": "Austin Hedges",
+    "position": "Catcher",
+    "jersey": "27",
+    "height": "6' 0\"",
+    "weight": "220 lbs",
+    "age": 32
+  },
+  {
+    "team": "cle",
+    "name": "Bo Naylor",
+    "position": "Catcher",
+    "jersey": "23",
+    "height": "6' 0\"",
+    "weight": "205 lbs",
+    "age": 25
+  },
+  {
+    "team": "cle",
+    "name": "Gabriel Arias",
+    "position": "Second Base",
+    "jersey": "13",
+    "height": "6' 1\"",
+    "weight": "217 lbs",
+    "age": 25
+  },
+  {
+    "team": "cle",
+    "name": "Kyle Manzardo",
+    "position": "First Base",
+    "jersey": "9",
+    "height": "6' 0\"",
+    "weight": "205 lbs",
+    "age": 24
+  },
+  {
+    "team": "cle",
+    "name": "Jose Ramirez",
+    "position": "Third Base",
+    "jersey": "11",
+    "height": "5' 8\"",
+    "weight": "190 lbs",
+    "age": 32
+  },
+  {
+    "team": "cle",
+    "name": "Carlos Santana",
+    "position": "First Base",
+    "jersey": "41",
+    "height": "5' 10\"",
+    "weight": "210 lbs",
+    "age": 39
+  },
+  {
+    "team": "cle",
+    "name": "Daniel Schneemann",
+    "position": "Second Base",
+    "jersey": "10",
+    "height": "5' 11\"",
+    "weight": "185 lbs",
+    "age": 28
+  },
+  {
+    "team": "cle",
+    "name": "Will Wilson",
+    "position": "Third Base",
+    "jersey": "7",
+    "height": "5' 10\"",
+    "weight": "184 lbs",
+    "age": 26
+  },
+  {
+    "team": "cle",
+    "name": "Will Brennan",
+    "position": "Right Field",
+    "jersey": "17",
+    "height": "5' 11\"",
+    "weight": "200 lbs",
+    "age": 27
+  },
+  {
+    "team": "cle",
+    "name": "Nolan Jones",
+    "position": "Right Field",
+    "jersey": "22",
+    "height": "6' 5\"",
+    "weight": "195 lbs",
+    "age": 27
+  },
+  {
+    "team": "cle",
+    "name": "Steven Kwan",
+    "position": "Left Field",
+    "jersey": "38",
+    "height": "5' 8\"",
+    "weight": "170 lbs",
+    "age": 27
+  },
+  {
+    "team": "cle",
+    "name": "Angel Martinez",
+    "position": "Center Field",
+    "jersey": "1",
+    "height": "5' 11\"",
+    "weight": "200 lbs",
+    "age": 23
+  },
+  {
+    "team": "cle",
+    "name": "Jhonkensy Noel",
+    "position": "Right Field",
+    "jersey": "43",
+    "height": "6' 3\"",
+    "weight": "250 lbs",
+    "age": 23
+  },
+  {
+    "team": "col",
+    "name": "Zach Agnos",
+    "position": "Relief Pitcher",
+    "jersey": "36",
+    "height": "6' 0\"",
+    "weight": "210 lbs",
+    "age": 24
+  },
+  {
+    "team": "col",
+    "name": "Scott Alexander",
+    "position": "Relief Pitcher",
+    "jersey": "52",
+    "height": "6' 2\"",
+    "weight": "195 lbs",
+    "age": 35
+  },
+  {
+    "team": "col",
+    "name": "Jake Bird",
+    "position": "Relief Pitcher",
+    "jersey": "59",
+    "height": "6' 3\"",
+    "weight": "200 lbs",
+    "age": 29
+  },
+  {
+    "team": "col",
+    "name": "Angel Chivilli",
+    "position": "Relief Pitcher",
+    "jersey": "57",
+    "height": "6' 2\"",
+    "weight": "162 lbs",
+    "age": 22
+  },
+  {
+    "team": "col",
+    "name": "Chase Dollander",
+    "position": "Starting Pitcher",
+    "jersey": "32",
+    "height": "6' 2\"",
+    "weight": "200 lbs",
+    "age": 23
+  },
+  {
+    "team": "col",
+    "name": "Kyle Freeland",
+    "position": "Starting Pitcher",
+    "jersey": "21",
+    "height": "6' 4\"",
+    "weight": "204 lbs",
+    "age": 32
+  },
+  {
+    "team": "col",
+    "name": "Seth Halvorsen",
+    "position": "Relief Pitcher",
+    "jersey": "54",
+    "height": "6' 2\"",
+    "weight": "225 lbs",
+    "age": 25
+  },
+  {
+    "team": "col",
+    "name": "Jimmy Herget",
+    "position": "Relief Pitcher",
+    "jersey": "44",
+    "height": "6' 3\"",
+    "weight": "170 lbs",
+    "age": 31
+  },
+  {
+    "team": "col",
+    "name": "Tyler Kinley",
+    "position": "Relief Pitcher",
+    "jersey": "40",
+    "height": "6' 4\"",
+    "weight": "220 lbs",
+    "age": 34
+  },
+  {
+    "team": "col",
+    "name": "German Marquez",
+    "position": "Starting Pitcher",
+    "jersey": "48",
+    "height": "6' 1\"",
+    "weight": "230 lbs",
+    "age": 30
+  },
+  {
+    "team": "col",
+    "name": "Carson Palmquist",
+    "position": "Starting Pitcher",
+    "jersey": "45",
+    "height": "6' 3\"",
+    "weight": "185 lbs",
+    "age": 24
+  },
+  {
+    "team": "col",
+    "name": "Ryan Rolison",
+    "position": "Relief Pitcher",
+    "jersey": "50",
+    "height": "6' 2\"",
+    "weight": "213 lbs",
+    "age": 27
+  },
+  {
+    "team": "col",
+    "name": "Antonio Senzatela",
+    "position": "Starting Pitcher",
+    "jersey": "49",
+    "height": "6' 1\"",
+    "weight": "236 lbs",
+    "age": 30
+  },
+  {
+    "team": "col",
+    "name": "Hunter Goodman",
+    "position": "Catcher",
+    "jersey": "15",
+    "height": "6' 0\"",
+    "weight": "210 lbs",
+    "age": 25
+  },
+  {
+    "team": "col",
+    "name": "Jacob Stallings",
+    "position": "Catcher",
+    "jersey": "25",
+    "height": "6' 5\"",
+    "weight": "225 lbs",
+    "age": 35
+  },
+  {
+    "team": "col",
+    "name": "Adael Amador",
+    "position": "Second Base",
+    "jersey": "1",
+    "height": "5' 11\"",
+    "weight": "200 lbs",
+    "age": 22
+  },
+  {
+    "team": "col",
+    "name": "Kyle Farmer",
+    "position": "Second Base",
+    "jersey": "6",
+    "height": "5' 11\"",
+    "weight": "205 lbs",
+    "age": 34
+  },
+  {
+    "team": "col",
+    "name": "Tyler Freeman",
+    "position": "Second Base",
+    "jersey": "2",
+    "height": "5' 11\"",
+    "weight": "190 lbs",
+    "age": 25
+  },
+  {
+    "team": "col",
+    "name": "Ryan McMahon",
+    "position": "Third Base",
+    "jersey": "24",
+    "height": "6' 2\"",
+    "weight": "219 lbs",
+    "age": 30
+  },
+  {
+    "team": "col",
+    "name": "Aaron Schunk",
+    "position": "Shortstop",
+    "jersey": "30",
+    "height": "6' 2\"",
+    "weight": "205 lbs",
+    "age": 27
+  },
+  {
+    "team": "col",
+    "name": "Michael Toglia",
+    "position": "First Base",
+    "jersey": "4",
+    "height": "6' 5\"",
+    "weight": "226 lbs",
+    "age": 26
+  },
+  {
+    "team": "col",
+    "name": "Ezequiel Tovar",
+    "position": "Shortstop",
+    "jersey": "14",
+    "height": "6' 0\"",
+    "weight": "162 lbs",
+    "age": 23
+  },
+  {
+    "team": "col",
+    "name": "Jordan Beck",
+    "position": "Left Field",
+    "jersey": "27",
+    "height": "6' 2\"",
+    "weight": "225 lbs",
+    "age": 24
+  },
+  {
+    "team": "col",
+    "name": "Brenton Doyle",
+    "position": "Center Field",
+    "jersey": "9",
+    "height": "6' 3\"",
+    "weight": "220 lbs",
+    "age": 27
+  },
+  {
+    "team": "col",
+    "name": "Nick Martini",
+    "position": "Right Field",
+    "jersey": "35",
+    "height": "5' 11\"",
+    "weight": "205 lbs",
+    "age": 34
+  },
+  {
+    "team": "col",
+    "name": "Mickey Moniak",
+    "position": "Right Field",
+    "jersey": "22",
+    "height": "6' 2\"",
+    "weight": "195 lbs",
+    "age": 27
+  },
+  {
+    "team": "det",
+    "name": "John Brebbia",
+    "position": "Relief Pitcher",
+    "jersey": "49",
+    "height": "6' 1\"",
+    "weight": "205 lbs",
+    "age": 34
+  },
+  {
+    "team": "det",
+    "name": "Beau Brieske",
+    "position": "Relief Pitcher",
+    "jersey": "4",
+    "height": "6' 3\"",
+    "weight": "200 lbs",
+    "age": 27
+  },
+  {
+    "team": "det",
+    "name": "Jack Flaherty",
+    "position": "Starting Pitcher",
+    "jersey": "9",
+    "height": "6' 4\"",
+    "weight": "225 lbs",
+    "age": 29
+  },
+  {
+    "team": "det",
+    "name": "Sean Guenther",
+    "position": "Relief Pitcher",
+    "jersey": "73",
+    "height": "5' 11\"",
+    "weight": "194 lbs",
+    "age": 29
+  },
+  {
+    "team": "det",
+    "name": "Tyler Holton",
+    "position": "Relief Pitcher",
+    "jersey": "87",
+    "height": "6' 2\"",
+    "weight": "200 lbs",
+    "age": 28
+  },
+  {
+    "team": "det",
+    "name": "Brant Hurter",
+    "position": "Relief Pitcher",
+    "jersey": "48",
+    "height": "6' 6\"",
+    "weight": "250 lbs",
+    "age": 26
+  },
+  {
+    "team": "det",
+    "name": "Jackson Jobe",
+    "position": "Starting Pitcher",
+    "jersey": "21",
+    "height": "6' 2\"",
+    "weight": "190 lbs",
+    "age": 22
+  },
+  {
+    "team": "det",
+    "name": "Tommy Kahnle",
+    "position": "Relief Pitcher",
+    "jersey": "43",
+    "height": "6' 1\"",
+    "weight": "230 lbs",
+    "age": 35
+  },
+  {
+    "team": "det",
+    "name": "Chase Lee",
+    "position": "Relief Pitcher",
+    "jersey": "53",
+    "height": "6' 0\"",
+    "weight": "170 lbs",
+    "age": 26
+  },
+  {
+    "team": "det",
+    "name": "Keider Montero",
+    "position": "Starting Pitcher",
+    "jersey": "54",
+    "height": "6' 1\"",
+    "weight": "145 lbs",
+    "age": 24
+  },
+  {
+    "team": "det",
+    "name": "Tarik Skubal",
+    "position": "Starting Pitcher",
+    "jersey": "29",
+    "height": "6' 3\"",
+    "weight": "240 lbs",
+    "age": 28
+  },
+  {
+    "team": "det",
+    "name": "Will Vest",
+    "position": "Relief Pitcher",
+    "jersey": "19",
+    "height": "6' 0\"",
+    "weight": "180 lbs",
+    "age": 29
+  },
+  {
+    "team": "det",
+    "name": "Dillon Dingler",
+    "position": "Catcher",
+    "jersey": "13",
+    "height": "6' 1\"",
+    "weight": "210 lbs",
+    "age": 26
+  },
+  {
+    "team": "det",
+    "name": "Tomas Nido",
+    "position": "Catcher",
+    "jersey": "0",
+    "height": "6' 0\"",
+    "weight": "211 lbs",
+    "age": 31
+  },
+  {
+    "team": "det",
+    "name": "Andy Ibanez",
+    "position": "Third Base",
+    "jersey": "77",
+    "height": "5' 10\"",
+    "weight": "205 lbs",
+    "age": 32
+  },
+  {
+    "team": "det",
+    "name": "Colt Keith",
+    "position": "Second Base",
+    "jersey": "33",
+    "height": "6' 2\"",
+    "weight": "211 lbs",
+    "age": 23
+  },
+  {
+    "team": "det",
+    "name": "Trey Sweeney",
+    "position": "Shortstop",
+    "jersey": "27",
+    "height": "6' 3\"",
+    "weight": "212 lbs",
+    "age": 25
+  },
+  {
+    "team": "det",
+    "name": "Spencer Torkelson",
+    "position": "First Base",
+    "jersey": "20",
+    "height": "6' 1\"",
+    "weight": "220 lbs",
+    "age": 25
+  },
+  {
+    "team": "det",
+    "name": "Gleyber Torres",
+    "position": "Second Base",
+    "jersey": "25",
+    "height": "5' 11\"",
+    "weight": "205 lbs",
+    "age": 28
+  },
+  {
+    "team": "det",
+    "name": "Akil Baddoo",
+    "position": "Left Field",
+    "jersey": "60",
+    "height": "5' 11\"",
+    "weight": "214 lbs",
+    "age": 26
+  },
+  {
+    "team": "det",
+    "name": "Javier Baez",
+    "position": "Center Field",
+    "jersey": "28",
+    "height": "5' 11\"",
+    "weight": "190 lbs",
+    "age": 32
+  },
+  {
+    "team": "det",
+    "name": "Kerry Carpenter",
+    "position": "Left Field",
+    "jersey": "30",
+    "height": "6' 1\"",
+    "weight": "220 lbs",
+    "age": 27
+  },
+  {
+    "team": "det",
+    "name": "Riley Greene",
+    "position": "Left Field",
+    "jersey": "31",
+    "height": "6' 2\"",
+    "weight": "200 lbs",
+    "age": 24
+  },
+  {
+    "team": "det",
+    "name": "Justyn-Henry Malloy",
+    "position": "Right Field",
+    "jersey": "44",
+    "height": "6' 1\"",
+    "weight": "212 lbs",
+    "age": 25
+  },
+  {
+    "team": "det",
+    "name": "Zach McKinstry",
+    "position": "Right Field",
+    "jersey": "39",
+    "height": "6' 0\"",
+    "weight": "180 lbs",
+    "age": 30
+  },
+  {
+    "team": "hou",
+    "name": "Bryan Abreu",
+    "position": "Relief Pitcher",
+    "jersey": "52",
+    "height": "6' 1\"",
+    "weight": "230 lbs",
+    "age": 28
+  },
+  {
+    "team": "hou",
+    "name": "Ronel Blanco",
+    "position": "Starting Pitcher",
+    "jersey": "56",
+    "height": "6' 3\"",
+    "weight": "265 lbs",
+    "age": 31
+  },
+  {
+    "team": "hou",
+    "name": "Hunter Brown",
+    "position": "Starting Pitcher",
+    "jersey": "58",
+    "height": "6' 2\"",
+    "weight": "220 lbs",
+    "age": 26
+  },
+  {
+    "team": "hou",
+    "name": "Shawn Dubin",
+    "position": "Relief Pitcher",
+    "jersey": "66",
+    "height": "6' 0\"",
+    "weight": "164 lbs",
+    "age": 29
+  },
+  {
+    "team": "hou",
+    "name": "Colton Gordon",
+    "position": "Starting Pitcher",
+    "jersey": "61",
+    "height": "6' 4\"",
+    "weight": "225 lbs",
+    "age": 26
+  },
+  {
+    "team": "hou",
+    "name": "Ryan Gusto",
+    "position": "Starting Pitcher",
+    "jersey": "67",
+    "height": "6' 4\"",
+    "weight": "232 lbs",
+    "age": 26
+  },
+  {
+    "team": "hou",
+    "name": "Josh Hader",
+    "position": "Relief Pitcher",
+    "jersey": "71",
+    "height": "6' 3\"",
+    "weight": "188 lbs",
+    "age": 31
+  },
+  {
+    "team": "hou",
+    "name": "Bryan King",
+    "position": "Relief Pitcher",
+    "jersey": "74",
+    "height": "6' 1\"",
+    "weight": "205 lbs",
+    "age": 28
+  },
+  {
+    "team": "hou",
+    "name": "Lance McCullers Jr.",
+    "position": "Starting Pitcher",
+    "jersey": "43",
+    "height": "6' 1\"",
+    "weight": "200 lbs",
+    "age": 31
+  },
+  {
+    "team": "hou",
+    "name": "Steven Okert",
+    "position": "Relief Pitcher",
+    "jersey": "48",
+    "height": "6' 2\"",
+    "weight": "202 lbs",
+    "age": 33
+  },
+  {
+    "team": "hou",
+    "name": "Kaleb Ort",
+    "position": "Relief Pitcher",
+    "jersey": "63",
+    "height": "6' 4\"",
+    "weight": "248 lbs",
+    "age": 33
+  },
+  {
+    "team": "hou",
+    "name": "Bennett Sousa",
+    "position": "Relief Pitcher",
+    "jersey": "62",
+    "height": "6' 3\"",
+    "weight": "220 lbs",
+    "age": 30
+  },
+  {
+    "team": "hou",
+    "name": "Framber Valdez",
+    "position": "Starting Pitcher",
+    "jersey": "59",
+    "height": "5' 11\"",
+    "weight": "230 lbs",
+    "age": 31
+  },
+  {
+    "team": "hou",
+    "name": "Victor Caratini",
+    "position": "Catcher",
+    "jersey": "17",
+    "height": "6' 0\"",
+    "weight": "225 lbs",
+    "age": 31
+  },
+  {
+    "team": "hou",
+    "name": "Yainer Diaz",
+    "position": "Catcher",
+    "jersey": "21",
+    "height": "5' 11\"",
+    "weight": "195 lbs",
+    "age": 26
+  },
+  {
+    "team": "hou",
+    "name": "Cesar Salazar",
+    "position": "Catcher",
+    "jersey": "18",
+    "height": "5' 9\"",
+    "weight": "198 lbs",
+    "age": 29
+  },
+  {
+    "team": "hou",
+    "name": "Mauricio Dubon",
+    "position": "Second Base",
+    "jersey": "14",
+    "height": "6' 0\"",
+    "weight": "173 lbs",
+    "age": 30
+  },
+  {
+    "team": "hou",
+    "name": "Isaac Paredes",
+    "position": "Third Base",
+    "jersey": "15",
+    "height": "5' 11\"",
+    "weight": "213 lbs",
+    "age": 26
+  },
+  {
+    "team": "hou",
+    "name": "Jeremy Pena",
+    "position": "Shortstop",
+    "jersey": "3",
+    "height": "6' 1\"",
+    "weight": "202 lbs",
+    "age": 27
+  },
+  {
+    "team": "hou",
+    "name": "Brendan Rodgers",
+    "position": "Second Base",
+    "jersey": "1",
+    "height": "6' 0\"",
+    "weight": "204 lbs",
+    "age": 28
+  },
+  {
+    "team": "hou",
+    "name": "Christian Walker",
+    "position": "First Base",
+    "jersey": "8",
+    "height": "5' 11\"",
+    "weight": "208 lbs",
+    "age": 34
+  },
+  {
+    "team": "hou",
+    "name": "Jose Altuve",
+    "position": "Left Field",
+    "jersey": "27",
+    "height": "5' 6\"",
+    "weight": "167 lbs",
+    "age": 35
+  },
+  {
+    "team": "hou",
+    "name": "Zach Dezenzo",
+    "position": "Left Field",
+    "jersey": "9",
+    "height": "6' 5\"",
+    "weight": "220 lbs",
+    "age": 25
+  },
+  {
+    "team": "hou",
+    "name": "Chas McCormick",
+    "position": "Center Field",
+    "jersey": "20",
+    "height": "6' 0\"",
+    "weight": "208 lbs",
+    "age": 30
+  },
+  {
+    "team": "hou",
+    "name": "Jake Meyers",
+    "position": "Center Field",
+    "jersey": "6",
+    "height": "6' 0\"",
+    "weight": "200 lbs",
+    "age": 28
+  },
+  {
+    "team": "hou",
+    "name": "Cam Smith",
+    "position": "Right Field",
+    "jersey": "11",
+    "height": "6' 3\"",
+    "weight": "224 lbs",
+    "age": 22
+  },
+  {
+    "team": "kc",
+    "name": "Jonathan Bowlan",
+    "position": "Starting Pitcher",
+    "jersey": "62",
+    "height": "6' 6\"",
+    "weight": "240 lbs",
+    "age": 28
+  },
+  {
+    "team": "kc",
+    "name": "Kris Bubic",
+    "position": "Starting Pitcher",
+    "jersey": "50",
+    "height": "6' 3\"",
+    "weight": "225 lbs",
+    "age": 27
+  },
+  {
+    "team": "kc",
+    "name": "Noah Cameron",
+    "position": "Starting Pitcher",
+    "jersey": "65",
+    "height": "6' 3\"",
+    "weight": "220 lbs",
+    "age": 25
+  },
+  {
+    "team": "kc",
+    "name": "Taylor Clarke",
+    "position": "Relief Pitcher",
+    "jersey": "45",
+    "height": "6' 4\"",
+    "weight": "210 lbs",
+    "age": 32
+  },
+  {
+    "team": "kc",
+    "name": "Steven Cruz",
+    "position": "Relief Pitcher",
+    "jersey": "64",
+    "height": "6' 7\"",
+    "weight": "225 lbs",
+    "age": 25
+  },
+  {
+    "team": "kc",
+    "name": "Lucas Erceg",
+    "position": "Relief Pitcher",
+    "jersey": "60",
+    "height": "6' 2\"",
+    "weight": "214 lbs",
+    "age": 30
+  },
+  {
+    "team": "kc",
+    "name": "Carlos Estevez",
+    "position": "Relief Pitcher",
+    "jersey": "53",
+    "height": "6' 6\"",
+    "weight": "277 lbs",
+    "age": 32
+  },
+  {
+    "team": "kc",
+    "name": "Michael Lorenzen",
+    "position": "Starting Pitcher",
+    "jersey": "24",
+    "height": "6' 3\"",
+    "weight": "217 lbs",
+    "age": 33
+  },
+  {
+    "team": "kc",
+    "name": "Daniel Lynch IV",
+    "position": "Relief Pitcher",
+    "jersey": "41",
+    "height": "6' 6\"",
+    "weight": "200 lbs",
+    "age": 28
+  },
+  {
+    "team": "kc",
+    "name": "John Schreiber",
+    "position": "Relief Pitcher",
+    "jersey": "46",
+    "height": "6' 2\"",
+    "weight": "224 lbs",
+    "age": 31
+  },
+  {
+    "team": "kc",
+    "name": "Evan Sisk",
+    "position": "Relief Pitcher",
+    "jersey": "47",
+    "height": "6' 2\"",
+    "weight": "209 lbs",
+    "age": 28
+  },
+  {
+    "team": "kc",
+    "name": "Michael Wacha",
+    "position": "Starting Pitcher",
+    "jersey": "52",
+    "height": "6' 6\"",
+    "weight": "215 lbs",
+    "age": 33
+  },
+  {
+    "team": "kc",
+    "name": "Angel Zerpa",
+    "position": "Relief Pitcher",
+    "jersey": "61",
+    "height": "6' 0\"",
+    "weight": "220 lbs",
+    "age": 25
+  },
+  {
+    "team": "kc",
+    "name": "Freddy Fermin",
+    "position": "Catcher",
+    "jersey": "34",
+    "height": "5' 10\"",
+    "weight": "200 lbs",
+    "age": 30
+  },
+  {
+    "team": "kc",
+    "name": "Salvador Perez",
+    "position": "Catcher",
+    "jersey": "13",
+    "height": "6' 3\"",
+    "weight": "255 lbs",
+    "age": 35
+  },
+  {
+    "team": "kc",
+    "name": "Cavan Biggio",
+    "position": "First Base",
+    "jersey": "18",
+    "height": "6' 1\"",
+    "weight": "200 lbs",
+    "age": 30
+  },
+  {
+    "team": "kc",
+    "name": "Maikel Garcia",
+    "position": "Third Base",
+    "jersey": "11",
+    "height": "6' 1\"",
+    "weight": "180 lbs",
+    "age": 25
+  },
+  {
+    "team": "kc",
+    "name": "Jonathan India",
+    "position": "Third Base",
+    "jersey": "6",
+    "height": "5' 11\"",
+    "weight": "200 lbs",
+    "age": 28
+  },
+  {
+    "team": "kc",
+    "name": "Michael Massey",
+    "position": "Second Base",
+    "jersey": "19",
+    "height": "6' 0\"",
+    "weight": "195 lbs",
+    "age": 27
+  },
+  {
+    "team": "kc",
+    "name": "Vinnie Pasquantino",
+    "position": "First Base",
+    "jersey": "9",
+    "height": "6' 3\"",
+    "weight": "245 lbs",
+    "age": 27
+  },
+  {
+    "team": "kc",
+    "name": "Bobby Witt Jr.",
+    "position": "Shortstop",
+    "jersey": "7",
+    "height": "6' 1\"",
+    "weight": "200 lbs",
+    "age": 24
+  },
+  {
+    "team": "kc",
+    "name": "Dairon Blanco",
+    "position": "Left Field",
+    "jersey": "44",
+    "height": "6' 0\"",
+    "weight": "200 lbs",
+    "age": 32
+  },
+  {
+    "team": "kc",
+    "name": "Mark Canha",
+    "position": "Left Field",
+    "jersey": "21",
+    "height": "6' 2\"",
+    "weight": "200 lbs",
+    "age": 36
+  },
+  {
+    "team": "kc",
+    "name": "Kyle Isbel",
+    "position": "Center Field",
+    "jersey": "28",
+    "height": "5' 10\"",
+    "weight": "190 lbs",
+    "age": 28
+  },
+  {
+    "team": "kc",
+    "name": "Hunter Renfroe",
+    "position": "Right Field",
+    "jersey": "16",
+    "height": "6' 1\"",
+    "weight": "230 lbs",
+    "age": 33
+  },
+  {
+    "team": "kc",
+    "name": "Drew Waters",
+    "position": "Left Field",
+    "jersey": "8",
+    "height": "6' 1\"",
+    "weight": "185 lbs",
+    "age": 26
+  },
+  {
+    "team": "laa",
+    "name": "Shaun Anderson",
+    "position": "Relief Pitcher",
+    "jersey": "64",
+    "height": "6' 6\"",
+    "weight": "228 lbs",
+    "age": 30
+  },
+  {
+    "team": "laa",
+    "name": "Tyler Anderson",
+    "position": "Starting Pitcher",
+    "jersey": "31",
+    "height": "6' 2\"",
+    "weight": "220 lbs",
+    "age": 35
+  },
+  {
+    "team": "laa",
+    "name": "Connor Brogdon",
+    "position": "Relief Pitcher",
+    "jersey": "75",
+    "height": "6' 6\"",
+    "weight": "205 lbs",
+    "age": 30
+  },
+  {
+    "team": "laa",
+    "name": "Brock Burke",
+    "position": "Relief Pitcher",
+    "jersey": "46",
+    "height": "6' 4\"",
+    "weight": "210 lbs",
+    "age": 28
+  },
+  {
+    "team": "laa",
+    "name": "Reid Detmers",
+    "position": "Relief Pitcher",
+    "jersey": "48",
+    "height": "6' 2\"",
+    "weight": "210 lbs",
+    "age": 25
+  },
+  {
+    "team": "laa",
+    "name": "Kyle Hendricks",
+    "position": "Starting Pitcher",
+    "jersey": "28",
+    "height": "6' 3\"",
+    "weight": "190 lbs",
+    "age": 35
+  },
+  {
+    "team": "laa",
+    "name": "Kenley Jansen",
+    "position": "Relief Pitcher",
+    "jersey": "74",
+    "height": "6' 5\"",
+    "weight": "265 lbs",
+    "age": 37
+  },
+  {
+    "team": "laa",
+    "name": "Yusei Kikuchi",
+    "position": "Starting Pitcher",
+    "jersey": "16",
+    "height": "6' 0\"",
+    "weight": "210 lbs",
+    "age": 33
+  },
+  {
+    "team": "laa",
+    "name": "Jack Kochanowicz",
+    "position": "Starting Pitcher",
+    "jersey": "41",
+    "height": "6' 7\"",
+    "weight": "228 lbs",
+    "age": 24
+  },
+  {
+    "team": "laa",
+    "name": "Hector Neris",
+    "position": "Relief Pitcher",
+    "jersey": "54",
+    "height": "6' 2\"",
+    "weight": "227 lbs",
+    "age": 35
+  },
+  {
+    "team": "laa",
+    "name": "Jose Soriano",
+    "position": "Starting Pitcher",
+    "jersey": "59",
+    "height": "6' 3\"",
+    "weight": "220 lbs",
+    "age": 26
+  },
+  {
+    "team": "laa",
+    "name": "Hunter Strickland",
+    "position": "Relief Pitcher",
+    "jersey": "60",
+    "height": "6' 3\"",
+    "weight": "225 lbs",
+    "age": 36
+  },
+  {
+    "team": "laa",
+    "name": "Ryan Zeferjahn",
+    "position": "Relief Pitcher",
+    "jersey": "56",
+    "height": "6' 5\"",
+    "weight": "209 lbs",
+    "age": 27
+  },
+  {
+    "team": "laa",
+    "name": "Travis d'Arnaud",
+    "position": "Catcher",
+    "jersey": "25",
+    "height": "6' 0\"",
+    "weight": "210 lbs",
+    "age": 36
+  },
+  {
+    "team": "laa",
+    "name": "Logan O'Hoppe",
+    "position": "Catcher",
+    "jersey": "14",
+    "height": "6' 2\"",
+    "weight": "185 lbs",
+    "age": 25
+  },
+  {
+    "team": "laa",
+    "name": "Tim Anderson",
+    "position": "Shortstop",
+    "jersey": "77",
+    "height": "6' 0\"",
+    "weight": "185 lbs",
+    "age": 31
+  },
+  {
+    "team": "laa",
+    "name": "Yoan Moncada",
+    "position": "Third Base",
+    "jersey": "5",
+    "height": "6' 0\"",
+    "weight": "220 lbs",
+    "age": 29
+  },
+  {
+    "team": "laa",
+    "name": "Zach Neto",
+    "position": "Shortstop",
+    "jersey": "9",
+    "height": "5' 11\"",
+    "weight": "185 lbs",
+    "age": 24
+  },
+  {
+    "team": "laa",
+    "name": "Kevin Newman",
+    "position": "Shortstop",
+    "jersey": "10",
+    "height": "6' 1\"",
+    "weight": "195 lbs",
+    "age": 31
+  },
+  {
+    "team": "laa",
+    "name": "Kyren Paris",
+    "position": "Second Base",
+    "jersey": "19",
+    "height": "5' 11\"",
+    "weight": "180 lbs",
+    "age": 23
+  },
+  {
+    "team": "laa",
+    "name": "Luis Rengifo",
+    "position": "Third Base",
+    "jersey": "2",
+    "height": "5' 10\"",
+    "weight": "195 lbs",
+    "age": 28
+  },
+  {
+    "team": "laa",
+    "name": "Nolan Schanuel",
+    "position": "First Base",
+    "jersey": "18",
+    "height": "6' 2\"",
+    "weight": "220 lbs",
+    "age": 23
+  },
+  {
+    "team": "laa",
+    "name": "Jo Adell",
+    "position": "Center Field",
+    "jersey": "7",
+    "height": "6' 2\"",
+    "weight": "215 lbs",
+    "age": 26
+  },
+  {
+    "team": "laa",
+    "name": "Matthew Lugo",
+    "position": "Left Field",
+    "jersey": "15",
+    "height": "6' 0\"",
+    "weight": "190 lbs",
+    "age": 24
+  },
+  {
+    "team": "laa",
+    "name": "Jorge Soler",
+    "position": "Right Field",
+    "jersey": "12",
+    "height": "6' 4\"",
+    "weight": "235 lbs",
+    "age": 33
+  },
+  {
+    "team": "laa",
+    "name": "Taylor Ward",
+    "position": "Left Field",
+    "jersey": "3",
+    "height": "6' 0\"",
+    "weight": "200 lbs",
+    "age": 31
+  },
+  {
+    "team": "lad",
+    "name": "Anthony Banda",
+    "position": "Relief Pitcher",
+    "jersey": "43",
+    "height": "6' 2\"",
+    "weight": "221 lbs",
+    "age": 31
+  },
+  {
+    "team": "lad",
+    "name": "Ben Casparius",
+    "position": "Relief Pitcher",
+    "jersey": "78",
+    "height": "6' 2\"",
+    "weight": "215 lbs",
+    "age": 26
+  },
+  {
+    "team": "lad",
+    "name": "Jack Dreyer",
+    "position": "Relief Pitcher",
+    "jersey": "86",
+    "height": "6' 2\"",
+    "weight": "205 lbs",
+    "age": 26
+  },
+  {
+    "team": "lad",
+    "name": "Luis Garcia",
+    "position": "Relief Pitcher",
+    "jersey": "57",
+    "height": "6' 2\"",
+    "weight": "240 lbs",
+    "age": 38
+  },
+  {
+    "team": "lad",
+    "name": "Tony Gonsolin",
+    "position": "Starting Pitcher",
+    "jersey": "26",
+    "height": "6' 3\"",
+    "weight": "205 lbs",
+    "age": 31
+  },
+  {
+    "team": "lad",
+    "name": "Clayton Kershaw",
+    "position": "Starting Pitcher",
+    "jersey": "22",
+    "height": "6' 4\"",
+    "weight": "225 lbs",
+    "age": 37
+  },
+  {
+    "team": "lad",
+    "name": "Landon Knack",
+    "position": "Starting Pitcher",
+    "jersey": "96",
+    "height": "6' 2\"",
+    "weight": "220 lbs",
+    "age": 27
+  },
+  {
+    "team": "lad",
+    "name": "Dustin May",
+    "position": "Starting Pitcher",
+    "jersey": "85",
+    "height": "6' 6\"",
+    "weight": "180 lbs",
+    "age": 27
+  },
+  {
+    "team": "lad",
+    "name": "Matt Sauer",
+    "position": "Relief Pitcher",
+    "jersey": "64",
+    "height": "6' 4\"",
+    "weight": "230 lbs",
+    "age": 26
+  },
+  {
+    "team": "lad",
+    "name": "Tanner Scott",
+    "position": "Relief Pitcher",
+    "jersey": "66",
+    "height": "6' 0\"",
+    "weight": "235 lbs",
+    "age": 30
+  },
+  {
+    "team": "lad",
+    "name": "Lou Trivino",
+    "position": "Relief Pitcher",
+    "jersey": "58",
+    "height": "6' 5\"",
+    "weight": "232 lbs",
+    "age": 33
+  },
+  {
+    "team": "lad",
+    "name": "Alex Vesia",
+    "position": "Relief Pitcher",
+    "jersey": "51",
+    "height": "6' 1\"",
+    "weight": "209 lbs",
+    "age": 29
+  },
+  {
+    "team": "lad",
+    "name": "Yoshinobu Yamamoto",
+    "position": "Starting Pitcher",
+    "jersey": "18",
+    "height": "5' 10\"",
+    "weight": "176 lbs",
+    "age": 26
+  },
+  {
+    "team": "lad",
+    "name": "Dalton Rushing",
+    "position": "Catcher",
+    "jersey": "68",
+    "height": "5' 11\"",
+    "weight": "220 lbs",
+    "age": 24
+  },
+  {
+    "team": "lad",
+    "name": "Will Smith",
+    "position": "Catcher",
+    "jersey": "16",
+    "height": "5' 10\"",
+    "weight": "195 lbs",
+    "age": 30
+  },
+  {
+    "team": "lad",
+    "name": "Mookie Betts",
+    "position": "Shortstop",
+    "jersey": "50",
+    "height": "5' 10\"",
+    "weight": "180 lbs",
+    "age": 32
+  },
+  {
+    "team": "lad",
+    "name": "Tommy Edman",
+    "position": "Second Base",
+    "jersey": "25",
+    "height": "5' 9\"",
+    "weight": "193 lbs",
+    "age": 30
+  },
+  {
+    "team": "lad",
+    "name": "Freddie Freeman",
+    "position": "First Base",
+    "jersey": "5",
+    "height": "6' 4\"",
+    "weight": "220 lbs",
+    "age": 35
+  },
+  {
+    "team": "lad",
+    "name": "Enrique Hernandez",
+    "position": "First Base",
+    "jersey": "8",
+    "height": "5' 10\"",
+    "weight": "195 lbs",
+    "age": 33
+  },
+  {
+    "team": "lad",
+    "name": "Hyeseong Kim",
+    "position": "Second Base",
+    "jersey": "6",
+    "height": "5' 10\"",
+    "weight": "175 lbs",
+    "age": 26
+  },
+  {
+    "team": "lad",
+    "name": "Max Muncy",
+    "position": "Third Base",
+    "jersey": "13",
+    "height": "5' 10\"",
+    "weight": "215 lbs",
+    "age": 34
+  },
+  {
+    "team": "lad",
+    "name": "Miguel Rojas",
+    "position": "Second Base",
+    "jersey": "72",
+    "height": "5' 11\"",
+    "weight": "188 lbs",
+    "age": 36
+  },
+  {
+    "team": "lad",
+    "name": "Michael Conforto",
+    "position": "Left Field",
+    "jersey": "23",
+    "height": "5' 11\"",
+    "weight": "215 lbs",
+    "age": 32
+  },
+  {
+    "team": "lad",
+    "name": "Teoscar Hernandez",
+    "position": "Right Field",
+    "jersey": "37",
+    "height": "6' 0\"",
+    "weight": "215 lbs",
+    "age": 32
+  },
+  {
+    "team": "lad",
+    "name": "Andy Pages",
+    "position": "Center Field",
+    "jersey": "44",
+    "height": "6' 1\"",
+    "weight": "212 lbs",
+    "age": 24
+  },
+  {
+    "team": "lad",
+    "name": "Shohei Ohtani",
+    "position": "Designated Hitter",
+    "jersey": "17",
+    "height": "6' 3\"",
+    "weight": "210 lbs",
+    "age": 30
+  },
+  {
+    "team": "mia",
+    "name": "Sandy Alcantara",
+    "position": "Starting Pitcher",
+    "jersey": "22",
+    "height": "6' 5\"",
+    "weight": "200 lbs",
+    "age": 29
+  },
+  {
+    "team": "mia",
+    "name": "Lake Bachar",
+    "position": "Relief Pitcher",
+    "jersey": "84",
+    "height": "6' 2\"",
+    "weight": "219 lbs",
+    "age": 29
+  },
+  {
+    "team": "mia",
+    "name": "Valente Bellozo",
+    "position": "Starting Pitcher",
+    "jersey": "83",
+    "height": "5' 10\"",
+    "weight": "208 lbs",
+    "age": 25
+  },
+  {
+    "team": "mia",
+    "name": "Anthony Bender",
+    "position": "Relief Pitcher",
+    "jersey": "37",
+    "height": "6' 4\"",
+    "weight": "205 lbs",
+    "age": 30
+  },
+  {
+    "team": "mia",
+    "name": "Edward Cabrera",
+    "position": "Starting Pitcher",
+    "jersey": "27",
+    "height": "6' 5\"",
+    "weight": "217 lbs",
+    "age": 27
+  },
+  {
+    "team": "mia",
+    "name": "Calvin Faucher",
+    "position": "Relief Pitcher",
+    "jersey": "53",
+    "height": "6' 1\"",
+    "weight": "190 lbs",
+    "age": 29
+  },
+  {
+    "team": "mia",
+    "name": "Cade Gibson",
+    "position": "Relief Pitcher",
+    "jersey": "58",
+    "height": "6' 2\"",
+    "weight": "195 lbs",
+    "age": 27
+  },
+  {
+    "team": "mia",
+    "name": "Ronny Henriquez",
+    "position": "Relief Pitcher",
+    "jersey": "32",
+    "height": "5' 10\"",
+    "weight": "155 lbs",
+    "age": 24
+  },
+  {
+    "team": "mia",
+    "name": "Max Meyer",
+    "position": "Starting Pitcher",
+    "jersey": "23",
+    "height": "6' 0\"",
+    "weight": "196 lbs",
+    "age": 26
+  },
+  {
+    "team": "mia",
+    "name": "Tyler Phillips",
+    "position": "Relief Pitcher",
+    "jersey": "30",
+    "height": "6' 5\"",
+    "weight": "225 lbs",
+    "age": 27
+  },
+  {
+    "team": "mia",
+    "name": "Cal Quantrill",
+    "position": "Starting Pitcher",
+    "jersey": "47",
+    "height": "6' 3\"",
+    "weight": "195 lbs",
+    "age": 30
+  },
+  {
+    "team": "mia",
+    "name": "Jesus Tinoco",
+    "position": "Relief Pitcher",
+    "jersey": "38",
+    "height": "6' 4\"",
+    "weight": "258 lbs",
+    "age": 30
+  },
+  {
+    "team": "mia",
+    "name": "Ryan Weathers",
+    "position": "Starting Pitcher",
+    "jersey": "35",
+    "height": "6' 1\"",
+    "weight": "230 lbs",
+    "age": 25
+  },
+  {
+    "team": "mia",
+    "name": "Nick Fortes",
+    "position": "Catcher",
+    "jersey": "4",
+    "height": "5' 11\"",
+    "weight": "198 lbs",
+    "age": 28
+  },
+  {
+    "team": "mia",
+    "name": "Liam Hicks",
+    "position": "Catcher",
+    "jersey": "34",
+    "height": "5' 9\"",
+    "weight": "185 lbs",
+    "age": 25
+  },
+  {
+    "team": "mia",
+    "name": "Agustin Ramirez",
+    "position": "Catcher",
+    "jersey": "50",
+    "height": "6' 1\"",
+    "weight": "210 lbs",
+    "age": 23
+  },
+  {
+    "team": "mia",
+    "name": "Otto Lopez",
+    "position": "Second Base",
+    "jersey": "6",
+    "height": "5' 10\"",
+    "weight": "185 lbs",
+    "age": 26
+  },
+  {
+    "team": "mia",
+    "name": "Matt Mervis",
+    "position": "First Base",
+    "jersey": "36",
+    "height": "6' 2\"",
+    "weight": "225 lbs",
+    "age": 27
+  },
+  {
+    "team": "mia",
+    "name": "Connor Norby",
+    "position": "Third Base",
+    "jersey": "1",
+    "height": "5' 10\"",
+    "weight": "180 lbs",
+    "age": 24
+  },
+  {
+    "team": "mia",
+    "name": "Graham Pauley",
+    "position": "Third Base",
+    "jersey": "21",
+    "height": "6' 1\"",
+    "weight": "200 lbs",
+    "age": 24
+  },
+  {
+    "team": "mia",
+    "name": "Javier Sanoja",
+    "position": "Second Base",
+    "jersey": "46",
+    "height": "5' 7\"",
+    "weight": "150 lbs",
+    "age": 22
+  },
+  {
+    "team": "mia",
+    "name": "Eric Wagaman",
+    "position": "First Base",
+    "jersey": "33",
+    "height": "6' 4\"",
+    "weight": "210 lbs",
+    "age": 27
+  },
+  {
+    "team": "mia",
+    "name": "Derek Hill",
+    "position": "Center Field",
+    "jersey": "3",
+    "height": "6' 0\"",
+    "weight": "206 lbs",
+    "age": 29
+  },
+  {
+    "team": "mia",
+    "name": "Jesus Sanchez",
+    "position": "Right Field",
+    "jersey": "7",
+    "height": "6' 4\"",
+    "weight": "222 lbs",
+    "age": 27
+  },
+  {
+    "team": "mia",
+    "name": "Ronny Simon",
+    "position": "Left Field",
+    "jersey": "41",
+    "height": "5' 8\"",
+    "weight": "150 lbs",
+    "age": 25
+  },
+  {
+    "team": "mia",
+    "name": "Kyle Stowers",
+    "position": "Right Field",
+    "jersey": "28",
+    "height": "6' 2\"",
+    "weight": "215 lbs",
+    "age": 27
+  },
+  {
+    "team": "mil",
+    "name": "Tyler Alexander",
+    "position": "Relief Pitcher",
+    "jersey": "33",
+    "height": "6' 1\"",
+    "weight": "214 lbs",
+    "age": 30
+  },
+  {
+    "team": "mil",
+    "name": "Grant Anderson",
+    "position": "Relief Pitcher",
+    "jersey": "56",
+    "height": "6' 0\"",
+    "weight": "204 lbs",
+    "age": 27
+  },
+  {
+    "team": "mil",
+    "name": "Logan Henderson",
+    "position": "Starting Pitcher",
+    "jersey": "43",
+    "height": "6' 0\"",
+    "weight": "209 lbs",
+    "age": 23
+  },
+  {
+    "team": "mil",
+    "name": "Jared Koenig",
+    "position": "Relief Pitcher",
+    "jersey": "47",
+    "height": "6' 5\"",
+    "weight": "248 lbs",
+    "age": 31
+  },
+  {
+    "team": "mil",
+    "name": "Easton McGee",
+    "position": "Starting Pitcher",
+    "jersey": "50",
+    "height": "6' 7\"",
+    "weight": "217 lbs",
+    "age": 27
+  },
+  {
+    "team": "mil",
+    "name": "Nick Mears",
+    "position": "Relief Pitcher",
+    "jersey": "25",
+    "height": "6' 3\"",
+    "weight": "217 lbs",
+    "age": 28
+  },
+  {
+    "team": "mil",
+    "name": "Trevor Megill",
+    "position": "Relief Pitcher",
+    "jersey": "29",
+    "height": "6' 8\"",
+    "weight": "249 lbs",
+    "age": 31
+  },
+  {
+    "team": "mil",
+    "name": "Chad Patrick",
+    "position": "Starting Pitcher",
+    "jersey": "39",
+    "height": "6' 1\"",
+    "weight": "217 lbs",
+    "age": 26
+  },
+  {
+    "team": "mil",
+    "name": "Joel Payamps",
+    "position": "Relief Pitcher",
+    "jersey": "31",
+    "height": "6' 3\"",
+    "weight": "214 lbs",
+    "age": 31
+  },
+  {
+    "team": "mil",
+    "name": "Freddy Peralta",
+    "position": "Starting Pitcher",
+    "jersey": "51",
+    "height": "6' 0\"",
+    "weight": "198 lbs",
+    "age": 28
+  },
+  {
+    "team": "mil",
+    "name": "Quinn Priester",
+    "position": "Starting Pitcher",
+    "jersey": "46",
+    "height": "6' 3\"",
+    "weight": "210 lbs",
+    "age": 24
+  },
+  {
+    "team": "mil",
+    "name": "Abner Uribe",
+    "position": "Relief Pitcher",
+    "jersey": "45",
+    "height": "6' 3\"",
+    "weight": "210 lbs",
+    "age": 24
+  },
+  {
+    "team": "mil",
+    "name": "Rob Zastryzny",
+    "position": "Relief Pitcher",
+    "jersey": "58",
+    "height": "6' 3\"",
+    "weight": "205 lbs",
+    "age": 33
+  },
+  {
+    "team": "mil",
+    "name": "William Contreras",
+    "position": "Catcher",
+    "jersey": "24",
+    "height": "5' 10\"",
+    "weight": "218 lbs",
+    "age": 27
+  },
+  {
+    "team": "mil",
+    "name": "Eric Haase",
+    "position": "Catcher",
+    "jersey": "13",
+    "height": "5' 10\"",
+    "weight": "204 lbs",
+    "age": 32
+  },
+  {
+    "team": "mil",
+    "name": "Jake Bauers",
+    "position": "First Base",
+    "jersey": "9",
+    "height": "6' 0\"",
+    "weight": "203 lbs",
+    "age": 29
+  },
+  {
+    "team": "mil",
+    "name": "Caleb Durbin",
+    "position": "Third Base",
+    "jersey": "21",
+    "height": "5' 7\"",
+    "weight": "183 lbs",
+    "age": 25
+  },
+  {
+    "team": "mil",
+    "name": "Rhys Hoskins",
+    "position": "First Base",
+    "jersey": "12",
+    "height": "6' 3\"",
+    "weight": "241 lbs",
+    "age": 32
+  },
+  {
+    "team": "mil",
+    "name": "Andruw Monasterio",
+    "position": "Shortstop",
+    "jersey": "14",
+    "height": "5' 11\"",
+    "weight": "195 lbs",
+    "age": 27
+  },
+  {
+    "team": "mil",
+    "name": "Joey Ortiz",
+    "position": "Shortstop",
+    "jersey": "3",
+    "height": "5' 10\"",
+    "weight": "183 lbs",
+    "age": 26
+  },
+  {
+    "team": "mil",
+    "name": "Brice Turang",
+    "position": "Second Base",
+    "jersey": "2",
+    "height": "5' 11\"",
+    "weight": "190 lbs",
+    "age": 25
+  },
+  {
+    "team": "mil",
+    "name": "Daz Cameron",
+    "position": "Right Field",
+    "jersey": "20",
+    "height": "6' 0\"",
+    "weight": "185 lbs",
+    "age": 28
+  },
+  {
+    "team": "mil",
+    "name": "Jackson Chourio",
+    "position": "Left Field",
+    "jersey": "11",
+    "height": "6' 0\"",
+    "weight": "204 lbs",
+    "age": 21
+  },
+  {
+    "team": "mil",
+    "name": "Isaac Collins",
+    "position": "Left Field",
+    "jersey": "6",
+    "height": "5' 8\"",
+    "weight": "188 lbs",
+    "age": 27
+  },
+  {
+    "team": "mil",
+    "name": "Sal Frelick",
+    "position": "Right Field",
+    "jersey": "10",
+    "height": "5' 8\"",
+    "weight": "188 lbs",
+    "age": 25
+  },
+  {
+    "team": "mil",
+    "name": "Christian Yelich",
+    "position": "Left Field",
+    "jersey": "22",
+    "height": "6' 3\"",
+    "weight": "203 lbs",
+    "age": 33
+  },
+  {
+    "team": "min",
+    "name": "Jorge Alcala",
+    "position": "Relief Pitcher",
+    "jersey": "66",
+    "height": "6' 3\"",
+    "weight": "205 lbs",
+    "age": 29
+  },
+  {
+    "team": "min",
+    "name": "Jhoan Duran",
+    "position": "Relief Pitcher",
+    "jersey": "59",
+    "height": "6' 5\"",
+    "weight": "230 lbs",
+    "age": 27
+  },
+  {
+    "team": "min",
+    "name": "Kody Funderburk",
+    "position": "Relief Pitcher",
+    "jersey": "55",
+    "height": "6' 4\"",
+    "weight": "230 lbs",
+    "age": 28
+  },
+  {
+    "team": "min",
+    "name": "Griffin Jax",
+    "position": "Relief Pitcher",
+    "jersey": "22",
+    "height": "6' 2\"",
+    "weight": "195 lbs",
+    "age": 30
+  },
+  {
+    "team": "min",
+    "name": "Pablo Lopez",
+    "position": "Starting Pitcher",
+    "jersey": "49",
+    "height": "6' 4\"",
+    "weight": "225 lbs",
+    "age": 29
+  },
+  {
+    "team": "min",
+    "name": "Zebby Matthews",
+    "position": "Starting Pitcher",
+    "jersey": "52",
+    "height": "6' 5\"",
+    "weight": "225 lbs",
+    "age": 24
+  },
+  {
+    "team": "min",
+    "name": "Bailey Ober",
+    "position": "Starting Pitcher",
+    "jersey": "17",
+    "height": "6' 9\"",
+    "weight": "260 lbs",
+    "age": 29
+  },
+  {
+    "team": "min",
+    "name": "Chris Paddack",
+    "position": "Starting Pitcher",
+    "jersey": "20",
+    "height": "6' 5\"",
+    "weight": "217 lbs",
+    "age": 29
+  },
+  {
+    "team": "min",
+    "name": "Joe Ryan",
+    "position": "Starting Pitcher",
+    "jersey": "41",
+    "height": "6' 2\"",
+    "weight": "205 lbs",
+    "age": 28
+  },
+  {
+    "team": "min",
+    "name": "Cole Sands",
+    "position": "Relief Pitcher",
+    "jersey": "44",
+    "height": "6' 3\"",
+    "weight": "215 lbs",
+    "age": 27
+  },
+  {
+    "team": "min",
+    "name": "Brock Stewart",
+    "position": "Relief Pitcher",
+    "jersey": "61",
+    "height": "6' 3\"",
+    "weight": "220 lbs",
+    "age": 33
+  },
+  {
+    "team": "min",
+    "name": "Justin Topa",
+    "position": "Relief Pitcher",
+    "jersey": "48",
+    "height": "6' 4\"",
+    "weight": "200 lbs",
+    "age": 34
+  },
+  {
+    "team": "min",
+    "name": "Louis Varland",
+    "position": "Relief Pitcher",
+    "jersey": "37",
+    "height": "6' 1\"",
+    "weight": "205 lbs",
+    "age": 27
+  },
+  {
+    "team": "min",
+    "name": "Ryan Jeffers",
+    "position": "Catcher",
+    "jersey": "27",
+    "height": "6' 3\"",
+    "weight": "235 lbs",
+    "age": 27
+  },
+  {
+    "team": "min",
+    "name": "Christian Vazquez",
+    "position": "Catcher",
+    "jersey": "8",
+    "height": "5' 8\"",
+    "weight": "205 lbs",
+    "age": 34
+  },
+  {
+    "team": "min",
+    "name": "Jonah Bride",
+    "position": "Third Base",
+    "jersey": "31",
+    "height": "5' 11\"",
+    "weight": "200 lbs",
+    "age": 29
+  },
+  {
+    "team": "min",
+    "name": "Willi Castro",
+    "position": "Second Base",
+    "jersey": "50",
+    "height": "6' 0\"",
+    "weight": "206 lbs",
+    "age": 28
+  },
+  {
+    "team": "min",
+    "name": "Kody Clemens",
+    "position": "Second Base",
+    "jersey": "18",
+    "height": "6' 0\"",
+    "weight": "200 lbs",
+    "age": 29
+  },
+  {
+    "team": "min",
+    "name": "Ryan Fitzgerald",
+    "position": "Third Base",
+    "jersey": "53",
+    "height": "5' 10\"",
+    "weight": "186 lbs",
+    "age": 30
+  },
+  {
+    "team": "min",
+    "name": "Ty France",
+    "position": "First Base",
+    "jersey": "13",
+    "height": "5' 11\"",
+    "weight": "215 lbs",
+    "age": 30
+  },
+  {
+    "team": "min",
+    "name": "Brooks Lee",
+    "position": "Third Base",
+    "jersey": "2",
+    "height": "6' 1\"",
+    "weight": "205 lbs",
+    "age": 24
+  },
+  {
+    "team": "min",
+    "name": "Royce Lewis",
+    "position": "Third Base",
+    "jersey": "23",
+    "height": "6' 0\"",
+    "weight": "200 lbs",
+    "age": 25
+  },
+  {
+    "team": "min",
+    "name": "Harrison Bader",
+    "position": "Left Field",
+    "jersey": "12",
+    "height": "5' 11\"",
+    "weight": "210 lbs",
+    "age": 30
+  },
+  {
+    "team": "min",
+    "name": "DaShawn Keirsey Jr.",
+    "position": "Right Field",
+    "jersey": "21",
+    "height": "6' 0\"",
+    "weight": "195 lbs",
+    "age": 28
+  },
+  {
+    "team": "min",
+    "name": "Trevor Larnach",
+    "position": "Right Field",
+    "jersey": "9",
+    "height": "6' 3\"",
+    "weight": "223 lbs",
+    "age": 28
+  },
+  {
+    "team": "min",
+    "name": "Carson McCusker",
+    "position": "Left Field",
+    "jersey": "60",
+    "height": "6' 8\"",
+    "weight": "250 lbs",
+    "age": 26
+  },
+  {
+    "team": "nym",
+    "name": "Huascar Brazoban",
+    "position": "Relief Pitcher",
+    "jersey": "43",
+    "height": "6' 3\"",
+    "weight": "155 lbs",
+    "age": 35
+  },
+  {
+    "team": "nym",
+    "name": "Jose Butto",
+    "position": "Relief Pitcher",
+    "jersey": "70",
+    "height": "6' 1\"",
+    "weight": "202 lbs",
+    "age": 27
+  },
+  {
+    "team": "nym",
+    "name": "Genesis Cabrera",
+    "position": "Relief Pitcher",
+    "jersey": "92",
+    "height": "6' 2\"",
+    "weight": "180 lbs",
+    "age": 28
+  },
+  {
+    "team": "nym",
+    "name": "Griffin Canning",
+    "position": "Starting Pitcher",
+    "jersey": "46",
+    "height": "6' 2\"",
+    "weight": "180 lbs",
+    "age": 29
+  },
+  {
+    "team": "nym",
+    "name": "Jose Castillo",
+    "position": "Relief Pitcher",
+    "jersey": "54",
+    "height": "6' 6\"",
+    "weight": "252 lbs",
+    "age": 29
+  },
+  {
+    "team": "nym",
+    "name": "Edwin Diaz",
+    "position": "Relief Pitcher",
+    "jersey": "39",
+    "height": "6' 3\"",
+    "weight": "165 lbs",
+    "age": 31
+  },
+  {
+    "team": "nym",
+    "name": "Reed Garrett",
+    "position": "Relief Pitcher",
+    "jersey": "75",
+    "height": "6' 2\"",
+    "weight": "195 lbs",
+    "age": 32
+  },
+  {
+    "team": "nym",
+    "name": "Clay Holmes",
+    "position": "Starting Pitcher",
+    "jersey": "35",
+    "height": "6' 5\"",
+    "weight": "245 lbs",
+    "age": 32
+  },
+  {
+    "team": "nym",
+    "name": "Max Kranick",
+    "position": "Relief Pitcher",
+    "jersey": "32",
+    "height": "6' 3\"",
+    "weight": "220 lbs",
+    "age": 27
+  },
+  {
+    "team": "nym",
+    "name": "Tylor Megill",
+    "position": "Starting Pitcher",
+    "jersey": "38",
+    "height": "6' 7\"",
+    "weight": "230 lbs",
+    "age": 29
+  },
+  {
+    "team": "nym",
+    "name": "David Peterson",
+    "position": "Starting Pitcher",
+    "jersey": "23",
+    "height": "6' 6\"",
+    "weight": "240 lbs",
+    "age": 29
+  },
+  {
+    "team": "nym",
+    "name": "Kodai Senga",
+    "position": "Starting Pitcher",
+    "jersey": "34",
+    "height": "6' 1\"",
+    "weight": "202 lbs",
+    "age": 32
+  },
+  {
+    "team": "nym",
+    "name": "Ryne Stanek",
+    "position": "Relief Pitcher",
+    "jersey": "55",
+    "height": "6' 4\"",
+    "weight": "226 lbs",
+    "age": 33
+  },
+  {
+    "team": "nym",
+    "name": "Francisco Alvarez",
+    "position": "Catcher",
+    "jersey": "4",
+    "height": "5' 10\"",
+    "weight": "233 lbs",
+    "age": 23
+  },
+  {
+    "team": "nym",
+    "name": "Luis Torrens",
+    "position": "Catcher",
+    "jersey": "13",
+    "height": "5' 11\"",
+    "weight": "217 lbs",
+    "age": 29
+  },
+  {
+    "team": "nym",
+    "name": "Luisangel Acuna",
+    "position": "Second Base",
+    "jersey": "2",
+    "height": "5' 8\"",
+    "weight": "181 lbs",
+    "age": 23
+  },
+  {
+    "team": "nym",
+    "name": "Pete Alonso",
+    "position": "First Base",
+    "jersey": "20",
+    "height": "6' 3\"",
+    "weight": "245 lbs",
+    "age": 30
+  },
+  {
+    "team": "nym",
+    "name": "Brett Baty",
+    "position": "Second Base",
+    "jersey": "7",
+    "height": "6' 3\"",
+    "weight": "210 lbs",
+    "age": 25
+  },
+  {
+    "team": "nym",
+    "name": "Francisco Lindor",
+    "position": "Shortstop",
+    "jersey": "12",
+    "height": "5' 10\"",
+    "weight": "190 lbs",
+    "age": 31
+  },
+  {
+    "team": "nym",
+    "name": "Jeff McNeil",
+    "position": "Second Base",
+    "jersey": "1",
+    "height": "6' 0\"",
+    "weight": "195 lbs",
+    "age": 33
+  },
+  {
+    "team": "nym",
+    "name": "Mark Vientos",
+    "position": "Third Base",
+    "jersey": "27",
+    "height": "6' 3\"",
+    "weight": "185 lbs",
+    "age": 25
+  },
+  {
+    "team": "nym",
+    "name": "Jose Azocar",
+    "position": "Left Field",
+    "jersey": "28",
+    "height": "5' 11\"",
+    "weight": "181 lbs",
+    "age": 29
+  },
+  {
+    "team": "nym",
+    "name": "Starling Marte",
+    "position": "Right Field",
+    "jersey": "6",
+    "height": "6' 0\"",
+    "weight": "195 lbs",
+    "age": 36
+  },
+  {
+    "team": "nym",
+    "name": "Brandon Nimmo",
+    "position": "Left Field",
+    "jersey": "9",
+    "height": "6' 2\"",
+    "weight": "206 lbs",
+    "age": 32
+  },
+  {
+    "team": "nym",
+    "name": "Juan Soto",
+    "position": "Right Field",
+    "jersey": "22",
+    "height": "6' 1\"",
+    "weight": "224 lbs",
+    "age": 26
+  },
+  {
+    "team": "nym",
+    "name": "Tyrone Taylor",
+    "position": "Center Field",
+    "jersey": "15",
+    "height": "6' 1\"",
+    "weight": "218 lbs",
+    "age": 31
+  },
+  {
+    "team": "nyy",
+    "name": "Fernando Cruz",
+    "position": "Relief Pitcher",
+    "jersey": "63",
+    "height": "6' 2\"",
+    "weight": "237 lbs",
+    "age": 35
+  },
+  {
+    "team": "nyy",
+    "name": "Yerry De los Santos",
+    "position": "Relief Pitcher",
+    "jersey": "73",
+    "height": "6' 2\"",
+    "weight": "210 lbs",
+    "age": 27
+  },
+  {
+    "team": "nyy",
+    "name": "Max Fried",
+    "position": "Starting Pitcher",
+    "jersey": "54",
+    "height": "6' 4\"",
+    "weight": "190 lbs",
+    "age": 31
+  },
+  {
+    "team": "nyy",
+    "name": "Ian Hamilton",
+    "position": "Relief Pitcher",
+    "jersey": "71",
+    "height": "6' 1\"",
+    "weight": "200 lbs",
+    "age": 29
+  },
+  {
+    "team": "nyy",
+    "name": "Tim Hill",
+    "position": "Relief Pitcher",
+    "jersey": "41",
+    "height": "6' 4\"",
+    "weight": "210 lbs",
+    "age": 35
+  },
+  {
+    "team": "nyy",
+    "name": "Mark Leiter Jr.",
+    "position": "Relief Pitcher",
+    "jersey": "56",
+    "height": "6' 0\"",
+    "weight": "210 lbs",
+    "age": 34
+  },
+  {
+    "team": "nyy",
+    "name": "Jonathan Loaisiga",
+    "position": "Relief Pitcher",
+    "jersey": "43",
+    "height": "5' 11\"",
+    "weight": "195 lbs",
+    "age": 30
+  },
+  {
+    "team": "nyy",
+    "name": "Carlos Rodon",
+    "position": "Starting Pitcher",
+    "jersey": "55",
+    "height": "6' 2\"",
+    "weight": "255 lbs",
+    "age": 32
+  },
+  {
+    "team": "nyy",
+    "name": "Clarke Schmidt",
+    "position": "Starting Pitcher",
+    "jersey": "36",
+    "height": "6' 1\"",
+    "weight": "200 lbs",
+    "age": 29
+  },
+  {
+    "team": "nyy",
+    "name": "Will Warren",
+    "position": "Starting Pitcher",
+    "jersey": "98",
+    "height": "6' 2\"",
+    "weight": "200 lbs",
+    "age": 25
+  },
+  {
+    "team": "nyy",
+    "name": "Luke Weaver",
+    "position": "Relief Pitcher",
+    "jersey": "30",
+    "height": "6' 2\"",
+    "weight": "180 lbs",
+    "age": 31
+  },
+  {
+    "team": "nyy",
+    "name": "Devin Williams",
+    "position": "Relief Pitcher",
+    "jersey": "38",
+    "height": "6' 2\"",
+    "weight": "193 lbs",
+    "age": 30
+  },
+  {
+    "team": "nyy",
+    "name": "Ryan Yarbrough",
+    "position": "Relief Pitcher",
+    "jersey": "33",
+    "height": "6' 5\"",
+    "weight": "215 lbs",
+    "age": 33
+  },
+  {
+    "team": "nyy",
+    "name": "J.C. Escarra",
+    "position": "Catcher",
+    "jersey": "25",
+    "height": "6' 2\"",
+    "weight": "220 lbs",
+    "age": 30
+  },
+  {
+    "team": "nyy",
+    "name": "Austin Wells",
+    "position": "Catcher",
+    "jersey": "28",
+    "height": "6' 1\"",
+    "weight": "220 lbs",
+    "age": 25
+  },
+  {
+    "team": "nyy",
+    "name": "Paul Goldschmidt",
+    "position": "First Base",
+    "jersey": "48",
+    "height": "6' 2\"",
+    "weight": "225 lbs",
+    "age": 37
+  },
+  {
+    "team": "nyy",
+    "name": "DJ LeMahieu",
+    "position": "Second Base",
+    "jersey": "26",
+    "height": "6' 3\"",
+    "weight": "220 lbs",
+    "age": 36
+  },
+  {
+    "team": "nyy",
+    "name": "Oswald Peraza",
+    "position": "Third Base",
+    "jersey": "18",
+    "height": "5' 11\"",
+    "weight": "200 lbs",
+    "age": 24
+  },
+  {
+    "team": "nyy",
+    "name": "Pablo Reyes",
+    "position": "Second Base",
+    "jersey": "19",
+    "height": "5' 8\"",
+    "weight": "175 lbs",
+    "age": 31
+  },
+  {
+    "team": "nyy",
+    "name": "Ben Rice",
+    "position": "First Base",
+    "jersey": "22",
+    "height": "6' 2\"",
+    "weight": "228 lbs",
+    "age": 26
+  },
+  {
+    "team": "nyy",
+    "name": "Jorbit Vivas",
+    "position": "Second Base",
+    "jersey": "90",
+    "height": "5' 9\"",
+    "weight": "171 lbs",
+    "age": 24
+  },
+  {
+    "team": "nyy",
+    "name": "Anthony Volpe",
+    "position": "Shortstop",
+    "jersey": "11",
+    "height": "5' 10\"",
+    "weight": "197 lbs",
+    "age": 24
+  },
+  {
+    "team": "nyy",
+    "name": "Cody Bellinger",
+    "position": "Left Field",
+    "jersey": "35",
+    "height": "6' 3\"",
+    "weight": "204 lbs",
+    "age": 29
+  },
+  {
+    "team": "nyy",
+    "name": "Jasson Dominguez",
+    "position": "Left Field",
+    "jersey": "24",
+    "height": "5' 9\"",
+    "weight": "218 lbs",
+    "age": 22
+  },
+  {
+    "team": "nyy",
+    "name": "Trent Grisham",
+    "position": "Center Field",
+    "jersey": "12",
+    "height": "5' 10\"",
+    "weight": "221 lbs",
+    "age": 28
+  },
+  {
+    "team": "nyy",
+    "name": "Aaron Judge",
+    "position": "Right Field",
+    "jersey": "99",
+    "height": "6' 7\"",
+    "weight": "282 lbs",
+    "age": 33
+  },
+  {
+    "team": "phi",
+    "name": "Jose Alvarado",
+    "position": "Relief Pitcher",
+    "jersey": "46",
+    "height": "6' 2\"",
+    "weight": "245 lbs",
+    "age": 29
+  },
+  {
+    "team": "phi",
+    "name": "Tanner Banks",
+    "position": "Relief Pitcher",
+    "jersey": "58",
+    "height": "6' 1\"",
+    "weight": "205 lbs",
+    "age": 33
+  },
+  {
+    "team": "phi",
+    "name": "Carlos Hernandez",
+    "position": "Relief Pitcher",
+    "jersey": "35",
+    "height": "6' 4\"",
+    "weight": "255 lbs",
+    "age": 28
+  },
+  {
+    "team": "phi",
+    "name": "Orion Kerkering",
+    "position": "Relief Pitcher",
+    "jersey": "50",
+    "height": "6' 2\"",
+    "weight": "204 lbs",
+    "age": 24
+  },
+  {
+    "team": "phi",
+    "name": "Max Lazar",
+    "position": "Relief Pitcher",
+    "jersey": "60",
+    "height": "6' 1\"",
+    "weight": "200 lbs",
+    "age": 25
+  },
+  {
+    "team": "phi",
+    "name": "Jesus Luzardo",
+    "position": "Starting Pitcher",
+    "jersey": "44",
+    "height": "6' 0\"",
+    "weight": "218 lbs",
+    "age": 27
+  },
+  {
+    "team": "phi",
+    "name": "Jordan Romano",
+    "position": "Relief Pitcher",
+    "jersey": "68",
+    "height": "6' 5\"",
+    "weight": "210 lbs",
+    "age": 32
+  },
+  {
+    "team": "phi",
+    "name": "Joe Ross",
+    "position": "Relief Pitcher",
+    "jersey": "41",
+    "height": "6' 4\"",
+    "weight": "243 lbs",
+    "age": 31
+  },
+  {
+    "team": "phi",
+    "name": "Jose Ruiz",
+    "position": "Relief Pitcher",
+    "jersey": "66",
+    "height": "6' 1\"",
+    "weight": "245 lbs",
+    "age": 30
+  },
+  {
+    "team": "phi",
+    "name": "Cristopher Sanchez",
+    "position": "Starting Pitcher",
+    "jersey": "61",
+    "height": "6' 6\"",
+    "weight": "200 lbs",
+    "age": 28
+  },
+  {
+    "team": "phi",
+    "name": "Matt Strahm",
+    "position": "Relief Pitcher",
+    "jersey": "25",
+    "height": "6' 2\"",
+    "weight": "190 lbs",
+    "age": 33
+  },
+  {
+    "team": "phi",
+    "name": "Ranger Suarez",
+    "position": "Starting Pitcher",
+    "jersey": "55",
+    "height": "6' 1\"",
+    "weight": "217 lbs",
+    "age": 29
+  },
+  {
+    "team": "phi",
+    "name": "Taijuan Walker",
+    "position": "Starting Pitcher",
+    "jersey": "99",
+    "height": "6' 4\"",
+    "weight": "235 lbs",
+    "age": 32
+  },
+  {
+    "team": "phi",
+    "name": "Zack Wheeler",
+    "position": "Starting Pitcher",
+    "jersey": "45",
+    "height": "6' 4\"",
+    "weight": "195 lbs",
+    "age": 34
+  },
+  {
+    "team": "phi",
+    "name": "Rafael Marchan",
+    "position": "Catcher",
+    "jersey": "13",
+    "height": "5' 9\"",
+    "weight": "170 lbs",
+    "age": 26
+  },
+  {
+    "team": "phi",
+    "name": "J.T. Realmuto",
+    "position": "Catcher",
+    "jersey": "10",
+    "height": "6' 0\"",
+    "weight": "212 lbs",
+    "age": 34
+  },
+  {
+    "team": "phi",
+    "name": "Alec Bohm",
+    "position": "Third Base",
+    "jersey": "28",
+    "height": "6' 5\"",
+    "weight": "218 lbs",
+    "age": 28
+  },
+  {
+    "team": "phi",
+    "name": "Bryce Harper",
+    "position": "First Base",
+    "jersey": "3",
+    "height": "6' 2\"",
+    "weight": "210 lbs",
+    "age": 32
+  },
+  {
+    "team": "phi",
+    "name": "Edmundo Sosa",
+    "position": "Second Base",
+    "jersey": "33",
+    "height": "6' 0\"",
+    "weight": "210 lbs",
+    "age": 29
+  },
+  {
+    "team": "phi",
+    "name": "Bryson Stott",
+    "position": "Second Base",
+    "jersey": "5",
+    "height": "6' 1\"",
+    "weight": "200 lbs",
+    "age": 27
+  },
+  {
+    "team": "phi",
+    "name": "Trea Turner",
+    "position": "Shortstop",
+    "jersey": "7",
+    "height": "6' 1\"",
+    "weight": "185 lbs",
+    "age": 31
+  },
+  {
+    "team": "phi",
+    "name": "Nick Castellanos",
+    "position": "Right Field",
+    "jersey": "8",
+    "height": "6' 3\"",
+    "weight": "203 lbs",
+    "age": 33
+  },
+  {
+    "team": "phi",
+    "name": "Max Kepler",
+    "position": "Left Field",
+    "jersey": "17",
+    "height": "6' 4\"",
+    "weight": "225 lbs",
+    "age": 32
+  },
+  {
+    "team": "phi",
+    "name": "Brandon Marsh",
+    "position": "Center Field",
+    "jersey": "16",
+    "height": "6' 2\"",
+    "weight": "215 lbs",
+    "age": 27
+  },
+  {
+    "team": "phi",
+    "name": "Johan Rojas",
+    "position": "Center Field",
+    "jersey": "23",
+    "height": "5' 11\"",
+    "weight": "165 lbs",
+    "age": 24
+  },
+  {
+    "team": "phi",
+    "name": "Kyle Schwarber",
+    "position": "Left Field",
+    "jersey": "12",
+    "height": "5' 11\"",
+    "weight": "229 lbs",
+    "age": 32
+  },
+  {
+    "team": "phi",
+    "name": "Weston Wilson",
+    "position": "Left Field",
+    "jersey": "37",
+    "height": "6' 3\"",
+    "weight": "215 lbs",
+    "age": 30
+  },
+  {
+    "team": "pit",
+    "name": "David Bednar",
+    "position": "Relief Pitcher",
+    "jersey": "51",
+    "height": "6' 1\"",
+    "weight": "250 lbs",
+    "age": 30
+  },
+  {
+    "team": "pit",
+    "name": "Ryan Borucki",
+    "position": "Relief Pitcher",
+    "jersey": "43",
+    "height": "6' 4\"",
+    "weight": "210 lbs",
+    "age": 31
+  },
+  {
+    "team": "pit",
+    "name": "Bailey Falter",
+    "position": "Starting Pitcher",
+    "jersey": "6",
+    "height": "6' 4\"",
+    "weight": "205 lbs",
+    "age": 28
+  },
+  {
+    "team": "pit",
+    "name": "Caleb Ferguson",
+    "position": "Relief Pitcher",
+    "jersey": "64",
+    "height": "6' 3\"",
+    "weight": "225 lbs",
+    "age": 28
+  },
+  {
+    "team": "pit",
+    "name": "Andrew Heaney",
+    "position": "Starting Pitcher",
+    "jersey": "45",
+    "height": "6' 2\"",
+    "weight": "200 lbs",
+    "age": 33
+  },
+  {
+    "team": "pit",
+    "name": "Colin Holderman",
+    "position": "Relief Pitcher",
+    "jersey": "35",
+    "height": "6' 6\"",
+    "weight": "230 lbs",
+    "age": 29
+  },
+  {
+    "team": "pit",
+    "name": "Mitch Keller",
+    "position": "Starting Pitcher",
+    "jersey": "23",
+    "height": "6' 3\"",
+    "weight": "212 lbs",
+    "age": 29
+  },
+  {
+    "team": "pit",
+    "name": "Carmen Mlodzinski",
+    "position": "Starting Pitcher",
+    "jersey": "50",
+    "height": "6' 2\"",
+    "weight": "220 lbs",
+    "age": 26
+  },
+  {
+    "team": "pit",
+    "name": "Tanner Rainey",
+    "position": "Relief Pitcher",
+    "jersey": "27",
+    "height": "6' 3\"",
+    "weight": "245 lbs",
+    "age": 32
+  },
+  {
+    "team": "pit",
+    "name": "Dennis Santana",
+    "position": "Relief Pitcher",
+    "jersey": "60",
+    "height": "6' 2\"",
+    "weight": "190 lbs",
+    "age": 29
+  },
+  {
+    "team": "pit",
+    "name": "Chase Shugart",
+    "position": "Relief Pitcher",
+    "jersey": "55",
+    "height": "5' 11\"",
+    "weight": "200 lbs",
+    "age": 28
+  },
+  {
+    "team": "pit",
+    "name": "Paul Skenes",
+    "position": "Starting Pitcher",
+    "jersey": "30",
+    "height": "6' 6\"",
+    "weight": "260 lbs",
+    "age": 22
+  },
+  {
+    "team": "pit",
+    "name": "Joey Wentz",
+    "position": "Relief Pitcher",
+    "jersey": "34",
+    "height": "6' 5\"",
+    "weight": "220 lbs",
+    "age": 27
+  },
+  {
+    "team": "pit",
+    "name": "Joey Bart",
+    "position": "Catcher",
+    "jersey": "14",
+    "height": "6' 3\"",
+    "weight": "235 lbs",
+    "age": 28
+  },
+  {
+    "team": "pit",
+    "name": "Henry Davis",
+    "position": "Catcher",
+    "jersey": "32",
+    "height": "6' 0\"",
+    "weight": "225 lbs",
+    "age": 25
+  },
+  {
+    "team": "pit",
+    "name": "Adam Frazier",
+    "position": "Second Base",
+    "jersey": "26",
+    "height": "5' 10\"",
+    "weight": "190 lbs",
+    "age": 33
+  },
+  {
+    "team": "pit",
+    "name": "Ke'Bryan Hayes",
+    "position": "Third Base",
+    "jersey": "13",
+    "height": "5' 11\"",
+    "weight": "215 lbs",
+    "age": 28
+  },
+  {
+    "team": "pit",
+    "name": "Spencer Horwitz",
+    "position": "First Base",
+    "jersey": "2",
+    "height": "5' 11\"",
+    "weight": "200 lbs",
+    "age": 27
+  },
+  {
+    "team": "pit",
+    "name": "Isiah Kiner-Falefa",
+    "position": "Shortstop",
+    "jersey": "7",
+    "height": "5' 10\"",
+    "weight": "195 lbs",
+    "age": 30
+  },
+  {
+    "team": "pit",
+    "name": "Jared Triolo",
+    "position": "Shortstop",
+    "jersey": "19",
+    "height": "6' 3\"",
+    "weight": "210 lbs",
+    "age": 27
+  },
+  {
+    "team": "pit",
+    "name": "Alexander Canario",
+    "position": "Left Field",
+    "jersey": "29",
+    "height": "6' 1\"",
+    "weight": "215 lbs",
+    "age": 25
+  },
+  {
+    "team": "pit",
+    "name": "Oneil Cruz",
+    "position": "Center Field",
+    "jersey": "15",
+    "height": "6' 7\"",
+    "weight": "240 lbs",
+    "age": 26
+  },
+  {
+    "team": "pit",
+    "name": "Andrew McCutchen",
+    "position": "Right Field",
+    "jersey": "22",
+    "height": "5' 10\"",
+    "weight": "190 lbs",
+    "age": 38
+  },
+  {
+    "team": "pit",
+    "name": "Tommy Pham",
+    "position": "Left Field",
+    "jersey": "28",
+    "height": "6' 1\"",
+    "weight": "225 lbs",
+    "age": 37
+  },
+  {
+    "team": "pit",
+    "name": "Bryan Reynolds",
+    "position": "Right Field",
+    "jersey": "10",
+    "height": "6' 2\"",
+    "weight": "205 lbs",
+    "age": 30
+  },
+  {
+    "team": "pit",
+    "name": "Nick Solak",
+    "position": "Right Field",
+    "jersey": "46",
+    "height": "5' 10\"",
+    "weight": "185 lbs",
+    "age": 30
+  },
+  {
+    "team": "sd",
+    "name": "Jason Adam",
+    "position": "Relief Pitcher",
+    "jersey": "40",
+    "height": "6' 3\"",
+    "weight": "229 lbs",
+    "age": 33
+  },
+  {
+    "team": "sd",
+    "name": "Dylan Cease",
+    "position": "Starting Pitcher",
+    "jersey": "84",
+    "height": "6' 2\"",
+    "weight": "200 lbs",
+    "age": 29
+  },
+  {
+    "team": "sd",
+    "name": "Jeremiah Estrada",
+    "position": "Relief Pitcher",
+    "jersey": "56",
+    "height": "6' 1\"",
+    "weight": "185 lbs",
+    "age": 26
+  },
+  {
+    "team": "sd",
+    "name": "Alek Jacob",
+    "position": "Relief Pitcher",
+    "jersey": "37",
+    "height": "6' 3\"",
+    "weight": "190 lbs",
+    "age": 26
+  },
+  {
+    "team": "sd",
+    "name": "Michael King",
+    "position": "Starting Pitcher",
+    "jersey": "34",
+    "height": "6' 3\"",
+    "weight": "210 lbs",
+    "age": 29
+  },
+  {
+    "team": "sd",
+    "name": "Stephen Kolek",
+    "position": "Starting Pitcher",
+    "jersey": "32",
+    "height": "6' 3\"",
+    "weight": "210 lbs",
+    "age": 28
+  },
+  {
+    "team": "sd",
+    "name": "Yuki Matsui",
+    "position": "Relief Pitcher",
+    "jersey": "1",
+    "height": "5' 8\"",
+    "weight": "165 lbs",
+    "age": 29
+  },
+  {
+    "team": "sd",
+    "name": "Adrian Morejon",
+    "position": "Relief Pitcher",
+    "jersey": "50",
+    "height": "5' 11\"",
+    "weight": "224 lbs",
+    "age": 26
+  },
+  {
+    "team": "sd",
+    "name": "Wandy Peralta",
+    "position": "Relief Pitcher",
+    "jersey": "58",
+    "height": "6' 0\"",
+    "weight": "227 lbs",
+    "age": 33
+  },
+  {
+    "team": "sd",
+    "name": "Nick Pivetta",
+    "position": "Starting Pitcher",
+    "jersey": "27",
+    "height": "6' 5\"",
+    "weight": "210 lbs",
+    "age": 32
+  },
+  {
+    "team": "sd",
+    "name": "Sean Reynolds",
+    "position": "Relief Pitcher",
+    "jersey": "25",
+    "height": "6' 8\"",
+    "weight": "250 lbs",
+    "age": 27
+  },
+  {
+    "team": "sd",
+    "name": "Robert Suarez",
+    "position": "Relief Pitcher",
+    "jersey": "75",
+    "height": "6' 2\"",
+    "weight": "210 lbs",
+    "age": 34
+  },
+  {
+    "team": "sd",
+    "name": "Randy Vasquez",
+    "position": "Starting Pitcher",
+    "jersey": "98",
+    "height": "6' 0\"",
+    "weight": "165 lbs",
+    "age": 26
+  },
+  {
+    "team": "sd",
+    "name": "Elias Diaz",
+    "position": "Catcher",
+    "jersey": "17",
+    "height": "6' 1\"",
+    "weight": "223 lbs",
+    "age": 34
+  },
+  {
+    "team": "sd",
+    "name": "Martin Maldonado",
+    "position": "Catcher",
+    "jersey": "15",
+    "height": "6' 0\"",
+    "weight": "230 lbs",
+    "age": 38
+  },
+  {
+    "team": "sd",
+    "name": "Luis Arraez",
+    "position": "First Base",
+    "jersey": "4",
+    "height": "5' 10\"",
+    "weight": "175 lbs",
+    "age": 28
+  },
+  {
+    "team": "sd",
+    "name": "Xander Bogaerts",
+    "position": "Shortstop",
+    "jersey": "2",
+    "height": "6' 2\"",
+    "weight": "218 lbs",
+    "age": 32
+  },
+  {
+    "team": "sd",
+    "name": "Jake Cronenworth",
+    "position": "Second Base",
+    "jersey": "9",
+    "height": "6' 0\"",
+    "weight": "187 lbs",
+    "age": 31
+  },
+  {
+    "team": "sd",
+    "name": "Jose Iglesias",
+    "position": "Second Base",
+    "jersey": "7",
+    "height": "5' 11\"",
+    "weight": "195 lbs",
+    "age": 35
+  },
+  {
+    "team": "sd",
+    "name": "Manny Machado",
+    "position": "Third Base",
+    "jersey": "13",
+    "height": "6' 2\"",
+    "weight": "218 lbs",
+    "age": 32
+  },
+  {
+    "team": "sd",
+    "name": "Gavin Sheets",
+    "position": "First Base",
+    "jersey": "30",
+    "height": "6' 3\"",
+    "weight": "235 lbs",
+    "age": 29
+  },
+  {
+    "team": "sd",
+    "name": "Jason Heyward",
+    "position": "Left Field",
+    "jersey": "22",
+    "height": "6' 5\"",
+    "weight": "240 lbs",
+    "age": 35
+  },
+  {
+    "team": "sd",
+    "name": "Brandon Lockridge",
+    "position": "Center Field",
+    "jersey": "28",
+    "height": "5' 11\"",
+    "weight": "185 lbs",
+    "age": 28
+  },
+  {
+    "team": "sd",
+    "name": "Jackson Merrill",
+    "position": "Center Field",
+    "jersey": "3",
+    "height": "6' 3\"",
+    "weight": "195 lbs",
+    "age": 22
+  },
+  {
+    "team": "sd",
+    "name": "Fernando Tatis Jr.",
+    "position": "Right Field",
+    "jersey": "23",
+    "height": "6' 3\"",
+    "weight": "217 lbs",
+    "age": 26
+  },
+  {
+    "team": "sd",
+    "name": "Tyler Wade",
+    "position": "Center Field",
+    "jersey": "14",
+    "height": "6' 0\"",
+    "weight": "188 lbs",
+    "age": 30
+  },
+  {
+    "team": "sea",
+    "name": "Eduard Bazardo",
+    "position": "Relief Pitcher",
+    "jersey": "83",
+    "height": "6' 0\"",
+    "weight": "190 lbs",
+    "age": 29
+  },
+  {
+    "team": "sea",
+    "name": "Matt Brash",
+    "position": "Relief Pitcher",
+    "jersey": "47",
+    "height": "6' 1\"",
+    "weight": "173 lbs",
+    "age": 27
+  },
+  {
+    "team": "sea",
+    "name": "Luis Castillo",
+    "position": "Starting Pitcher",
+    "jersey": "58",
+    "height": "6' 2\"",
+    "weight": "200 lbs",
+    "age": 32
+  },
+  {
+    "team": "sea",
+    "name": "Jhonathan Diaz",
+    "position": "Relief Pitcher",
+    "jersey": "74",
+    "height": "6' 0\"",
+    "weight": "170 lbs",
+    "age": 28
+  },
+  {
+    "team": "sea",
+    "name": "Logan Evans",
+    "position": "Starting Pitcher",
+    "jersey": "73",
+    "height": "6' 4\"",
+    "weight": "215 lbs",
+    "age": 23
+  },
+  {
+    "team": "sea",
+    "name": "Emerson Hancock",
+    "position": "Starting Pitcher",
+    "jersey": "26",
+    "height": "6' 4\"",
+    "weight": "213 lbs",
+    "age": 25
+  },
+  {
+    "team": "sea",
+    "name": "Casey Legumina",
+    "position": "Relief Pitcher",
+    "jersey": "64",
+    "height": "6' 2\"",
+    "weight": "195 lbs",
+    "age": 27
+  },
+  {
+    "team": "sea",
+    "name": "Andres Munoz",
+    "position": "Relief Pitcher",
+    "jersey": "75",
+    "height": "6' 2\"",
+    "weight": "222 lbs",
+    "age": 26
+  },
+  {
+    "team": "sea",
+    "name": "Collin Snider",
+    "position": "Relief Pitcher",
+    "jersey": "52",
+    "height": "6' 4\"",
+    "weight": "195 lbs",
+    "age": 29
+  },
+  {
+    "team": "sea",
+    "name": "Gabe Speier",
+    "position": "Relief Pitcher",
+    "jersey": "55",
+    "height": "5' 11\"",
+    "weight": "200 lbs",
+    "age": 30
+  },
+  {
+    "team": "sea",
+    "name": "Troy Taylor",
+    "position": "Relief Pitcher",
+    "jersey": "59",
+    "height": "6' 0\"",
+    "weight": "205 lbs",
+    "age": 23
+  },
+  {
+    "team": "sea",
+    "name": "Carlos Vargas",
+    "position": "Relief Pitcher",
+    "jersey": "54",
+    "height": "6' 4\"",
+    "weight": "210 lbs",
+    "age": 25
+  },
+  {
+    "team": "sea",
+    "name": "Bryan Woo",
+    "position": "Starting Pitcher",
+    "jersey": "22",
+    "height": "6' 2\"",
+    "weight": "205 lbs",
+    "age": 25
+  },
+  {
+    "team": "sea",
+    "name": "Mitch Garver",
+    "position": "Catcher",
+    "jersey": "18",
+    "height": "6' 1\"",
+    "weight": "220 lbs",
+    "age": 34
+  },
+  {
+    "team": "sea",
+    "name": "Cal Raleigh",
+    "position": "Catcher",
+    "jersey": "29",
+    "height": "6' 2\"",
+    "weight": "235 lbs",
+    "age": 28
+  },
+  {
+    "team": "sea",
+    "name": "J.P. Crawford",
+    "position": "Shortstop",
+    "jersey": "3",
+    "height": "6' 0\"",
+    "weight": "202 lbs",
+    "age": 30
+  },
+  {
+    "team": "sea",
+    "name": "Miles Mastrobuoni",
+    "position": "Third Base",
+    "jersey": "21",
+    "height": "5' 10\"",
+    "weight": "185 lbs",
+    "age": 29
+  },
+  {
+    "team": "sea",
+    "name": "Dylan Moore",
+    "position": "Second Base",
+    "jersey": "25",
+    "height": "6' 0\"",
+    "weight": "205 lbs",
+    "age": 32
+  },
+  {
+    "team": "sea",
+    "name": "Jorge Polanco",
+    "position": "Third Base",
+    "jersey": "7",
+    "height": "6' 0\"",
+    "weight": "208 lbs",
+    "age": 31
+  },
+  {
+    "team": "sea",
+    "name": "Leo Rivas",
+    "position": "Second Base",
+    "jersey": "76",
+    "height": "5' 8\"",
+    "weight": "150 lbs",
+    "age": 27
+  },
+  {
+    "team": "sea",
+    "name": "Donovan Solano",
+    "position": "First Base",
+    "jersey": "39",
+    "height": "5' 8\"",
+    "weight": "210 lbs",
+    "age": 37
+  },
+  {
+    "team": "sea",
+    "name": "Rowdy Tellez",
+    "position": "First Base",
+    "jersey": "23",
+    "height": "6' 4\"",
+    "weight": "270 lbs",
+    "age": 30
+  },
+  {
+    "team": "sea",
+    "name": "Ben Williamson",
+    "position": "Third Base",
+    "jersey": "9",
+    "height": "6' 0\"",
+    "weight": "210 lbs",
+    "age": 24
+  },
+  {
+    "team": "sea",
+    "name": "Randy Arozarena",
+    "position": "Left Field",
+    "jersey": "56",
+    "height": "5' 10\"",
+    "weight": "185 lbs",
+    "age": 30
+  },
+  {
+    "team": "sea",
+    "name": "Julio Rodriguez",
+    "position": "Center Field",
+    "jersey": "44",
+    "height": "6' 3\"",
+    "weight": "228 lbs",
+    "age": 24
+  },
+  {
+    "team": "sea",
+    "name": "Leody Taveras",
+    "position": "Center Field",
+    "jersey": "4",
+    "height": "6' 2\"",
+    "weight": "195 lbs",
+    "age": 26
+  },
+  {
+    "team": "sf",
+    "name": "Hayden Birdsong",
+    "position": "Relief Pitcher",
+    "jersey": "60",
+    "height": "6' 4\"",
+    "weight": "216 lbs",
+    "age": 23
+  },
+  {
+    "team": "sf",
+    "name": "Spencer Bivens",
+    "position": "Relief Pitcher",
+    "jersey": "76",
+    "height": "6' 5\"",
+    "weight": "217 lbs",
+    "age": 30
+  },
+  {
+    "team": "sf",
+    "name": "Camilo Doval",
+    "position": "Relief Pitcher",
+    "jersey": "75",
+    "height": "6' 2\"",
+    "weight": "205 lbs",
+    "age": 27
+  },
+  {
+    "team": "sf",
+    "name": "Kyle Harrison",
+    "position": "Relief Pitcher",
+    "jersey": "45",
+    "height": "6' 2\"",
+    "weight": "209 lbs",
+    "age": 23
+  },
+  {
+    "team": "sf",
+    "name": "Jordan Hicks",
+    "position": "Starting Pitcher",
+    "jersey": "12",
+    "height": "6' 2\"",
+    "weight": "217 lbs",
+    "age": 28
+  },
+  {
+    "team": "sf",
+    "name": "Erik Miller",
+    "position": "Relief Pitcher",
+    "jersey": "68",
+    "height": "6' 5\"",
+    "weight": "268 lbs",
+    "age": 27
+  },
+  {
+    "team": "sf",
+    "name": "Robbie Ray",
+    "position": "Starting Pitcher",
+    "jersey": "38",
+    "height": "6' 2\"",
+    "weight": "208 lbs",
+    "age": 33
+  },
+  {
+    "team": "sf",
+    "name": "Randy Rodriguez",
+    "position": "Relief Pitcher",
+    "jersey": "73",
+    "height": "6' 0\"",
+    "weight": "195 lbs",
+    "age": 25
+  },
+  {
+    "team": "sf",
+    "name": "Tyler Rogers",
+    "position": "Relief Pitcher",
+    "jersey": "71",
+    "height": "6' 3\"",
+    "weight": "180 lbs",
+    "age": 34
+  },
+  {
+    "team": "sf",
+    "name": "Landen Roupp",
+    "position": "Starting Pitcher",
+    "jersey": "65",
+    "height": "6' 2\"",
+    "weight": "215 lbs",
+    "age": 26
+  },
+  {
+    "team": "sf",
+    "name": "Justin Verlander",
+    "position": "Starting Pitcher",
+    "jersey": "35",
+    "height": "6' 5\"",
+    "weight": "240 lbs",
+    "age": 42
+  },
+  {
+    "team": "sf",
+    "name": "Ryan Walker",
+    "position": "Relief Pitcher",
+    "jersey": "74",
+    "height": "6' 2\"",
+    "weight": "212 lbs",
+    "age": 29
+  },
+  {
+    "team": "sf",
+    "name": "Logan Webb",
+    "position": "Starting Pitcher",
+    "jersey": "62",
+    "height": "6' 1\"",
+    "weight": "223 lbs",
+    "age": 28
+  },
+  {
+    "team": "sf",
+    "name": "Patrick Bailey",
+    "position": "Catcher",
+    "jersey": "14",
+    "height": "6' 0\"",
+    "weight": "225 lbs",
+    "age": 25
+  },
+  {
+    "team": "sf",
+    "name": "Sam Huff",
+    "position": "Catcher",
+    "jersey": "23",
+    "height": "6' 4\"",
+    "weight": "242 lbs",
+    "age": 27
+  },
+  {
+    "team": "sf",
+    "name": "Willy Adames",
+    "position": "Shortstop",
+    "jersey": "2",
+    "height": "6' 0\"",
+    "weight": "215 lbs",
+    "age": 29
+  },
+  {
+    "team": "sf",
+    "name": "Matt Chapman",
+    "position": "Third Base",
+    "jersey": "26",
+    "height": "6' 1\"",
+    "weight": "225 lbs",
+    "age": 32
+  },
+  {
+    "team": "sf",
+    "name": "Tyler Fitzgerald",
+    "position": "Second Base",
+    "jersey": "49",
+    "height": "6' 2\"",
+    "weight": "208 lbs",
+    "age": 27
+  },
+  {
+    "team": "sf",
+    "name": "Wilmer Flores",
+    "position": "First Base",
+    "jersey": "41",
+    "height": "6' 3\"",
+    "weight": "225 lbs",
+    "age": 33
+  },
+  {
+    "team": "sf",
+    "name": "Christian Koss",
+    "position": "Second Base",
+    "jersey": "50",
+    "height": "6' 1\"",
+    "weight": "186 lbs",
+    "age": 27
+  },
+  {
+    "team": "sf",
+    "name": "Casey Schmitt",
+    "position": "First Base",
+    "jersey": "10",
+    "height": "6' 0\"",
+    "weight": "220 lbs",
+    "age": 26
+  },
+  {
+    "team": "sf",
+    "name": "LaMonte Wade Jr.",
+    "position": "First Base",
+    "jersey": "31",
+    "height": "5' 11\"",
+    "weight": "215 lbs",
+    "age": 31
+  },
+  {
+    "team": "sf",
+    "name": "Jung Hoo Lee",
+    "position": "Center Field",
+    "jersey": "51",
+    "height": "6' 0\"",
+    "weight": "197 lbs",
+    "age": 26
+  },
+  {
+    "team": "sf",
+    "name": "Luis Matos",
+    "position": "Right Field",
+    "jersey": "29",
+    "height": "5' 11\"",
+    "weight": "207 lbs",
+    "age": 23
+  },
+  {
+    "team": "sf",
+    "name": "Heliot Ramos",
+    "position": "Left Field",
+    "jersey": "17",
+    "height": "5' 11\"",
+    "weight": "230 lbs",
+    "age": 25
+  },
+  {
+    "team": "sf",
+    "name": "Mike Yastrzemski",
+    "position": "Right Field",
+    "jersey": "5",
+    "height": "5' 11\"",
+    "weight": "180 lbs",
+    "age": 34
+  },
+  {
+    "team": "stl",
+    "name": "Erick Fedde",
+    "position": "Starting Pitcher",
+    "jersey": "12",
+    "height": "6' 4\"",
+    "weight": "205 lbs",
+    "age": 32
+  },
+  {
+    "team": "stl",
+    "name": "Gordon Graceffo",
+    "position": "Relief Pitcher",
+    "jersey": "44",
+    "height": "6' 4\"",
+    "weight": "220 lbs",
+    "age": 25
+  },
+  {
+    "team": "stl",
+    "name": "Sonny Gray",
+    "position": "Starting Pitcher",
+    "jersey": "54",
+    "height": "5' 10\"",
+    "weight": "190 lbs",
+    "age": 35
+  },
+  {
+    "team": "stl",
+    "name": "Ryan Helsley",
+    "position": "Relief Pitcher",
+    "jersey": "56",
+    "height": "6' 2\"",
+    "weight": "235 lbs",
+    "age": 30
+  },
+  {
+    "team": "stl",
+    "name": "John King",
+    "position": "Relief Pitcher",
+    "jersey": "47",
+    "height": "6' 2\"",
+    "weight": "215 lbs",
+    "age": 30
+  },
+  {
+    "team": "stl",
+    "name": "Kyle Leahy",
+    "position": "Relief Pitcher",
+    "jersey": "62",
+    "height": "6' 5\"",
+    "weight": "225 lbs",
+    "age": 27
+  },
+  {
+    "team": "stl",
+    "name": "Matthew Liberatore",
+    "position": "Starting Pitcher",
+    "jersey": "52",
+    "height": "6' 4\"",
+    "weight": "215 lbs",
+    "age": 25
+  },
+  {
+    "team": "stl",
+    "name": "Phil Maton",
+    "position": "Relief Pitcher",
+    "jersey": "88",
+    "height": "6' 2\"",
+    "weight": "206 lbs",
+    "age": 32
+  },
+  {
+    "team": "stl",
+    "name": "Steven Matz",
+    "position": "Relief Pitcher",
+    "jersey": "32",
+    "height": "6' 2\"",
+    "weight": "205 lbs",
+    "age": 33
+  },
+  {
+    "team": "stl",
+    "name": "Miles Mikolas",
+    "position": "Starting Pitcher",
+    "jersey": "39",
+    "height": "6' 4\"",
+    "weight": "230 lbs",
+    "age": 36
+  },
+  {
+    "team": "stl",
+    "name": "Andre Pallante",
+    "position": "Starting Pitcher",
+    "jersey": "53",
+    "height": "6' 0\"",
+    "weight": "215 lbs",
+    "age": 26
+  },
+  {
+    "team": "stl",
+    "name": "JoJo Romero",
+    "position": "Relief Pitcher",
+    "jersey": "59",
+    "height": "5' 11\"",
+    "weight": "215 lbs",
+    "age": 28
+  },
+  {
+    "team": "stl",
+    "name": "Chris Roycroft",
+    "position": "Relief Pitcher",
+    "jersey": "58",
+    "height": "6' 8\"",
+    "weight": "230 lbs",
+    "age": 27
+  },
+  {
+    "team": "stl",
+    "name": "Ryan Tepera",
+    "position": "Relief Pitcher",
+    "jersey": "38",
+    "height": "6' 1\"",
+    "weight": "195 lbs",
+    "age": 37
+  },
+  {
+    "team": "stl",
+    "name": "Ivan Herrera",
+    "position": "Catcher",
+    "jersey": "48",
+    "height": "5' 11\"",
+    "weight": "220 lbs",
+    "age": 24
+  },
+  {
+    "team": "stl",
+    "name": "Pedro Pages",
+    "position": "Catcher",
+    "jersey": "43",
+    "height": "5' 11\"",
+    "weight": "245 lbs",
+    "age": 26
+  },
+  {
+    "team": "stl",
+    "name": "Yohel Pozo",
+    "position": "Catcher",
+    "jersey": "63",
+    "height": "5' 11\"",
+    "weight": "201 lbs",
+    "age": 27
+  },
+  {
+    "team": "stl",
+    "name": "Nolan Arenado",
+    "position": "Third Base",
+    "jersey": "28",
+    "height": "6' 2\"",
+    "weight": "215 lbs",
+    "age": 34
+  },
+  {
+    "team": "stl",
+    "name": "Jose Barrero",
+    "position": "Shortstop",
+    "jersey": "27",
+    "height": "6' 4\"",
+    "weight": "211 lbs",
+    "age": 27
+  },
+  {
+    "team": "stl",
+    "name": "Alec Burleson",
+    "position": "First Base",
+    "jersey": "41",
+    "height": "6' 0\"",
+    "weight": "225 lbs",
+    "age": 26
+  },
+  {
+    "team": "stl",
+    "name": "Willson Contreras",
+    "position": "First Base",
+    "jersey": "40",
+    "height": "6' 1\"",
+    "weight": "240 lbs",
+    "age": 33
+  },
+  {
+    "team": "stl",
+    "name": "Brendan Donovan",
+    "position": "Second Base",
+    "jersey": "33",
+    "height": "5' 11\"",
+    "weight": "210 lbs",
+    "age": 28
+  },
+  {
+    "team": "stl",
+    "name": "Nolan Gorman",
+    "position": "Second Base",
+    "jersey": "16",
+    "height": "6' 0\"",
+    "weight": "225 lbs",
+    "age": 25
+  },
+  {
+    "team": "stl",
+    "name": "Masyn Winn",
+    "position": "Shortstop",
+    "jersey": "0",
+    "height": "5' 9\"",
+    "weight": "185 lbs",
+    "age": 23
+  },
+  {
+    "team": "stl",
+    "name": "Lars Nootbaar",
+    "position": "Left Field",
+    "jersey": "21",
+    "height": "6' 1\"",
+    "weight": "205 lbs",
+    "age": 27
+  },
+  {
+    "team": "stl",
+    "name": "Victor Scott II",
+    "position": "Center Field",
+    "jersey": "11",
+    "height": "5' 11\"",
+    "weight": "190 lbs",
+    "age": 24
+  },
+  {
+    "team": "stl",
+    "name": "Jordan Walker",
+    "position": "Right Field",
+    "jersey": "18",
+    "height": "6' 6\"",
+    "weight": "250 lbs",
+    "age": 22
+  },
+  {
+    "team": "tb",
+    "name": "Shane Baz",
+    "position": "Starting Pitcher",
+    "jersey": "11",
+    "height": "6' 3\"",
+    "weight": "200 lbs",
+    "age": 25
+  },
+  {
+    "team": "tb",
+    "name": "Taj Bradley",
+    "position": "Starting Pitcher",
+    "jersey": "45",
+    "height": "6' 2\"",
+    "weight": "220 lbs",
+    "age": 24
+  },
+  {
+    "team": "tb",
+    "name": "Garrett Cleavinger",
+    "position": "Relief Pitcher",
+    "jersey": "60",
+    "height": "6' 1\"",
+    "weight": "225 lbs",
+    "age": 31
+  },
+  {
+    "team": "tb",
+    "name": "Pete Fairbanks",
+    "position": "Relief Pitcher",
+    "jersey": "29",
+    "height": "6' 6\"",
+    "weight": "235 lbs",
+    "age": 31
+  },
+  {
+    "team": "tb",
+    "name": "Zack Littell",
+    "position": "Starting Pitcher",
+    "jersey": "52",
+    "height": "6' 4\"",
+    "weight": "250 lbs",
+    "age": 29
+  },
+  {
+    "team": "tb",
+    "name": "Mason Montgomery",
+    "position": "Relief Pitcher",
+    "jersey": "48",
+    "height": "6' 2\"",
+    "weight": "205 lbs",
+    "age": 24
+  },
+  {
+    "team": "tb",
+    "name": "Eric Orze",
+    "position": "Relief Pitcher",
+    "jersey": "17",
+    "height": "6' 4\"",
+    "weight": "205 lbs",
+    "age": 27
+  },
+  {
+    "team": "tb",
+    "name": "Ryan Pepiot",
+    "position": "Starting Pitcher",
+    "jersey": "44",
+    "height": "6' 3\"",
+    "weight": "210 lbs",
+    "age": 27
+  },
+  {
+    "team": "tb",
+    "name": "Drew Rasmussen",
+    "position": "Starting Pitcher",
+    "jersey": "57",
+    "height": "6' 1\"",
+    "weight": "240 lbs",
+    "age": 29
+  },
+  {
+    "team": "tb",
+    "name": "Manuel Rodriguez",
+    "position": "Relief Pitcher",
+    "jersey": "39",
+    "height": "5' 11\"",
+    "weight": "205 lbs",
+    "age": 28
+  },
+  {
+    "team": "tb",
+    "name": "Connor Seabold",
+    "position": "Starting Pitcher",
+    "jersey": "41",
+    "height": "6' 2\"",
+    "weight": "190 lbs",
+    "age": 29
+  },
+  {
+    "team": "tb",
+    "name": "Cole Sulser",
+    "position": "Relief Pitcher",
+    "jersey": "71",
+    "height": "6' 0\"",
+    "weight": "200 lbs",
+    "age": 35
+  },
+  {
+    "team": "tb",
+    "name": "Edwin Uceta",
+    "position": "Relief Pitcher",
+    "jersey": "63",
+    "height": "6' 0\"",
+    "weight": "210 lbs",
+    "age": 27
+  },
+  {
+    "team": "tb",
+    "name": "Danny Jansen",
+    "position": "Catcher",
+    "jersey": "19",
+    "height": "6' 1\"",
+    "weight": "240 lbs",
+    "age": 30
+  },
+  {
+    "team": "tb",
+    "name": "Ben Rortvedt",
+    "position": "Catcher",
+    "jersey": "30",
+    "height": "5' 9\"",
+    "weight": "210 lbs",
+    "age": 27
+  },
+  {
+    "team": "tb",
+    "name": "Jonathan Aranda",
+    "position": "First Base",
+    "jersey": "62",
+    "height": "6' 0\"",
+    "weight": "215 lbs",
+    "age": 26
+  },
+  {
+    "team": "tb",
+    "name": "Junior Caminero",
+    "position": "Third Base",
+    "jersey": "13",
+    "height": "6' 1\"",
+    "weight": "220 lbs",
+    "age": 21
+  },
+  {
+    "team": "tb",
+    "name": "Yandy Diaz",
+    "position": "First Base",
+    "jersey": "2",
+    "height": "6' 1\"",
+    "weight": "235 lbs",
+    "age": 33
+  },
+  {
+    "team": "tb",
+    "name": "Brandon Lowe",
+    "position": "Second Base",
+    "jersey": "8",
+    "height": "5' 10\"",
+    "weight": "190 lbs",
+    "age": 30
+  },
+  {
+    "team": "tb",
+    "name": "Curtis Mead",
+    "position": "First Base",
+    "jersey": "25",
+    "height": "6' 1\"",
+    "weight": "225 lbs",
+    "age": 24
+  },
+  {
+    "team": "tb",
+    "name": "Taylor Walls",
+    "position": "Shortstop",
+    "jersey": "6",
+    "height": "5' 8\"",
+    "weight": "185 lbs",
+    "age": 28
+  },
+  {
+    "team": "tb",
+    "name": "Jose Caballero",
+    "position": "Right Field",
+    "jersey": "77",
+    "height": "5' 10\"",
+    "weight": "190 lbs",
+    "age": 28
+  },
+  {
+    "team": "tb",
+    "name": "Josh Lowe",
+    "position": "Right Field",
+    "jersey": "15",
+    "height": "6' 4\"",
+    "weight": "220 lbs",
+    "age": 27
+  },
+  {
+    "team": "tb",
+    "name": "Kameron Misner",
+    "position": "Center Field",
+    "jersey": "26",
+    "height": "6' 4\"",
+    "weight": "220 lbs",
+    "age": 27
+  },
+  {
+    "team": "tb",
+    "name": "Christopher Morel",
+    "position": "Left Field",
+    "jersey": "24",
+    "height": "6' 0\"",
+    "weight": "200 lbs",
+    "age": 25
+  },
+  {
+    "team": "tb",
+    "name": "Chandler Simpson",
+    "position": "Center Field",
+    "jersey": "14",
+    "height": "5' 11\"",
+    "weight": "170 lbs",
+    "age": 24
+  },
+  {
+    "team": "tex",
+    "name": "Shawn Armstrong",
+    "position": "Relief Pitcher",
+    "jersey": "43",
+    "height": "6' 2\"",
+    "weight": "225 lbs",
+    "age": 34
+  },
+  {
+    "team": "tex",
+    "name": "Caleb Boushley",
+    "position": "Relief Pitcher",
+    "jersey": "70",
+    "height": "6' 3\"",
+    "weight": "190 lbs",
+    "age": 31
+  },
+  {
+    "team": "tex",
+    "name": "Patrick Corbin",
+    "position": "Starting Pitcher",
+    "jersey": "46",
+    "height": "6' 4\"",
+    "weight": "225 lbs",
+    "age": 35
+  },
+  {
+    "team": "tex",
+    "name": "Jacob deGrom",
+    "position": "Starting Pitcher",
+    "jersey": "48",
+    "height": "6' 4\"",
+    "weight": "180 lbs",
+    "age": 36
+  },
+  {
+    "team": "tex",
+    "name": "Nathan Eovaldi",
+    "position": "Starting Pitcher",
+    "jersey": "17",
+    "height": "6' 2\"",
+    "weight": "217 lbs",
+    "age": 35
+  },
+  {
+    "team": "tex",
+    "name": "Robert Garcia",
+    "position": "Relief Pitcher",
+    "jersey": "62",
+    "height": "6' 4\"",
+    "weight": "236 lbs",
+    "age": 28
+  },
+  {
+    "team": "tex",
+    "name": "Luke Jackson",
+    "position": "Relief Pitcher",
+    "jersey": "77",
+    "height": "6' 2\"",
+    "weight": "210 lbs",
+    "age": 33
+  },
+  {
+    "team": "tex",
+    "name": "Jacob Latz",
+    "position": "Relief Pitcher",
+    "jersey": "67",
+    "height": "6' 2\"",
+    "weight": "185 lbs",
+    "age": 29
+  },
+  {
+    "team": "tex",
+    "name": "Jack Leiter",
+    "position": "Starting Pitcher",
+    "jersey": "35",
+    "height": "6' 1\"",
+    "weight": "205 lbs",
+    "age": 25
+  },
+  {
+    "team": "tex",
+    "name": "Tyler Mahle",
+    "position": "Starting Pitcher",
+    "jersey": "51",
+    "height": "6' 3\"",
+    "weight": "210 lbs",
+    "age": 30
+  },
+  {
+    "team": "tex",
+    "name": "Chris Martin",
+    "position": "Relief Pitcher",
+    "jersey": "55",
+    "height": "6' 8\"",
+    "weight": "224 lbs",
+    "age": 38
+  },
+  {
+    "team": "tex",
+    "name": "Hoby Milner",
+    "position": "Relief Pitcher",
+    "jersey": "41",
+    "height": "6' 3\"",
+    "weight": "187 lbs",
+    "age": 34
+  },
+  {
+    "team": "tex",
+    "name": "Jacob Webb",
+    "position": "Relief Pitcher",
+    "jersey": "71",
+    "height": "6' 2\"",
+    "weight": "210 lbs",
+    "age": 31
+  },
+  {
+    "team": "tex",
+    "name": "Tucker Barnhart",
+    "position": "Catcher",
+    "jersey": "18",
+    "height": "5' 8\"",
+    "weight": "192 lbs",
+    "age": 34
+  },
+  {
+    "team": "tex",
+    "name": "Jonah Heim",
+    "position": "Catcher",
+    "jersey": "28",
+    "height": "6' 4\"",
+    "weight": "220 lbs",
+    "age": 29
+  },
+  {
+    "team": "tex",
+    "name": "Kyle Higashioka",
+    "position": "Catcher",
+    "jersey": "11",
+    "height": "6' 0\"",
+    "weight": "202 lbs",
+    "age": 35
+  },
+  {
+    "team": "tex",
+    "name": "Jake Burger",
+    "position": "First Base",
+    "jersey": "21",
+    "height": "6' 0\"",
+    "weight": "230 lbs",
+    "age": 29
+  },
+  {
+    "team": "tex",
+    "name": "Ezequiel Duran",
+    "position": "Shortstop",
+    "jersey": "20",
+    "height": "5' 10\"",
+    "weight": "185 lbs",
+    "age": 25
+  },
+  {
+    "team": "tex",
+    "name": "Josh Jung",
+    "position": "Third Base",
+    "jersey": "6",
+    "height": "6' 1\"",
+    "weight": "214 lbs",
+    "age": 27
+  },
+  {
+    "team": "tex",
+    "name": "Joc Pederson",
+    "position": "First Base",
+    "jersey": "4",
+    "height": "6' 1\"",
+    "weight": "220 lbs",
+    "age": 33
+  },
+  {
+    "team": "tex",
+    "name": "Marcus Semien",
+    "position": "Second Base",
+    "jersey": "2",
+    "height": "6' 0\"",
+    "weight": "195 lbs",
+    "age": 34
+  },
+  {
+    "team": "tex",
+    "name": "Josh Smith",
+    "position": "Shortstop",
+    "jersey": "8",
+    "height": "5' 9\"",
+    "weight": "172 lbs",
+    "age": 27
+  },
+  {
+    "team": "tex",
+    "name": "Adolis Garcia",
+    "position": "Right Field",
+    "jersey": "53",
+    "height": "6' 0\"",
+    "weight": "205 lbs",
+    "age": 32
+  },
+  {
+    "team": "tex",
+    "name": "Sam Haggerty",
+    "position": "Center Field",
+    "jersey": "0",
+    "height": "5' 11\"",
+    "weight": "175 lbs",
+    "age": 30
+  },
+  {
+    "team": "tex",
+    "name": "Wyatt Langford",
+    "position": "Left Field",
+    "jersey": "36",
+    "height": "6' 0\"",
+    "weight": "225 lbs",
+    "age": 23
+  },
+  {
+    "team": "tex",
+    "name": "Kevin Pillar",
+    "position": "Center Field",
+    "jersey": "1",
+    "height": "6' 0\"",
+    "weight": "210 lbs",
+    "age": 36
+  },
+  {
+    "team": "tor",
+    "name": "Chris Bassitt",
+    "position": "Starting Pitcher",
+    "jersey": "40",
+    "height": "6' 5\"",
+    "weight": "217 lbs",
+    "age": 36
+  },
+  {
+    "team": "tor",
+    "name": "Jose Berrios",
+    "position": "Starting Pitcher",
+    "jersey": "17",
+    "height": "6' 0\"",
+    "weight": "205 lbs",
+    "age": 30
+  },
+  {
+    "team": "tor",
+    "name": "Braydon Fisher",
+    "position": "Relief Pitcher",
+    "jersey": "63",
+    "height": "6' 4\"",
+    "weight": "180 lbs",
+    "age": 24
+  },
+  {
+    "team": "tor",
+    "name": "Mason Fluharty",
+    "position": "Relief Pitcher",
+    "jersey": "68",
+    "height": "6' 2\"",
+    "weight": "215 lbs",
+    "age": 23
+  },
+  {
+    "team": "tor",
+    "name": "Bowden Francis",
+    "position": "Starting Pitcher",
+    "jersey": "44",
+    "height": "6' 5\"",
+    "weight": "220 lbs",
+    "age": 29
+  },
+  {
+    "team": "tor",
+    "name": "Yimi Garcia",
+    "position": "Relief Pitcher",
+    "jersey": "93",
+    "height": "6' 1\"",
+    "weight": "230 lbs",
+    "age": 34
+  },
+  {
+    "team": "tor",
+    "name": "Kevin Gausman",
+    "position": "Starting Pitcher",
+    "jersey": "34",
+    "height": "6' 2\"",
+    "weight": "205 lbs",
+    "age": 34
+  },
+  {
+    "team": "tor",
+    "name": "Chad Green",
+    "position": "Relief Pitcher",
+    "jersey": "57",
+    "height": "6' 3\"",
+    "weight": "215 lbs",
+    "age": 33
+  },
+  {
+    "team": "tor",
+    "name": "Jeff Hoffman",
+    "position": "Relief Pitcher",
+    "jersey": "23",
+    "height": "6' 5\"",
+    "weight": "235 lbs",
+    "age": 32
+  },
+  {
+    "team": "tor",
+    "name": "Eric Lauer",
+    "position": "Relief Pitcher",
+    "jersey": "56",
+    "height": "6' 3\"",
+    "weight": "209 lbs",
+    "age": 29
+  },
+  {
+    "team": "tor",
+    "name": "Brendon Little",
+    "position": "Relief Pitcher",
+    "jersey": "54",
+    "height": "6' 2\"",
+    "weight": "195 lbs",
+    "age": 28
+  },
+  {
+    "team": "tor",
+    "name": "Yariel Rodriguez",
+    "position": "Relief Pitcher",
+    "jersey": "29",
+    "height": "6' 0\"",
+    "weight": "165 lbs",
+    "age": 28
+  },
+  {
+    "team": "tor",
+    "name": "Jose Urena",
+    "position": "Starting Pitcher",
+    "jersey": "48",
+    "height": "6' 2\"",
+    "weight": "208 lbs",
+    "age": 33
+  },
+  {
+    "team": "tor",
+    "name": "Tyler Heineman",
+    "position": "Catcher",
+    "jersey": "55",
+    "height": "5' 10\"",
+    "weight": "190 lbs",
+    "age": 33
+  },
+  {
+    "team": "tor",
+    "name": "Alejandro Kirk",
+    "position": "Catcher",
+    "jersey": "30",
+    "height": "5' 8\"",
+    "weight": "245 lbs",
+    "age": 26
+  },
+  {
+    "team": "tor",
+    "name": "Addison Barger",
+    "position": "Third Base",
+    "jersey": "47",
+    "height": "6' 0\"",
+    "weight": "210 lbs",
+    "age": 25
+  },
+  {
+    "team": "tor",
+    "name": "Bo Bichette",
+    "position": "Shortstop",
+    "jersey": "11",
+    "height": "5' 11\"",
+    "weight": "190 lbs",
+    "age": 27
+  },
+  {
+    "team": "tor",
+    "name": "Ernie Clement",
+    "position": "Third Base",
+    "jersey": "22",
+    "height": "5' 11\"",
+    "weight": "170 lbs",
+    "age": 29
+  },
+  {
+    "team": "tor",
+    "name": "Vladimir Guerrero Jr.",
+    "position": "First Base",
+    "jersey": "27",
+    "height": "6' 0\"",
+    "weight": "245 lbs",
+    "age": 26
+  },
+  {
+    "team": "tor",
+    "name": "Michael Stefanic",
+    "position": "Second Base",
+    "jersey": "16",
+    "height": "5' 9\"",
+    "weight": "180 lbs",
+    "age": 29
+  },
+  {
+    "team": "tor",
+    "name": "Jonatan Clase",
+    "position": "Left Field",
+    "jersey": "8",
+    "height": "5' 10\"",
+    "weight": "150 lbs",
+    "age": 22
+  },
+  {
+    "team": "tor",
+    "name": "Nathan Lukes",
+    "position": "Center Field",
+    "jersey": "38",
+    "height": "5' 11\"",
+    "weight": "180 lbs",
+    "age": 30
+  },
+  {
+    "team": "tor",
+    "name": "Anthony Santander",
+    "position": "Right Field",
+    "jersey": "25",
+    "height": "6' 0\"",
+    "weight": "230 lbs",
+    "age": 30
+  },
+  {
+    "team": "tor",
+    "name": "George Springer",
+    "position": "Right Field",
+    "jersey": "4",
+    "height": "6' 1\"",
+    "weight": "220 lbs",
+    "age": 35
+  },
+  {
+    "team": "tor",
+    "name": "Myles Straw",
+    "position": "Center Field",
+    "jersey": "3",
+    "height": "5' 9\"",
+    "weight": "178 lbs",
+    "age": 30
+  },
+  {
+    "team": "tor",
+    "name": "Daulton Varsho",
+    "position": "Center Field",
+    "jersey": "5",
+    "height": "5' 8\"",
+    "weight": "207 lbs",
+    "age": 28
+  },
+  {
+    "team": "was",
+    "name": "Zach Brzykcy",
+    "position": "Relief Pitcher",
+    "jersey": "66",
+    "height": "6' 2\"",
+    "weight": "208 lbs",
+    "age": 25
+  },
+  {
+    "team": "was",
+    "name": "Andrew Chafin",
+    "position": "Relief Pitcher",
+    "jersey": "53",
+    "height": "6' 2\"",
+    "weight": "235 lbs",
+    "age": 34
+  },
+  {
+    "team": "was",
+    "name": "Jose Ferrer",
+    "position": "Relief Pitcher",
+    "jersey": "47",
+    "height": "6' 1\"",
+    "weight": "233 lbs",
+    "age": 25
+  },
+  {
+    "team": "was",
+    "name": "Kyle Finnegan",
+    "position": "Relief Pitcher",
+    "jersey": "67",
+    "height": "6' 2\"",
+    "weight": "198 lbs",
+    "age": 33
+  },
+  {
+    "team": "was",
+    "name": "MacKenzie Gore",
+    "position": "Starting Pitcher",
+    "jersey": "1",
+    "height": "6' 2\"",
+    "weight": "193 lbs",
+    "age": 26
+  },
+  {
+    "team": "was",
+    "name": "Cole Henry",
+    "position": "Relief Pitcher",
+    "jersey": "99",
+    "height": "6' 4\"",
+    "weight": "200 lbs",
+    "age": 25
+  },
+  {
+    "team": "was",
+    "name": "Jake Irvin",
+    "position": "Starting Pitcher",
+    "jersey": "27",
+    "height": "6' 6\"",
+    "weight": "234 lbs",
+    "age": 28
+  },
+  {
+    "team": "was",
+    "name": "Jorge Lopez",
+    "position": "Relief Pitcher",
+    "jersey": "21",
+    "height": "6' 3\"",
+    "weight": "200 lbs",
+    "age": 32
+  },
+  {
+    "team": "was",
+    "name": "Brad Lord",
+    "position": "Starting Pitcher",
+    "jersey": "61",
+    "height": "6' 3\"",
+    "weight": "210 lbs",
+    "age": 25
+  },
+  {
+    "team": "was",
+    "name": "Mitchell Parker",
+    "position": "Starting Pitcher",
+    "jersey": "70",
+    "height": "6' 4\"",
+    "weight": "239 lbs",
+    "age": 25
+  },
+  {
+    "team": "was",
+    "name": "Jackson Rutledge",
+    "position": "Relief Pitcher",
+    "jersey": "79",
+    "height": "6' 8\"",
+    "weight": "241 lbs",
+    "age": 26
+  },
+  {
+    "team": "was",
+    "name": "Michael Soroka",
+    "position": "Starting Pitcher",
+    "jersey": "34",
+    "height": "6' 5\"",
+    "weight": "250 lbs",
+    "age": 27
+  },
+  {
+    "team": "was",
+    "name": "Trevor Williams",
+    "position": "Starting Pitcher",
+    "jersey": "32",
+    "height": "6' 3\"",
+    "weight": "231 lbs",
+    "age": 33
+  },
+  {
+    "team": "was",
+    "name": "Riley Adams",
+    "position": "Catcher",
+    "jersey": "15",
+    "height": "6' 4\"",
+    "weight": "263 lbs",
+    "age": 28
+  },
+  {
+    "team": "was",
+    "name": "Keibert Ruiz",
+    "position": "Catcher",
+    "jersey": "20",
+    "height": "6' 0\"",
+    "weight": "238 lbs",
+    "age": 26
+  },
+  {
+    "team": "was",
+    "name": "CJ Abrams",
+    "position": "Shortstop",
+    "jersey": "5",
+    "height": "6' 0\"",
+    "weight": "191 lbs",
+    "age": 24
+  },
+  {
+    "team": "was",
+    "name": "Josh Bell",
+    "position": "First Base",
+    "jersey": "19",
+    "height": "6' 3\"",
+    "weight": "261 lbs",
+    "age": 32
+  },
+  {
+    "team": "was",
+    "name": "Luis Garcia Jr.",
+    "position": "Second Base",
+    "jersey": "2",
+    "height": "6' 1\"",
+    "weight": "216 lbs",
+    "age": 25
+  },
+  {
+    "team": "was",
+    "name": "Nathaniel Lowe",
+    "position": "First Base",
+    "jersey": "33",
+    "height": "6' 4\"",
+    "weight": "220 lbs",
+    "age": 29
+  },
+  {
+    "team": "was",
+    "name": "Nasim Nunez",
+    "position": "Shortstop",
+    "jersey": "26",
+    "height": "5' 8\"",
+    "weight": "165 lbs",
+    "age": 24
+  },
+  {
+    "team": "was",
+    "name": "Amed Rosario",
+    "position": "Third Base",
+    "jersey": "13",
+    "height": "6' 2\"",
+    "weight": "190 lbs",
+    "age": 29
+  },
+  {
+    "team": "was",
+    "name": "Jose Tena",
+    "position": "Third Base",
+    "jersey": "8",
+    "height": "5' 11\"",
+    "weight": "195 lbs",
+    "age": 24
+  },
+  {
+    "team": "was",
+    "name": "Alex Call",
+    "position": "Right Field",
+    "jersey": "17",
+    "height": "5' 11\"",
+    "weight": "189 lbs",
+    "age": 30
+  },
+  {
+    "team": "was",
+    "name": "Dylan Crews",
+    "position": "Right Field",
+    "jersey": "3",
+    "height": "6' 0\"",
+    "weight": "203 lbs",
+    "age": 23
+  },
+  {
+    "team": "was",
+    "name": "James Wood",
+    "position": "Left Field",
+    "jersey": "29",
+    "height": "6' 7\"",
+    "weight": "234 lbs",
+    "age": 22
+  },
+  {
+    "team": "was",
+    "name": "Jacob Young",
+    "position": "Center Field",
+    "jersey": "30",
+    "height": "5' 11\"",
+    "weight": "192 lbs",
+    "age": 25
+  }
+]
