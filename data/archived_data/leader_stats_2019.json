@@ -458,186 +458,6 @@
       "totalSplits": 135
     },
     {
-      "leaderCategory": "battingAverage",
-      "season": "2019",
-      "gameType": {
-        "id": "R",
-        "description": "Regular Season"
-      },
-      "leaders": [
-        {
-          "rank": 1,
-          "value": ".218",
-          "team": {
-            "id": 117,
-            "name": "Houston Astros",
-            "link": "/api/v1/teams/117"
-          },
-          "league": {
-            "id": 103,
-            "name": "AL",
-            "link": "/api/v1/league/103"
-          },
-          "person": {
-            "id": 455139,
-            "fullName": "Robinson Chirinos",
-            "link": "/api/v1/people/455139",
-            "firstName": "Robinson",
-            "lastName": "Chirinos"
-          },
-          "sport": {
-            "id": 1,
-            "link": "/api/v1/sports/1",
-            "abbreviation": "MLB"
-          },
-          "season": "2019",
-          "numTeams": 1
-        },
-        {
-          "rank": 2,
-          "value": ".231",
-          "team": {
-            "id": 139,
-            "name": "Tampa Bay Rays",
-            "link": "/api/v1/teams/139"
-          },
-          "league": {
-            "id": 103,
-            "name": "AL",
-            "link": "/api/v1/league/103"
-          },
-          "person": {
-            "id": 572287,
-            "fullName": "Mike Zunino",
-            "link": "/api/v1/people/572287",
-            "firstName": "Mike",
-            "lastName": "Zunino"
-          },
-          "sport": {
-            "id": 1,
-            "link": "/api/v1/sports/1",
-            "abbreviation": "MLB"
-          },
-          "season": "2019",
-          "numTeams": 1
-        },
-        {
-          "rank": 3,
-          "value": ".235",
-          "team": {
-            "id": 113,
-            "name": "Cincinnati Reds",
-            "link": "/api/v1/teams/113"
-          },
-          "league": {
-            "id": 104,
-            "name": "NL",
-            "link": "/api/v1/league/104"
-          },
-          "person": {
-            "id": 571466,
-            "fullName": "Tucker Barnhart",
-            "link": "/api/v1/people/571466",
-            "firstName": "Tucker",
-            "lastName": "Barnhart"
-          },
-          "sport": {
-            "id": 1,
-            "link": "/api/v1/sports/1",
-            "abbreviation": "MLB"
-          },
-          "season": "2019",
-          "numTeams": 1
-        },
-        {
-          "rank": 4,
-          "value": ".237",
-          "team": {
-            "id": 138,
-            "name": "St. Louis Cardinals",
-            "link": "/api/v1/teams/138"
-          },
-          "league": {
-            "id": 104,
-            "name": "NL",
-            "link": "/api/v1/league/104"
-          },
-          "person": {
-            "id": 425877,
-            "fullName": "Yadier Molina",
-            "link": "/api/v1/people/425877",
-            "firstName": "Yadier",
-            "lastName": "Molina"
-          },
-          "sport": {
-            "id": 1,
-            "link": "/api/v1/sports/1",
-            "abbreviation": "MLB"
-          },
-          "season": "2019",
-          "numTeams": 1
-        },
-        {
-          "rank": 5,
-          "value": ".238",
-          "team": {
-            "id": 135,
-            "name": "San Diego Padres",
-            "link": "/api/v1/teams/135"
-          },
-          "league": {
-            "id": 104,
-            "name": "NL",
-            "link": "/api/v1/league/104"
-          },
-          "person": {
-            "id": 595978,
-            "fullName": "Austin Hedges",
-            "link": "/api/v1/people/595978",
-            "firstName": "Austin",
-            "lastName": "Hedges"
-          },
-          "sport": {
-            "id": 1,
-            "link": "/api/v1/sports/1",
-            "abbreviation": "MLB"
-          },
-          "season": "2019",
-          "numTeams": 1
-        },
-        {
-          "rank": 5,
-          "value": ".238",
-          "team": {
-            "id": 114,
-            "name": "Cleveland Indians",
-            "link": "/api/v1/teams/114"
-          },
-          "league": {
-            "id": 103,
-            "name": "AL",
-            "link": "/api/v1/league/103"
-          },
-          "person": {
-            "id": 547379,
-            "fullName": "Roberto P\u00e9rez",
-            "link": "/api/v1/people/547379",
-            "firstName": "Roberto",
-            "lastName": "P\u00e9rez"
-          },
-          "sport": {
-            "id": 1,
-            "link": "/api/v1/sports/1",
-            "abbreviation": "MLB"
-          },
-          "season": "2019",
-          "numTeams": 1
-        }
-      ],
-      "statGroup": "catching",
-      "totalSplits": 30
-    },
-    {
       "leaderCategory": "runsBattedIn",
       "season": "2019",
       "gameType": {
@@ -816,6 +636,186 @@
       ],
       "statGroup": "hitting",
       "totalSplits": 693
+    },
+    {
+      "leaderCategory": "battingAverage",
+      "season": "2019",
+      "gameType": {
+        "id": "R",
+        "description": "Regular Season"
+      },
+      "leaders": [
+        {
+          "rank": 1,
+          "value": ".218",
+          "team": {
+            "id": 117,
+            "name": "Houston Astros",
+            "link": "/api/v1/teams/117"
+          },
+          "league": {
+            "id": 103,
+            "name": "AL",
+            "link": "/api/v1/league/103"
+          },
+          "person": {
+            "id": 455139,
+            "fullName": "Robinson Chirinos",
+            "link": "/api/v1/people/455139",
+            "firstName": "Robinson",
+            "lastName": "Chirinos"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2019",
+          "numTeams": 1
+        },
+        {
+          "rank": 2,
+          "value": ".231",
+          "team": {
+            "id": 139,
+            "name": "Tampa Bay Rays",
+            "link": "/api/v1/teams/139"
+          },
+          "league": {
+            "id": 103,
+            "name": "AL",
+            "link": "/api/v1/league/103"
+          },
+          "person": {
+            "id": 572287,
+            "fullName": "Mike Zunino",
+            "link": "/api/v1/people/572287",
+            "firstName": "Mike",
+            "lastName": "Zunino"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2019",
+          "numTeams": 1
+        },
+        {
+          "rank": 3,
+          "value": ".235",
+          "team": {
+            "id": 113,
+            "name": "Cincinnati Reds",
+            "link": "/api/v1/teams/113"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 571466,
+            "fullName": "Tucker Barnhart",
+            "link": "/api/v1/people/571466",
+            "firstName": "Tucker",
+            "lastName": "Barnhart"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2019",
+          "numTeams": 1
+        },
+        {
+          "rank": 4,
+          "value": ".237",
+          "team": {
+            "id": 138,
+            "name": "St. Louis Cardinals",
+            "link": "/api/v1/teams/138"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 425877,
+            "fullName": "Yadier Molina",
+            "link": "/api/v1/people/425877",
+            "firstName": "Yadier",
+            "lastName": "Molina"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2019",
+          "numTeams": 1
+        },
+        {
+          "rank": 5,
+          "value": ".238",
+          "team": {
+            "id": 135,
+            "name": "San Diego Padres",
+            "link": "/api/v1/teams/135"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 595978,
+            "fullName": "Austin Hedges",
+            "link": "/api/v1/people/595978",
+            "firstName": "Austin",
+            "lastName": "Hedges"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2019",
+          "numTeams": 1
+        },
+        {
+          "rank": 5,
+          "value": ".238",
+          "team": {
+            "id": 114,
+            "name": "Cleveland Indians",
+            "link": "/api/v1/teams/114"
+          },
+          "league": {
+            "id": 103,
+            "name": "AL",
+            "link": "/api/v1/league/103"
+          },
+          "person": {
+            "id": 547379,
+            "fullName": "Roberto P\u00e9rez",
+            "link": "/api/v1/people/547379",
+            "firstName": "Roberto",
+            "lastName": "P\u00e9rez"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2019",
+          "numTeams": 1
+        }
+      ],
+      "statGroup": "catching",
+      "totalSplits": 30
     },
     {
       "leaderCategory": "homeRuns",
