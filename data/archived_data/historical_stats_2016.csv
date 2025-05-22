@@ -1,0 +1,1373 @@
+name,year,team,AB,R,H,HR,RBI,BB,K,AVG,OBP,SLG,OPS,playerType
+Arismendy Alcántara,2016,Oakland Athletics,19,2,4,0,2,0,8,.211,.211,.263,.474,hitter
+Yonder Alonso,2016,Oakland Athletics,482,52,122,7,56,45,74,.253,.316,.367,.683,hitter
+John Axford,2016,Oakland Athletics,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Billy Burns,2016,Oakland Athletics,274,32,64,0,12,10,30,.234,.270,.303,.573,hitter
+Billy Butler,2016,Oakland Athletics,221,24,61,4,31,19,34,.276,.331,.403,.734,hitter
+Mark Canha,2016,Oakland Athletics,41,4,5,3,6,0,20,.122,.140,.341,.481,hitter
+Chris Coghlan,2016,Oakland Athletics,158,14,23,5,14,13,47,.146,.215,.272,.487,hitter
+Danny Coulombe,2016,Oakland Athletics,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Coco Crisp,2016,Oakland Athletics,393,45,92,11,47,37,65,.234,.299,.399,.698,hitter
+Khris Davis,2016,Oakland Athletics,555,85,137,42,102,42,166,.247,.307,.524,.831,hitter
+Ross Detwiler,2016,Oakland Athletics,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Sean Doolittle,2016,Oakland Athletics,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ryan Dull,2016,Oakland Athletics,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brett Eibner,2016,Kansas City Royals,78,11,18,3,10,6,23,.231,.286,.423,.709,hitter
+Kendall Graveman,2016,Oakland Athletics,4,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Sonny Gray,2016,Oakland Athletics,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Jesse Hahn,2016,Oakland Athletics,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Ryon Healy,2016,Oakland Athletics,269,36,82,13,37,12,60,.305,.337,.524,.861,hitter
+Liam Hendriks,2016,Oakland Athletics,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Rich Hill,2016,Los Angeles Dodgers,12,0,0,0,0,0,8,.000,.000,.000,.000,hitter
+Tyler Ladendorf,2016,Oakland Athletics,48,6,4,0,1,1,13,.083,.102,.083,.185,hitter
+Andrew Lambo,2016,Oakland Athletics,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jed Lowrie,2016,Oakland Athletics,338,30,89,2,27,26,65,.263,.314,.322,.636,hitter
+Ryan Madson,2016,Oakland Athletics,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Sean Manaea,2016,Oakland Athletics,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Bruce Maxwell,2016,Oakland Athletics,92,8,26,1,14,8,24,.283,.337,.402,.739,hitter
+Matt McBride,2016,Oakland Athletics,43,4,9,0,2,1,10,.209,.227,.279,.506,hitter
+Daniel Mengden,2016,Oakland Athletics,6,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Max Muncy,2016,Oakland Athletics,113,13,21,2,8,20,24,.186,.308,.257,.565,hitter
+Zach Neal,2016,Oakland Athletics,2,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Renato Núñez,2016,Oakland Athletics,15,0,2,0,1,0,3,.133,.133,.133,.266,hitter
+Matt Olson,2016,Oakland Athletics,21,3,2,0,0,7,4,.095,.321,.143,.464,hitter
+Josh Phegley,2016,Oakland Athletics,78,11,20,1,10,5,13,.256,.314,.372,.686,hitter
+Chad Pinder,2016,Oakland Athletics,51,4,12,1,4,3,14,.235,.273,.373,.646,hitter
+Josh Reddick,2016,Oakland Athletics,243,33,72,8,28,28,34,.296,.368,.449,.817,hitter
+Fernando Rodriguez Jr.,2016,Oakland Athletics,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Marc Rzepczynski,2016,Oakland Athletics,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Patrick Schuster,2016,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Marcus Semien,2016,Oakland Athletics,568,72,135,27,75,51,139,.238,.300,.435,.735,hitter
+Jake Smolinski,2016,Oakland Athletics,290,28,69,7,27,19,44,.238,.299,.345,.644,hitter
+Andrew Triggs,2016,Oakland Athletics,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Danny Valencia,2016,Oakland Athletics,471,72,135,17,51,41,115,.287,.346,.446,.792,hitter
+Stephen Vogt,2016,Oakland Athletics,490,54,123,14,56,35,83,.251,.305,.406,.711,hitter
+J.B. Wendelken,2016,Oakland Athletics,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Joey Wendle,2016,Oakland Athletics,96,11,25,1,11,6,16,.260,.298,.302,.600,hitter
+Antonio Bastardo,2016,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Josh Bell,2016,Pittsburgh Pirates,128,18,35,3,19,21,19,.273,.368,.406,.774,hitter
+Wilfredo Boscan,2016,Pittsburgh Pirates,3,0,1,0,1,0,1,.333,.333,.333,.666,hitter
+Steven Brault,2016,Pittsburgh Pirates,8,1,2,0,0,0,0,.250,.250,.250,.500,hitter
+Arquimedes Caminero,2016,Pittsburgh Pirates,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Francisco Cervelli,2016,Pittsburgh Pirates,326,42,86,1,33,56,72,.264,.377,.322,.699,hitter
+Phil Coke,2016,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Gerrit Cole,2016,Pittsburgh Pirates,40,3,8,1,3,0,19,.200,.220,.300,.520,hitter
+Elias Díaz,2016,Pittsburgh Pirates,4,0,0,0,1,0,1,.000,.000,.000,.000,hitter
+Neftalí Feliz,2016,Pittsburgh Pirates,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Cole Figueroa,2016,Pittsburgh Pirates,26,0,4,0,3,1,2,.154,.185,.154,.339,hitter
+Pedro Florimón,2016,Pittsburgh Pirates,24,4,5,0,4,1,12,.208,.240,.333,.573,hitter
+Adam Frazier,2016,Pittsburgh Pirates,146,21,44,2,11,12,26,.301,.356,.411,.767,hitter
+David Freese,2016,Pittsburgh Pirates,437,63,118,13,55,45,142,.270,.352,.412,.764,hitter
+Eric Fryer,2016,St. Louis Cardinals,38,7,14,0,5,3,7,.368,.415,.421,.836,hitter
+Tyler Glasnow,2016,Pittsburgh Pirates,7,0,1,0,0,0,4,.143,.143,.143,.286,hitter
+Alen Hanson,2016,Pittsburgh Pirates,31,5,7,0,1,2,5,.226,.273,.258,.531,hitter
+Josh Harrison,2016,Pittsburgh Pirates,487,57,138,4,59,18,76,.283,.311,.388,.699,hitter
+Jared Hughes,2016,Pittsburgh Pirates,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Drew Hutchison,2016,Pittsburgh Pirates,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+John Jaso,2016,Pittsburgh Pirates,380,45,102,8,42,45,74,.268,.353,.413,.766,hitter
+Matt Joyce,2016,Pittsburgh Pirates,231,45,56,13,42,59,67,.242,.403,.463,.866,hitter
+Jung Ho Kang,2016,Pittsburgh Pirates,318,45,81,21,62,36,79,.255,.354,.513,.867,hitter
+Erik Kratz,2016,Houston Astros,29,0,2,0,0,1,14,.069,.100,.103,.203,hitter
+Chad Kuhl,2016,Pittsburgh Pirates,23,0,2,0,0,1,9,.087,.125,.087,.212,hitter
+Wade LeBlanc,2016,Pittsburgh Pirates,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Francisco Liriano,2016,Pittsburgh Pirates,42,2,12,1,5,0,16,.286,.286,.381,.667,hitter
+Kyle Lobstein,2016,Pittsburgh Pirates,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Jeff Locke,2016,Pittsburgh Pirates,32,0,4,0,0,1,17,.125,.152,.125,.277,hitter
+Cory Luebke,2016,Pittsburgh Pirates,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kelvin Marte,2016,Pittsburgh Pirates,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Starling Marte,2016,Pittsburgh Pirates,489,71,152,9,46,23,104,.311,.362,.456,.818,hitter
+Andrew McCutchen,2016,Pittsburgh Pirates,598,81,153,24,79,69,143,.256,.336,.430,.766,hitter
+Mark Melancon,2016,Pittsburgh Pirates,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jordy Mercer,2016,Pittsburgh Pirates,519,66,133,11,59,51,83,.256,.328,.374,.702,hitter
+Max Moroff,2016,Pittsburgh Pirates,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Michael Morse,2016,Pittsburgh Pirates,8,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Juan Nicasio,2016,Pittsburgh Pirates,19,1,3,0,1,0,7,.158,.158,.158,.316,hitter
+Jonathon Niese,2016,Pittsburgh Pirates,30,1,3,0,1,2,14,.100,.156,.133,.289,hitter
+Iván Nova,2016,New York Yankees,4,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Curtis Partch,2016,Pittsburgh Pirates,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Zach Phillips,2016,Pittsburgh Pirates,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Gregory Polanco,2016,Pittsburgh Pirates,527,79,136,22,86,53,119,.258,.323,.463,.786,hitter
+Sean Rodríguez,2016,Pittsburgh Pirates,300,49,81,18,56,33,102,.270,.349,.510,.859,hitter
+Jason Rogers,2016,Pittsburgh Pirates,25,2,2,0,2,7,9,.080,.303,.160,.463,hitter
+Jorge Rondon,2016,Pittsburgh Pirates,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Rob Scahill,2016,Pittsburgh Pirates,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+A.J. Schugel,2016,Pittsburgh Pirates,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Jacob Stallings,2016,Pittsburgh Pirates,15,0,6,0,2,0,4,.400,.400,.467,.867,hitter
+Chris Stewart,2016,Pittsburgh Pirates,98,10,21,1,7,12,15,.214,.319,.286,.605,hitter
+Jameson Taillon,2016,Pittsburgh Pirates,32,0,3,0,2,0,17,.094,.094,.094,.188,hitter
+Felipe Vázquez,2016,Washington Nationals,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Ryan Vogelsong,2016,Pittsburgh Pirates,19,1,1,0,1,1,13,.053,.143,.053,.196,hitter
+Tony Watson,2016,Pittsburgh Pirates,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Trevor Williams,2016,Pittsburgh Pirates,1,1,0,0,1,2,1,.000,.667,.000,.667,hitter
+Alexi Amarista,2016,San Diego Padres,140,9,36,0,11,8,26,.257,.295,.271,.566,hitter
+Oswaldo Arcia,2016,Minnesota Twins,103,8,22,4,12,10,46,.214,.289,.369,.658,hitter
+Carlos Asuaje,2016,San Diego Padres,24,2,5,0,2,1,4,.208,.240,.292,.532,hitter
+Buddy Baumann,2016,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Christian Bethancourt,2016,San Diego Padres,193,20,44,6,25,10,56,.228,.265,.368,.633,hitter
+Jabari Blash,2016,San Diego Padres,71,7,12,3,5,11,34,.169,.298,.324,.622,hitter
+Ryan Buchter,2016,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Leonel Campos,2016,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Andrew Cashner,2016,San Diego Padres,18,2,3,0,1,2,6,.167,.250,.167,.417,hitter
+Paul Clemens,2016,Miami Marlins,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Jarred Cosart,2016,Miami Marlins,6,0,1,0,0,0,1,.167,.167,.167,.334,hitter
+Alex Dickerson,2016,San Diego Padres,253,39,65,10,37,26,44,.257,.333,.455,.788,hitter
+José Domínguez,2016,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Robbie Erlin,2016,San Diego Padres,6,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Christian Friedrich,2016,San Diego Padres,37,2,2,0,2,3,23,.054,.125,.054,.179,hitter
+Tayron Guerrero,2016,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brad Hand,2016,San Diego Padres,4,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Austin Hedges,2016,San Diego Padres,24,2,3,0,1,0,7,.125,.154,.167,.321,hitter
+Keith Hessler,2016,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Edwin Jackson,2016,Miami Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Travis Jankowski,2016,San Diego Padres,335,53,82,2,12,42,100,.245,.332,.313,.645,hitter
+Jon Jay,2016,San Diego Padres,347,49,101,2,26,19,78,.291,.339,.389,.728,hitter
+Erik Johnson,2016,San Diego Padres,4,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Matt Kemp,2016,San Diego Padres,409,54,107,23,69,16,100,.262,.285,.489,.774,hitter
+Michael Kirkman,2016,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Patrick Kivlehan,2016,San Diego Padres,16,5,4,1,2,2,9,.250,.368,.438,.806,hitter
+Manuel Margot,2016,San Diego Padres,37,4,9,0,3,0,7,.243,.243,.405,.648,hitter
+Brandon Maurer,2016,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brandon Morrow,2016,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Wil Myers,2016,San Diego Padres,599,99,155,28,94,68,160,.259,.336,.461,.797,hitter
+Nick Noonan,2016,San Diego Padres,18,0,3,0,1,1,5,.167,.200,.167,.367,hitter
+Derek Norris,2016,San Diego Padres,415,50,77,14,42,36,139,.186,.255,.328,.583,hitter
+Luis Perdomo,2016,San Diego Padres,38,1,5,0,1,1,15,.132,.175,.158,.333,hitter
+José Pirela,2016,San Diego Padres,39,2,6,0,0,1,9,.154,.175,.205,.380,hitter
+Drew Pomeranz,2016,San Diego Padres,33,2,5,1,4,0,19,.152,.152,.242,.394,hitter
+Kevin Quackenbush,2016,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Alexei Ramirez,2016,San Diego Padres,421,33,101,5,41,17,56,.240,.275,.330,.605,hitter
+Colin Rea,2016,San Diego Padres,33,3,4,0,1,2,16,.121,.171,.121,.292,hitter
+Hunter Renfroe,2016,San Diego Padres,35,8,13,4,14,1,5,.371,.389,.800,1.189,hitter
+Clayton Richard,2016,Chicago Cubs,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Fernando Rodney,2016,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+José Rondón,2016,San Diego Padres,25,1,3,0,1,1,4,.120,.154,.120,.274,hitter
+Adam Rosales,2016,San Diego Padres,214,37,49,13,35,29,88,.229,.319,.495,.814,hitter
+Tyson Ross,2016,San Diego Padres,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Héctor Sánchez,2016,Chicago White Sox,7,0,1,0,1,1,2,.143,.250,.143,.393,hitter
+Luis Sardinas,2016,Seattle Mariners,72,12,13,2,5,1,25,.181,.203,.264,.467,hitter
+Ryan Schimpf,2016,San Diego Padres,276,48,60,20,51,42,105,.217,.336,.533,.869,hitter
+James Shields,2016,San Diego Padres,17,1,3,0,0,0,11,.176,.176,.176,.352,hitter
+Jake Smith,2016,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Yangervis Solarte,2016,San Diego Padres,405,55,116,15,71,30,63,.286,.341,.467,.808,hitter
+Cory Spangenberg,2016,San Diego Padres,48,6,11,1,8,4,13,.229,.302,.354,.656,hitter
+Matt Thornton,2016,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+José Torres,2016,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+B.J. Upton,2016,San Diego Padres,344,46,88,16,45,23,106,.256,.304,.439,.743,hitter
+César Vargas,2016,San Diego Padres,8,0,0,0,0,0,5,.000,.000,.000,.000,hitter
+Carlos Villanueva,2016,San Diego Padres,4,0,0,0,0,0,4,.000,.000,.000,.000,hitter
+Brett Wallace,2016,San Diego Padres,217,19,41,6,20,29,83,.189,.309,.318,.627,hitter
+Jemile Weeks,2016,San Diego Padres,50,5,7,0,2,3,14,.140,.204,.200,.404,hitter
+Norichika Aoki,2016,Seattle Mariners,417,63,118,4,28,34,45,.283,.349,.388,.737,hitter
+Joaquín Benoit,2016,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Arquimedes Caminero,2016,Pittsburgh Pirates,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Robinson Canó,2016,Seattle Mariners,655,107,195,39,103,47,100,.298,.350,.533,.883,hitter
+Steve Cishek,2016,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Steve Clevenger,2016,Seattle Mariners,68,7,15,1,7,8,14,.221,.303,.309,.612,hitter
+Nelson Cruz,2016,Seattle Mariners,589,96,169,43,105,62,159,.287,.360,.555,.915,hitter
+Edwin Díaz,2016,Seattle Mariners,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mike Freeman,2016,Arizona Diamondbacks,9,0,0,0,0,2,5,.000,.182,.000,.182,hitter
+Ben Gamel,2016,New York Yankees,8,1,1,0,0,1,1,.125,.222,.125,.347,hitter
+Franklin Gutierrez,2016,Seattle Mariners,248,33,61,14,39,29,85,.246,.329,.452,.781,hitter
+Guillermo Heredia,2016,Seattle Mariners,92,12,23,1,12,12,15,.250,.349,.315,.664,hitter
+Félix Hernández,2016,Seattle Mariners,6,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Chris Iannetta,2016,Seattle Mariners,295,23,62,7,24,38,83,.210,.303,.329,.632,hitter
+Hisashi Iwakuma,2016,Seattle Mariners,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Steve Johnson,2016,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Nate Karns,2016,Seattle Mariners,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Wade LeBlanc,2016,Pittsburgh Pirates,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Dae-Ho Lee,2016,Seattle Mariners,292,33,74,14,49,20,74,.253,.312,.428,.740,hitter
+Adam Lind,2016,Seattle Mariners,401,48,96,20,58,26,89,.239,.286,.431,.717,hitter
+Ketel Marte,2016,Seattle Mariners,437,55,113,1,33,18,84,.259,.287,.323,.610,hitter
+Cody Martin,2016,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Leonys Martin,2016,Seattle Mariners,518,72,128,15,47,44,149,.247,.306,.378,.684,hitter
+Wade Miley,2016,Seattle Mariners,7,1,1,0,0,0,1,.143,.143,.143,.286,hitter
+Mike Montgomery,2016,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Vidal Nuño,2016,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Shawn O'Malley,2016,Seattle Mariners,210,24,48,2,17,18,59,.229,.299,.319,.618,hitter
+James Paxton,2016,Seattle Mariners,3,0,0,0,0,1,3,.000,.250,.000,.250,hitter
+Joel Peralta,2016,Seattle Mariners,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Daniel Robertson,2016,Seattle Mariners,19,1,5,0,1,1,3,.263,.300,.316,.616,hitter
+David Rollins,2016,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Stefen Romero,2016,Seattle Mariners,17,1,4,0,3,1,4,.235,.263,.294,.557,hitter
+Adrian Sampson,2016,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Luis Sardinas,2016,Seattle Mariners,72,12,13,2,5,1,25,.181,.203,.264,.467,hitter
+Kyle Seager,2016,Seattle Mariners,597,89,166,30,99,69,108,.278,.359,.499,.858,hitter
+Seth Smith,2016,Seattle Mariners,378,62,94,16,63,48,89,.249,.342,.415,.757,hitter
+Drew Storen,2016,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jesús Sucre,2016,Seattle Mariners,25,4,12,1,5,2,5,.480,.552,.680,1.232,hitter
+Chris Taylor,2016,Seattle Mariners,3,0,1,0,0,0,2,.333,.333,.333,.666,hitter
+Nick Vincent,2016,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Daniel Vogelbach,2016,Seattle Mariners,12,0,1,0,0,1,6,.083,.154,.083,.237,hitter
+Tom Wilhelmsen,2016,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mike Zunino,2016,Seattle Mariners,164,16,34,12,31,21,65,.207,.318,.470,.788,hitter
+Ehire Adrianza,2016,San Francisco Giants,63,3,16,2,7,2,13,.254,.299,.381,.680,hitter
+Gordon Beckham,2016,Atlanta Braves,240,25,52,5,30,26,50,.217,.300,.354,.654,hitter
+Brandon Belt,2016,San Francisco Giants,542,77,149,17,82,104,148,.275,.394,.474,.868,hitter
+Ty Blach,2016,San Francisco Giants,4,1,2,0,0,0,0,.500,.500,.500,1.000,hitter
+Grégor Blanco,2016,San Francisco Giants,241,28,54,1,18,29,51,.224,.309,.311,.620,hitter
+Mike Broadway,2016,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Trevor Brown,2016,San Francisco Giants,173,17,41,5,19,10,39,.237,.283,.364,.647,hitter
+Madison Bumgarner,2016,San Francisco Giants,86,8,16,3,9,10,43,.186,.268,.360,.628,hitter
+Matt Cain,2016,San Francisco Giants,27,1,2,1,5,0,17,.074,.074,.222,.296,hitter
+Santiago Casilla,2016,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brandon Crawford,2016,San Francisco Giants,553,67,152,12,84,57,115,.275,.342,.430,.772,hitter
+Johnny Cueto,2016,San Francisco Giants,70,1,8,0,5,2,24,.114,.137,.114,.251,hitter
+Matt Duffy,2016,San Francisco Giants,257,32,65,4,21,20,40,.253,.313,.358,.671,hitter
+Cory Gearrin,2016,San Francisco Giants,1,0,1,0,0,0,0,1.000,1.000,1.000,2.000,hitter
+Conor Gillaspie,2016,San Francisco Giants,191,24,50,6,25,12,28,.262,.307,.440,.747,hitter
+Grant Green,2016,San Francisco Giants,46,7,12,1,7,3,8,.261,.300,.370,.670,hitter
+Gorkys Hernández,2016,San Francisco Giants,54,7,14,2,4,3,11,.259,.298,.463,.761,hitter
+Chris Heston,2016,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+George Kontos,2016,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Derek Law,2016,San Francisco Giants,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Javier López,2016,San Francisco Giants,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Vin Mazzaro,2016,San Francisco Giants,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Matt Moore,2016,Tampa Bay Rays,7,0,2,0,0,0,2,.286,.286,.286,.572,hitter
+Joe Nathan,2016,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Eduardo Núñez,2016,Minnesota Twins,371,49,110,12,47,15,58,.296,.325,.439,.764,hitter
+Steven Okert,2016,San Francisco Giants,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Josh Osich,2016,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ángel Pagán,2016,San Francisco Giants,495,71,137,12,55,42,66,.277,.331,.418,.749,hitter
+Joe Panik,2016,San Francisco Giants,464,67,111,10,62,50,47,.239,.315,.379,.694,hitter
+Jarrett Parker,2016,San Francisco Giants,127,22,30,5,14,19,44,.236,.358,.394,.752,hitter
+Jake Peavy,2016,San Francisco Giants,27,2,5,0,3,2,12,.185,.241,.185,.426,hitter
+Ramiro Pena,2016,San Francisco Giants,87,9,26,1,10,2,16,.299,.330,.425,.755,hitter
+Hunter Pence,2016,San Francisco Giants,395,58,114,13,57,43,95,.289,.357,.451,.808,hitter
+Buster Posey,2016,San Francisco Giants,539,82,155,14,80,64,68,.288,.362,.434,.796,hitter
+Matt Reynolds,2016,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Sergio Romo,2016,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jeff Samardzija,2016,San Francisco Giants,64,4,10,0,9,1,28,.156,.164,.234,.398,hitter
+Will Smith,2016,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Denard Span,2016,San Francisco Giants,572,70,152,11,53,53,79,.266,.331,.381,.712,hitter
+Chris Stratton,2016,San Francisco Giants,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Hunter Strickland,2016,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Albert Suárez,2016,San Francisco Giants,21,1,4,0,2,0,11,.190,.190,.286,.476,hitter
+Rubén Tejada,2016,St. Louis Cardinals,34,6,6,0,3,2,8,.176,.225,.235,.460,hitter
+Kelby Tomlinson,2016,San Francisco Giants,106,13,31,0,6,12,18,.292,.370,.330,.700,hitter
+Mac Williamson,2016,San Francisco Giants,112,14,25,6,15,13,35,.223,.315,.411,.726,hitter
+Matt Adams,2016,St. Louis Cardinals,297,37,74,16,54,25,81,.249,.309,.471,.780,hitter
+Matt Bowman,2016,St. Louis Cardinals,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Jonathan Broxton,2016,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Matt Carpenter,2016,St. Louis Cardinals,473,81,128,21,68,81,108,.271,.380,.505,.885,hitter
+Aledmys Díaz,2016,St. Louis Cardinals,404,71,121,17,65,41,60,.300,.369,.510,.879,hitter
+Zach Duke,2016,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Eric Fryer,2016,St. Louis Cardinals,38,7,14,0,5,3,7,.368,.415,.421,.836,hitter
+Greg Garcia,2016,St. Louis Cardinals,214,33,59,3,17,38,50,.276,.393,.369,.762,hitter
+Jaime García,2016,St. Louis Cardinals,41,3,7,0,4,2,17,.171,.205,.171,.376,hitter
+Randal Grichuk,2016,St. Louis Cardinals,446,66,107,24,68,28,141,.240,.289,.480,.769,hitter
+Jedd Gyorko,2016,St. Louis Cardinals,400,58,97,30,59,37,96,.243,.306,.495,.801,hitter
+Jeremy Hazelbaker,2016,St. Louis Cardinals,200,35,47,12,28,18,64,.235,.295,.480,.775,hitter
+Matt Holliday,2016,St. Louis Cardinals,382,48,94,20,62,35,71,.246,.322,.461,.783,hitter
+Carson Kelly,2016,St. Louis Cardinals,13,1,2,0,1,0,2,.154,.214,.231,.445,hitter
+Dean Kiekhefer,2016,St. Louis Cardinals,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mike Leake,2016,St. Louis Cardinals,49,3,7,0,4,3,19,.143,.192,.163,.355,hitter
+Tyler Lyons,2016,St. Louis Cardinals,4,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Seth Maness,2016,St. Louis Cardinals,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Carlos Martinez,2016,St. Louis Cardinals,59,5,14,0,6,0,13,.237,.246,.254,.500,hitter
+José A. Martínez,2016,St. Louis Cardinals,16,4,7,0,1,2,1,.438,.500,.500,1.000,hitter
+Mike Mayers,2016,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Michael McKenry,2016,St. Louis Cardinals,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Yadier Molina,2016,St. Louis Cardinals,534,56,164,8,58,39,63,.307,.360,.427,.787,hitter
+Brandon Moss,2016,St. Louis Cardinals,413,66,93,28,67,39,141,.225,.300,.484,.784,hitter
+Seunghwan Oh,2016,St. Louis Cardinals,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Brayan Peña,2016,St. Louis Cardinals,13,0,2,0,0,1,2,.154,.214,.231,.445,hitter
+Jhonny Peralta,2016,St. Louis Cardinals,289,37,75,8,29,20,56,.260,.307,.408,.715,hitter
+Tommy Pham,2016,St. Louis Cardinals,159,26,36,9,17,20,71,.226,.324,.440,.764,hitter
+Stephen Piscotty,2016,St. Louis Cardinals,582,86,159,22,85,51,133,.273,.343,.457,.800,hitter
+Alex Reyes,2016,St. Louis Cardinals,14,0,1,0,1,0,5,.071,.071,.071,.142,hitter
+Alberto Rosario,2016,St. Louis Cardinals,38,3,7,0,2,2,5,.184,.225,.237,.462,hitter
+Trevor Rosenthal,2016,St. Louis Cardinals,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Kevin Siegrist,2016,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Miguel Socolovich,2016,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Rubén Tejada,2016,St. Louis Cardinals,34,6,6,0,3,2,8,.176,.225,.235,.460,hitter
+Sam Tuivailala,2016,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Michael Wacha,2016,St. Louis Cardinals,39,1,1,0,0,3,22,.026,.095,.026,.121,hitter
+Adam Wainwright,2016,St. Louis Cardinals,62,6,13,2,18,2,17,.210,.234,.452,.686,hitter
+Luke Weaver,2016,St. Louis Cardinals,13,1,5,0,0,0,4,.385,.385,.385,.770,hitter
+Jerome Williams,2016,St. Louis Cardinals,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Kolten Wong,2016,St. Louis Cardinals,313,39,75,5,23,34,52,.240,.327,.355,.682,hitter
+Matt Andriese,2016,Tampa Bay Rays,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chris Archer,2016,Tampa Bay Rays,7,1,0,0,0,1,3,.000,.125,.000,.125,hitter
+Oswaldo Arcia,2016,Minnesota Twins,103,8,22,4,12,10,46,.214,.289,.369,.658,hitter
+Tim Beckham,2016,Tampa Bay Rays,198,25,49,5,16,14,67,.247,.300,.434,.734,hitter
+Curt Casali,2016,Tampa Bay Rays,226,23,42,8,25,25,82,.186,.273,.336,.609,hitter
+Xavier Cedeño,2016,Tampa Bay Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Alex Colomé,2016,Tampa Bay Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Hank Conger,2016,Tampa Bay Rays,124,6,24,3,10,12,40,.194,.265,.306,.571,hitter
+Jaff Decker,2016,Tampa Bay Rays,52,1,8,0,1,4,14,.154,.211,.173,.384,hitter
+Corey Dickerson,2016,Tampa Bay Rays,510,57,125,24,70,33,134,.245,.293,.469,.762,hitter
+Matt Duffy,2016,San Francisco Giants,257,32,65,4,21,20,40,.253,.313,.358,.671,hitter
+Dana Eveland,2016,Tampa Bay Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Dylan Floro,2016,Tampa Bay Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Logan Forsythe,2016,Tampa Bay Rays,511,76,135,20,52,46,127,.264,.333,.444,.777,hitter
+Nick Franklin,2016,Tampa Bay Rays,174,18,47,6,26,12,42,.270,.328,.443,.771,hitter
+Ryan Garton,2016,Tampa Bay Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brandon Guyer,2016,Tampa Bay Rays,212,27,51,7,18,12,42,.241,.347,.406,.753,hitter
+Desmond Jennings,2016,Tampa Bay Rays,200,22,40,7,20,21,58,.200,.281,.350,.631,hitter
+Kevin Jepsen,2016,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kevin Kiermaier,2016,Tampa Bay Rays,366,55,90,12,37,40,74,.246,.331,.410,.741,hitter
+Evan Longoria,2016,Tampa Bay Rays,633,81,173,36,98,42,144,.273,.318,.521,.839,hitter
+Mikie Mahtook,2016,Tampa Bay Rays,185,16,36,3,11,7,68,.195,.231,.292,.523,hitter
+Luke Maile,2016,Tampa Bay Rays,119,10,27,3,15,4,36,.227,.252,.361,.613,hitter
+Jhan Mariñez,2016,Milwaukee Brewers,3,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Brad Miller,2016,Tampa Bay Rays,548,73,133,30,81,47,149,.243,.304,.482,.786,hitter
+Matt Moore,2016,Tampa Bay Rays,7,0,2,0,0,0,2,.286,.286,.286,.572,hitter
+Logan Morrison,2016,Tampa Bay Rays,353,45,84,14,43,37,89,.238,.319,.414,.733,hitter
+Taylor Motter,2016,Tampa Bay Rays,80,11,15,2,9,11,19,.188,.290,.300,.590,hitter
+Jake Odorizzi,2016,Tampa Bay Rays,4,0,1,0,1,0,1,.250,.250,.250,.500,hitter
+Steve Pearce,2016,Tampa Bay Rays,204,26,63,10,29,26,40,.309,.388,.520,.908,hitter
+Juniel Querecuto,2016,Tampa Bay Rays,11,1,1,0,2,0,6,.091,.091,.273,.364,hitter
+Alexei Ramirez,2016,San Diego Padres,421,33,101,5,41,17,56,.240,.275,.330,.605,hitter
+Erasmo Ramírez,2016,Tampa Bay Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Enny Romero,2016,Tampa Bay Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Richie Shaffer,2016,Tampa Bay Rays,48,5,12,1,4,5,18,.250,.315,.438,.753,hitter
+Drew Smyly,2016,Tampa Bay Rays,2,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Blake Snell,2016,Tampa Bay Rays,2,0,0,0,0,1,1,.000,.333,.000,.333,hitter
+Steven Souza Jr.,2016,Tampa Bay Rays,430,58,106,17,49,31,159,.247,.303,.409,.712,hitter
+Tyler Sturdevant,2016,Tampa Bay Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Bobby Wilson,2016,Detroit Tigers,13,0,2,0,2,1,3,.154,.200,.154,.354,hitter
+Hanser Alberto,2016,Texas Rangers,56,2,8,0,5,0,17,.143,.143,.161,.304,hitter
+Dario Álvarez,2016,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Elvis Andrus,2016,Texas Rangers,506,75,153,8,69,47,70,.302,.362,.439,.801,hitter
+Tony Barnette,2016,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Carlos Beltrán,2016,New York Yankees,359,50,109,22,64,22,70,.304,.344,.546,.890,hitter
+Adrian Beltré,2016,Texas Rangers,583,89,175,32,104,48,66,.300,.358,.521,.879,hitter
+Matt Bush,2016,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Robinson Chirinos,2016,Texas Rangers,147,21,33,9,20,15,44,.224,.314,.483,.797,hitter
+Shin-Soo Choo,2016,Texas Rangers,178,27,43,7,17,25,46,.242,.357,.399,.756,hitter
+Alex Claudio,2016,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Yu Darvish,2016,Texas Rangers,3,1,1,1,1,0,1,.333,.333,1.333,1.666,hitter
+Delino DeShields,2016,Texas Rangers,182,36,38,4,13,15,54,.209,.275,.313,.588,hitter
+Ian Desmond,2016,Texas Rangers,625,107,178,22,86,44,160,.285,.335,.446,.781,hitter
+Jake Diekman,2016,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Sam Dyson,2016,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Prince Fielder,2016,Texas Rangers,326,29,69,8,44,32,63,.212,.292,.334,.626,hitter
+Joey Gallo,2016,Texas Rangers,25,2,1,1,1,5,19,.040,.200,.160,.360,hitter
+Carlos Gómez,2016,Houston Astros,295,27,62,5,29,21,100,.210,.272,.322,.594,hitter
+A.J. Griffin,2016,Texas Rangers,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Cole Hamels,2016,Texas Rangers,8,0,1,0,0,0,1,.125,.125,.125,.250,hitter
+Lucas Harrell,2016,Atlanta Braves,8,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Bryan Holaday,2016,Texas Rangers,84,14,20,2,13,5,16,.238,.290,.405,.695,hitter
+Derek Holland,2016,Texas Rangers,2,0,1,0,0,0,1,.500,.500,.500,1.000,hitter
+Jared Hoying,2016,Texas Rangers,46,8,10,0,5,3,8,.217,.265,.261,.526,hitter
+Jeremy Jeffress,2016,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Keone Kela,2016,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Phil Klein,2016,Philadelphia Phillies,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+José Leclerc,2016,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jonathan Lucroy,2016,Milwaukee Brewers,338,48,101,13,50,33,70,.299,.359,.482,.841,hitter
+Nick Martinez,2016,Texas Rangers,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Nomar Mazara,2016,Texas Rangers,516,59,137,20,64,39,112,.266,.320,.419,.739,hitter
+Mitch Moreland,2016,Texas Rangers,460,49,107,22,60,35,118,.233,.298,.422,.720,hitter
+Brett Nicholas,2016,Texas Rangers,40,5,11,2,4,4,9,.275,.356,.550,.906,hitter
+Rougned Odor,2016,Texas Rangers,605,89,164,33,88,19,135,.271,.296,.502,.798,hitter
+Martín Pérez,2016,Texas Rangers,3,0,1,0,0,0,1,.333,.333,.333,.666,hitter
+Jurickson Profar,2016,Texas Rangers,272,35,65,5,20,30,61,.239,.321,.338,.659,hitter
+Cesár Ramos,2016,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Anthony Ranaudo,2016,Chicago White Sox,3,1,1,1,1,0,1,.333,.333,1.333,1.666,hitter
+Ryan Rua,2016,Texas Rangers,240,40,62,8,22,21,76,.258,.331,.400,.731,hitter
+Justin Ruggiano,2016,Texas Rangers,4,0,1,0,1,0,1,.250,.250,.500,.750,hitter
+Drew Stubbs,2016,Atlanta Braves,38,6,9,1,3,4,20,.237,.310,.316,.626,hitter
+Shawn Tolleson,2016,Texas Rangers,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Tom Wilhelmsen,2016,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Bobby Wilson,2016,Detroit Tigers,13,0,2,0,2,1,3,.154,.200,.154,.354,hitter
+Darwin Barney,2016,Toronto Blue Jays,279,35,75,4,19,22,48,.269,.322,.373,.695,hitter
+José Bautista,2016,Toronto Blue Jays,423,68,99,22,69,87,103,.234,.366,.452,.818,hitter
+Joaquín Benoit,2016,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Joe Biagini,2016,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Andy Burns,2016,Toronto Blue Jays,6,2,0,0,0,0,2,.000,.143,.000,.143,hitter
+Ezequiel Carrera,2016,Toronto Blue Jays,270,47,67,6,23,27,70,.248,.323,.356,.679,hitter
+Brett Cecil,2016,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Darrell Ceciliani,2016,Toronto Blue Jays,27,2,3,0,1,1,14,.111,.172,.185,.357,hitter
+Jesse Chavez,2016,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chris Colabello,2016,Toronto Blue Jays,29,0,2,0,1,2,9,.069,.156,.069,.225,hitter
+R.A. Dickey,2016,Toronto Blue Jays,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Matt Dominguez,2016,Toronto Blue Jays,11,0,0,0,0,1,3,.000,.083,.000,.083,hitter
+Josh Donaldson,2016,Toronto Blue Jays,577,122,164,37,99,109,119,.284,.404,.549,.953,hitter
+Edwin Encarnación,2016,Toronto Blue Jays,601,99,158,42,127,87,138,.263,.357,.529,.886,hitter
+Marco Estrada,2016,Toronto Blue Jays,5,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Scott Feldman,2016,Houston Astros,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Gavin Floyd,2016,Toronto Blue Jays,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chad Girodo,2016,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ryan Goins,2016,Toronto Blue Jays,183,13,34,3,12,9,48,.186,.228,.306,.534,hitter
+Jason Grilli,2016,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+J.A. Happ,2016,Toronto Blue Jays,7,2,2,0,0,0,3,.286,.286,.286,.572,hitter
+Drew Hutchison,2016,Pittsburgh Pirates,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Junior Lake,2016,Toronto Blue Jays,35,5,7,1,2,4,11,.200,.282,.371,.653,hitter
+Francisco Liriano,2016,Pittsburgh Pirates,42,2,12,1,5,0,16,.286,.286,.381,.667,hitter
+Russell Martin,2016,Toronto Blue Jays,455,62,105,20,74,64,148,.231,.335,.398,.733,hitter
+Franklin Morales,2016,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Dioner Navarro,2016,Chicago White Sox,271,25,57,6,32,20,63,.210,.267,.339,.606,hitter
+Roberto Osuna,2016,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jimmy Paredes,2016,Toronto Blue Jays,15,2,4,1,2,2,4,.267,.353,.533,.886,hitter
+Kevin Pillar,2016,Toronto Blue Jays,548,59,146,7,53,24,90,.266,.303,.376,.679,hitter
+Dalton Pompey,2016,Toronto Blue Jays,2,3,0,0,0,0,1,.000,.000,.000,.000,hitter
+Aaron Sanchez,2016,Toronto Blue Jays,9,0,0,0,0,1,5,.000,.100,.000,.100,hitter
+Michael Saunders,2016,Toronto Blue Jays,490,70,124,24,57,59,157,.253,.338,.478,.816,hitter
+Justin Smoak,2016,Toronto Blue Jays,299,33,65,14,34,40,112,.217,.314,.391,.705,hitter
+Drew Storen,2016,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Marcus Stroman,2016,Toronto Blue Jays,5,1,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ryan Tepera,2016,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Josh Thole,2016,Toronto Blue Jays,118,7,20,1,7,13,28,.169,.254,.220,.474,hitter
+Devon Travis,2016,Toronto Blue Jays,410,54,123,11,50,20,87,.300,.332,.454,.786,hitter
+Troy Tulowitzki,2016,Toronto Blue Jays,492,54,125,24,79,43,101,.254,.318,.443,.761,hitter
+B.J. Upton,2016,San Diego Padres,344,46,88,16,45,23,106,.256,.304,.439,.743,hitter
+Fernando Abad,2016,Minnesota Twins,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Oswaldo Arcia,2016,Minnesota Twins,103,8,22,4,12,10,46,.214,.289,.369,.658,hitter
+James Beresford,2016,Minnesota Twins,22,0,5,0,0,1,6,.227,.261,.273,.534,hitter
+José Berríos,2016,Minnesota Twins,1,0,1,0,0,0,0,1.000,1.000,1.000,2.000,hitter
+Buddy Boshers,2016,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Byron Buxton,2016,Minnesota Twins,298,44,67,10,38,23,118,.225,.284,.430,.714,hitter
+Juan Centeno,2016,Minnesota Twins,176,16,46,3,25,12,38,.261,.312,.392,.704,hitter
+JT Chargois,2016,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Pat Dean,2016,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brian Dozier,2016,Minnesota Twins,615,104,165,42,99,61,138,.268,.340,.546,.886,hitter
+Tyler Duffey,2016,Minnesota Twins,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Eduardo Escobar,2016,Minnesota Twins,352,32,83,6,37,21,72,.236,.280,.338,.618,hitter
+Casey Fien,2016,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kyle Gibson,2016,Minnesota Twins,7,1,0,0,0,1,5,.000,.125,.000,.125,hitter
+Robbie Grossman,2016,Minnesota Twins,332,49,93,11,37,55,96,.280,.386,.443,.829,hitter
+Phil Hughes,2016,Minnesota Twins,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Kevin Jepsen,2016,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Max Kepler,2016,Minnesota Twins,396,52,93,17,63,42,93,.235,.309,.424,.733,hitter
+Brandon Kintzler,2016,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Pat Light,2016,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Darin Mastroianni,2016,Minnesota Twins,9,1,0,0,0,2,4,.000,.182,.000,.182,hitter
+Joe Mauer,2016,Minnesota Twins,494,68,129,11,49,79,93,.261,.363,.389,.752,hitter
+Trevor May,2016,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tommy Milone,2016,Minnesota Twins,2,0,2,0,0,0,0,1.000,1.000,1.000,2.000,hitter
+John Ryan Murphy,2016,Minnesota Twins,82,4,12,1,3,5,19,.146,.193,.220,.413,hitter
+Ricky Nolasco,2016,Minnesota Twins,2,0,0,0,0,1,1,.000,.333,.000,.333,hitter
+Eduardo Núñez,2016,Minnesota Twins,371,49,110,12,47,15,58,.296,.325,.439,.764,hitter
+Ryan O'Rourke,2016,Minnesota Twins,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+ByungHo Park,2016,Minnesota Twins,215,28,41,12,24,21,80,.191,.275,.409,.684,hitter
+Trevor Plouffe,2016,Minnesota Twins,319,35,83,12,47,19,60,.260,.303,.420,.723,hitter
+Jorge Polanco,2016,Minnesota Twins,245,24,69,4,27,17,46,.282,.332,.424,.756,hitter
+Ryan Pressly,2016,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Neil Ramírez,2016,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Taylor Rogers,2016,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Eddie Rosario,2016,Minnesota Twins,335,52,90,10,32,12,91,.269,.295,.421,.716,hitter
+Miguel Sanó,2016,Minnesota Twins,437,57,103,25,66,54,178,.236,.319,.462,.781,hitter
+Danny Santana,2016,Minnesota Twins,233,29,56,2,14,12,55,.240,.279,.326,.605,hitter
+Ervin Santana,2016,Minnesota Twins,5,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Héctor Santiago,2016,Los Angeles Angels,3,0,1,0,0,0,1,.333,.333,.333,.666,hitter
+Logan Schafer,2016,Minnesota Twins,63,8,15,0,1,8,16,.238,.342,.317,.659,hitter
+Kurt Suzuki,2016,Minnesota Twins,345,34,89,8,49,18,48,.258,.301,.403,.704,hitter
+Michael Tonkin,2016,Minnesota Twins,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Kennys Vargas,2016,Minnesota Twins,152,27,35,10,20,24,57,.230,.333,.500,.833,hitter
+Alex Wimmers,2016,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jorge Alfaro,2016,Philadelphia Phillies,16,0,2,0,0,1,8,.125,.176,.125,.301,hitter
+Aaron Altherr,2016,Philadelphia Phillies,198,23,39,4,22,23,69,.197,.300,.288,.588,hitter
+Elvis Araujo,2016,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Cody Asche,2016,Philadelphia Phillies,197,22,42,4,18,18,54,.213,.284,.350,.634,hitter
+Alec Asher,2016,Philadelphia Phillies,11,0,1,0,2,0,6,.091,.091,.091,.182,hitter
+Andrew Bailey,2016,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Andrés Blanco,2016,Philadelphia Phillies,190,26,48,4,21,11,41,.253,.316,.405,.721,hitter
+Peter Bourjos,2016,Philadelphia Phillies,355,40,89,5,23,17,91,.251,.292,.389,.681,hitter
+Emmanuel Burriss,2016,Philadelphia Phillies,45,3,5,0,0,2,10,.111,.184,.178,.362,hitter
+Zach Eflin,2016,Philadelphia Phillies,23,2,6,0,0,0,8,.261,.261,.348,.609,hitter
+Jerad Eickhoff,2016,Philadelphia Phillies,61,4,8,0,5,1,12,.131,.145,.180,.325,hitter
+A.J. Ellis,2016,Los Angeles Dodgers,139,8,27,1,13,16,24,.194,.285,.252,.537,hitter
+Taylor Featherston,2016,Philadelphia Phillies,26,2,3,0,1,2,11,.115,.179,.154,.333,hitter
+Maikel Franco,2016,Philadelphia Phillies,581,67,148,25,88,40,106,.255,.306,.427,.733,hitter
+Freddy Galvis,2016,Philadelphia Phillies,584,61,141,20,67,25,136,.241,.274,.399,.673,hitter
+Luis García,2016,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tyler Goeddel,2016,Philadelphia Phillies,213,17,41,4,16,17,52,.192,.258,.291,.549,hitter
+Jeanmar Gómez,2016,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Severino González,2016,Philadelphia Phillies,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jeremy Hellickson,2016,Philadelphia Phillies,54,3,9,0,4,4,24,.167,.224,.185,.409,hitter
+César Hernández,2016,Philadelphia Phillies,547,67,161,6,39,66,116,.294,.371,.393,.764,hitter
+David Hernandez,2016,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Odúbel Herrera,2016,Philadelphia Phillies,583,87,167,15,49,63,134,.286,.361,.420,.781,hitter
+Frank Herrmann,2016,Philadelphia Phillies,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Dalier Hinojosa,2016,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ryan Howard,2016,Philadelphia Phillies,331,35,65,25,59,27,114,.196,.257,.453,.710,hitter
+Cedric Hunter,2016,Philadelphia Phillies,34,3,3,1,1,2,6,.088,.139,.176,.315,hitter
+Tommy Joseph,2016,Philadelphia Phillies,315,47,81,21,47,22,75,.257,.308,.505,.813,hitter
+Phil Klein,2016,Philadelphia Phillies,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+David Lough,2016,Philadelphia Phillies,67,6,16,0,4,9,8,.239,.342,.313,.655,hitter
+Michael Mariot,2016,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Adam Morgan,2016,Philadelphia Phillies,32,1,3,0,1,1,11,.094,.121,.125,.246,hitter
+Charlie Morton,2016,Philadelphia Phillies,6,1,1,0,0,0,3,.167,.167,.167,.334,hitter
+Colton Murray,2016,Philadelphia Phillies,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Héctor Neris,2016,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Aaron Nola,2016,Philadelphia Phillies,30,1,1,0,0,3,17,.033,.147,.067,.214,hitter
+Brett Oberholtzer,2016,Philadelphia Phillies,7,0,1,0,0,0,2,.143,.143,.143,.286,hitter
+Jimmy Paredes,2016,Toronto Blue Jays,15,2,4,1,2,2,4,.267,.353,.533,.886,hitter
+Roman Quinn,2016,Philadelphia Phillies,57,10,15,0,6,8,19,.263,.373,.333,.706,hitter
+Edubray Ramos,2016,Philadelphia Phillies,0,0,0,0,0,1,0,.000,1.000,.000,1.000,hitter
+Joely Rodríguez,2016,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Darin Ruf,2016,Philadelphia Phillies,83,8,17,3,9,4,25,.205,.236,.337,.573,hitter
+Carlos Ruiz,2016,Philadelphia Phillies,165,18,43,3,12,24,28,.261,.368,.352,.720,hitter
+Cameron Rupp,2016,Philadelphia Phillies,389,36,98,16,54,24,114,.252,.303,.447,.750,hitter
+James Russell,2016,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Patrick Schuster,2016,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Daniel Stumpf,2016,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jake Thompson,2016,Philadelphia Phillies,14,0,2,0,0,0,5,.143,.143,.214,.357,hitter
+Vince Velasquez,2016,Philadelphia Phillies,40,4,8,0,0,1,16,.200,.220,.225,.445,hitter
+Dario Álvarez,2016,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Erick Aybar,2016,Atlanta Braves,335,27,81,2,26,20,59,.242,.293,.313,.606,hitter
+Gordon Beckham,2016,Atlanta Braves,240,25,52,5,30,26,50,.217,.300,.354,.654,hitter
+Aaron Blair,2016,Atlanta Braves,21,0,1,0,0,0,9,.048,.048,.048,.096,hitter
+Emilio Bonifácio,2016,Atlanta Braves,38,6,8,0,3,3,12,.211,.268,.211,.479,hitter
+Jed Bradley,2016,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Reid Brignac,2016,Atlanta Braves,29,3,6,0,1,0,8,.207,.207,.276,.483,hitter
+Mauricio Cabrera,2016,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Daniel Castro,2016,Atlanta Braves,130,8,26,0,7,7,24,.200,.241,.208,.449,hitter
+Hunter Cervenka,2016,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jhoulys Chacín,2016,Atlanta Braves,8,0,2,0,1,0,1,.250,.250,.250,.500,hitter
+Josh Collmenter,2016,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brandon Cunniff,2016,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Joel De La Cruz,2016,Atlanta Braves,16,0,3,0,1,0,8,.188,.188,.188,.376,hitter
+Tyler Flowers,2016,Atlanta Braves,281,27,76,8,41,29,91,.270,.357,.420,.777,hitter
+Mike Foltynewicz,2016,Atlanta Braves,36,3,5,0,1,1,19,.139,.162,.167,.329,hitter
+Jeff Francoeur,2016,Atlanta Braves,257,29,64,7,33,16,75,.249,.290,.381,.671,hitter
+Freddie Freeman,2016,Atlanta Braves,589,102,178,34,91,89,171,.302,.400,.569,.969,hitter
+John Gant,2016,Atlanta Braves,7,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Adonis García,2016,Atlanta Braves,532,65,145,14,65,24,93,.273,.311,.406,.717,hitter
+Jason Grilli,2016,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Lucas Harrell,2016,Atlanta Braves,8,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Roberto Hernandez,2016,Atlanta Braves,4,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Jason Hursh,2016,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ender Inciarte,2016,Atlanta Braves,522,85,152,3,29,45,68,.291,.351,.381,.732,hitter
+Tyrell Jenkins,2016,Atlanta Braves,13,0,0,0,0,0,4,.000,.000,.000,.000,hitter
+Jim Johnson,2016,Atlanta Braves,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Kelly Johnson,2016,Atlanta Braves,121,8,26,1,10,10,25,.215,.273,.289,.562,hitter
+Casey Kelly,2016,Atlanta Braves,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Matt Kemp,2016,San Diego Padres,409,54,107,23,69,16,100,.262,.285,.489,.774,hitter
+Ian Krol,2016,Atlanta Braves,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Blake Lalli,2016,Atlanta Braves,13,0,2,0,1,0,3,.154,.154,.231,.385,hitter
+Nick Markakis,2016,Atlanta Braves,599,67,161,13,89,71,101,.269,.346,.397,.743,hitter
+Matt Marksberry,2016,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Bud Norris,2016,Atlanta Braves,12,1,2,0,0,3,5,.167,.375,.333,.708,hitter
+Eric O'Flaherty,2016,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Alexi Ogando,2016,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Héctor Olivera,2016,Atlanta Braves,19,2,4,0,2,1,5,.211,.238,.263,.501,hitter
+Williams Pérez,2016,Atlanta Braves,17,0,0,0,0,0,5,.000,.000,.000,.000,hitter
+Jace Peterson,2016,Atlanta Braves,350,45,89,7,29,52,69,.254,.350,.366,.716,hitter
+A.J. Pierzynski,2016,Atlanta Braves,247,15,54,2,23,6,29,.219,.243,.304,.547,hitter
+José Ramirez,2016,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Anthony Recker,2016,Atlanta Braves,90,6,25,2,15,16,22,.278,.394,.433,.827,hitter
+Chaz Roe,2016,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Rio Ruiz,2016,Atlanta Braves,7,1,2,0,2,0,2,.286,.286,.571,.857,hitter
+Shae Simmons,2016,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mallex Smith,2016,Atlanta Braves,189,28,45,3,22,20,48,.238,.316,.365,.681,hitter
+Brandon Snyder,2016,Atlanta Braves,46,8,11,4,9,1,16,.239,.255,.652,.907,hitter
+Drew Stubbs,2016,Atlanta Braves,38,6,9,1,3,4,20,.237,.310,.316,.626,hitter
+Dansby Swanson,2016,Atlanta Braves,129,20,39,3,17,13,34,.302,.361,.442,.803,hitter
+Julio Teheran,2016,Atlanta Braves,49,1,10,0,2,1,16,.204,.220,.224,.444,hitter
+Matt Tuiasosopo,2016,Atlanta Braves,3,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Arodys Vizcaíno,2016,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ryan Weber,2016,Atlanta Braves,6,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Rob Whalen,2016,Atlanta Braves,10,0,2,0,0,0,3,.200,.200,.200,.400,hitter
+Dan Winkler,2016,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Matt Wisler,2016,Atlanta Braves,46,2,7,0,2,1,21,.152,.167,.152,.319,hitter
+Chris Withrow,2016,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Madison Younginer,2016,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chase d'Arnaud,2016,Atlanta Braves,233,24,57,1,21,23,50,.245,.317,.335,.652,hitter
+José Abreu,2016,Chicago White Sox,624,67,183,25,100,47,125,.293,.353,.468,.821,hitter
+Matt Albers,2016,Chicago White Sox,1,1,1,0,0,0,0,1.000,1.000,2.000,3.000,hitter
+Tim Anderson,2016,Chicago White Sox,410,57,116,9,30,13,117,.283,.306,.432,.738,hitter
+Alex Avila,2016,Chicago White Sox,169,19,36,7,11,38,78,.213,.359,.373,.732,hitter
+Chris Beck,2016,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Melky Cabrera,2016,Chicago White Sox,591,70,175,14,86,47,69,.296,.345,.455,.800,hitter
+Jason Coats,2016,Chicago White Sox,50,8,10,1,4,5,12,.200,.298,.340,.638,hitter
+Matt Davidson,2016,Chicago White Sox,2,1,1,0,1,0,1,.500,.500,.500,1.000,hitter
+Zach Duke,2016,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Adam Eaton,2016,Chicago White Sox,619,91,176,14,59,63,115,.284,.362,.428,.790,hitter
+Todd Frazier,2016,Chicago White Sox,590,89,133,40,98,64,163,.225,.302,.464,.766,hitter
+Carson Fulmer,2016,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Avisaíl García,2016,Chicago White Sox,413,59,101,12,51,34,115,.245,.307,.385,.692,hitter
+Leury García,2016,Chicago White Sox,48,6,11,1,5,1,13,.229,.260,.354,.614,hitter
+Miguel González,2016,Chicago White Sox,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Austin Jackson,2016,Chicago White Sox,181,24,46,0,18,17,39,.254,.318,.343,.661,hitter
+Dan Jennings,2016,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Erik Johnson,2016,San Diego Padres,4,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Nate Jones,2016,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tommy Kahnle,2016,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mat Latos,2016,Chicago White Sox,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Brett Lawrie,2016,Chicago White Sox,351,35,87,12,36,30,109,.248,.310,.413,.723,hitter
+Juan Minaya,2016,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Justin Morneau,2016,Chicago White Sox,203,16,53,6,25,12,52,.261,.303,.429,.732,hitter
+Omar Narváez,2016,Chicago White Sox,101,13,27,1,10,14,14,.267,.350,.337,.687,hitter
+Dioner Navarro,2016,Chicago White Sox,271,25,57,6,32,20,63,.210,.267,.339,.606,hitter
+Zach Putnam,2016,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jose Quintana,2016,Chicago White Sox,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Anthony Ranaudo,2016,Chicago White Sox,3,1,1,1,1,0,1,.333,.333,1.333,1.666,hitter
+David Robertson,2016,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Carlos Rodón,2016,Chicago White Sox,3,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Jimmy Rollins,2016,Chicago White Sox,149,25,33,2,8,16,33,.221,.295,.329,.624,hitter
+Tyler Saladino,2016,Chicago White Sox,298,33,84,8,38,13,62,.282,.315,.409,.724,hitter
+Chris Sale,2016,Chicago White Sox,6,0,1,0,0,0,2,.167,.167,.167,.334,hitter
+Héctor Sánchez,2016,Chicago White Sox,7,0,1,0,1,1,2,.143,.250,.143,.393,hitter
+Yolmer Sánchez,2016,Chicago White Sox,154,15,32,4,21,5,42,.208,.236,.357,.593,hitter
+Jerry Sands,2016,Chicago White Sox,55,2,13,1,7,3,24,.236,.276,.291,.567,hitter
+James Shields,2016,San Diego Padres,17,1,3,0,0,0,11,.176,.176,.176,.352,hitter
+JB Shuck,2016,Chicago White Sox,224,27,46,4,14,12,21,.205,.248,.299,.547,hitter
+Blake Smith,2016,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kevan Smith,2016,Chicago White Sox,16,2,2,0,0,0,6,.125,.125,.125,.250,hitter
+Charles Tilson,2016,Chicago White Sox,2,0,1,0,0,0,0,.500,.500,.500,1.000,hitter
+Jacob Turner,2016,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Michael Ynoa,2016,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Robert Andino,2016,Miami Marlins,24,2,7,0,1,0,4,.292,.292,.292,.584,hitter
+Oswaldo Arcia,2016,Minnesota Twins,103,8,22,4,12,10,46,.214,.289,.369,.658,hitter
+Kyle Barraclough,2016,Miami Marlins,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Justin Bour,2016,Miami Marlins,280,35,74,15,51,38,56,.264,.349,.475,.824,hitter
+Craig Breslow,2016,Miami Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Austin Brice,2016,Miami Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Andrew Cashner,2016,San Diego Padres,18,2,3,0,1,2,6,.167,.250,.167,.417,hitter
+Hunter Cervenka,2016,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Wei-Yin Chen,2016,Miami Marlins,44,0,0,0,0,0,18,.000,.000,.000,.000,hitter
+Paul Clemens,2016,Miami Marlins,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Adam Conley,2016,Miami Marlins,41,4,5,0,3,1,22,.122,.140,.122,.262,hitter
+Jarred Cosart,2016,Miami Marlins,6,0,1,0,0,0,1,.167,.167,.167,.334,hitter
+Odrisamer Despaigne,2016,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Derek Dietrich,2016,Miami Marlins,351,39,98,7,42,32,84,.279,.374,.425,.799,hitter
+Mike Dunn,2016,Miami Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Cody Ege,2016,Miami Marlins,1,0,1,0,0,0,0,1.000,1.000,1.000,2.000,hitter
+Brian Ellington,2016,Miami Marlins,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Jake Esch,2016,Miami Marlins,5,1,1,0,0,0,2,.200,.200,.200,.400,hitter
+José Fernández,2016,Miami Marlins,52,3,13,0,6,1,13,.250,.264,.288,.552,hitter
+Kendry Flores,2016,Miami Marlins,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Jeff Francoeur,2016,Atlanta Braves,257,29,64,7,33,16,75,.249,.290,.381,.671,hitter
+Cole Gillespie,2016,Miami Marlins,51,7,12,0,5,3,14,.235,.273,.373,.646,hitter
+Cody Hall,2016,Miami Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Adeiny Hechavarría,2016,Miami Marlins,508,52,120,3,38,33,73,.236,.283,.311,.594,hitter
+Destin Hood,2016,Miami Marlins,25,3,6,1,2,0,11,.240,.240,.400,.640,hitter
+Edwin Jackson,2016,Miami Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chris Johnson,2016,Miami Marlins,243,20,54,5,24,19,78,.222,.281,.329,.610,hitter
+Don Kelly,2016,Miami Marlins,27,2,4,0,3,2,5,.148,.200,.296,.496,hitter
+Tom Koehler,2016,Miami Marlins,51,1,5,0,4,1,28,.098,.115,.098,.213,hitter
+Jeff Mathis,2016,Miami Marlins,126,12,30,2,15,4,36,.238,.267,.333,.600,hitter
+Dustin McGowan,2016,Miami Marlins,4,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Bryan Morris,2016,Miami Marlins,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Chris Narveson,2016,Miami Marlins,3,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Justin Nicolino,2016,Miami Marlins,22,0,2,0,0,1,11,.091,.130,.091,.221,hitter
+Nefi Ogando,2016,Miami Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Marcell Ozuna,2016,Miami Marlins,557,75,148,23,76,43,115,.266,.321,.452,.773,hitter
+Yefri Pérez,2016,Miami Marlins,3,5,2,0,0,0,1,.667,.667,1.000,1.667,hitter
+David Phelps,2016,Miami Marlins,11,0,2,0,1,0,3,.182,.182,.182,.364,hitter
+Martín Prado,2016,Miami Marlins,600,70,183,8,75,49,69,.305,.359,.417,.776,hitter
+AJ Ramos,2016,Miami Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Colin Rea,2016,San Diego Padres,33,3,4,0,1,2,16,.121,.171,.121,.292,hitter
+J.T. Realmuto,2016,Miami Marlins,509,60,154,11,48,28,100,.303,.343,.428,.771,hitter
+Fernando Rodney,2016,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Miguel Rojas,2016,Miami Marlins,194,27,48,1,14,11,27,.247,.288,.325,.613,hitter
+Xavier Scruggs,2016,Miami Marlins,62,1,13,1,5,5,20,.210,.290,.306,.596,hitter
+Giancarlo Stanton,2016,Miami Marlins,413,56,99,27,74,50,140,.240,.326,.489,.815,hitter
+Dee Strange-Gordon,2016,Miami Marlins,325,47,87,1,14,18,55,.268,.305,.335,.640,hitter
+Ichiro Suzuki,2016,Miami Marlins,327,48,95,1,22,30,42,.291,.354,.376,.730,hitter
+Tomás Telis,2016,Miami Marlins,13,1,4,1,4,0,2,.308,.308,.538,.846,hitter
+José Ureña,2016,Miami Marlins,17,1,3,0,0,1,11,.176,.222,.176,.398,hitter
+Nick Wittgren,2016,Miami Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Christian Yelich,2016,Miami Marlins,578,78,172,21,98,72,138,.298,.376,.483,.859,hitter
+Dustin Ackley,2016,New York Yankees,61,6,9,0,4,8,9,.148,.243,.148,.391,hitter
+Tyler Austin,2016,New York Yankees,83,7,20,5,12,7,36,.241,.300,.458,.758,hitter
+Carlos Beltrán,2016,New York Yankees,359,50,109,22,64,22,70,.304,.344,.546,.890,hitter
+Dellin Betances,2016,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Richard Bleier,2016,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Billy Butler,2016,Oakland Athletics,221,24,61,4,31,19,34,.276,.331,.403,.734,hitter
+Starlin Castro,2016,New York Yankees,577,63,156,21,70,24,118,.270,.300,.433,.733,hitter
+Aroldis Chapman,2016,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tyler Clippard,2016,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Phil Coke,2016,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ike Davis,2016,New York Yankees,14,2,3,0,1,1,5,.214,.267,.214,.481,hitter
+Jacoby Ellsbury,2016,New York Yankees,551,71,145,9,56,54,84,.263,.330,.374,.704,hitter
+Nathan Eovaldi,2016,New York Yankees,5,0,0,0,0,1,4,.000,.167,.000,.167,hitter
+Ben Gamel,2016,New York Yankees,8,1,1,0,0,1,1,.125,.222,.125,.347,hitter
+Brett Gardner,2016,New York Yankees,547,80,143,7,41,70,106,.261,.351,.362,.713,hitter
+Nick Goody,2016,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chad Green,2016,New York Yankees,4,0,0,0,0,0,4,.000,.000,.000,.000,hitter
+Didi Gregorius,2016,New York Yankees,562,68,155,20,70,19,82,.276,.304,.447,.751,hitter
+Chase Headley,2016,New York Yankees,467,58,118,14,51,51,118,.253,.331,.385,.716,hitter
+Aaron Hicks,2016,New York Yankees,327,32,71,8,31,30,68,.217,.281,.336,.617,hitter
+Aaron Judge,2016,New York Yankees,84,10,15,4,10,9,42,.179,.263,.345,.608,hitter
+Brian McCann,2016,New York Yankees,429,56,104,20,58,54,99,.242,.335,.413,.748,hitter
+Andrew Miller,2016,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Conor Mullee,2016,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Iván Nova,2016,New York Yankees,4,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Chris Parmelee,2016,New York Yankees,8,4,4,2,4,0,3,.500,.500,1.375,1.875,hitter
+Michael Pineda,2016,New York Yankees,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Rob Refsnyder,2016,New York Yankees,152,25,38,0,12,18,30,.250,.328,.309,.637,hitter
+Alex Rodriguez,2016,New York Yankees,225,19,45,9,31,14,67,.200,.247,.351,.598,hitter
+Austin Romine,2016,New York Yankees,165,17,40,4,26,7,31,.242,.269,.382,.651,hitter
+CC Sabathia,2016,New York Yankees,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Gary Sánchez,2016,New York Yankees,201,34,60,20,42,24,57,.299,.376,.657,1.033,hitter
+Chasen Shreve,2016,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Donovan Solano,2016,New York Yankees,22,5,5,1,2,1,3,.227,.261,.455,.716,hitter
+Anthony Swarzak,2016,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Masahiro Tanaka,2016,New York Yankees,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Mark Teixeira,2016,New York Yankees,387,43,79,15,44,47,105,.204,.292,.362,.654,hitter
+Ronald Torreyes,2016,New York Yankees,155,20,40,1,12,10,20,.258,.305,.374,.679,hitter
+Adam Warren,2016,Chicago Cubs,3,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Mason Williams,2016,New York Yankees,27,4,8,0,2,1,12,.296,.321,.333,.654,hitter
+Kirby Yates,2016,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Eric Young Jr.,2016,New York Yankees,1,2,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chase Anderson,2016,Milwaukee Brewers,45,3,4,0,1,1,27,.089,.128,.089,.217,hitter
+Orlando Arcia,2016,Milwaukee Brewers,201,21,44,4,17,15,47,.219,.273,.358,.631,hitter
+Jacob Barnes,2016,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Michael Blazek,2016,Milwaukee Brewers,0,1,0,0,0,0,0,.000,.000,.000,.000,hitter
+Blaine Boyer,2016,Milwaukee Brewers,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ryan Braun,2016,Milwaukee Brewers,511,80,156,30,91,46,98,.305,.365,.538,.903,hitter
+Keon Broxton,2016,Milwaukee Brewers,207,28,50,9,19,36,88,.242,.354,.430,.784,hitter
+Chris Capuano,2016,Milwaukee Brewers,0,0,0,0,0,1,0,.000,1.000,.000,1.000,hitter
+Chris Carter,2016,Milwaukee Brewers,549,84,122,41,94,76,206,.222,.321,.499,.820,hitter
+Tyler Cravy,2016,Milwaukee Brewers,4,1,1,1,1,0,1,.250,.250,1.000,1.250,hitter
+Zach Davies,2016,Milwaukee Brewers,53,2,5,0,1,1,22,.094,.111,.094,.205,hitter
+Jake Elmore,2016,Milwaukee Brewers,78,7,17,0,4,17,17,.218,.371,.244,.615,hitter
+Ramón Flores,2016,Milwaukee Brewers,249,18,51,2,19,31,58,.205,.294,.261,.555,hitter
+Sam Freeman,2016,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Matt Garza,2016,Milwaukee Brewers,28,1,1,0,0,2,17,.036,.100,.036,.136,hitter
+Scooter Gennett,2016,Milwaukee Brewers,498,58,131,14,56,38,114,.263,.317,.412,.729,hitter
+David Goforth,2016,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Junior Guerra,2016,Milwaukee Brewers,35,2,8,0,0,0,13,.229,.229,.286,.515,hitter
+Aaron Hill,2016,Milwaukee Brewers,254,34,72,8,29,30,43,.283,.359,.421,.780,hitter
+Jeremy Jeffress,2016,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Taylor Jungmann,2016,Milwaukee Brewers,8,1,1,0,0,0,4,.125,.125,.125,.250,hitter
+Michael Kirkman,2016,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Corey Knebel,2016,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jonathan Lucroy,2016,Milwaukee Brewers,338,48,101,13,50,33,70,.299,.359,.482,.841,hitter
+Damien Magnifico,2016,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Martín Maldonado,2016,Milwaukee Brewers,208,21,42,8,21,35,56,.202,.332,.351,.683,hitter
+Jhan Mariñez,2016,Milwaukee Brewers,3,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Will Middlebrooks,2016,Milwaukee Brewers,27,2,3,0,1,4,13,.111,.226,.111,.337,hitter
+Jimmy Nelson,2016,Milwaukee Brewers,50,1,4,0,3,2,32,.080,.115,.080,.195,hitter
+Kirk Nieuwenhuis,2016,Milwaukee Brewers,335,38,70,13,44,56,133,.209,.324,.385,.709,hitter
+Ariel Peña,2016,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Wily Peralta,2016,Milwaukee Brewers,39,2,5,1,6,0,15,.128,.125,.231,.356,hitter
+Hernán Pérez,2016,Milwaukee Brewers,404,50,110,13,56,18,94,.272,.302,.428,.730,hitter
+Manny Piña,2016,Milwaukee Brewers,71,4,18,2,12,10,15,.254,.346,.394,.740,hitter
+Josmil Pinto,2016,Milwaukee Brewers,5,1,0,0,0,1,4,.000,.167,.000,.167,hitter
+Alex Presley,2016,Milwaukee Brewers,116,12,23,3,11,11,25,.198,.271,.293,.564,hitter
+Neil Ramírez,2016,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Michael Reed,2016,Milwaukee Brewers,22,3,4,0,0,2,7,.182,.250,.182,.432,hitter
+Yadiel Rivera,2016,Milwaukee Brewers,66,12,14,0,3,2,20,.212,.235,.273,.508,hitter
+Ben Rowen,2016,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Domingo Santana,2016,Milwaukee Brewers,246,34,63,11,32,32,91,.256,.345,.447,.792,hitter
+Rob Scahill,2016,Pittsburgh Pirates,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Will Smith,2016,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Andrew Susac,2016,Milwaukee Brewers,17,3,4,1,2,2,5,.235,.316,.471,.787,hitter
+Brent Suter,2016,Milwaukee Brewers,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Tyler Thornburg,2016,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Carlos Torres,2016,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jonathan Villar,2016,Milwaukee Brewers,589,92,168,19,63,79,174,.285,.369,.457,.826,hitter
+Colin Walsh,2016,Milwaukee Brewers,47,4,4,0,2,15,22,.085,.317,.106,.423,hitter
+Andy Wilkins,2016,Milwaukee Brewers,24,3,3,1,3,3,10,.125,.222,.292,.514,hitter
+A.J. Achter,2016,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jose Alvarez,2016,Los Angeles Angels,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Andrew Bailey,2016,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jett Bandy,2016,Los Angeles Angels,209,23,49,8,25,11,38,.234,.281,.392,.673,hitter
+Cam Bedrosian,2016,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Nick Buss,2016,Los Angeles Angels,81,7,16,1,8,6,24,.198,.247,.346,.593,hitter
+Kole Calhoun,2016,Los Angeles Angels,594,91,161,18,75,67,118,.271,.348,.438,.786,hitter
+Jhoulys Chacín,2016,Atlanta Braves,8,0,2,0,1,0,1,.250,.250,.250,.500,hitter
+Ji Man Choi,2016,Los Angeles Angels,112,9,19,5,12,16,27,.170,.271,.339,.610,hitter
+Kaleb Cowart,2016,Los Angeles Angels,85,8,15,1,8,0,23,.176,.184,.259,.443,hitter
+C.J. Cron,2016,Los Angeles Angels,407,51,113,16,69,24,75,.278,.325,.467,.792,hitter
+Todd Cunningham,2016,Los Angeles Angels,27,5,4,0,1,1,6,.148,.179,.259,.438,hitter
+Cody Ege,2016,Miami Marlins,1,0,1,0,0,0,0,1.000,1.000,1.000,2.000,hitter
+Yunel Escobar,2016,Los Angeles Angels,517,68,157,5,39,40,67,.304,.355,.391,.746,hitter
+Craig Gentry,2016,Los Angeles Angels,34,2,5,0,2,3,6,.147,.237,.176,.413,hitter
+Johnny Giavotella,2016,Los Angeles Angels,346,44,90,6,31,13,39,.260,.287,.376,.663,hitter
+Juan Graterol,2016,Los Angeles Angels,14,2,4,0,3,0,3,.286,.286,.429,.715,hitter
+Deolis Guerra,2016,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Javy Guerra,2016,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Greg Mahle,2016,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jefry Marte,2016,Los Angeles Angels,258,38,65,15,44,18,59,.252,.310,.481,.791,hitter
+Mike Morin,2016,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Daniel Nava,2016,Los Angeles Angels,119,10,28,1,13,9,26,.235,.309,.303,.612,hitter
+Ricky Nolasco,2016,Minnesota Twins,2,0,0,0,0,1,1,.000,.333,.000,.333,hitter
+Brett Oberholtzer,2016,Philadelphia Phillies,7,0,1,0,0,0,2,.143,.143,.143,.286,hitter
+Rafael Ortega,2016,Los Angeles Angels,185,24,43,1,16,13,23,.232,.283,.292,.575,hitter
+Cliff Pennington,2016,Los Angeles Angels,172,18,36,3,10,13,55,.209,.265,.308,.573,hitter
+Carlos Pérez,2016,Los Angeles Angels,268,25,56,5,31,12,49,.209,.244,.325,.569,hitter
+Gregorio Petit,2016,Los Angeles Angels,204,21,50,2,17,15,51,.245,.299,.348,.647,hitter
+Albert Pujols,2016,Los Angeles Angels,593,71,159,31,119,49,75,.268,.323,.457,.780,hitter
+JC Ramírez,2016,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Cory Rasmus,2016,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Shane Robinson,2016,Los Angeles Angels,98,16,17,1,10,10,17,.173,.257,.235,.492,hitter
+Brendan Ryan,2016,Los Angeles Angels,13,1,1,0,0,0,7,.077,.077,.077,.154,hitter
+Fernando Salas,2016,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Héctor Santiago,2016,Los Angeles Angels,3,0,1,0,0,0,1,.333,.333,.333,.666,hitter
+Matt Shoemaker,2016,Los Angeles Angels,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Andrelton Simmons,2016,Los Angeles Angels,448,48,126,4,44,28,38,.281,.324,.366,.690,hitter
+Joe Smith,2016,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Geovany Soto,2016,Los Angeles Angels,78,11,21,4,9,6,21,.269,.321,.487,.808,hitter
+Huston Street,2016,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Nick Tropeano,2016,Los Angeles Angels,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Mike Trout,2016,Los Angeles Angels,549,123,173,29,100,116,137,.315,.441,.550,.991,hitter
+Jered Weaver,2016,Los Angeles Angels,9,0,0,0,0,0,4,.000,.000,.000,.000,hitter
+Daniel Wright,2016,Cincinnati Reds,5,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Nick Ahmed,2016,Arizona Diamondbacks,284,26,62,4,20,15,58,.218,.265,.299,.564,hitter
+Jake Barrett,2016,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Michael Bourn,2016,Arizona Diamondbacks,329,43,86,3,30,22,83,.261,.307,.362,.669,hitter
+Silvino Bracho,2016,Arizona Diamondbacks,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Archie Bradley,2016,Arizona Diamondbacks,43,2,3,0,4,0,28,.070,.068,.070,.138,hitter
+Sócrates Brito,2016,Arizona Diamondbacks,95,10,17,4,12,2,23,.179,.196,.358,.554,hitter
+Enrique Burgos,2016,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Matt Buschmann,2016,Arizona Diamondbacks,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jose Campos,2016,Arizona Diamondbacks,2,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Welington Castillo,2016,Arizona Diamondbacks,416,41,110,14,68,33,121,.264,.322,.423,.745,hitter
+Andrew Chafin,2016,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tyler Clippard,2016,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Josh Collmenter,2016,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Patrick Corbin,2016,Arizona Diamondbacks,49,7,15,0,4,1,14,.306,.320,.408,.728,hitter
+Zac Curtis,2016,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Rubby De La Rosa,2016,Arizona Diamondbacks,14,0,1,0,1,0,3,.071,.071,.071,.142,hitter
+Randall Delgado,2016,Arizona Diamondbacks,2,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kyle Drabek,2016,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brandon Drury,2016,Arizona Diamondbacks,461,59,130,16,53,31,100,.282,.329,.458,.787,hitter
+Edwin Escobar,2016,Arizona Diamondbacks,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Mike Freeman,2016,Arizona Diamondbacks,9,0,0,0,0,2,5,.000,.182,.000,.182,hitter
+Zack Godley,2016,Arizona Diamondbacks,18,1,2,0,0,0,9,.111,.111,.111,.222,hitter
+Paul Goldschmidt,2016,Arizona Diamondbacks,579,106,172,24,95,110,150,.297,.411,.489,.900,hitter
+Tuffy Gosewisch,2016,Arizona Diamondbacks,90,8,14,3,7,7,22,.156,.224,.289,.513,hitter
+Phil Gosselin,2016,Arizona Diamondbacks,220,26,61,2,13,15,46,.277,.324,.368,.692,hitter
+Zack Greinke,2016,Arizona Diamondbacks,52,4,11,0,3,3,9,.212,.246,.231,.477,hitter
+Mitch Haniger,2016,Arizona Diamondbacks,109,9,25,5,17,12,27,.229,.309,.404,.713,hitter
+Steve Hathaway,2016,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Óscar Hernández,2016,Arizona Diamondbacks,11,1,2,1,1,0,0,.182,.182,.455,.637,hitter
+Chris Herrmann,2016,Arizona Diamondbacks,148,21,42,6,28,16,44,.284,.352,.493,.845,hitter
+Keith Hessler,2016,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Daniel Hudson,2016,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kyle Jensen,2016,Arizona Diamondbacks,31,5,6,2,7,2,13,.194,.265,.452,.717,hitter
+Matt Koch,2016,Arizona Diamondbacks,3,0,0,0,0,1,3,.000,.250,.000,.250,hitter
+Jake Lamb,2016,Arizona Diamondbacks,523,81,130,29,91,64,154,.249,.332,.509,.841,hitter
+Dominic Leone,2016,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Adam Loewen,2016,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Evan Marshall,2016,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Shelby Miller,2016,Arizona Diamondbacks,32,4,4,0,0,0,21,.125,.125,.219,.344,hitter
+Peter O'Brien,2016,Arizona Diamondbacks,64,6,9,5,9,3,27,.141,.179,.391,.570,hitter
+Chris Owings,2016,Arizona Diamondbacks,437,52,121,5,49,20,87,.277,.315,.416,.731,hitter
+David Peralta,2016,Arizona Diamondbacks,171,23,43,4,15,8,42,.251,.295,.433,.728,hitter
+AJ Pollock,2016,Arizona Diamondbacks,41,9,10,2,4,5,8,.244,.326,.390,.716,hitter
+Robbie Ray,2016,Arizona Diamondbacks,53,3,10,1,2,1,26,.189,.204,.283,.487,hitter
+Jean Segura,2016,Arizona Diamondbacks,637,102,203,20,64,39,101,.319,.368,.499,.867,hitter
+Braden Shipley,2016,Arizona Diamondbacks,26,2,3,0,2,0,10,.115,.115,.154,.269,hitter
+Yasmany Tomás,2016,Arizona Diamondbacks,530,72,144,31,83,31,136,.272,.313,.508,.821,hitter
+Tyler Wagner,2016,Arizona Diamondbacks,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Rickie Weeks Jr.,2016,Arizona Diamondbacks,180,29,43,9,27,20,54,.239,.327,.450,.777,hitter
+Brad Ziegler,2016,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Dariel Álvarez,2016,Baltimore Orioles,3,0,1,0,0,1,0,.333,.500,.667,1.167,hitter
+Pedro Alvarez,2016,Baltimore Orioles,337,43,84,22,49,37,97,.249,.322,.504,.826,hitter
+Jayson Aquino,2016,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Julio Borbon,2016,Baltimore Orioles,13,1,4,0,0,0,3,.308,.308,.308,.616,hitter
+Michael Bourn,2016,Arizona Diamondbacks,329,43,86,3,30,22,83,.261,.307,.362,.669,hitter
+Brad Brach,2016,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Parker Bridwell,2016,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Zack Britton,2016,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Dylan Bundy,2016,Baltimore Orioles,3,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Chris Davis,2016,Baltimore Orioles,566,99,125,38,84,88,219,.221,.332,.459,.791,hitter
+Odrisamer Despaigne,2016,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Oliver Drake,2016,Baltimore Orioles,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Ryan Flaherty,2016,Baltimore Orioles,157,16,34,3,15,17,48,.217,.291,.318,.609,hitter
+Yovani Gallardo,2016,Baltimore Orioles,4,1,2,0,0,1,1,.500,.600,.500,1.100,hitter
+Kevin Gausman,2016,Baltimore Orioles,2,0,0,0,0,1,2,.000,.333,.000,.333,hitter
+Mychal Givens,2016,Baltimore Orioles,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+J.J. Hardy,2016,Baltimore Orioles,405,43,109,9,48,26,68,.269,.309,.407,.716,hitter
+Donnie Hart,2016,Baltimore Orioles,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Tommy Hunter,2016,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Paul Janish,2016,Baltimore Orioles,31,3,6,0,0,3,3,.194,.286,.226,.512,hitter
+Ubaldo Jiménez,2016,Baltimore Orioles,4,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Adam Jones,2016,Baltimore Orioles,619,86,164,29,83,39,115,.265,.310,.436,.746,hitter
+Caleb Joseph,2016,Baltimore Orioles,132,7,23,0,0,7,28,.174,.216,.197,.413,hitter
+Hyun Soo Kim,2016,Baltimore Orioles,305,36,92,6,22,36,51,.302,.382,.420,.802,hitter
+Manny Machado,2016,Baltimore Orioles,640,105,188,37,96,48,120,.294,.343,.533,.876,hitter
+Trey Mancini,2016,Baltimore Orioles,14,3,5,3,5,0,4,.357,.400,1.071,1.471,hitter
+Brian Matusz,2016,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+T.J. McFarland,2016,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Wade Miley,2016,Seattle Mariners,7,1,1,0,0,0,1,.143,.143,.143,.286,hitter
+Logan Ondrusek,2016,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Steve Pearce,2016,Tampa Bay Rays,204,26,63,10,29,26,40,.309,.388,.520,.908,hitter
+Francisco Peña,2016,Baltimore Orioles,40,5,8,1,3,2,14,.200,.238,.275,.513,hitter
+Nolan Reimold,2016,Baltimore Orioles,203,25,45,6,15,22,62,.222,.300,.365,.665,hitter
+Joey Rickard,2016,Baltimore Orioles,257,32,69,5,19,18,54,.268,.319,.377,.696,hitter
+Chaz Roe,2016,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jonathan Schoop,2016,Baltimore Orioles,615,82,164,25,82,21,137,.267,.298,.454,.752,hitter
+Drew Stubbs,2016,Atlanta Braves,38,6,9,1,3,4,20,.237,.310,.316,.626,hitter
+Chris Tillman,2016,Baltimore Orioles,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Mark Trumbo,2016,Baltimore Orioles,613,94,157,47,108,51,170,.256,.316,.533,.849,hitter
+Matt Wieters,2016,Baltimore Orioles,423,48,103,17,66,32,85,.243,.302,.409,.711,hitter
+Tyler Wilson,2016,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Vance Worley,2016,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mike Wright Jr.,2016,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Fernando Abad,2016,Minnesota Twins,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Matt Barnes,2016,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Andrew Benintendi,2016,Boston Red Sox,105,16,31,2,14,10,25,.295,.359,.476,.835,hitter
+Mookie Betts,2016,Boston Red Sox,672,122,214,31,113,49,80,.318,.363,.534,.897,hitter
+Xander Bogaerts,2016,Boston Red Sox,652,115,192,21,89,58,123,.294,.356,.446,.802,hitter
+Jackie Bradley Jr.,2016,Boston Red Sox,558,94,149,26,87,63,143,.267,.349,.486,.835,hitter
+Bryce Brentz,2016,Boston Red Sox,61,8,17,1,7,3,17,.279,.313,.377,.690,hitter
+Clay Buchholz,2016,Boston Red Sox,2,0,0,0,0,1,2,.000,.333,.000,.333,hitter
+Rusney Castillo,2016,Boston Red Sox,8,4,2,0,0,0,3,.250,.250,.375,.625,hitter
+Roenis Elías,2016,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ryan Hanigan,2016,Boston Red Sox,105,9,18,1,14,7,27,.171,.230,.238,.468,hitter
+Heath Hembree,2016,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Marco Hernández,2016,Boston Red Sox,51,11,15,1,5,5,10,.294,.357,.373,.730,hitter
+Aaron Hill,2016,Milwaukee Brewers,254,34,72,8,29,30,43,.283,.359,.421,.780,hitter
+Bryan Holaday,2016,Texas Rangers,84,14,20,2,13,5,16,.238,.290,.405,.695,hitter
+Brock Holt,2016,Boston Red Sox,290,45,74,7,34,27,58,.255,.322,.383,.705,hitter
+Joe Kelly,2016,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Craig Kimbrel,2016,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ryan LaMarre,2016,Boston Red Sox,5,1,0,0,0,1,2,.000,.167,.000,.167,hitter
+Sandy León,2016,Boston Red Sox,252,36,78,7,35,23,66,.310,.369,.476,.845,hitter
+Pat Light,2016,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Deven Marrero,2016,Boston Red Sox,12,0,1,0,0,2,5,.083,.214,.083,.297,hitter
+Michael Martinez,2016,Boston Red Sox,6,1,1,0,0,1,2,.167,.286,.167,.453,hitter
+Mike Miller,2016,Boston Red Sox,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Yoán Moncada,2016,Boston Red Sox,19,3,4,0,1,1,12,.211,.250,.263,.513,hitter
+David Ortiz,2016,Boston Red Sox,537,79,169,38,127,80,86,.315,.401,.620,1.021,hitter
+Dustin Pedroia,2016,Boston Red Sox,633,105,201,15,74,61,73,.318,.376,.449,.825,hitter
+Drew Pomeranz,2016,San Diego Padres,33,2,5,1,4,0,19,.152,.152,.242,.394,hitter
+Rick Porcello,2016,Boston Red Sox,5,0,1,0,0,0,1,.200,.200,.200,.400,hitter
+David Price,2016,Boston Red Sox,10,0,0,0,0,1,8,.000,.091,.000,.091,hitter
+Hanley Ramirez,2016,Boston Red Sox,549,81,157,30,111,60,120,.286,.361,.505,.866,hitter
+Eduardo Rodriguez,2016,Boston Red Sox,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Robbie Ross Jr.,2016,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Josh Rutledge,2016,Boston Red Sox,49,9,13,0,3,6,19,.265,.345,.388,.733,hitter
+Pablo Sandoval,2016,Boston Red Sox,6,0,0,0,0,1,4,.000,.143,.000,.143,hitter
+Travis Shaw,2016,Boston Red Sox,480,63,116,16,71,43,133,.242,.306,.421,.727,hitter
+Blake Swihart,2016,Boston Red Sox,62,9,16,0,5,11,17,.258,.365,.355,.720,hitter
+Junichi Tazawa,2016,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Koji Uehara,2016,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Christian Vázquez,2016,Boston Red Sox,172,21,39,1,12,10,39,.227,.277,.308,.585,hitter
+Steven Wright,2016,Boston Red Sox,4,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Chris Young,2016,Boston Red Sox,203,29,56,9,24,21,50,.276,.352,.498,.850,hitter
+Brad Ziegler,2016,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Albert Almora Jr.,2016,Chicago Cubs,112,14,31,3,14,5,20,.277,.308,.455,.763,hitter
+Jake Arrieta,2016,Chicago Cubs,65,7,17,2,7,4,28,.262,.304,.415,.719,hitter
+Javier Báez,2016,Chicago Cubs,421,50,115,14,59,15,108,.273,.314,.423,.737,hitter
+Kris Bryant,2016,Chicago Cubs,603,121,176,39,102,75,154,.292,.385,.554,.939,hitter
+Jake Buchanan,2016,Chicago Cubs,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Trevor Cahill,2016,Chicago Cubs,8,1,1,0,1,1,4,.125,.222,.125,.347,hitter
+Jeimer Candelario,2016,Chicago Cubs,11,0,1,0,0,2,5,.091,.286,.091,.377,hitter
+Aroldis Chapman,2016,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chris Coghlan,2016,Oakland Athletics,158,14,23,5,14,13,47,.146,.215,.272,.487,hitter
+Gerardo Concepción,2016,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Willson Contreras,2016,Chicago Cubs,252,33,71,12,35,26,67,.282,.357,.488,.845,hitter
+Carl Edwards Jr.,2016,Chicago Cubs,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Tim Federowicz,2016,Chicago Cubs,31,3,6,0,3,1,12,.194,.212,.258,.470,hitter
+Dexter Fowler,2016,Chicago Cubs,456,84,126,13,48,79,124,.276,.393,.447,.840,hitter
+Justin Grimm,2016,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jason Hammel,2016,Chicago Cubs,65,6,16,0,7,1,24,.246,.258,.292,.550,hitter
+Kyle Hendricks,2016,Chicago Cubs,58,1,8,0,2,1,29,.138,.167,.138,.305,hitter
+Jason Heyward,2016,Chicago Cubs,530,61,122,7,49,54,93,.230,.306,.325,.631,hitter
+Ryan Kalish,2016,Chicago Cubs,7,1,2,0,2,1,0,.286,.444,.286,.730,hitter
+Munenori Kawasaki,2016,Chicago Cubs,21,3,7,0,1,4,5,.333,.462,.429,.891,hitter
+Tommy La Stella,2016,Chicago Cubs,148,17,40,2,11,18,27,.270,.357,.405,.762,hitter
+John Lackey,2016,Chicago Cubs,63,1,6,0,2,2,31,.095,.123,.127,.250,hitter
+Jon Lester,2016,Chicago Cubs,59,3,6,0,6,6,18,.102,.185,.153,.338,hitter
+Brian Matusz,2016,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Miguel Montero,2016,Chicago Cubs,241,33,52,8,33,38,58,.216,.327,.357,.684,hitter
+Mike Montgomery,2016,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Joe Nathan,2016,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Spencer Patton,2016,Chicago Cubs,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Félix Peña,2016,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Joel Peralta,2016,Seattle Mariners,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Neil Ramírez,2016,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Clayton Richard,2016,Chicago Cubs,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Anthony Rizzo,2016,Chicago Cubs,583,94,170,32,109,74,108,.292,.385,.544,.929,hitter
+Héctor Rondón,2016,Chicago Cubs,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+David Ross,2016,Chicago Cubs,166,24,38,10,32,30,54,.229,.338,.446,.784,hitter
+Addison Russell,2016,Chicago Cubs,525,67,125,21,95,55,135,.238,.321,.417,.738,hitter
+Kyle Schwarber,2016,Chicago Cubs,4,0,0,0,0,1,2,.000,.200,.000,.200,hitter
+Joe Smith,2016,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jorge Soler,2016,Chicago Cubs,227,37,54,12,31,31,66,.238,.333,.436,.769,hitter
+Pedro Strop,2016,Chicago Cubs,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Matt Szczur,2016,Chicago Cubs,185,30,48,5,24,13,39,.259,.312,.400,.712,hitter
+Adam Warren,2016,Chicago Cubs,3,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Travis Wood,2016,Chicago Cubs,11,0,2,0,1,1,5,.182,.250,.182,.432,hitter
+Rob Zastryzny,2016,Chicago Cubs,3,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Ben Zobrist,2016,Chicago Cubs,523,94,142,18,76,96,82,.272,.386,.446,.832,hitter
+Tim Adleman,2016,Cincinnati Reds,21,2,4,0,3,0,11,.190,.190,.286,.476,hitter
+Homer Bailey,2016,Cincinnati Reds,10,0,1,0,0,1,1,.100,.182,.100,.282,hitter
+Tucker Barnhart,2016,Cincinnati Reds,377,34,97,7,51,36,72,.257,.323,.379,.702,hitter
+Jay Bruce,2016,Cincinnati Reds,370,60,98,25,80,27,83,.265,.316,.559,.875,hitter
+Ramón Cabrera,2016,Cincinnati Reds,171,11,42,3,23,8,30,.246,.279,.357,.636,hitter
+Tony Cingrani,2016,Cincinnati Reds,0,1,0,0,0,1,0,.000,1.000,.000,1.000,hitter
+Caleb Cotham,2016,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Zack Cozart,2016,Cincinnati Reds,464,67,117,16,50,37,84,.252,.308,.425,.733,hitter
+Iván De Jesús Jr.,2016,Cincinnati Reds,221,21,56,1,20,17,51,.253,.311,.312,.623,hitter
+Abel De Los Santos,2016,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Anthony DeSclafani,2016,Cincinnati Reds,41,0,5,0,1,1,22,.122,.143,.146,.289,hitter
+Steve Delabar,2016,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Dayan Díaz,2016,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jumbo Díaz,2016,Cincinnati Reds,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Adam Duvall,2016,Cincinnati Reds,552,85,133,33,103,41,164,.241,.297,.498,.795,hitter
+Brandon Finnegan,2016,Cincinnati Reds,53,4,6,0,2,3,18,.113,.161,.151,.312,hitter
+Billy Hamilton,2016,Cincinnati Reds,411,69,107,3,17,36,93,.260,.321,.343,.664,hitter
+Drew Hayes,2016,Cincinnati Reds,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tyler Holt,2016,Cincinnati Reds,179,21,42,0,13,23,48,.235,.327,.296,.623,hitter
+J.J. Hoover,2016,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Raisel Iglesias,2016,Cincinnati Reds,11,0,1,0,0,0,2,.091,.091,.091,.182,hitter
+Hernan Iribarren,2016,Cincinnati Reds,45,6,14,0,2,0,11,.311,.311,.444,.755,hitter
+Patrick Kivlehan,2016,San Diego Padres,16,5,4,1,2,2,9,.250,.368,.438,.806,hitter
+John Lamb,2016,Cincinnati Reds,20,0,1,0,0,1,12,.050,.095,.050,.145,hitter
+Raffy Lopez,2016,Cincinnati Reds,7,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Michael Lorenzen,2016,Cincinnati Reds,5,1,1,1,3,0,2,.200,.200,.800,1.000,hitter
+Matt Magill,2016,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tim Melville,2016,Cincinnati Reds,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Devin Mesoraco,2016,Cincinnati Reds,50,2,7,0,1,5,10,.140,.218,.160,.378,hitter
+A.J. Morris,2016,Cincinnati Reds,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Jon Moscot,2016,Cincinnati Reds,4,0,0,0,0,0,3,.000,.200,.000,.200,hitter
+Ross Ohlendorf,2016,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jordan Pacheco,2016,Cincinnati Reds,51,1,8,0,0,0,14,.157,.157,.235,.392,hitter
+Wandy Peralta,2016,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+José Peraza,2016,Cincinnati Reds,241,25,78,3,25,7,33,.324,.352,.411,.763,hitter
+Brandon Phillips,2016,Cincinnati Reds,550,74,160,11,64,18,68,.291,.320,.416,.736,hitter
+JC Ramírez,2016,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Cody Reed,2016,Cincinnati Reds,11,1,0,0,0,1,6,.000,.083,.000,.083,hitter
+Tony Renda,2016,Cincinnati Reds,60,4,11,0,3,5,11,.183,.246,.217,.463,hitter
+Keyvius Sampson,2016,Cincinnati Reds,7,0,0,0,0,0,6,.000,.000,.000,.000,hitter
+Scott Schebler,2016,Cincinnati Reds,257,36,68,9,40,19,59,.265,.330,.432,.762,hitter
+Steve Selsky,2016,Cincinnati Reds,51,9,16,2,7,2,22,.314,.340,.471,.811,hitter
+Alfredo Simon,2016,Cincinnati Reds,14,0,1,0,1,1,7,.071,.188,.071,.259,hitter
+Josh A. Smith,2016,Cincinnati Reds,11,0,2,0,0,0,4,.182,.182,.273,.455,hitter
+Layne Somsen,2016,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Robert Stephenson,2016,Cincinnati Reds,10,0,0,0,0,0,5,.000,.000,.000,.000,hitter
+Dan Straily,2016,Cincinnati Reds,52,2,1,0,1,2,40,.019,.056,.019,.075,hitter
+Eugenio Suárez,2016,Cincinnati Reds,565,78,140,21,70,51,155,.248,.317,.411,.728,hitter
+Joey Votto,2016,Cincinnati Reds,556,101,181,29,97,108,120,.326,.434,.550,.984,hitter
+Kyle Waldrop,2016,Cincinnati Reds,22,1,5,0,1,1,5,.227,.261,.273,.534,hitter
+Blake Wood,2016,Cincinnati Reds,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Daniel Wright,2016,Cincinnati Reds,5,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Jesús Aguilar,2016,Cleveland Indians,6,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Cody Allen,2016,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Abraham Almonte,2016,Cleveland Indians,182,24,48,1,22,8,42,.264,.294,.401,.695,hitter
+Trevor Bauer,2016,Cleveland Indians,5,0,0,0,0,0,5,.000,.000,.000,.000,hitter
+Michael Brantley,2016,Cleveland Indians,39,5,9,0,7,3,6,.231,.279,.282,.561,hitter
+Marlon Byrd,2016,Cleveland Indians,115,11,31,5,19,11,38,.270,.326,.452,.778,hitter
+Joba Chamberlain,2016,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Lonnie Chisenhall,2016,Cleveland Indians,385,43,110,8,57,23,70,.286,.328,.439,.767,hitter
+Mike Clevinger,2016,Cleveland Indians,2,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Joe Colón,2016,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Collin Cowgill,2016,Cleveland Indians,12,0,1,0,0,2,7,.083,.214,.083,.297,hitter
+Coco Crisp,2016,Oakland Athletics,393,45,92,11,47,37,65,.234,.299,.399,.698,hitter
+Kyle Crockett,2016,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Rajai Davis,2016,Cleveland Indians,454,74,113,12,48,33,106,.249,.306,.388,.694,hitter
+Ross Detwiler,2016,Oakland Athletics,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Chris Gimenez,2016,Cleveland Indians,139,17,30,4,11,10,41,.216,.272,.331,.603,hitter
+Yan Gomes,2016,Cleveland Indians,251,22,42,9,34,9,69,.167,.201,.327,.528,hitter
+Erik González,2016,Cleveland Indians,16,2,5,0,0,1,8,.313,.353,.313,.666,hitter
+Tom Gorzelanny,2016,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brandon Guyer,2016,Tampa Bay Rays,212,27,51,7,18,12,42,.241,.347,.406,.753,hitter
+Tommy Hunter,2016,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jason Kipnis,2016,Cleveland Indians,610,91,168,23,82,60,146,.275,.343,.469,.812,hitter
+Corey Kluber,2016,Cleveland Indians,4,1,1,0,0,0,3,.250,.250,.500,.750,hitter
+Francisco Lindor,2016,Cleveland Indians,604,99,182,15,78,57,88,.301,.358,.435,.793,hitter
+Jeff Manship,2016,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Michael Martinez,2016,Boston Red Sox,6,1,1,0,0,1,2,.167,.286,.167,.453,hitter
+Zach McAllister,2016,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Andrew Miller,2016,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Adam Moore,2016,Cleveland Indians,5,0,0,0,0,0,4,.000,.000,.000,.000,hitter
+Mike Napoli,2016,Cleveland Indians,557,92,133,34,101,78,194,.239,.335,.465,.800,hitter
+Tyler Naquin,2016,Cleveland Indians,321,52,95,14,43,36,112,.296,.372,.514,.886,hitter
+Dan Otero,2016,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Roberto Pérez,2016,Cleveland Indians,153,14,28,3,17,23,44,.183,.285,.294,.579,hitter
+Adam Plutko,2016,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+José Ramírez,2016,Cleveland Guardians,565,84,176,11,76,44,62,.312,.363,.462,.825,hitter
+Danny Salazar,2016,Cleveland Indians,5,1,0,0,0,0,3,.000,.000,.000,.000,hitter
+Carlos Santana,2016,Cleveland Guardians,582,89,151,34,87,99,99,.259,.366,.498,.864,hitter
+Bryan Shaw,2016,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Josh Tomlin,2016,Cleveland Indians,5,1,2,0,0,0,2,.400,.400,.600,1.000,hitter
+Juan Uribe,2016,Cleveland Indians,238,19,49,7,25,15,49,.206,.259,.332,.591,hitter
+Cristhian Adames,2016,Colorado Rockies,225,25,49,2,17,24,47,.218,.304,.302,.606,hitter
+Tyler Anderson,2016,Colorado Rockies,35,1,4,1,3,4,11,.114,.205,.200,.405,hitter
+Nolan Arenado,2016,Colorado Rockies,618,116,182,41,133,68,103,.294,.362,.570,.932,hitter
+Brandon Barnes,2016,Colorado Rockies,100,10,22,0,8,3,30,.220,.250,.320,.570,hitter
+Christian Bergman,2016,Colorado Rockies,3,1,1,0,0,0,0,.333,.333,.333,.666,hitter
+Chad Bettis,2016,Colorado Rockies,49,2,2,0,2,4,21,.041,.113,.041,.154,hitter
+Charlie Blackmon,2016,Colorado Rockies,578,111,187,29,82,43,102,.324,.381,.552,.933,hitter
+Eddie Butler,2016,Colorado Rockies,15,0,1,0,0,0,2,.067,.067,.067,.134,hitter
+Matt Carasiti,2016,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Stephen Cardullo,2016,Colorado Rockies,56,5,12,2,6,3,12,.214,.254,.411,.665,hitter
+Miguel Castro,2016,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tyler Chatwood,2016,Colorado Rockies,53,3,10,0,4,2,14,.189,.218,.226,.444,hitter
+David Dahl,2016,Colorado Rockies,222,42,70,7,24,15,59,.315,.359,.500,.859,hitter
+Jorge De La Rosa,2016,Colorado Rockies,38,4,7,0,6,2,14,.184,.244,.184,.428,hitter
+Daniel Descalso,2016,Colorado Rockies,250,38,66,8,38,34,56,.264,.349,.424,.773,hitter
+Carlos Estévez,2016,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Yohan Flande,2016,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Dustin Garneau,2016,Colorado Rockies,68,7,16,1,6,6,22,.235,.293,.368,.661,hitter
+Gonzalez Germen,2016,Colorado Rockies,3,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Carlos González,2016,Colorado Rockies,584,87,174,25,100,46,129,.298,.350,.505,.855,hitter
+Jon Gray,2016,Colorado Rockies,47,2,7,0,4,2,30,.149,.184,.191,.375,hitter
+Jason Gurka,2016,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+David Hale,2016,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jeff Hoffman,2016,Colorado Rockies,8,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Nick Hundley,2016,Colorado Rockies,289,30,75,10,48,25,65,.260,.320,.439,.759,hitter
+DJ LeMahieu,2016,Colorado Rockies,552,104,192,11,66,66,80,.348,.416,.495,.911,hitter
+Boone Logan,2016,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jordan Lyles,2016,Colorado Rockies,8,0,0,0,0,0,4,.000,.000,.000,.000,hitter
+Germán Márquez,2016,Colorado Rockies,6,1,0,0,0,0,3,.000,.000,.000,.000,hitter
+Jake McGee,2016,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Justin Miller,2016,Colorado Rockies,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Jason Motte,2016,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tom Murphy,2016,Colorado Rockies,44,8,12,5,13,4,19,.273,.347,.659,1.006,hitter
+Scott Oberg,2016,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Adam Ottavino,2016,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Gerardo Parra,2016,Colorado Rockies,368,45,93,7,39,9,73,.253,.271,.399,.670,hitter
+Jordan Patterson,2016,Colorado Rockies,18,1,8,0,2,1,1,.444,.474,.500,.974,hitter
+Ben Paulsen,2016,Colorado Rockies,92,8,20,1,11,5,27,.217,.258,.304,.562,hitter
+Chad Qualls,2016,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ryan Raburn,2016,Colorado Rockies,223,30,49,9,30,28,80,.220,.309,.404,.713,hitter
+Mark Reynolds,2016,Colorado Rockies,393,61,111,14,53,42,112,.282,.356,.450,.806,hitter
+Chris Rusin,2016,Colorado Rockies,29,2,5,0,3,0,6,.172,.172,.241,.413,hitter
+Trevor Story,2016,Colorado Rockies,372,67,101,27,72,35,130,.272,.341,.567,.908,hitter
+Raimel Tapia,2016,Colorado Rockies,38,4,10,0,3,2,11,.263,.293,.263,.556,hitter
+Pat Valaika,2016,Colorado Rockies,19,3,5,1,2,0,8,.263,.263,.474,.737,hitter
+Tony Wolters,2016,Colorado Rockies,205,27,53,3,30,21,53,.259,.327,.395,.722,hitter
+Rafael Ynoa,2016,Colorado Rockies,5,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Mike Aviles,2016,Detroit Tigers,167,17,35,1,6,9,27,.210,.258,.269,.527,hitter
+Erick Aybar,2016,Atlanta Braves,335,27,81,2,26,20,59,.242,.293,.313,.606,hitter
+Miguel Cabrera,2016,Detroit Tigers,595,92,188,38,108,75,116,.316,.393,.563,.956,hitter
+Nick Castellanos,2016,Detroit Tigers,411,54,117,18,58,28,111,.285,.331,.496,.827,hitter
+Tyler Collins,2016,Detroit Tigers,136,14,32,4,15,13,38,.235,.305,.382,.687,hitter
+Michael Fulmer,2016,Detroit Tigers,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Anthony Gose,2016,Detroit Tigers,91,11,19,2,7,9,38,.209,.287,.341,.628,hitter
+Shane Greene,2016,Detroit Tigers,2,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+John Hicks,2016,Detroit Tigers,2,1,1,0,0,0,0,.500,.500,1.000,1.500,hitter
+Jose Iglesias,2016,Detroit Tigers,467,57,119,4,32,28,50,.255,.306,.336,.642,hitter
+JaCoby Jones,2016,Detroit Tigers,28,3,6,0,2,0,12,.214,.214,.321,.535,hitter
+Logan Kensing,2016,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ian Kinsler,2016,Detroit Tigers,618,117,178,28,83,45,115,.288,.348,.484,.832,hitter
+Mark Lowe,2016,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Dixon Machado,2016,Detroit Tigers,10,1,1,0,0,3,4,.100,.308,.100,.408,hitter
+J.D. Martinez,2016,Detroit Tigers,460,69,141,22,68,49,128,.307,.373,.535,.908,hitter
+Victor Martinez,2016,Detroit Tigers,553,65,160,27,86,50,90,.289,.351,.476,.827,hitter
+Cameron Maybin,2016,Detroit Tigers,349,65,110,4,43,36,69,.315,.383,.418,.801,hitter
+James McCann,2016,Detroit Tigers,344,31,76,12,48,23,109,.221,.272,.358,.630,hitter
+Casey McGehee,2016,Detroit Tigers,92,4,21,0,1,3,14,.228,.260,.239,.499,hitter
+Steven Moya,2016,Detroit Tigers,94,9,24,5,11,5,38,.255,.290,.500,.790,hitter
+Daniel Norris,2016,Detroit Tigers,2,0,0,0,0,1,0,.000,.333,.000,.333,hitter
+Alex Presley,2016,Milwaukee Brewers,116,12,23,3,11,11,25,.198,.271,.293,.564,hitter
+Francisco Rodríguez,2016,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Andrew Romine,2016,Detroit Tigers,174,21,41,2,16,13,38,.236,.304,.322,.626,hitter
+Bruce Rondón,2016,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kyle Ryan,2016,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jarrod Saltalamacchia,2016,Detroit Tigers,246,30,42,12,38,41,104,.171,.284,.346,.630,hitter
+Aníbal Sánchez,2016,Detroit Tigers,6,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Justin Upton,2016,Detroit Tigers,570,81,140,31,87,50,179,.246,.310,.465,.775,hitter
+Drew VerHagen,2016,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Justin Verlander,2016,Detroit Tigers,5,1,1,0,0,0,2,.200,.200,.200,.400,hitter
+Alex Wilson,2016,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Bobby Wilson,2016,Detroit Tigers,13,0,2,0,2,1,3,.154,.200,.154,.354,hitter
+Justin Wilson,2016,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jordan Zimmermann,2016,Detroit Tigers,4,0,1,0,0,0,2,.250,.250,.250,.500,hitter
+Jose Altuve,2016,Houston Astros,640,108,216,24,96,60,70,.338,.396,.531,.927,hitter
+Alex Bregman,2016,Houston Astros,201,31,53,8,34,15,52,.264,.313,.478,.791,hitter
+Jason Castro,2016,Houston Astros,329,41,69,11,32,45,123,.210,.307,.377,.684,hitter
+Carlos Correa,2016,Houston Astros,577,76,158,20,96,75,139,.274,.361,.451,.812,hitter
+Chris Devenski,2016,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Matt Duffy,2016,Houston Astros,3,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Scott Feldman,2016,Houston Astros,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Michael Feliz,2016,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Josh Fields,2016,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Doug Fister,2016,Houston Astros,5,0,1,0,2,0,1,.200,.200,.200,.400,hitter
+Evan Gattis,2016,Houston Astros,447,58,112,32,72,43,127,.251,.319,.508,.827,hitter
+Ken Giles,2016,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Carlos Gómez,2016,Houston Astros,295,27,62,5,29,21,100,.210,.272,.322,.594,hitter
+Marwin Gonzalez,2016,Houston Astros,484,55,123,13,51,22,118,.254,.293,.401,.694,hitter
+Luke Gregerson,2016,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Yuli Gurriel,2016,Houston Astros,130,13,34,3,15,5,12,.262,.292,.385,.677,hitter
+Will Harris,2016,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Teoscar Hernández,2016,Houston Astros,100,15,23,4,11,11,28,.230,.304,.420,.724,hitter
+James Hoyt,2016,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tony Kemp,2016,Houston Astros,120,15,26,1,7,14,27,.217,.296,.325,.621,hitter
+Dallas Keuchel,2016,Houston Astros,2,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Erik Kratz,2016,Houston Astros,29,0,2,0,0,1,14,.069,.100,.103,.203,hitter
+Jake Marisnick,2016,Houston Astros,287,40,60,5,21,16,83,.209,.257,.331,.588,hitter
+Lance McCullers Jr.,2016,Houston Astros,3,1,1,0,0,0,0,.333,.333,.333,.666,hitter
+Collin McHugh,2016,Houston Astros,6,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Colin Moran,2016,Houston Astros,23,1,3,0,2,1,8,.130,.200,.174,.374,hitter
+Joe Musgrove,2016,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Pat Neshek,2016,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brad Peacock,2016,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Colby Rasmus,2016,Houston Astros,369,38,76,15,54,43,121,.206,.286,.355,.641,hitter
+AJ Reed,2016,Houston Astros,122,11,20,3,8,18,48,.164,.270,.262,.532,hitter
+Tony Sipp,2016,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+George Springer,2016,Houston Astros,644,116,168,29,82,88,178,.261,.359,.457,.816,hitter
+Max Stassi,2016,Houston Astros,13,1,1,0,0,0,5,.077,.077,.077,.154,hitter
+Preston Tucker,2016,Houston Astros,134,11,22,4,8,8,40,.164,.222,.328,.550,hitter
+Luis Valbuena,2016,Houston Astros,292,38,76,13,40,44,81,.260,.357,.459,.816,hitter
+Tyler White,2016,Houston Astros,249,24,54,8,28,23,65,.217,.286,.378,.664,hitter
+Danny Worth,2016,Houston Astros,39,4,7,0,1,1,6,.179,.200,.231,.431,hitter
+Billy Burns,2016,Oakland Athletics,274,32,64,0,12,10,30,.234,.270,.303,.573,hitter
+Drew Butera,2016,Kansas City Royals,123,18,35,4,16,8,36,.285,.328,.480,.808,hitter
+Lorenzo Cain,2016,Kansas City Royals,397,56,114,9,56,31,84,.287,.339,.408,.747,hitter
+Christian Colón,2016,Kansas City Royals,147,13,34,1,13,11,31,.231,.294,.293,.587,hitter
+Tony Cruz,2016,Kansas City Royals,4,0,0,0,1,0,3,.000,.000,.000,.000,hitter
+Cheslor Cuthbert,2016,Kansas City Royals,475,49,130,12,46,32,96,.274,.318,.413,.731,hitter
+Wade Davis,2016,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Hunter Dozier,2016,Kansas City Royals,19,4,4,0,1,2,8,.211,.286,.263,.549,hitter
+Danny Duffy,2016,Kansas City Royals,5,1,1,0,1,0,1,.200,.200,.200,.400,hitter
+Jarrod Dyson,2016,Kansas City Royals,299,46,83,1,25,26,39,.278,.340,.388,.728,hitter
+Brett Eibner,2016,Kansas City Royals,78,11,18,3,10,6,23,.231,.286,.423,.709,hitter
+Alcides Escobar,2016,Kansas City Royals,637,57,166,7,55,27,96,.261,.292,.350,.642,hitter
+Brian Flynn,2016,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Rey Fuentes,2016,Kansas City Royals,41,2,13,0,5,3,8,.317,.364,.341,.705,hitter
+Dillon Gee,2016,Kansas City Royals,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Alex Gordon,2016,Kansas City Royals,445,62,98,17,40,52,148,.220,.312,.380,.692,hitter
+Terrance Gore,2016,Kansas City Royals,3,6,0,0,0,0,1,.000,.000,.000,.000,hitter
+Kelvin Herrera,2016,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Luke Hochevar,2016,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Eric Hosmer,2016,Kansas City Royals,605,80,161,25,104,57,132,.266,.328,.433,.761,hitter
+Omar Infante,2016,Kansas City Royals,134,16,32,0,11,9,23,.239,.279,.321,.600,hitter
+Ian Kennedy,2016,Kansas City Royals,3,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Whit Merrifield,2016,Kansas City Royals,311,44,88,2,29,19,72,.283,.323,.392,.715,hitter
+Adalberto Mondesi,2016,Kansas City Royals,135,16,25,2,13,6,48,.185,.231,.281,.512,hitter
+Kendrys Morales,2016,Kansas City Royals,558,65,147,30,93,48,120,.263,.327,.468,.795,hitter
+Mike Moustakas,2016,Kansas City Royals,104,12,25,7,13,9,13,.240,.301,.500,.801,hitter
+Peter Moylan,2016,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Daniel Nava,2016,Los Angeles Angels,119,10,28,1,13,9,26,.235,.309,.303,.612,hitter
+Paulo Orlando,2016,Kansas City Royals,457,52,138,5,43,13,105,.302,.329,.405,.734,hitter
+Salvador Perez,2016,Kansas City Royals,514,57,127,22,64,22,119,.247,.288,.438,.726,hitter
+Joakim Soria,2016,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Matt Strahm,2016,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Yordano Ventura,2016,Kansas City Royals,3,0,1,0,0,0,2,.333,.333,.333,.666,hitter
+Edinson Volquez,2016,Kansas City Royals,5,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Chien-Ming Wang,2016,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chris Young,2016,Kansas City Royals,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brett Anderson,2016,Los Angeles Dodgers,3,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Luis Avilán,2016,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Pedro Báez,2016,Los Angeles Dodgers,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Austin Barnes,2016,Los Angeles Dodgers,32,3,5,0,2,5,9,.156,.270,.188,.458,hitter
+Joe Blanton,2016,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mike Bolsinger,2016,Los Angeles Dodgers,9,0,0,0,0,0,7,.000,.000,.000,.000,hitter
+Jesse Chavez,2016,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Louis Coleman,2016,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Carl Crawford,2016,Los Angeles Dodgers,81,8,15,0,6,4,11,.185,.230,.235,.465,hitter
+Charlie Culberson,2016,Los Angeles Dodgers,67,6,20,1,7,1,13,.299,.309,.388,.697,hitter
+Grant Dayton,2016,Los Angeles Dodgers,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+José De León,2016,Los Angeles Dodgers,4,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+A.J. Ellis,2016,Los Angeles Dodgers,139,8,27,1,13,16,24,.194,.285,.252,.537,hitter
+Andre Ethier,2016,Los Angeles Dodgers,24,2,5,1,2,2,6,.208,.269,.375,.644,hitter
+Josh Fields,2016,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Casey Fien,2016,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Carlos Frías,2016,Los Angeles Dodgers,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Yimi García,2016,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Adrián González,2016,Los Angeles Dodgers,568,69,162,18,90,55,117,.285,.349,.435,.784,hitter
+Yasmani Grandal,2016,Los Angeles Dodgers,390,49,89,27,72,64,116,.228,.339,.477,.816,hitter
+Chris Hatcher,2016,Los Angeles Dodgers,3,0,1,0,1,0,0,.333,.333,.333,.666,hitter
+Enrique Hernández,2016,Los Angeles Dodgers,216,25,41,7,18,28,64,.190,.283,.324,.607,hitter
+Rich Hill,2016,Los Angeles Dodgers,12,0,0,0,0,0,8,.000,.000,.000,.000,hitter
+J.P. Howell,2016,Los Angeles Dodgers,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Kenley Jansen,2016,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Micah Johnson,2016,Los Angeles Dodgers,6,1,1,0,0,0,1,.167,.167,.167,.334,hitter
+Scott Kazmir,2016,Los Angeles Dodgers,43,3,5,0,2,1,24,.116,.136,.116,.252,hitter
+Howie Kendrick,2016,Los Angeles Dodgers,487,65,124,8,40,50,96,.255,.326,.366,.692,hitter
+Clayton Kershaw,2016,Los Angeles Dodgers,46,2,8,0,3,1,12,.174,.191,.196,.387,hitter
+Adam Liberatore,2016,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kenta Maeda,2016,Los Angeles Dodgers,57,5,7,1,4,1,16,.123,.138,.193,.331,hitter
+Brandon McCarthy,2016,Los Angeles Dodgers,13,0,0,0,1,2,6,.000,.133,.000,.133,hitter
+Bud Norris,2016,Atlanta Braves,12,1,2,0,0,3,5,.167,.375,.333,.708,hitter
+Joc Pederson,2016,Los Angeles Dodgers,406,64,100,25,68,63,130,.246,.352,.495,.847,hitter
+Yasiel Puig,2016,Los Angeles Dodgers,334,45,88,11,45,24,74,.263,.323,.416,.739,hitter
+Josh Ravin,2016,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Josh Reddick,2016,Oakland Athletics,243,33,72,8,28,28,34,.296,.368,.449,.817,hitter
+Carlos Ruiz,2016,Philadelphia Phillies,165,18,43,3,12,24,28,.261,.368,.352,.720,hitter
+Hyun Jin Ryu,2016,Los Angeles Dodgers,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Corey Seager,2016,Los Angeles Dodgers,627,105,193,26,72,54,133,.308,.365,.512,.877,hitter
+Rob Segedin,2016,Los Angeles Dodgers,73,9,17,2,12,6,22,.233,.301,.370,.671,hitter
+Brock Stewart,2016,Los Angeles Dodgers,10,0,1,0,0,0,7,.100,.100,.100,.200,hitter
+Ross Stripling,2016,Los Angeles Dodgers,24,2,2,0,1,2,12,.083,.154,.083,.237,hitter
+Chris Taylor,2016,Seattle Mariners,3,0,1,0,0,0,2,.333,.333,.333,.666,hitter
+Nick Tepesch,2016,Los Angeles Dodgers,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Trayce Thompson,2016,Los Angeles Dodgers,236,31,53,13,32,26,66,.225,.302,.436,.738,hitter
+Andrew Toles,2016,Los Angeles Dodgers,105,19,33,3,16,8,25,.314,.365,.505,.870,hitter
+Chin-hui Tsao,2016,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Justin Turner,2016,Los Angeles Dodgers,556,79,153,27,90,48,107,.275,.339,.493,.832,hitter
+Julio Urías,2016,Los Angeles Dodgers,22,0,3,0,2,0,9,.136,.136,.136,.272,hitter
+Chase Utley,2016,Los Angeles Dodgers,512,79,129,14,52,40,115,.252,.319,.396,.715,hitter
+Scott Van Slyke,2016,Los Angeles Dodgers,102,10,23,1,7,5,24,.225,.292,.314,.606,hitter
+Will Venable,2016,Los Angeles Dodgers,18,2,1,0,0,0,5,.056,.105,.111,.216,hitter
+Zach Walters,2016,Los Angeles Dodgers,5,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Alex Wood,2016,Los Angeles Dodgers,16,2,4,0,2,1,9,.250,.294,.250,.544,hitter
+Matt Belisle,2016,Washington Nationals,4,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Sean Burnett,2016,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+A.J. Cole,2016,Washington Nationals,7,0,0,0,0,0,4,.000,.000,.000,.000,hitter
+Wilmer Difo,2016,Washington Nationals,58,14,16,1,7,8,12,.276,.364,.379,.743,hitter
+Stephen Drew,2016,Washington Nationals,143,24,38,8,21,16,31,.266,.339,.524,.863,hitter
+Danny Espinosa,2016,Washington Nationals,516,66,108,24,72,54,174,.209,.306,.378,.684,hitter
+Lucas Giolito,2016,Washington Nationals,4,1,1,0,0,0,1,.250,.250,.250,.500,hitter
+Koda Glover,2016,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Gio González,2016,Washington Nationals,52,1,7,0,2,0,24,.135,.148,.173,.321,hitter
+Brian Goodwin,2016,Washington Nationals,42,1,12,0,5,2,14,.286,.318,.429,.747,hitter
+Trevor Gott,2016,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Matt Grace,2016,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Bryce Harper,2016,Washington Nationals,506,84,123,24,86,108,117,.243,.373,.441,.814,hitter
+Chris Heisey,2016,Washington Nationals,139,18,30,9,17,13,44,.216,.290,.446,.736,hitter
+Shawn Kelley,2016,Washington Nationals,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Spencer Kieboom,2016,Washington Nationals,0,1,0,0,0,1,0,.000,1.000,.000,1.000,hitter
+Mat Latos,2016,Chicago White Sox,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Jose Lobaton,2016,Washington Nationals,99,10,23,3,8,12,18,.232,.319,.374,.693,hitter
+Reynaldo López,2016,Washington Nationals,12,0,1,0,0,0,7,.083,.083,.083,.166,hitter
+Rafael Martín,2016,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mark Melancon,2016,Pittsburgh Pirates,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Daniel Murphy,2016,Washington Nationals,531,88,184,25,104,35,57,.347,.390,.595,.985,hitter
+Jonathan Papelbon,2016,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Oliver Pérez,2016,Washington Nationals,3,1,2,0,0,0,0,.667,.667,1.000,1.667,hitter
+Yusmeiro Petit,2016,Washington Nationals,6,0,1,0,0,0,2,.167,.167,.167,.334,hitter
+Wilson Ramos,2016,Washington Nationals,482,58,148,22,80,35,79,.307,.354,.496,.850,hitter
+Anthony Rendon,2016,Washington Nationals,567,91,153,20,85,65,117,.270,.348,.450,.798,hitter
+Ben Revere,2016,Washington Nationals,350,44,76,2,24,18,34,.217,.260,.300,.560,hitter
+Tanner Roark,2016,Washington Nationals,64,1,8,0,3,5,25,.125,.188,.141,.329,hitter
+Clint Robinson,2016,Washington Nationals,196,16,46,5,26,20,38,.235,.305,.332,.637,hitter
+Joe Ross,2016,Washington Nationals,41,2,10,0,1,3,15,.244,.295,.293,.588,hitter
+Marc Rzepczynski,2016,Oakland Athletics,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Max Scherzer,2016,Washington Nationals,70,4,13,0,12,2,30,.186,.208,.200,.408,hitter
+Pedro Severino,2016,Washington Nationals,28,6,9,2,4,5,3,.321,.441,.607,1.048,hitter
+Sammy Solís,2016,Washington Nationals,3,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Stephen Strasburg,2016,Washington Nationals,48,3,10,0,2,2,11,.208,.240,.229,.469,hitter
+Michael A. Taylor,2016,Washington Nationals,221,28,51,7,16,14,77,.231,.278,.376,.654,hitter
+Blake Treinen,2016,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Trea Turner,2016,Washington Nationals,307,53,105,13,40,14,59,.342,.370,.567,.937,hitter
+Felipe Vázquez,2016,Washington Nationals,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Jayson Werth,2016,Washington Nationals,525,84,128,21,69,71,139,.244,.335,.417,.752,hitter
+Ryan Zimmerman,2016,Washington Nationals,427,60,93,15,46,29,104,.218,.272,.370,.642,hitter
+Matthew den Dekker,2016,Washington Nationals,34,3,6,1,4,4,10,.176,.282,.294,.576,hitter
+Antonio Bastardo,2016,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jerry Blevins,2016,New York Mets,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jay Bruce,2016,Cincinnati Reds,370,60,98,25,80,27,83,.265,.316,.559,.875,hitter
+Asdrúbal Cabrera,2016,New York Mets,521,65,146,23,62,38,103,.280,.336,.474,.810,hitter
+Eric Campbell,2016,New York Mets,75,9,13,1,9,10,24,.173,.284,.227,.511,hitter
+Gavin Cecchini,2016,New York Mets,6,2,2,0,2,0,2,.333,.429,.667,1.096,hitter
+Yoenis Cespedes,2016,New York Mets,479,72,134,31,86,51,108,.280,.354,.530,.884,hitter
+Bartolo Colon,2016,New York Mets,60,4,5,1,2,1,40,.083,.098,.167,.265,hitter
+Michael Conforto,2016,New York Mets,304,38,67,12,42,36,89,.220,.310,.414,.724,hitter
+Alejandro De Aza,2016,New York Mets,234,31,48,6,25,26,67,.205,.297,.321,.618,hitter
+Lucas Duda,2016,New York Mets,153,20,35,7,23,15,36,.229,.302,.412,.714,hitter
+Josh Edgin,2016,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jeurys Familia,2016,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Wilmer Flores,2016,New York Mets,307,38,82,16,49,23,48,.267,.319,.469,.788,hitter
+Sean Gilmartin,2016,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Erik Goeddel,2016,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Curtis Granderson,2016,New York Mets,545,88,129,30,59,74,130,.237,.335,.464,.799,hitter
+Robert Gsellman,2016,New York Mets,15,0,1,0,0,0,9,.067,.067,.067,.134,hitter
+Matt Harvey,2016,New York Mets,22,2,3,0,0,0,8,.136,.136,.182,.318,hitter
+Jim Henderson,2016,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kelly Johnson,2016,Atlanta Braves,121,8,26,1,10,10,25,.215,.273,.289,.562,hitter
+Ty Kelly,2016,New York Mets,58,9,14,1,7,11,9,.241,.352,.345,.697,hitter
+Juan Lagares,2016,New York Mets,142,15,34,3,9,11,27,.239,.301,.380,.681,hitter
+James Loney,2016,New York Mets,343,30,91,9,34,16,37,.265,.307,.397,.704,hitter
+Seth Lugo,2016,New York Mets,16,2,3,0,1,1,2,.188,.222,.250,.472,hitter
+Steven Matz,2016,New York Mets,36,0,5,0,2,4,11,.139,.220,.222,.442,hitter
+Rafael Montero,2016,New York Mets,5,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Jonathon Niese,2016,Pittsburgh Pirates,30,1,3,0,1,2,14,.100,.156,.133,.289,hitter
+Brandon Nimmo,2016,New York Mets,73,12,20,1,6,6,20,.274,.338,.329,.667,hitter
+Kevin Plawecki,2016,New York Mets,132,6,26,1,11,17,33,.197,.298,.265,.563,hitter
+Addison Reed,2016,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+José Reyes,2016,New York Mets,255,45,68,8,24,23,49,.267,.326,.443,.769,hitter
+Matt Reynolds,2016,New York Mets,89,11,20,3,13,4,34,.225,.266,.416,.682,hitter
+René Rivera,2016,New York Mets,185,12,41,6,26,16,54,.222,.291,.341,.632,hitter
+T.J. Rivera,2016,New York Mets,105,10,35,3,16,3,17,.333,.345,.476,.821,hitter
+Hansel Robles,2016,New York Mets,3,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Justin Ruggiano,2016,Texas Rangers,4,0,1,0,1,0,1,.250,.250,.500,.750,hitter
+Fernando Salas,2016,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Josh Smoker,2016,New York Mets,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Noah Syndergaard,2016,New York Mets,58,6,11,3,6,7,34,.190,.277,.397,.674,hitter
+Logan Verrett,2016,New York Mets,19,1,1,0,0,0,12,.053,.053,.105,.158,hitter
+Neil Walker,2016,New York Mets,412,57,116,23,55,42,84,.282,.347,.476,.823,hitter
+David Wright,2016,New York Mets,137,18,31,7,14,26,55,.226,.350,.438,.788,hitter
+Gabriel Ynoa,2016,New York Mets,3,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Travis d'Arnaud,2016,New York Mets,251,27,62,4,15,19,50,.247,.307,.323,.630,hitter
+Jacob deGrom,2016,New York Mets,42,6,6,0,2,3,12,.143,.200,.167,.367,hitter

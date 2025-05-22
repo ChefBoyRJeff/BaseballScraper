@@ -1,0 +1,1439 @@
+name,year,team,AB,R,H,HR,RBI,BB,K,AVG,OBP,SLG,OPS,playerType
+Brett Anderson,2019,Oakland Athletics,8,1,4,0,0,0,2,.500,.500,.500,1.000,hitter
+Tanner Anderson,2019,Oakland Athletics,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Homer Bailey,2019,Kansas City Royals,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Franklin Barreto,2019,Oakland Athletics,57,6,7,2,5,1,23,.123,.138,.263,.401,hitter
+Chris Bassitt,2019,Oakland Athletics,4,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Skye Bolt,2019,Oakland Athletics,10,1,1,0,0,1,3,.100,.182,.200,.382,hitter
+Aaron Brooks,2019,Baltimore Orioles,3,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Seth Brown,2019,Athletics,75,11,22,0,13,7,23,.293,.361,.453,.814,hitter
+Ryan Buchter,2019,Oakland Athletics,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mark Canha,2019,Oakland Athletics,410,80,112,26,58,67,107,.273,.396,.517,.913,hitter
+Matt Chapman,2019,Oakland Athletics,583,102,145,36,91,73,147,.249,.342,.506,.848,hitter
+Khris Davis,2019,Oakland Athletics,481,61,106,23,73,47,146,.220,.293,.387,.680,hitter
+Jake Diekman,2019,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Dustin Garneau,2019,Los Angeles Angels,69,11,16,2,7,8,18,.232,.346,.362,.708,hitter
+Robbie Grossman,2019,Oakland Athletics,420,57,101,6,38,59,86,.240,.334,.348,.682,hitter
+Liam Hendriks,2019,Oakland Athletics,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chris Herrmann,2019,Oakland Athletics,84,9,17,1,8,9,29,.202,.280,.274,.554,hitter
+Nick Hundley,2019,Oakland Athletics,70,5,14,2,5,2,18,.200,.233,.357,.590,hitter
+Corban Joseph,2019,Oakland Athletics,37,4,7,1,5,2,5,.189,.225,.324,.549,hitter
+Ramón Laureano,2019,Oakland Athletics,434,79,125,24,67,27,123,.288,.340,.521,.861,hitter
+Nick Martini,2019,Oakland Athletics,11,1,1,1,2,2,5,.091,.231,.364,.595,hitter
+Daniel Mengden,2019,Oakland Athletics,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Frankie Montas,2019,Oakland Athletics,1,0,0,0,0,1,0,.000,.500,.000,.500,hitter
+Kendrys Morales,2019,Oakland Athletics,108,9,22,1,7,14,20,.204,.310,.259,.569,hitter
+Sean Murphy,2019,Oakland Athletics,53,14,13,4,8,6,16,.245,.333,.566,.899,hitter
+Sheldon Neuse,2019,Oakland Athletics,56,3,14,0,7,4,19,.250,.295,.304,.599,hitter
+Matt Olson,2019,Oakland Athletics,483,73,129,36,91,51,138,.267,.351,.545,.896,hitter
+Yusmeiro Petit,2019,Oakland Athletics,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Josh Phegley,2019,Oakland Athletics,314,44,75,12,62,15,63,.239,.282,.411,.693,hitter
+Chad Pinder,2019,Oakland Athletics,341,45,82,13,47,20,88,.240,.290,.416,.706,hitter
+Stephen Piscotty,2019,Oakland Athletics,357,46,89,13,44,29,84,.249,.309,.412,.721,hitter
+Jurickson Profar,2019,Oakland Athletics,459,65,100,20,67,48,75,.218,.301,.410,.711,hitter
+Tanner Roark,2019,Cincinnati Reds,33,2,5,1,2,0,13,.152,.152,.273,.425,hitter
+Fernando Rodney,2019,Oakland Athletics,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Marcus Semien,2019,Oakland Athletics,657,123,187,33,92,87,102,.285,.369,.522,.891,hitter
+Joakim Soria,2019,Oakland Athletics,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Beau Taylor,2019,Toronto Blue Jays,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Blake Treinen,2019,Oakland Athletics,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Lou Trivino,2019,Oakland Athletics,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Wei-Chung Wang,2019,Oakland Athletics,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+J.B. Wendelken,2019,Oakland Athletics,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Dario Agrazal,2019,Pittsburgh Pirates,22,0,2,0,2,0,9,.091,.087,.091,.178,hitter
+Chris Archer,2019,Pittsburgh Pirates,35,1,4,0,2,3,19,.114,.184,.114,.298,hitter
+Steven Baron,2019,Pittsburgh Pirates,10,0,2,0,1,0,6,.200,.200,.300,.500,hitter
+Josh Bell,2019,Pittsburgh Pirates,527,94,146,37,116,74,118,.277,.367,.569,.936,hitter
+Steven Brault,2019,Pittsburgh Pirates,42,8,14,1,2,1,8,.333,.349,.429,.778,hitter
+Nick Burdi,2019,Pittsburgh Pirates,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Melky Cabrera,2019,Pittsburgh Pirates,378,43,106,7,47,17,41,.280,.313,.399,.712,hitter
+Francisco Cervelli,2019,Pittsburgh Pirates,109,11,21,1,5,9,31,.193,.279,.248,.527,hitter
+Kyle Crick,2019,Pittsburgh Pirates,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Rookie Davis,2019,Pittsburgh Pirates,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Elias Díaz,2019,Pittsburgh Pirates,303,31,73,2,28,23,56,.241,.296,.307,.603,hitter
+Corey Dickerson,2019,Pittsburgh Pirates,127,20,40,4,25,13,23,.315,.373,.551,.924,hitter
+Montana DuRapau,2019,Pittsburgh Pirates,4,0,1,0,0,0,2,.250,.250,.250,.500,hitter
+Jake Elmore,2019,Pittsburgh Pirates,47,3,10,0,4,2,8,.213,.245,.234,.479,hitter
+Luis Escobar,2019,Pittsburgh Pirates,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Michael Feliz,2019,Pittsburgh Pirates,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Adam Frazier,2019,Pittsburgh Pirates,554,80,154,10,50,40,75,.278,.336,.417,.753,hitter
+Erik González,2019,Pittsburgh Pirates,142,15,36,1,6,9,37,.254,.301,.317,.618,hitter
+Geoff Hartlieb,2019,Pittsburgh Pirates,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Clay Holmes,2019,Pittsburgh Pirates,5,0,0,0,0,0,4,.000,.000,.000,.000,hitter
+Williams Jerez,2019,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Corban Joseph,2019,Oakland Athletics,37,4,7,1,5,2,5,.189,.225,.324,.549,hitter
+Jung Ho Kang,2019,Pittsburgh Pirates,172,15,29,10,24,11,60,.169,.222,.395,.617,hitter
+Keone Kela,2019,Pittsburgh Pirates,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mitch Keller,2019,Pittsburgh Pirates,10,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Nick Kingham,2019,Pittsburgh Pirates,6,0,0,0,0,2,4,.000,.250,.000,.250,hitter
+Kevin Kramer,2019,Pittsburgh Pirates,42,5,7,0,5,6,17,.167,.260,.190,.450,hitter
+Francisco Liriano,2019,Pittsburgh Pirates,1,0,1,0,0,1,0,1.000,1.000,1.000,2.000,hitter
+Jordan Lyles,2019,Pittsburgh Pirates,25,1,2,0,2,0,16,.080,.115,.080,.195,hitter
+Tyler Lyons,2019,Pittsburgh Pirates,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Parker Markel,2019,Pittsburgh Pirates,3,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Starling Marte,2019,Pittsburgh Pirates,539,97,159,23,82,25,94,.295,.342,.503,.845,hitter
+Jason Martin,2019,Pittsburgh Pirates,36,5,9,0,2,4,10,.250,.325,.306,.631,hitter
+James Marvel,2019,Pittsburgh Pirates,4,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Alex McRae,2019,Pittsburgh Pirates,6,0,2,0,0,0,3,.333,.333,.333,.666,hitter
+Colin Moran,2019,Pittsburgh Pirates,466,46,129,13,80,30,117,.277,.322,.429,.751,hitter
+Joe Musgrove,2019,Pittsburgh Pirates,51,8,8,0,3,2,19,.157,.189,.235,.424,hitter
+Dovydas Neverauskas,2019,Pittsburgh Pirates,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kevin Newman,2019,Pittsburgh Pirates,493,61,152,12,64,28,62,.308,.353,.446,.799,hitter
+José Osuna,2019,Pittsburgh Pirates,261,41,69,10,36,18,48,.264,.310,.456,.766,hitter
+Gregory Polanco,2019,Pittsburgh Pirates,153,23,37,6,17,12,49,.242,.301,.425,.726,hitter
+Yefry Ramírez,2019,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Pablo Reyes,2019,Pittsburgh Pirates,143,18,29,2,19,13,36,.203,.274,.322,.596,hitter
+Bryan Reynolds,2019,Pittsburgh Pirates,491,83,154,16,68,46,121,.314,.377,.503,.880,hitter
+Yacksel Ríos,2019,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Richard Rodríguez,2019,Pittsburgh Pirates,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+JB Shuck,2019,Pittsburgh Pirates,47,4,10,0,2,8,10,.213,.339,.255,.594,hitter
+Jacob Stallings,2019,Pittsburgh Pirates,191,26,50,6,13,16,40,.262,.325,.382,.707,hitter
+Chris Stratton,2019,Los Angeles Angels,2,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jameson Taillon,2019,Pittsburgh Pirates,8,0,2,0,0,0,3,.250,.250,.250,.500,hitter
+Cole Tucker,2019,Pittsburgh Pirates,147,16,31,2,13,10,40,.211,.266,.361,.627,hitter
+Felipe Vázquez,2019,Pittsburgh Pirates,2,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Wei-Chung Wang,2019,Oakland Athletics,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Trevor Williams,2019,Pittsburgh Pirates,36,2,6,0,4,2,17,.167,.211,.167,.378,hitter
+Austin Allen,2019,San Diego Padres,65,4,14,0,3,6,21,.215,.282,.277,.559,hitter
+Logan Allen,2019,San Diego Padres,4,1,1,0,0,0,0,.250,.400,.250,.650,hitter
+Pedro Avila,2019,San Diego Padres,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Michel Baez,2019,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+David Bednar,2019,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ronald Bolaños,2019,San Diego Padres,5,1,0,0,1,0,4,.000,.000,.000,.000,hitter
+José Castillo,2019,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Franchy Cordero,2019,San Diego Padres,15,2,5,0,1,4,7,.333,.450,.400,.850,hitter
+Miguel Díaz,2019,San Diego Padres,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Alex Dickerson,2019,San Diego Padres,19,1,3,0,2,0,7,.158,.158,.158,.316,hitter
+Carl Edwards Jr.,2019,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Robbie Erlin,2019,San Diego Padres,4,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ty France,2019,San Diego Padres,184,20,43,7,24,9,49,.234,.294,.402,.696,hitter
+Greg Garcia,2019,San Diego Padres,311,52,77,4,31,53,83,.248,.364,.354,.718,hitter
+Javy Guerra,2019,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Austin Hedges,2019,San Diego Padres,312,28,55,11,36,27,109,.176,.252,.311,.563,hitter
+Eric Hosmer,2019,San Diego Padres,619,72,164,22,99,40,163,.265,.310,.425,.735,hitter
+Travis Jankowski,2019,San Diego Padres,22,4,4,0,0,2,4,.182,.250,.182,.432,hitter
+Ian Kinsler,2019,San Diego Padres,258,28,56,9,22,19,54,.217,.278,.368,.646,hitter
+Dinelson Lamet,2019,San Diego Padres,21,1,3,0,0,0,11,.143,.143,.143,.286,hitter
+Eric Lauer,2019,San Diego Padres,40,1,4,0,0,1,23,.100,.122,.150,.272,hitter
+Aaron Loup,2019,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Joey Lucchesi,2019,San Diego Padres,48,0,3,0,1,1,36,.063,.082,.063,.145,hitter
+Manny Machado,2019,San Diego Padres,587,81,150,32,85,65,128,.256,.334,.462,.796,hitter
+Nick Margevicius,2019,San Diego Padres,15,1,3,0,0,0,7,.200,.200,.200,.400,hitter
+Manuel Margot,2019,San Diego Padres,398,59,93,12,37,38,88,.234,.304,.387,.691,hitter
+Nick Martini,2019,Oakland Athletics,11,1,1,1,2,2,5,.091,.231,.364,.595,hitter
+Phil Maton,2019,San Diego Padres,4,0,1,0,1,0,2,.250,.250,.250,.500,hitter
+Francisco Mejía,2019,San Diego Padres,226,27,60,8,22,13,56,.265,.316,.438,.754,hitter
+Seth Mejias-Brean,2019,San Diego Padres,30,3,7,2,5,3,9,.233,.303,.500,.803,hitter
+Adrian Morejon,2019,San Diego Padres,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Andrés Muñoz,2019,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Wil Myers,2019,San Diego Padres,435,58,104,18,53,51,168,.239,.321,.418,.739,hitter
+Josh Naylor,2019,San Diego Padres,253,29,63,8,32,25,64,.249,.315,.403,.718,hitter
+Chris Paddack,2019,San Diego Padres,42,3,5,0,2,0,19,.119,.119,.119,.238,hitter
+Luis Perdomo,2019,San Diego Padres,7,0,1,0,1,0,2,.143,.143,.143,.286,hitter
+José Pirela,2019,San Diego Padres,5,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Cal Quantrill,2019,San Diego Padres,25,1,2,0,1,1,6,.080,.115,.080,.195,hitter
+Hunter Renfroe,2019,San Diego Padres,440,64,95,33,64,46,154,.216,.289,.489,.778,hitter
+Franmil Reyes,2019,San Diego Padres,321,43,82,27,46,29,93,.255,.314,.536,.850,hitter
+Gerardo Reyes,2019,San Diego Padres,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Garrett Richards,2019,San Diego Padres,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Craig Stammen,2019,San Diego Padres,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Robert Stock,2019,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Matt Strahm,2019,San Diego Padres,21,1,6,0,1,2,12,.286,.348,.381,.729,hitter
+Fernando Tatis Jr.,2019,San Diego Padres,334,61,106,22,53,30,110,.317,.379,.590,.969,hitter
+Luis Torrens,2019,San Diego Padres,14,2,3,0,0,2,6,.214,.313,.286,.599,hitter
+Luis Urías,2019,San Diego Padres,215,27,48,4,24,25,56,.223,.329,.326,.655,hitter
+Adam Warren,2019,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brad Wieck,2019,San Diego Padres,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Trey Wingenter,2019,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Matt Wisler,2019,San Diego Padres,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Eric Yardley,2019,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kirby Yates,2019,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Austin Adams,2019,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+R.J. Alaniz,2019,Cincinnati Reds,1,0,1,0,1,0,0,1.000,1.000,1.000,2.000,hitter
+Dan Altavilla,2019,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Shawn Armstrong,2019,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Anthony Bass,2019,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tim Beckham,2019,Seattle Mariners,304,39,72,15,47,21,102,.237,.293,.461,.754,hitter
+Jesse Biddle,2019,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Braden Bishop,2019,Seattle Mariners,56,3,6,0,4,3,21,.107,.153,.107,.260,hitter
+Chasen Bradford,2019,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brandon Brennan,2019,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Keon Broxton,2019,New York Mets,49,5,7,0,2,4,22,.143,.208,.163,.371,hitter
+Jay Bruce,2019,Seattle Mariners,165,27,35,14,28,16,53,.212,.283,.533,.816,hitter
+Matt Carasiti,2019,Seattle Mariners,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ryan Court,2019,Seattle Mariners,24,1,5,1,5,1,11,.208,.240,.375,.615,hitter
+J.P. Crawford,2019,Seattle Mariners,345,43,78,7,46,43,83,.226,.313,.371,.684,hitter
+Justin Dunn,2019,Seattle Mariners,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Roenis Elías,2019,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Edwin Encarnación,2019,Seattle Mariners,241,48,58,21,49,41,55,.241,.356,.531,.887,hitter
+Matt Festa,2019,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jake Fraley,2019,Seattle Mariners,40,3,6,0,1,0,14,.150,.171,.200,.371,hitter
+David Freitas,2019,Seattle Mariners,2,1,0,0,1,1,0,.000,.250,.000,.250,hitter
+Cory Gearrin,2019,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Marco Gonzales,2019,Seattle Mariners,5,1,1,0,0,0,4,.200,.200,.400,.600,hitter
+Zac Grotz,2019,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Taylor Guilbeau,2019,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mitch Haniger,2019,Seattle Mariners,246,46,54,15,32,30,81,.220,.314,.463,.777,hitter
+Ryon Healy,2019,Seattle Mariners,169,24,40,7,26,13,40,.237,.289,.456,.745,hitter
+Félix Hernández,2019,Seattle Mariners,3,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Yusei Kikuchi,2019,Seattle Mariners,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Wade LeBlanc,2019,Seattle Mariners,0,0,0,0,0,1,0,.000,1.000,.000,1.000,hitter
+Mike Leake,2019,Seattle Mariners,1,0,0,0,0,1,0,.000,.500,.000,.500,hitter
+Kyle Lewis,2019,Seattle Mariners,71,10,19,6,13,3,29,.268,.293,.592,.885,hitter
+Shed Long Jr.,2019,Seattle Mariners,152,21,40,5,15,16,40,.263,.333,.454,.787,hitter
+Tim Lopes,2019,Seattle Mariners,111,11,30,1,12,15,29,.270,.359,.360,.719,hitter
+Matt Magill,2019,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Parker Markel,2019,Pittsburgh Pirates,3,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Reggie McClain,2019,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tommy Milone,2019,Seattle Mariners,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Dylan Moore,2019,Seattle Mariners,247,31,51,9,28,25,93,.206,.302,.389,.691,hitter
+Tom Murphy,2019,Seattle Mariners,260,32,71,18,40,19,87,.273,.324,.535,.859,hitter
+Omar Narváez,2019,Seattle Mariners,428,63,119,22,55,47,92,.278,.353,.460,.813,hitter
+Kristopher Negrón,2019,Seattle Mariners,23,3,5,0,1,2,9,.217,.280,.217,.497,hitter
+Austin Nola,2019,Seattle Mariners,238,37,64,10,31,23,63,.269,.342,.454,.796,hitter
+Zac Rosscup,2019,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Domingo Santana,2019,Seattle Mariners,451,63,114,21,69,50,164,.253,.329,.441,.770,hitter
+Tayler Scott,2019,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kyle Seager,2019,Seattle Mariners,393,55,94,23,63,44,86,.239,.321,.468,.789,hitter
+Justus Sheffield,2019,Seattle Mariners,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Mallex Smith,2019,Seattle Mariners,510,70,116,6,37,42,141,.227,.300,.335,.635,hitter
+Dee Strange-Gordon,2019,Seattle Mariners,393,36,108,3,34,18,61,.275,.304,.359,.663,hitter
+Hunter Strickland,2019,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ichiro Suzuki,2019,Seattle Mariners,5,0,0,0,0,1,1,.000,.167,.000,.167,hitter
+Erik Swanson,2019,Seattle Mariners,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Anthony Swarzak,2019,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Sam Tuivailala,2019,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Daniel Vogelbach,2019,Seattle Mariners,462,73,96,30,76,92,149,.208,.341,.439,.780,hitter
+Donovan Walton,2019,Seattle Mariners,16,2,3,0,2,3,5,.188,.316,.188,.504,hitter
+Mac Williamson,2019,San Francisco Giants,51,3,6,1,7,5,18,.118,.211,.196,.407,hitter
+Matt Wisler,2019,San Diego Padres,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Fernando Abad,2019,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Cristhian Adames,2019,San Francisco Giants,22,1,7,0,2,2,8,.318,.375,.364,.739,hitter
+Aaron Altherr,2019,Philadelphia Phillies,29,2,1,0,1,1,9,.034,.067,.069,.136,hitter
+Shaun Anderson,2019,San Francisco Giants,25,0,2,0,0,0,19,.080,.115,.120,.235,hitter
+Tyler Austin,2019,Minnesota Twins,4,1,1,0,0,1,3,.250,.400,.500,.900,hitter
+Abiatal Avelino,2019,San Francisco Giants,7,0,2,0,1,1,3,.286,.375,.286,.661,hitter
+Kyle Barraclough,2019,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tyler Beede,2019,San Francisco Giants,38,2,4,0,1,3,23,.105,.171,.105,.276,hitter
+Brandon Belt,2019,San Francisco Giants,526,76,123,17,57,83,127,.234,.339,.403,.742,hitter
+Travis Bergen,2019,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ty Blach,2019,San Francisco Giants,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Ray Black,2019,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Madison Bumgarner,2019,San Francisco Giants,63,4,8,2,4,9,40,.127,.236,.222,.458,hitter
+Sam Coonrod,2019,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brandon Crawford,2019,San Francisco Giants,500,58,114,11,59,53,117,.228,.304,.350,.654,hitter
+Johnny Cueto,2019,San Francisco Giants,4,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Jaylin Davis,2019,San Francisco Giants,42,2,7,1,3,3,11,.167,.255,.238,.493,hitter
+Alex Dickerson,2019,San Diego Padres,19,1,3,0,2,0,7,.158,.158,.158,.316,hitter
+Mauricio Dubón,2019,Milwaukee Brewers,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Steven Duggar,2019,San Francisco Giants,261,26,61,4,28,16,78,.234,.278,.341,.619,hitter
+Sam Dyson,2019,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Enderson Franco,2019,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Aramis Garcia,2019,San Francisco Giants,42,5,6,2,5,4,21,.143,.217,.310,.527,hitter
+Scooter Gennett,2019,Cincinnati Reds,69,4,15,0,5,1,20,.217,.236,.261,.497,hitter
+Mike Gerber,2019,San Francisco Giants,24,0,1,0,0,2,15,.042,.115,.083,.198,hitter
+Trevor Gott,2019,San Francisco Giants,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Zach Green,2019,San Francisco Giants,14,1,2,0,1,2,6,.143,.250,.214,.464,hitter
+Jandel Gustave,2019,San Francisco Giants,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Derek Holland,2019,San Francisco Giants,12,0,1,0,0,0,8,.083,.083,.083,.166,hitter
+Williams Jerez,2019,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Connor Joe,2019,San Francisco Giants,15,1,1,0,0,1,5,.067,.125,.067,.192,hitter
+Corban Joseph,2019,Oakland Athletics,37,4,7,1,5,2,5,.189,.225,.324,.549,hitter
+Erik Kratz,2019,San Francisco Giants,32,1,4,1,3,2,6,.125,.222,.281,.503,hitter
+Evan Longoria,2019,San Francisco Giants,453,59,115,20,69,43,112,.254,.325,.437,.762,hitter
+Mark Melancon,2019,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Conner Menez,2019,San Francisco Giants,3,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Reyes Moronta,2019,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Joe Panik,2019,San Francisco Giants,344,33,81,3,27,36,38,.235,.310,.317,.627,hitter
+Gerardo Parra,2019,San Francisco Giants,86,8,17,1,6,8,18,.198,.278,.267,.545,hitter
+Wandy Peralta,2019,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kevin Pillar,2019,Toronto Blue Jays,16,1,1,0,1,0,3,.063,.059,.063,.122,hitter
+Drew Pomeranz,2019,San Francisco Giants,17,0,0,0,0,0,13,.000,.000,.000,.000,hitter
+Buster Posey,2019,San Francisco Giants,405,43,104,7,38,34,71,.257,.320,.368,.688,hitter
+Michael Reed,2019,San Francisco Giants,8,0,0,0,0,0,6,.000,.000,.000,.000,hitter
+Joey Rickard,2019,Baltimore Orioles,118,10,24,2,6,14,33,.203,.304,.347,.651,hitter
+Dereck Rodríguez,2019,San Francisco Giants,29,1,5,0,0,0,17,.172,.172,.172,.344,hitter
+Tyler Rogers,2019,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jeff Samardzija,2019,San Francisco Giants,50,1,6,0,1,0,30,.120,.120,.160,.280,hitter
+Pablo Sandoval,2019,San Francisco Giants,272,42,73,14,41,18,67,.268,.313,.507,.820,hitter
+Sam Selman,2019,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chris Shaw,2019,San Francisco Giants,18,0,1,0,0,2,8,.056,.150,.056,.206,hitter
+Austin Slater,2019,San Francisco Giants,168,20,40,5,21,22,59,.238,.333,.417,.750,hitter
+Burch Smith,2019,Milwaukee Brewers,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Will Smith,2019,San Francisco Giants,1,0,1,0,2,0,0,1.000,1.000,1.000,2.000,hitter
+Donovan Solano,2019,San Francisco Giants,215,27,71,4,23,10,49,.330,.360,.456,.816,hitter
+Yangervis Solarte,2019,San Francisco Giants,73,9,15,1,7,4,16,.205,.247,.315,.562,hitter
+Andrew Suárez,2019,San Francisco Giants,3,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Pat Venditte,2019,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Nick Vincent,2019,San Francisco Giants,3,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Stephen Vogt,2019,San Francisco Giants,255,30,67,10,40,20,66,.263,.314,.490,.804,hitter
+Tony Watson,2019,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Logan Webb,2019,San Francisco Giants,9,0,1,0,0,1,2,.111,.200,.111,.311,hitter
+Mac Williamson,2019,San Francisco Giants,51,3,6,1,7,5,18,.118,.211,.196,.407,hitter
+Mike Yastrzemski,2019,San Francisco Giants,371,64,101,21,55,32,107,.272,.334,.518,.852,hitter
+Randy Arozarena,2019,St. Louis Cardinals,20,4,6,1,2,2,4,.300,.391,.500,.891,hitter
+Harrison Bader,2019,St. Louis Cardinals,347,54,71,12,39,46,117,.205,.314,.366,.680,hitter
+John Brebbia,2019,St. Louis Cardinals,1,1,1,0,0,0,0,1.000,1.000,1.000,2.000,hitter
+Génesis Cabrera,2019,St. Louis Cardinals,4,0,0,0,0,0,4,.000,.000,.000,.000,hitter
+Matt Carpenter,2019,St. Louis Cardinals,416,59,94,15,46,63,129,.226,.334,.392,.726,hitter
+Paul DeJong,2019,St. Louis Cardinals,583,97,136,30,78,62,149,.233,.318,.444,.762,hitter
+Tommy Edman,2019,St. Louis Cardinals,326,59,99,11,36,16,61,.304,.350,.500,.850,hitter
+Junior Fernández,2019,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jack Flaherty,2019,St. Louis Cardinals,54,4,10,0,4,2,17,.185,.211,.241,.452,hitter
+Dexter Fowler,2019,St. Louis Cardinals,487,69,116,19,67,74,142,.238,.346,.409,.755,hitter
+Giovanny Gallegos,2019,St. Louis Cardinals,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+John Gant,2019,St. Louis Cardinals,3,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Paul Goldschmidt,2019,St. Louis Cardinals,597,97,155,34,97,78,166,.260,.346,.476,.822,hitter
+Luke Gregerson,2019,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jedd Gyorko,2019,St. Louis Cardinals,56,5,11,2,7,6,14,.196,.274,.304,.578,hitter
+Ryan Helsley,2019,St. Louis Cardinals,3,0,1,0,0,0,2,.333,.333,.333,.666,hitter
+Jordan Hicks,2019,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Dakota Hudson,2019,St. Louis Cardinals,51,1,4,0,2,0,24,.078,.096,.078,.174,hitter
+Joe Hudson,2019,St. Louis Cardinals,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Andrew Knizner,2019,St. Louis Cardinals,53,7,12,2,7,4,14,.226,.293,.377,.670,hitter
+Dominic Leone,2019,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Carlos Martinez,2019,St. Louis Cardinals,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+José A. Martínez,2019,St. Louis Cardinals,334,45,90,10,42,35,82,.269,.340,.410,.750,hitter
+Mike Mayers,2019,St. Louis Cardinals,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Adalberto Mejía,2019,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Miles Mikolas,2019,St. Louis Cardinals,59,1,8,0,2,0,27,.136,.136,.153,.289,hitter
+Andrew Miller,2019,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Yadier Molina,2019,St. Louis Cardinals,419,45,113,10,57,23,58,.270,.312,.399,.711,hitter
+Yairo Muñoz,2019,St. Louis Cardinals,172,20,46,2,13,7,37,.267,.298,.355,.653,hitter
+Tyler O'Neill,2019,St. Louis Cardinals,141,18,37,5,16,10,53,.262,.311,.411,.722,hitter
+Marcell Ozuna,2019,St. Louis Cardinals,485,80,117,29,89,62,114,.241,.328,.472,.800,hitter
+Daniel Ponce de Leon,2019,St. Louis Cardinals,9,0,0,0,0,1,4,.000,.100,.000,.100,hitter
+Rangel Ravelo,2019,St. Louis Cardinals,39,4,8,2,7,3,12,.205,.256,.410,.666,hitter
+Alex Reyes,2019,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Drew Robinson,2019,St. Louis Cardinals,7,1,1,0,0,0,3,.143,.143,.143,.286,hitter
+Chasen Shreve,2019,St. Louis Cardinals,0,0,0,0,0,1,0,.000,1.000,.000,1.000,hitter
+Edmundo Sosa,2019,St. Louis Cardinals,8,2,2,0,0,1,2,.250,.400,.250,.650,hitter
+Lane Thomas,2019,St. Louis Cardinals,38,6,12,4,12,4,8,.316,.409,.684,1.093,hitter
+Michael Wacha,2019,St. Louis Cardinals,36,3,6,0,3,0,21,.167,.167,.194,.361,hitter
+Adam Wainwright,2019,St. Louis Cardinals,50,6,8,0,2,2,20,.160,.189,.220,.409,hitter
+Tyler Webb,2019,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Matt Wieters,2019,St. Louis Cardinals,168,15,36,11,27,12,47,.214,.268,.435,.703,hitter
+Kolten Wong,2019,St. Louis Cardinals,478,61,136,11,59,47,83,.285,.361,.423,.784,hitter
+Willy Adames,2019,Tampa Bay Rays,531,69,135,20,52,46,153,.254,.317,.418,.735,hitter
+Jesús Aguilar,2019,Milwaukee Brewers,222,26,50,8,34,31,59,.225,.320,.374,.694,hitter
+José Alvarado,2019,Tampa Bay Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Nick Anderson,2019,Miami Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Christian Arroyo,2019,Tampa Bay Rays,50,8,11,2,7,5,18,.220,.304,.380,.684,hitter
+Jalen Beeks,2019,Tampa Bay Rays,3,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Anthony Bemboom,2019,Tampa Bay Rays,5,0,2,0,1,0,2,.400,.400,.600,1.000,hitter
+Mike Brosseau,2019,Tampa Bay Rays,132,17,36,6,16,7,39,.273,.319,.462,.781,hitter
+Diego Castillo,2019,Tampa Bay Rays,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Yonny Chirinos,2019,Tampa Bay Rays,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Ji Man Choi,2019,Tampa Bay Rays,410,54,107,19,63,64,108,.261,.363,.459,.822,hitter
+Nick Ciuffo,2019,Tampa Bay Rays,6,0,1,0,0,0,3,.167,.167,.167,.334,hitter
+Johnny Davis,2019,Tampa Bay Rays,4,5,1,0,0,0,2,.250,.250,.750,1.000,hitter
+José De León,2019,Tampa Bay Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Yandy Díaz,2019,Tampa Bay Rays,307,53,82,14,38,35,61,.267,.340,.476,.816,hitter
+Oliver Drake,2019,Tampa Bay Rays,1,0,1,0,1,0,0,1.000,1.000,1.000,2.000,hitter
+Matt Duffy,2019,Tampa Bay Rays,147,12,37,1,12,19,29,.252,.343,.327,.670,hitter
+Pete Fairbanks,2019,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jake Faria,2019,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Wilmer Font,2019,Tampa Bay Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Avisaíl García,2019,Tampa Bay Rays,489,61,138,20,72,31,125,.282,.332,.464,.796,hitter
+Tyler Glasnow,2019,Tampa Bay Rays,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Guillermo Heredia,2019,Tampa Bay Rays,204,31,46,5,20,18,60,.225,.306,.363,.669,hitter
+Kevin Kiermaier,2019,Tampa Bay Rays,447,60,102,14,55,26,104,.228,.278,.398,.676,hitter
+Andrew Kittredge,2019,Tampa Bay Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Adam Kolarek,2019,Tampa Bay Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Erik Kratz,2019,San Francisco Giants,32,1,4,1,3,2,6,.125,.222,.281,.503,hitter
+Brandon Lowe,2019,Tampa Bay Rays,296,42,80,17,51,25,113,.270,.336,.514,.850,hitter
+Nathaniel Lowe,2019,Tampa Bay Rays,152,24,40,7,19,13,50,.263,.325,.454,.779,hitter
+Brendan McKay,2019,Tampa Bay Rays,10,2,2,1,1,1,2,.200,.273,.500,.773,hitter
+Austin Meadows,2019,Tampa Bay Rays,530,83,154,33,89,54,131,.291,.364,.558,.922,hitter
+Charlie Morton,2019,Tampa Bay Rays,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Emilio Pagán,2019,Tampa Bay Rays,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Michael Pérez,2019,Tampa Bay Rays,46,6,10,0,2,8,19,.217,.345,.326,.671,hitter
+Tommy Pham,2019,Tampa Bay Rays,567,77,155,21,68,81,123,.273,.369,.450,.819,hitter
+Colin Poche,2019,Tampa Bay Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Austin Pruitt,2019,Tampa Bay Rays,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Trevor Richards,2019,Miami Marlins,30,2,3,0,0,2,18,.100,.156,.100,.256,hitter
+Daniel Robertson,2019,Tampa Bay Rays,207,23,44,2,19,24,59,.213,.312,.295,.607,hitter
+Chaz Roe,2019,Tampa Bay Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Casey Sadler,2019,Los Angeles Dodgers,3,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Blake Snell,2019,Tampa Bay Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Eric Sogard,2019,Toronto Blue Jays,287,45,86,10,30,29,47,.300,.363,.477,.840,hitter
+Ryne Stanek,2019,Tampa Bay Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Cole Sulser,2019,Tampa Bay Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Andrew Velazquez,2019,Tampa Bay Rays,12,2,1,0,0,0,6,.083,.083,.167,.250,hitter
+Joey Wendle,2019,Tampa Bay Rays,238,32,55,3,19,14,47,.231,.293,.340,.633,hitter
+Kean Wong,2019,Tampa Bay Rays,14,1,3,0,0,0,5,.214,.214,.214,.428,hitter
+Hunter Wood,2019,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ryan Yarbrough,2019,Tampa Bay Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mike Zunino,2019,Tampa Bay Rays,266,30,44,9,32,20,98,.165,.232,.312,.544,hitter
+Travis d'Arnaud,2019,New York Mets,23,2,2,0,2,2,5,.087,.160,.087,.247,hitter
+Kolby Allard,2019,Texas Rangers,2,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Elvis Andrus,2019,Texas Rangers,600,81,165,12,72,34,96,.275,.313,.393,.706,hitter
+Jesse Biddle,2019,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kyle Bird,2019,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Asdrúbal Cabrera,2019,Texas Rangers,323,45,76,12,51,38,85,.235,.318,.393,.711,hitter
+Willie Calhoun,2019,Texas Rangers,309,51,83,21,48,23,53,.269,.323,.524,.847,hitter
+Jesse Chavez,2019,Texas Rangers,2,0,1,0,0,0,1,.500,.500,.500,1.000,hitter
+Shin-Soo Choo,2019,Texas Rangers,563,93,149,24,61,78,165,.265,.371,.455,.826,hitter
+Emmanuel Clase,2019,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Delino DeShields,2019,Texas Rangers,357,42,89,4,32,38,100,.249,.325,.347,.672,hitter
+Kyle Dowdy,2019,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Pete Fairbanks,2019,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tim Federowicz,2019,Texas Rangers,75,6,12,4,7,5,31,.160,.213,.347,.560,hitter
+Logan Forsythe,2019,Texas Rangers,317,38,72,7,39,44,100,.227,.325,.353,.678,hitter
+Joey Gallo,2019,Texas Rangers,241,54,61,22,49,52,114,.253,.389,.598,.987,hitter
+Taylor Guerrieri,2019,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ronald Guzmán,2019,Texas Rangers,256,34,56,10,36,32,87,.219,.308,.414,.722,hitter
+Scott Heineman,2019,Texas Rangers,75,8,16,2,7,9,20,.213,.306,.373,.679,hitter
+Ariel Jurado,2019,Texas Rangers,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Shawn Kelley,2019,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Isiah Kiner-Falefa,2019,Texas Rangers,202,23,48,1,21,14,49,.238,.299,.322,.621,hitter
+José Leclerc,2019,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Lance Lynn,2019,Texas Rangers,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Brett Martin,2019,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chris Martin,2019,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jeff Mathis,2019,Texas Rangers,228,17,36,2,12,15,87,.158,.209,.224,.433,hitter
+Nomar Mazara,2019,Texas Rangers,429,69,115,19,66,28,108,.268,.318,.469,.787,hitter
+Shelby Miller,2019,Texas Rangers,1,0,0,0,0,2,1,.000,.667,.000,.667,hitter
+Mike Minor,2019,Texas Rangers,9,0,0,0,0,0,6,.000,.000,.000,.000,hitter
+Rafael Montero,2019,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Rougned Odor,2019,Texas Rangers,522,77,107,30,93,52,178,.205,.283,.439,.722,hitter
+Pedro Payano,2019,Texas Rangers,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Hunter Pence,2019,Texas Rangers,286,53,85,18,59,26,69,.297,.358,.552,.910,hitter
+Adrian Sampson,2019,Texas Rangers,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Danny Santana,2019,Texas Rangers,474,81,134,28,81,25,151,.283,.324,.534,.858,hitter
+Drew Smyly,2019,Texas Rangers,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Nick Solak,2019,Texas Rangers,116,19,34,5,17,15,29,.293,.393,.491,.884,hitter
+Jeffrey Springs,2019,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jose Trevino,2019,Texas Rangers,120,18,31,2,13,3,27,.258,.272,.383,.655,hitter
+Patrick Wisdom,2019,Texas Rangers,26,1,4,0,1,1,15,.154,.185,.192,.377,hitter
+Jason Adam,2019,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Anthony Alford,2019,Toronto Blue Jays,28,3,5,1,1,1,11,.179,.233,.286,.519,hitter
+Joe Biagini,2019,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Bo Bichette,2019,Toronto Blue Jays,196,32,61,11,21,14,50,.311,.358,.571,.929,hitter
+Cavan Biggio,2019,Toronto Blue Jays,354,66,83,16,48,71,123,.234,.364,.429,.793,hitter
+Buddy Boshers,2019,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Sócrates Brito,2019,Toronto Blue Jays,39,5,3,0,2,4,17,.077,.163,.128,.291,hitter
+Jimmy Cordero,2019,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jonathan Davis,2019,Toronto Blue Jays,83,8,15,2,6,5,24,.181,.266,.265,.531,hitter
+Brandon Drury,2019,Toronto Blue Jays,418,43,91,15,41,25,113,.218,.262,.380,.642,hitter
+Derek Fisher,2019,Houston Astros,53,9,12,1,5,7,14,.226,.317,.358,.675,hitter
+Wilmer Font,2019,Tampa Bay Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Freddy Galvis,2019,Toronto Blue Jays,450,55,120,18,54,21,112,.267,.299,.444,.743,hitter
+Sam Gaviglio,2019,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ken Giles,2019,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Zack Godley,2019,Arizona Diamondbacks,18,3,3,0,2,3,9,.167,.286,.167,.453,hitter
+Randal Grichuk,2019,Toronto Blue Jays,586,75,136,31,80,35,163,.232,.280,.457,.737,hitter
+Javy Guerra,2019,Washington Nationals,3,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Vladimir Guerrero Jr.,2019,Toronto Blue Jays,464,52,126,15,69,46,91,.272,.339,.433,.772,hitter
+Lourdes Gurriel Jr.,2019,Toronto Blue Jays,314,52,87,20,50,20,86,.277,.327,.541,.868,hitter
+Alen Hanson,2019,Toronto Blue Jays,43,5,7,0,4,3,17,.163,.229,.163,.392,hitter
+Teoscar Hernández,2019,Toronto Blue Jays,417,58,96,26,65,45,153,.230,.306,.472,.778,hitter
+Daniel Hudson,2019,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Edwin Jackson,2019,Toronto Blue Jays,3,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Danny Jansen,2019,Toronto Blue Jays,347,41,72,13,43,31,79,.207,.279,.360,.639,hitter
+Nick Kingham,2019,Pittsburgh Pirates,6,0,0,0,0,2,4,.000,.250,.000,.250,hitter
+Derek Law,2019,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Elvis Luciano,2019,Toronto Blue Jays,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Luke Maile,2019,Toronto Blue Jays,119,9,18,2,9,8,33,.151,.205,.235,.440,hitter
+Tim Mayza,2019,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Reese McGuire,2019,Toronto Blue Jays,97,14,29,5,11,7,18,.299,.346,.526,.872,hitter
+Billy McKinney,2019,Toronto Blue Jays,251,37,54,12,28,19,73,.215,.274,.422,.696,hitter
+Thomas Pannone,2019,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+David Phelps,2019,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kevin Pillar,2019,Toronto Blue Jays,16,1,1,0,1,0,3,.063,.059,.063,.122,hitter
+Neil Ramírez,2019,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Sean Reid-Foley,2019,Toronto Blue Jays,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Jordan Romano,2019,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Zac Rosscup,2019,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Aaron Sanchez,2019,Toronto Blue Jays,2,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Justin Shafer,2019,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Justin Smoak,2019,Toronto Blue Jays,414,54,86,22,61,79,106,.208,.342,.406,.748,hitter
+Eric Sogard,2019,Toronto Blue Jays,287,45,86,10,30,29,47,.300,.363,.477,.840,hitter
+Brock Stewart,2019,Los Angeles Dodgers,3,1,1,0,0,0,0,.333,.333,.667,1.000,hitter
+Marcus Stroman,2019,Toronto Blue Jays,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Beau Taylor,2019,Toronto Blue Jays,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Rowdy Tellez,2019,Toronto Blue Jays,370,49,84,21,54,29,116,.227,.293,.449,.742,hitter
+Ryan Tepera,2019,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Trent Thornton,2019,Toronto Blue Jays,3,2,2,0,0,0,0,.667,.667,.667,1.334,hitter
+Richard Urena,2019,Toronto Blue Jays,74,4,18,0,4,2,23,.243,.273,.324,.597,hitter
+Breyvic Valera,2019,New York Yankees,32,5,7,0,3,4,5,.219,.324,.313,.637,hitter
+Jacob Waguespack,2019,Toronto Blue Jays,2,0,0,0,0,1,2,.000,.333,.000,.333,hitter
+T.J. Zeuch,2019,Toronto Blue Jays,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Austin Adams,2019,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ehire Adrianza,2019,Minnesota Twins,202,34,55,5,22,20,40,.272,.349,.416,.765,hitter
+Luis Arraez,2019,Minnesota Twins,326,54,109,4,28,36,29,.334,.399,.439,.838,hitter
+Willians Astudillo,2019,Minnesota Twins,190,28,51,4,21,5,8,.268,.299,.379,.678,hitter
+Tyler Austin,2019,Minnesota Twins,4,1,1,0,0,1,3,.250,.400,.500,.900,hitter
+José Berríos,2019,Minnesota Twins,4,1,0,0,0,1,4,.000,.200,.000,.200,hitter
+Byron Buxton,2019,Minnesota Twins,271,48,71,10,46,19,68,.262,.314,.513,.827,hitter
+Jason Castro,2019,Minnesota Twins,237,39,55,13,30,33,88,.232,.332,.435,.767,hitter
+Jake Cave,2019,Minnesota Twins,198,28,51,8,25,21,71,.258,.351,.455,.806,hitter
+C.J. Cron,2019,Minnesota Twins,458,51,116,25,78,29,107,.253,.311,.469,.780,hitter
+Nelson Cruz,2019,Minnesota Twins,454,81,141,41,108,56,131,.311,.392,.639,1.031,hitter
+Chase De Jong,2019,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tyler Duffey,2019,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Sam Dyson,2019,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mitch Garver,2019,Minnesota Twins,311,70,85,31,67,41,87,.273,.365,.630,.995,hitter
+Kyle Gibson,2019,Minnesota Twins,1,0,0,0,0,1,1,.000,.500,.000,.500,hitter
+Marwin Gonzalez,2019,Minnesota Twins,425,52,112,15,55,31,98,.264,.322,.414,.736,hitter
+Ryne Harper,2019,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Trevor Hildenberger,2019,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Max Kepler,2019,Minnesota Twins,524,98,132,36,90,60,99,.252,.336,.519,.855,hitter
+Ryan LaMarre,2019,Minnesota Twins,23,3,5,2,3,3,5,.217,.308,.478,.786,hitter
+Zack Littell,2019,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Matt Magill,2019,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Trevor May,2019,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Adalberto Mejía,2019,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ian Miller,2019,Minnesota Twins,17,2,3,0,1,0,3,.176,.176,.235,.411,hitter
+Mike Morin,2019,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jake Odorizzi,2019,Minnesota Twins,2,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Blake Parker,2019,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Martín Pérez,2019,Minnesota Twins,3,1,0,0,0,0,2,.000,.000,.000,.000,hitter
+Michael Pineda,2019,Minnesota Twins,4,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Jorge Polanco,2019,Minnesota Twins,631,107,186,22,79,60,116,.295,.356,.485,.841,hitter
+Sean Poppen,2019,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Taylor Rogers,2019,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Sergio Romo,2019,Miami Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Eddie Rosario,2019,Minnesota Twins,562,91,155,32,109,22,86,.276,.300,.500,.800,hitter
+Miguel Sanó,2019,Minnesota Twins,380,76,94,34,79,55,159,.247,.346,.576,.922,hitter
+Jonathan Schoop,2019,Minnesota Twins,433,61,111,23,59,20,116,.256,.304,.473,.777,hitter
+Cody Stashak,2019,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ronald Torreyes,2019,Minnesota Twins,16,3,3,0,1,0,3,.188,.235,.188,.423,hitter
+Andrew Vasquez,2019,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+LaMonte Wade Jr.,2019,Minnesota Twins,56,10,11,2,5,11,9,.196,.348,.375,.723,hitter
+Aaron Altherr,2019,Philadelphia Phillies,29,2,1,0,1,1,9,.034,.067,.069,.136,hitter
+Jose Alvarez,2019,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Drew Anderson,2019,Philadelphia Phillies,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Víctor Arano,2019,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jake Arrieta,2019,Philadelphia Phillies,45,2,7,0,4,1,19,.156,.174,.178,.352,hitter
+Rob Brantly,2019,Philadelphia Phillies,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Jay Bruce,2019,Seattle Mariners,165,27,35,14,28,16,53,.212,.283,.533,.816,hitter
+Dylan Cozens,2019,Philadelphia Phillies,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Austin Davis,2019,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Enyel De Los Santos,2019,Philadelphia Phillies,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Corey Dickerson,2019,Pittsburgh Pirates,127,20,40,4,25,13,23,.315,.373,.551,.924,hitter
+Seranthony Domínguez,2019,Philadelphia Phillies,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Zach Eflin,2019,Philadelphia Phillies,50,3,8,0,2,0,27,.160,.160,.180,.340,hitter
+Jerad Eickhoff,2019,Philadelphia Phillies,14,0,0,0,0,1,7,.000,.067,.000,.067,hitter
+Maikel Franco,2019,Philadelphia Phillies,389,48,91,17,56,36,61,.234,.297,.409,.706,hitter
+Edgar García,2019,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Phil Gosselin,2019,Philadelphia Phillies,65,5,17,0,7,3,16,.262,.294,.308,.602,hitter
+Deivy Grullón,2019,Philadelphia Phillies,9,0,1,0,1,0,2,.111,.111,.222,.333,hitter
+JD Hammer,2019,Philadelphia Phillies,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Bryce Harper,2019,Philadelphia Phillies,573,98,149,35,114,99,178,.260,.372,.510,.882,hitter
+Adam Haseley,2019,Philadelphia Phillies,222,30,59,5,26,14,60,.266,.324,.396,.720,hitter
+César Hernández,2019,Philadelphia Phillies,612,77,171,14,71,45,100,.279,.333,.408,.741,hitter
+Odúbel Herrera,2019,Philadelphia Phillies,126,12,28,1,16,11,33,.222,.288,.341,.629,hitter
+Rhys Hoskins,2019,Philadelphia Phillies,570,86,129,29,85,116,173,.226,.364,.454,.818,hitter
+Jared Hughes,2019,Cincinnati Reds,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Tommy Hunter,2019,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Cole Irvin,2019,Philadelphia Phillies,6,1,1,0,0,2,2,.167,.375,.167,.542,hitter
+Scott Kingery,2019,Philadelphia Phillies,458,64,118,19,55,34,147,.258,.315,.474,.789,hitter
+Andrew Knapp,2019,Philadelphia Phillies,136,12,29,2,8,18,51,.213,.318,.324,.642,hitter
+Andrew McCutchen,2019,Philadelphia Phillies,219,45,56,10,29,43,55,.256,.378,.457,.835,hitter
+Brad Miller,2019,Cleveland Indians,36,4,9,1,4,4,10,.250,.325,.417,.742,hitter
+Adam Morgan,2019,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mike Morin,2019,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Logan Morrison,2019,Philadelphia Phillies,35,5,7,2,3,3,10,.200,.263,.400,.663,hitter
+Héctor Neris,2019,Philadelphia Phillies,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Pat Neshek,2019,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Juan Nicasio,2019,Philadelphia Phillies,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Aaron Nola,2019,Philadelphia Phillies,59,6,7,0,2,6,35,.119,.200,.153,.353,hitter
+Blake Parker,2019,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+José Pirela,2019,San Diego Padres,5,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Nick Pivetta,2019,Philadelphia Phillies,25,1,2,0,0,1,19,.080,.115,.080,.195,hitter
+Roman Quinn,2019,Philadelphia Phillies,108,18,23,4,11,12,34,.213,.298,.370,.668,hitter
+Edubray Ramos,2019,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+J.T. Realmuto,2019,Philadelphia Phillies,538,92,148,25,83,41,123,.275,.328,.493,.821,hitter
+Yacksel Ríos,2019,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+David Robertson,2019,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Sean Rodríguez,2019,Philadelphia Phillies,112,24,25,4,12,19,41,.223,.348,.375,.723,hitter
+Fernando Salas,2019,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jean Segura,2019,Philadelphia Phillies,576,79,161,12,60,30,73,.280,.323,.420,.743,hitter
+Drew Smyly,2019,Texas Rangers,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Ranger Suárez,2019,Philadelphia Phillies,4,0,1,0,0,0,2,.250,.250,.250,.500,hitter
+Jason Vargas,2019,New York Mets,28,0,2,0,0,0,16,.071,.071,.071,.142,hitter
+Vince Velasquez,2019,Philadelphia Phillies,30,2,7,1,3,2,9,.233,.281,.333,.614,hitter
+Nick Vincent,2019,San Francisco Giants,3,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Mitch Walding,2019,Philadelphia Phillies,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Nick Williams,2019,Philadelphia Phillies,106,9,16,2,5,4,43,.151,.196,.245,.441,hitter
+Ronald Acuña Jr.,2019,Atlanta Braves,626,127,175,41,101,76,188,.280,.365,.518,.883,hitter
+Ozzie Albies,2019,Atlanta Braves,640,102,189,24,86,54,112,.295,.352,.500,.852,hitter
+Jesse Biddle,2019,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jerry Blevins,2019,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Johan Camargo,2019,Atlanta Braves,232,31,54,7,32,15,43,.233,.279,.384,.663,hitter
+Shane Carle,2019,Atlanta Braves,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Francisco Cervelli,2019,Pittsburgh Pirates,109,11,21,1,5,9,31,.193,.279,.248,.527,hitter
+Charlie Culberson,2019,Atlanta Braves,135,14,35,5,20,6,44,.259,.294,.437,.731,hitter
+Grant Dayton,2019,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Josh Donaldson,2019,Atlanta Braves,549,96,142,37,94,100,155,.259,.379,.521,.900,hitter
+Adam Duvall,2019,Atlanta Braves,120,17,32,10,19,7,39,.267,.315,.567,.882,hitter
+Tyler Flowers,2019,Atlanta Braves,271,36,62,11,34,31,105,.229,.319,.413,.732,hitter
+Mike Foltynewicz,2019,Atlanta Braves,35,1,2,0,1,0,19,.057,.057,.057,.114,hitter
+Freddie Freeman,2019,Atlanta Braves,597,113,176,38,121,87,127,.295,.389,.549,.938,hitter
+Max Fried,2019,Atlanta Braves,56,11,11,0,4,5,16,.196,.262,.268,.530,hitter
+Kevin Gausman,2019,Atlanta Braves,27,1,1,0,0,0,18,.037,.037,.037,.074,hitter
+Shane Greene,2019,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Billy Hamilton,2019,Kansas City Royals,275,32,58,0,12,25,74,.211,.275,.269,.544,hitter
+Adeiny Hechavarría,2019,New York Mets,142,20,29,5,18,8,33,.204,.252,.359,.611,hitter
+Ender Inciarte,2019,Atlanta Braves,199,30,49,5,24,26,41,.246,.343,.397,.740,hitter
+Alex Jackson,2019,Atlanta Braves,13,0,0,0,0,1,5,.000,.133,.000,.133,hitter
+Luke Jackson,2019,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Matt Joyce,2019,Atlanta Braves,200,32,59,7,23,38,45,.295,.408,.450,.858,hitter
+Dallas Keuchel,2019,Atlanta Braves,38,0,5,0,2,1,28,.132,.154,.158,.312,hitter
+Nick Markakis,2019,Atlanta Braves,414,61,118,9,62,47,59,.285,.356,.420,.776,hitter
+Chris Martin,2019,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brian McCann,2019,Atlanta Braves,277,28,69,12,45,31,53,.249,.323,.412,.735,hitter
+Mark Melancon,2019,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+A.J. Minter,2019,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+John Ryan Murphy,2019,Arizona Diamondbacks,62,9,11,4,7,6,28,.177,.250,.419,.669,hitter
+Sean Newcomb,2019,Atlanta Braves,8,0,0,0,0,0,7,.000,.000,.000,.000,hitter
+Darren O'Day,2019,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Rafael Ortega,2019,Atlanta Braves,88,7,18,2,10,8,22,.205,.271,.307,.578,hitter
+Wes Parsons,2019,Atlanta Braves,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Austin Riley,2019,Atlanta Braves,274,41,62,18,49,16,108,.226,.279,.471,.750,hitter
+Chad Sobotka,2019,Atlanta Braves,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Michael Soroka,2019,Atlanta Braves,52,2,4,0,3,2,22,.077,.143,.077,.220,hitter
+Dansby Swanson,2019,Atlanta Braves,483,77,121,17,65,51,124,.251,.325,.422,.747,hitter
+Anthony Swarzak,2019,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Julio Teheran,2019,Atlanta Braves,55,1,6,0,4,0,24,.109,.107,.127,.234,hitter
+Josh Tomlin,2019,Atlanta Braves,6,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Touki Toussaint,2019,Atlanta Braves,9,0,0,0,0,0,7,.000,.000,.000,.000,hitter
+Jonny Venters,2019,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Arodys Vizcaíno,2019,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jeremy Walker,2019,Atlanta Braves,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jacob Webb,2019,Atlanta Braves,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Bryse Wilson,2019,Atlanta Braves,9,0,2,0,0,0,6,.222,.222,.222,.444,hitter
+Dan Winkler,2019,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kyle Wright,2019,Atlanta Braves,6,0,0,0,0,0,4,.000,.000,.000,.000,hitter
+Huascar Ynoa,2019,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+José Abreu,2019,Chicago White Sox,634,85,180,33,123,36,152,.284,.330,.503,.833,hitter
+Yonder Alonso,2019,Chicago White Sox,219,23,39,7,27,29,53,.178,.275,.301,.576,hitter
+Tim Anderson,2019,Chicago White Sox,498,81,167,18,56,15,109,.335,.357,.508,.865,hitter
+Manny Bañuelos,2019,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Aaron Bummer,2019,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Welington Castillo,2019,Chicago White Sox,230,19,48,12,41,16,74,.209,.267,.417,.684,hitter
+Zack Collins,2019,Chicago White Sox,86,10,16,3,12,14,39,.186,.307,.349,.656,hitter
+Alex Colomé,2019,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ryan Cordell,2019,Chicago White Sox,217,22,48,7,24,19,69,.221,.290,.355,.645,hitter
+Jimmy Cordero,2019,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Dylan Covey,2019,Chicago White Sox,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Nicky Delmonico,2019,Chicago White Sox,63,6,13,1,6,4,25,.206,.265,.286,.551,hitter
+Ross Detwiler,2019,Chicago White Sox,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Adam Engel,2019,Chicago White Sox,227,26,55,6,26,14,78,.242,.304,.383,.687,hitter
+Jace Fry,2019,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Carson Fulmer,2019,Chicago White Sox,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Leury García,2019,Chicago White Sox,577,93,161,8,40,21,139,.279,.310,.378,.688,hitter
+Lucas Giolito,2019,Chicago White Sox,4,0,1,0,2,0,3,.250,.250,.250,.500,hitter
+Ryan Goins,2019,Chicago White Sox,144,13,36,2,10,17,44,.250,.333,.347,.680,hitter
+Kelvin Herrera,2019,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jon Jay,2019,Chicago White Sox,165,12,44,0,9,8,30,.267,.311,.315,.626,hitter
+Eloy Jiménez,2019,Chicago White Sox,468,69,125,31,79,30,134,.267,.315,.513,.828,hitter
+Reynaldo López,2019,Chicago White Sox,4,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Evan Marshall,2019,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+James McCann,2019,Chicago White Sox,439,62,120,18,60,30,137,.273,.328,.460,.788,hitter
+Danny Mendick,2019,Chicago White Sox,39,6,12,2,4,1,11,.308,.325,.462,.787,hitter
+Juan Minaya,2019,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Yoán Moncada,2019,Chicago White Sox,511,83,161,25,79,40,154,.315,.367,.548,.915,hitter
+Iván Nova,2019,Chicago White Sox,5,0,0,0,0,0,4,.000,.000,.000,.000,hitter
+Josh Osich,2019,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Daniel Palka,2019,Chicago White Sox,84,4,9,2,4,8,35,.107,.194,.179,.373,hitter
+AJ Reed,2019,Chicago White Sox,44,1,6,1,4,4,21,.136,.204,.205,.409,hitter
+José Rondón,2019,Chicago White Sox,142,10,28,3,9,11,38,.197,.265,.282,.547,hitter
+José Ruiz,2019,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Yolmer Sánchez,2019,Chicago White Sox,496,59,125,2,43,44,117,.252,.318,.321,.639,hitter
+Héctor Santiago,2019,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Matt Skole,2019,Chicago White Sox,72,7,15,0,6,7,31,.208,.275,.236,.511,hitter
+Charles Tilson,2019,Chicago White Sox,144,16,33,1,12,10,38,.229,.293,.285,.578,hitter
+Thyago Vieira,2019,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Seby Zavala,2019,Chicago White Sox,12,1,1,0,0,0,9,.083,.083,.083,.166,hitter
+Sandy Alcantara,2019,Miami Marlins,58,2,5,0,4,1,46,.086,.117,.103,.220,hitter
+Jorge Alfaro,2019,Miami Marlins,431,44,113,18,57,22,154,.262,.312,.425,.737,hitter
+Brian Anderson,2019,Miami Marlins,459,57,120,20,66,44,114,.261,.342,.468,.810,hitter
+Nick Anderson,2019,Miami Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jon Berti,2019,Miami Marlins,256,52,70,6,24,24,73,.273,.348,.406,.754,hitter
+Austin Brice,2019,Miami Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jeff Brigham,2019,Miami Marlins,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Lewis Brinson,2019,Miami Marlins,226,15,39,0,15,13,74,.173,.236,.221,.457,hitter
+Wilkin Castillo,2019,Miami Marlins,7,0,1,0,2,0,3,.143,.143,.286,.429,hitter
+Starlin Castro,2019,Miami Marlins,636,68,172,22,86,28,111,.270,.300,.436,.736,hitter
+Wei-Yin Chen,2019,Miami Marlins,5,0,0,0,0,0,4,.000,.000,.000,.000,hitter
+Adam Conley,2019,Miami Marlins,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Garrett Cooper,2019,Miami Marlins,381,52,107,15,50,33,110,.281,.344,.446,.790,hitter
+Austin Dean,2019,Miami Marlins,178,17,40,6,21,9,47,.225,.261,.404,.665,hitter
+Isan Díaz,2019,Miami Marlins,179,17,31,5,23,19,59,.173,.259,.307,.566,hitter
+Robert Dugger,2019,Miami Marlins,11,0,0,0,0,0,6,.000,.000,.000,.000,hitter
+Zac Gallen,2019,Miami Marlins,10,1,1,0,0,0,5,.100,.100,.100,.200,hitter
+Isaac Galloway,2019,Miami Marlins,54,6,9,0,1,0,17,.167,.167,.185,.352,hitter
+Jarlín García,2019,Miami Marlins,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Curtis Granderson,2019,Miami Marlins,317,44,58,12,34,41,98,.183,.281,.356,.637,hitter
+Tayron Guerrero,2019,Miami Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tyler Heineman,2019,Miami Marlins,11,1,3,1,2,0,4,.273,.273,.636,.909,hitter
+Elieser Hernández,2019,Miami Marlins,19,0,1,0,0,1,10,.053,.100,.053,.153,hitter
+Rosell Herrera,2019,Miami Marlins,105,10,21,2,11,11,27,.200,.288,.314,.602,hitter
+Bryan Holaday,2019,Miami Marlins,115,12,32,4,12,11,21,.278,.344,.435,.779,hitter
+Kyle Keller,2019,Miami Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tyler Kinley,2019,Miami Marlins,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Pablo López,2019,Miami Marlins,35,1,6,0,3,0,19,.171,.171,.229,.400,hitter
+Deven Marrero,2019,Miami Marlins,5,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Brian Moran,2019,Miami Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Hector Noesí,2019,Miami Marlins,4,0,1,0,0,0,3,.250,.250,.250,.500,hitter
+Peter O'Brien,2019,Miami Marlins,42,2,7,1,4,4,19,.167,.255,.262,.517,hitter
+Martín Prado,2019,Miami Marlins,245,26,57,2,15,12,41,.233,.265,.294,.559,hitter
+César Puello,2019,Los Angeles Angels,41,6,16,3,12,3,8,.390,.500,.683,1.183,hitter
+José Quijada,2019,Miami Marlins,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Harold Ramírez,2019,Miami Marlins,421,54,116,11,50,18,91,.276,.312,.416,.728,hitter
+Trevor Richards,2019,Miami Marlins,30,2,3,0,0,2,18,.100,.156,.100,.256,hitter
+JT Riddle,2019,Miami Marlins,132,15,25,6,12,5,42,.189,.230,.371,.601,hitter
+Yadiel Rivera,2019,Miami Marlins,60,8,11,0,3,6,20,.183,.258,.217,.475,hitter
+Miguel Rojas,2019,Miami Marlins,483,52,137,5,46,32,62,.284,.331,.379,.710,hitter
+Sergio Romo,2019,Miami Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Magneuris Sierra,2019,Miami Marlins,40,5,14,0,1,2,7,.350,.381,.425,.806,hitter
+Caleb Smith,2019,Miami Marlins,43,2,10,0,3,0,15,.233,.250,.279,.529,hitter
+Josh D. Smith,2019,Miami Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ryne Stanek,2019,Tampa Bay Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Drew Steckenrider,2019,Miami Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+José Ureña,2019,Miami Marlins,19,1,0,0,0,1,14,.000,.050,.000,.050,hitter
+Neil Walker,2019,Miami Marlins,337,37,88,8,38,42,77,.261,.344,.395,.739,hitter
+Chad Wallach,2019,Miami Marlins,48,4,12,1,3,6,12,.250,.333,.375,.708,hitter
+Jordan Yamamoto,2019,Miami Marlins,21,0,1,0,1,1,9,.048,.091,.048,.139,hitter
+Miguel Andujar,2019,New York Yankees,47,1,6,0,1,1,11,.128,.143,.128,.271,hitter
+Greg Bird,2019,New York Yankees,35,6,6,1,1,6,16,.171,.293,.257,.550,hitter
+Zack Britton,2019,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Luis Cessa,2019,New York Yankees,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Aroldis Chapman,2019,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Nestor Cortes,2019,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Edwin Encarnación,2019,Seattle Mariners,241,48,58,21,49,41,55,.241,.356,.531,.887,hitter
+Thairo Estrada,2019,New York Yankees,64,12,16,3,12,3,15,.250,.294,.438,.732,hitter
+Mike Ford,2019,New York Yankees,143,30,37,12,25,17,28,.259,.350,.559,.909,hitter
+Clint Frazier,2019,New York Yankees,225,31,60,12,38,16,70,.267,.317,.489,.806,hitter
+Brett Gardner,2019,New York Yankees,491,86,123,28,74,52,108,.251,.325,.503,.828,hitter
+Cory Gearrin,2019,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Domingo Germán,2019,New York Yankees,8,0,0,0,0,0,7,.000,.000,.000,.000,hitter
+Chad Green,2019,New York Yankees,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Didi Gregorius,2019,New York Yankees,324,47,77,16,61,17,53,.238,.276,.441,.717,hitter
+J.A. Happ,2019,New York Yankees,3,1,0,0,0,0,0,.000,.000,.000,.000,hitter
+Joe Harvey,2019,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Aaron Hicks,2019,New York Yankees,221,41,52,12,36,31,72,.235,.325,.443,.768,hitter
+Kyle Higashioka,2019,New York Yankees,56,8,12,3,11,0,26,.214,.211,.464,.675,hitter
+Jonathan Holder,2019,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Aaron Judge,2019,New York Yankees,378,75,103,27,55,64,141,.272,.381,.540,.921,hitter
+Tommy Kahnle,2019,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+DJ LeMahieu,2019,New York Yankees,602,109,197,26,102,46,90,.327,.375,.518,.893,hitter
+Tyler Lyons,2019,Pittsburgh Pirates,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Cameron Maybin,2019,New York Yankees,239,48,68,11,32,30,72,.285,.364,.494,.858,hitter
+Kendrys Morales,2019,Oakland Athletics,108,9,22,1,7,14,20,.204,.310,.259,.569,hitter
+Adam Ottavino,2019,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+James Paxton,2019,New York Yankees,5,0,0,0,1,0,5,.000,.000,.000,.000,hitter
+Austin Romine,2019,New York Yankees,228,29,64,8,35,10,50,.281,.310,.439,.749,hitter
+CC Sabathia,2019,New York Yankees,3,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Gary Sánchez,2019,New York Yankees,396,62,92,34,77,40,125,.232,.316,.525,.841,hitter
+Giancarlo Stanton,2019,New York Yankees,59,8,17,3,13,12,24,.288,.403,.492,.895,hitter
+Masahiro Tanaka,2019,New York Yankees,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mike Tauchman,2019,New York Yankees,260,46,72,13,47,34,71,.277,.361,.504,.865,hitter
+Gleyber Torres,2019,New York Yankees,546,96,152,38,90,48,129,.278,.337,.535,.872,hitter
+Troy Tulowitzki,2019,New York Yankees,11,1,2,1,1,2,4,.182,.308,.545,.853,hitter
+Gio Urshela,2019,New York Yankees,442,73,139,21,74,25,87,.314,.355,.534,.889,hitter
+Breyvic Valera,2019,New York Yankees,32,5,7,0,3,4,5,.219,.324,.313,.637,hitter
+Luke Voit,2019,New York Yankees,429,72,113,21,62,71,142,.263,.378,.464,.842,hitter
+Tyler Wade,2019,New York Yankees,94,16,23,2,11,11,28,.245,.330,.362,.692,hitter
+Jesús Aguilar,2019,Milwaukee Brewers,222,26,50,8,34,31,59,.225,.320,.374,.694,hitter
+Matt Albers,2019,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chase Anderson,2019,Milwaukee Brewers,40,1,4,0,1,2,24,.100,.143,.125,.268,hitter
+Orlando Arcia,2019,Milwaukee Brewers,494,51,110,15,59,43,109,.223,.283,.350,.633,hitter
+Tyler Austin,2019,Minnesota Twins,4,1,1,0,0,1,3,.250,.400,.500,.900,hitter
+Jacob Barnes,2019,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ray Black,2019,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ryan Braun,2019,Milwaukee Brewers,459,70,131,22,75,34,105,.285,.343,.505,.848,hitter
+Corbin Burnes,2019,Milwaukee Brewers,7,0,2,0,0,0,2,.286,.286,.286,.572,hitter
+Lorenzo Cain,2019,Milwaukee Brewers,562,75,146,11,48,50,106,.260,.325,.372,.697,hitter
+Jhoulys Chacín,2019,Milwaukee Brewers,24,2,3,1,1,1,10,.125,.160,.250,.410,hitter
+Alex Claudio,2019,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Zach Davies,2019,Milwaukee Brewers,52,3,8,0,3,1,25,.154,.170,.192,.362,hitter
+Mauricio Dubón,2019,Milwaukee Brewers,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Jake Faria,2019,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+David Freitas,2019,Seattle Mariners,2,1,0,0,1,1,0,.000,.250,.000,.250,hitter
+Ben Gamel,2019,Milwaukee Brewers,311,47,77,7,33,40,104,.248,.337,.373,.710,hitter
+Gio González,2019,Milwaukee Brewers,25,1,1,0,0,1,17,.040,.077,.040,.117,hitter
+Yasmani Grandal,2019,Milwaukee Brewers,513,79,126,28,77,109,139,.246,.380,.468,.848,hitter
+Trent Grisham,2019,Milwaukee Brewers,156,24,36,6,24,20,48,.231,.328,.410,.738,hitter
+Deolis Guerra,2019,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Junior Guerra,2019,Milwaukee Brewers,3,0,1,0,0,0,2,.333,.333,.333,.666,hitter
+Josh Hader,2019,Milwaukee Brewers,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Donnie Hart,2019,Milwaukee Brewers,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Keston Hiura,2019,Milwaukee Brewers,314,51,95,19,49,25,107,.303,.368,.570,.938,hitter
+Adrian Houser,2019,Milwaukee Brewers,22,0,1,0,0,2,17,.045,.125,.091,.216,hitter
+Jay Jackson,2019,Milwaukee Brewers,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Jeremy Jeffress,2019,Milwaukee Brewers,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Jordan Lyles,2019,Pittsburgh Pirates,25,1,2,0,2,0,16,.080,.115,.080,.195,hitter
+Mike Moustakas,2019,Milwaukee Brewers,523,80,133,35,87,53,98,.254,.329,.516,.845,hitter
+Jimmy Nelson,2019,Milwaukee Brewers,3,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Jacob Nottingham,2019,Milwaukee Brewers,6,1,2,1,4,0,2,.333,.429,.833,1.262,hitter
+Freddy Peralta,2019,Milwaukee Brewers,15,1,2,0,1,0,6,.133,.133,.133,.266,hitter
+Hernán Pérez,2019,Milwaukee Brewers,232,29,53,8,18,11,66,.228,.262,.379,.641,hitter
+Jake Petricka,2019,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Manny Piña,2019,Milwaukee Brewers,158,10,36,7,25,16,50,.228,.313,.411,.724,hitter
+Drew Pomeranz,2019,San Francisco Giants,17,0,0,0,0,0,13,.000,.000,.000,.000,hitter
+Tyler Saladino,2019,Milwaukee Brewers,65,7,8,2,8,5,26,.123,.197,.215,.412,hitter
+Travis Shaw,2019,Milwaukee Brewers,230,22,36,7,16,36,89,.157,.281,.270,.551,hitter
+Burch Smith,2019,Milwaukee Brewers,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Cory Spangenberg,2019,Milwaukee Brewers,95,11,22,2,10,6,36,.232,.277,.358,.635,hitter
+Brent Suter,2019,Milwaukee Brewers,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Tyrone Taylor,2019,Milwaukee Brewers,10,1,4,0,1,1,1,.400,.500,.600,1.100,hitter
+Eric Thames,2019,Milwaukee Brewers,396,67,98,25,61,51,140,.247,.346,.505,.851,hitter
+Aaron Wilkerson,2019,Milwaukee Brewers,3,1,1,1,2,0,1,.333,.333,1.333,1.666,hitter
+Devin Williams,2019,Milwaukee Brewers,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Taylor Williams,2019,Milwaukee Brewers,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Alex Wilson,2019,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brandon Woodruff,2019,Milwaukee Brewers,45,1,12,0,4,1,20,.267,.283,.356,.639,hitter
+Christian Yelich,2019,Milwaukee Brewers,489,100,161,44,97,80,118,.329,.429,.671,1.100,hitter
+Cody Allen,2019,Los Angeles Angels,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Justin Anderson,2019,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Luke Bard,2019,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jaime Barria,2019,Los Angeles Angels,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Cam Bedrosian,2019,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Anthony Bemboom,2019,Tampa Bay Rays,5,0,2,0,1,0,2,.400,.400,.600,1.000,hitter
+Justin Bour,2019,Los Angeles Angels,151,18,26,8,26,17,52,.172,.259,.364,.623,hitter
+Peter Bourjos,2019,Los Angeles Angels,44,4,4,0,2,1,15,.091,.109,.114,.223,hitter
+Ty Buttrey,2019,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Trevor Cahill,2019,Los Angeles Angels,3,0,1,0,0,0,1,.333,.333,.333,.666,hitter
+Kole Calhoun,2019,Los Angeles Angels,552,92,128,33,74,70,162,.232,.325,.467,.792,hitter
+Griffin Canning,2019,Los Angeles Angels,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Taylor Cole,2019,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kaleb Cowart,2019,Los Angeles Angels,25,1,4,0,1,1,7,.160,.192,.280,.472,hitter
+Zack Cozart,2019,Los Angeles Angels,97,4,12,0,7,5,16,.124,.178,.144,.322,hitter
+David Fletcher,2019,Los Angeles Angels,596,83,173,6,49,55,64,.290,.350,.384,.734,hitter
+Luis García,2019,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Dustin Garneau,2019,Los Angeles Angels,69,11,16,2,7,8,18,.232,.346,.362,.708,hitter
+Brian Goodwin,2019,Los Angeles Angels,413,65,108,17,47,38,129,.262,.326,.470,.796,hitter
+Michael Hermosillo,2019,Los Angeles Angels,36,7,5,0,3,5,19,.139,.304,.222,.526,hitter
+Jake Jewell,2019,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tommy La Stella,2019,Los Angeles Angels,292,49,86,16,44,20,28,.295,.346,.486,.832,hitter
+Jonathan Lucroy,2019,Los Angeles Angels,240,28,58,7,30,21,39,.242,.310,.371,.681,hitter
+Adalberto Mejía,2019,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Shohei Ohtani,2019,Los Angeles Angels,384,51,110,18,62,33,110,.286,.343,.505,.848,hitter
+Jarrett Parker,2019,Los Angeles Angels,12,1,0,0,0,3,8,.000,.200,.000,.200,hitter
+Félix Peña,2019,Los Angeles Angels,2,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+César Puello,2019,Los Angeles Angels,41,6,16,3,12,3,8,.390,.500,.683,1.183,hitter
+Albert Pujols,2019,Los Angeles Angels,491,55,120,23,93,43,68,.244,.305,.430,.735,hitter
+Noé Ramirez,2019,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Luis Rengifo,2019,Los Angeles Angels,357,44,85,7,33,40,93,.238,.321,.364,.685,hitter
+Hansel Robles,2019,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Patrick Sandoval,2019,Los Angeles Angels,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Andrelton Simmons,2019,Los Angeles Angels,398,47,105,7,40,24,37,.264,.309,.364,.673,hitter
+Tyler Skaggs,2019,Los Angeles Angels,2,0,0,0,0,1,1,.000,.333,.000,.333,hitter
+Kevan Smith,2019,Los Angeles Angels,191,21,48,5,20,16,37,.251,.318,.393,.711,hitter
+Max Stassi,2019,Houston Astros,90,4,15,1,3,7,34,.167,.235,.211,.446,hitter
+Chris Stratton,2019,Los Angeles Angels,2,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+José Suarez,2019,Los Angeles Angels,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Matt Thaiss,2019,Los Angeles Angels,147,17,31,8,23,17,52,.211,.293,.422,.715,hitter
+Wilfredo Tovar,2019,Los Angeles Angels,83,5,16,0,5,5,15,.193,.239,.253,.492,hitter
+Mike Trout,2019,Los Angeles Angels,470,110,137,45,104,110,120,.291,.438,.645,1.083,hitter
+Justin Upton,2019,Los Angeles Angels,219,34,47,12,40,32,78,.215,.309,.416,.725,hitter
+Jared Walsh,2019,Los Angeles Angels,79,6,16,1,5,6,35,.203,.276,.329,.605,hitter
+Taylor Ward,2019,Los Angeles Angels,42,4,8,1,2,6,23,.190,.292,.333,.625,hitter
+Kean Wong,2019,Tampa Bay Rays,14,1,3,0,0,0,5,.214,.214,.214,.428,hitter
+Nick Ahmed,2019,Arizona Diamondbacks,556,79,141,19,82,52,113,.254,.316,.437,.753,hitter
+Abraham Almonte,2019,Arizona Diamondbacks,31,11,9,1,4,7,8,.290,.421,.548,.969,hitter
+Matt Andriese,2019,Arizona Diamondbacks,6,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Alex Avila,2019,Arizona Diamondbacks,164,22,34,9,24,36,68,.207,.353,.421,.774,hitter
+Archie Bradley,2019,Arizona Diamondbacks,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Andrew Chafin,2019,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Taylor Clarke,2019,Arizona Diamondbacks,24,2,6,1,2,0,10,.250,.250,.375,.625,hitter
+Stefan Crichton,2019,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kevin Cron,2019,Arizona Diamondbacks,71,12,15,6,16,4,28,.211,.269,.521,.790,hitter
+Jon Duplantier,2019,Arizona Diamondbacks,8,1,1,0,0,0,5,.125,.125,.125,.250,hitter
+Jarrod Dyson,2019,Arizona Diamondbacks,400,65,92,7,27,47,86,.230,.313,.320,.633,hitter
+Eduardo Escobar,2019,Arizona Diamondbacks,636,94,171,35,118,50,130,.269,.320,.511,.831,hitter
+Wilmer Flores,2019,Arizona Diamondbacks,265,31,84,9,37,15,31,.317,.361,.487,.848,hitter
+Zac Gallen,2019,Miami Marlins,10,1,1,0,0,0,5,.100,.100,.100,.200,hitter
+Kevin Ginkel,2019,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Zack Godley,2019,Arizona Diamondbacks,18,3,3,0,2,3,9,.167,.286,.167,.453,hitter
+Zack Greinke,2019,Arizona Diamondbacks,48,7,13,3,8,2,11,.271,.300,.583,.883,hitter
+Yoshihisa Hirano,2019,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Greg Holland,2019,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Adam Jones,2019,Arizona Diamondbacks,485,66,126,16,67,31,101,.260,.313,.414,.727,hitter
+Caleb Joseph,2019,Arizona Diamondbacks,38,5,8,0,3,1,10,.211,.250,.263,.513,hitter
+Carson Kelly,2019,Arizona Diamondbacks,314,46,77,18,47,48,79,.245,.348,.478,.826,hitter
+Merrill Kelly,2019,Arizona Diamondbacks,52,3,1,0,2,2,25,.019,.056,.019,.075,hitter
+Matt Koch,2019,Arizona Diamondbacks,6,0,0,0,0,0,5,.000,.000,.000,.000,hitter
+Jake Lamb,2019,Arizona Diamondbacks,187,26,36,6,30,32,55,.193,.323,.353,.676,hitter
+Mike Leake,2019,Seattle Mariners,1,0,0,0,0,1,0,.000,.500,.000,.500,hitter
+Domingo Leyba,2019,Arizona Diamondbacks,25,6,7,0,5,4,9,.280,.367,.440,.807,hitter
+Tim Locastro,2019,Arizona Diamondbacks,212,38,53,1,17,14,44,.250,.357,.340,.697,hitter
+Yoan López,2019,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ketel Marte,2019,Arizona Diamondbacks,569,97,187,32,92,53,86,.329,.389,.592,.981,hitter
+T.J. McFarland,2019,Arizona Diamondbacks,3,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+John Ryan Murphy,2019,Arizona Diamondbacks,62,9,11,4,7,6,28,.177,.250,.419,.669,hitter
+Joel Payamps,2019,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+David Peralta,2019,Arizona Diamondbacks,382,48,105,12,57,35,87,.275,.343,.461,.804,hitter
+Robbie Ray,2019,Arizona Diamondbacks,55,1,4,0,3,0,28,.073,.073,.073,.146,hitter
+Josh Rojas,2019,Arizona Diamondbacks,138,17,30,2,16,18,41,.217,.312,.312,.624,hitter
+Robby Scott,2019,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jimmie Sherfy,2019,Arizona Diamondbacks,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Blake Swihart,2019,Boston Red Sox,26,4,6,1,4,2,7,.231,.310,.385,.695,hitter
+Yasmany Tomás,2019,Arizona Diamondbacks,6,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Ildemaro Vargas,2019,Arizona Diamondbacks,201,25,54,6,24,9,24,.269,.299,.413,.712,hitter
+Christian Walker,2019,Arizona Diamondbacks,529,86,137,29,73,67,155,.259,.348,.476,.824,hitter
+Taijuan Walker,2019,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Luke Weaver,2019,Arizona Diamondbacks,19,2,2,1,4,0,11,.105,.100,.263,.363,hitter
+Alex Young,2019,Arizona Diamondbacks,25,1,1,0,0,0,18,.040,.040,.040,.080,hitter
+Hanser Alberto,2019,Baltimore Orioles,524,62,160,12,51,16,50,.305,.329,.422,.751,hitter
+Shawn Armstrong,2019,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ty Blach,2019,San Francisco Giants,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Richard Bleier,2019,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Aaron Brooks,2019,Baltimore Orioles,3,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Keon Broxton,2019,New York Mets,49,5,7,0,2,4,22,.143,.208,.163,.371,hitter
+Dylan Bundy,2019,Baltimore Orioles,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Andrew Cashner,2019,Baltimore Orioles,3,1,0,0,0,0,0,.000,.000,.000,.000,hitter
+Miguel Castro,2019,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chris Davis,2019,Baltimore Orioles,307,26,55,12,36,39,139,.179,.276,.326,.602,hitter
+Thomas Eshelman,2019,Baltimore Orioles,2,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Paul Fry,2019,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mychal Givens,2019,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Hunter Harvey,2019,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Austin Hays,2019,Baltimore Orioles,68,12,21,4,13,7,13,.309,.373,.574,.947,hitter
+David Hess,2019,Baltimore Orioles,3,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Drew Jackson,2019,Baltimore Orioles,3,0,0,0,0,1,1,.000,.250,.000,.250,hitter
+Branden Kline,2019,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Josh Lucas,2019,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Trey Mancini,2019,Baltimore Orioles,602,106,175,35,97,63,143,.291,.364,.535,.899,hitter
+Richie Martin,2019,Baltimore Orioles,283,29,59,6,23,14,83,.208,.260,.322,.582,hitter
+John Means,2019,Baltimore Orioles,1,0,1,0,0,1,0,1.000,1.000,1.000,2.000,hitter
+Cedric Mullins,2019,Baltimore Orioles,64,7,6,0,4,4,14,.094,.181,.156,.337,hitter
+Renato Núñez,2019,Baltimore Orioles,541,72,132,31,90,44,143,.244,.311,.460,.771,hitter
+Jace Peterson,2019,Baltimore Orioles,100,14,22,2,11,6,24,.220,.269,.330,.599,hitter
+Evan Phillips,2019,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Yefry Ramírez,2019,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Joey Rickard,2019,Baltimore Orioles,118,10,24,2,6,14,33,.203,.304,.347,.651,hitter
+José Rondón,2019,Chicago White Sox,142,10,28,3,9,11,38,.197,.265,.282,.547,hitter
+Rio Ruiz,2019,Baltimore Orioles,370,35,86,12,46,40,88,.232,.306,.376,.682,hitter
+Anthony Santander,2019,Baltimore Orioles,380,46,99,20,59,19,86,.261,.297,.476,.773,hitter
+Tanner Scott,2019,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tayler Scott,2019,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Pedro Severino,2019,Baltimore Orioles,305,37,76,13,44,29,73,.249,.321,.420,.741,hitter
+Chance Sisco,2019,Baltimore Orioles,167,29,35,8,20,22,61,.210,.333,.395,.728,hitter
+Dwight Smith Jr.,2019,Baltimore Orioles,357,46,86,13,53,26,82,.241,.297,.412,.709,hitter
+DJ Stewart,2019,Baltimore Orioles,126,15,30,4,15,14,26,.238,.317,.381,.698,hitter
+Jesús Sucre,2019,Baltimore Orioles,62,3,13,0,3,4,13,.210,.269,.242,.511,hitter
+Dillon Tate,2019,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mark Trumbo,2019,Baltimore Orioles,29,1,5,0,3,2,5,.172,.226,.276,.502,hitter
+Jonathan Villar,2019,Baltimore Orioles,642,111,176,24,73,61,176,.274,.339,.453,.792,hitter
+Stevie Wilkerson,2019,Baltimore Orioles,329,41,74,10,35,22,108,.225,.286,.383,.669,hitter
+Mason Williams,2019,Baltimore Orioles,30,4,8,0,2,3,6,.267,.324,.300,.624,hitter
+Asher Wojciechowski,2019,Baltimore Orioles,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Austin Wynns,2019,Baltimore Orioles,70,8,15,1,5,3,14,.214,.247,.271,.518,hitter
+Jimmy Yacabonis,2019,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Gabriel Ynoa,2019,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Matt Barnes,2019,Boston Red Sox,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Andrew Benintendi,2019,Boston Red Sox,541,72,144,13,68,59,140,.266,.343,.431,.774,hitter
+Mookie Betts,2019,Boston Red Sox,597,135,176,29,80,97,101,.295,.391,.524,.915,hitter
+Xander Bogaerts,2019,Boston Red Sox,614,110,190,33,117,76,122,.309,.384,.555,.939,hitter
+Jackie Bradley Jr.,2019,Boston Red Sox,494,69,111,21,62,56,155,.225,.317,.421,.738,hitter
+Ryan Brasier,2019,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Colten Brewer,2019,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Andrew Cashner,2019,Baltimore Orioles,3,1,0,0,0,0,0,.000,.000,.000,.000,hitter
+Juan Centeno,2019,Boston Red Sox,15,0,2,0,2,2,2,.133,.278,.133,.411,hitter
+Jhoulys Chacín,2019,Milwaukee Brewers,24,2,3,1,1,1,10,.125,.160,.250,.410,hitter
+Michael Chavis,2019,Boston Red Sox,347,46,88,18,58,31,127,.254,.322,.444,.766,hitter
+Rafael Devers,2019,Boston Red Sox,647,129,201,32,115,48,119,.311,.361,.555,.916,hitter
+Nathan Eovaldi,2019,Boston Red Sox,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Darwinzon Hernández,2019,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Gorkys Hernández,2019,Boston Red Sox,49,5,7,0,2,5,14,.143,.218,.245,.463,hitter
+Marco Hernández,2019,Boston Red Sox,148,18,37,2,11,3,42,.250,.279,.338,.617,hitter
+Brock Holt,2019,Boston Red Sox,259,38,77,3,31,28,57,.297,.369,.402,.771,hitter
+Brian Johnson,2019,Boston Red Sox,1,1,0,0,0,0,1,.000,.000,.000,.000,hitter
+Sandy León,2019,Boston Red Sox,172,14,33,5,19,13,47,.192,.251,.297,.548,hitter
+Tzu-Wei Lin,2019,Boston Red Sox,20,3,4,0,1,2,6,.200,.273,.300,.573,hitter
+J.D. Martinez,2019,Boston Red Sox,575,98,175,36,105,72,138,.304,.383,.557,.940,hitter
+Mitch Moreland,2019,Boston Red Sox,298,48,75,19,58,34,74,.252,.328,.507,.835,hitter
+Eduardo Núñez,2019,Boston Red Sox,167,13,38,2,20,4,27,.228,.243,.305,.548,hitter
+Chris Owings,2019,Kansas City Royals,135,9,18,2,9,8,55,.133,.193,.222,.415,hitter
+Steve Pearce,2019,Boston Red Sox,89,9,16,1,9,7,31,.180,.245,.258,.503,hitter
+Dustin Pedroia,2019,Boston Red Sox,20,1,2,0,1,1,2,.100,.143,.100,.243,hitter
+Rick Porcello,2019,Boston Red Sox,6,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Bobby Poyner,2019,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+David Price,2019,Boston Red Sox,2,0,1,0,1,0,1,.500,.500,.500,1.000,hitter
+Eduardo Rodriguez,2019,Boston Red Sox,7,1,0,0,0,0,3,.000,.000,.000,.000,hitter
+Josh A. Smith,2019,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Blake Swihart,2019,Boston Red Sox,26,4,6,1,4,2,7,.231,.310,.385,.695,hitter
+Josh Taylor,2019,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tyler Thornburg,2019,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Sam Travis,2019,Boston Red Sox,144,17,31,6,16,11,36,.215,.274,.382,.656,hitter
+Christian Vázquez,2019,Boston Red Sox,482,66,133,23,72,33,101,.276,.320,.477,.797,hitter
+Hector Velázquez,2019,Boston Red Sox,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Marcus Walden,2019,Boston Red Sox,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Brandon Workman,2019,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+James Adduci,2019,Chicago Cubs,5,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Albert Almora Jr.,2019,Chicago Cubs,339,41,80,12,32,16,62,.236,.271,.381,.652,hitter
+Adbert Alzolay,2019,Chicago Cubs,5,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Javier Báez,2019,Chicago Cubs,531,89,149,29,85,28,156,.281,.316,.531,.847,hitter
+Tony Barnette,2019,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+David Bote,2019,Chicago Cubs,303,47,78,11,41,44,93,.257,.362,.422,.784,hitter
+Brad Brach,2019,Chicago Cubs,4,0,1,0,1,0,1,.250,.250,.250,.500,hitter
+Kris Bryant,2019,Chicago Cubs,543,108,153,31,77,74,145,.282,.382,.521,.903,hitter
+Victor Caratini,2019,Chicago Cubs,244,31,65,11,34,29,59,.266,.348,.447,.795,hitter
+Nick Castellanos,2019,Detroit Tigers,403,57,110,11,37,31,96,.273,.328,.462,.790,hitter
+Xavier Cedeño,2019,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tyler Chatwood,2019,Chicago Cubs,18,1,3,0,1,1,6,.167,.211,.278,.489,hitter
+Steve Cishek,2019,Chicago Cubs,2,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tim Collins,2019,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Willson Contreras,2019,Chicago Cubs,360,57,98,24,64,38,102,.272,.355,.533,.888,hitter
+Yu Darvish,2019,Chicago Cubs,56,1,5,0,3,2,31,.089,.119,.089,.208,hitter
+Taylor Davis,2019,Chicago Cubs,18,2,3,1,4,2,4,.167,.250,.333,.583,hitter
+Daniel Descalso,2019,Chicago Cubs,168,20,29,2,15,23,57,.173,.271,.250,.521,hitter
+Carl Edwards Jr.,2019,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Robel García,2019,Chicago Cubs,72,8,15,5,11,7,35,.208,.275,.500,.775,hitter
+Carlos González,2019,Cleveland Indians,105,13,22,2,7,10,33,.210,.282,.276,.558,hitter
+Cole Hamels,2019,Chicago Cubs,42,1,6,0,4,1,15,.143,.178,.167,.345,hitter
+Ian Happ,2019,Chicago Cubs,140,25,37,11,30,15,39,.264,.333,.564,.897,hitter
+Kyle Hendricks,2019,Chicago Cubs,54,1,8,0,5,2,29,.148,.193,.167,.360,hitter
+Jason Heyward,2019,Chicago Cubs,513,78,129,21,62,68,110,.251,.343,.429,.772,hitter
+Nico Hoerner,2019,Chicago Cubs,78,13,22,3,17,3,11,.282,.305,.436,.741,hitter
+Derek Holland,2019,San Francisco Giants,12,0,1,0,0,0,8,.083,.083,.083,.166,hitter
+Danny Hultzen,2019,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tony Kemp,2019,Houston Astros,163,23,37,7,17,16,29,.227,.308,.417,.725,hitter
+Craig Kimbrel,2019,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brandon Kintzler,2019,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jon Lester,2019,Chicago Cubs,48,6,9,1,6,5,20,.188,.264,.292,.556,hitter
+Jonathan Lucroy,2019,Los Angeles Angels,240,28,58,7,30,21,39,.242,.310,.371,.681,hitter
+Martín Maldonado,2019,Kansas City Royals,238,26,54,6,17,17,55,.227,.291,.366,.657,hitter
+Dillon Maples,2019,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Alec Mills,2019,Chicago Cubs,12,0,1,0,0,0,6,.083,.083,.083,.166,hitter
+Mike Montgomery,2019,Chicago Cubs,5,0,1,0,0,0,2,.200,.200,.200,.400,hitter
+James Norwood,2019,Chicago Cubs,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+David Phelps,2019,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jose Quintana,2019,Chicago Cubs,54,2,5,0,3,0,27,.093,.093,.111,.204,hitter
+Anthony Rizzo,2019,Chicago Cubs,512,89,150,27,94,71,86,.293,.405,.520,.925,hitter
+Randy Rosario,2019,Chicago Cubs,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Addison Russell,2019,Chicago Cubs,215,25,51,9,23,20,58,.237,.308,.391,.699,hitter
+Kyle Ryan,2019,Chicago Cubs,2,0,0,0,0,1,1,.000,.333,.000,.333,hitter
+Kyle Schwarber,2019,Chicago Cubs,529,82,132,38,92,70,156,.250,.339,.531,.870,hitter
+Pedro Strop,2019,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Duane Underwood Jr.,2019,Chicago Cubs,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Allen Webster,2019,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Rowan Wick,2019,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brad Wieck,2019,San Diego Padres,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Mark Zagunis,2019,Chicago Cubs,36,2,9,0,5,4,16,.250,.325,.333,.658,hitter
+Ben Zobrist,2019,Chicago Cubs,150,24,39,1,17,23,24,.260,.358,.313,.671,hitter
+R.J. Alaniz,2019,Cincinnati Reds,1,0,1,0,1,0,0,1.000,1.000,1.000,2.000,hitter
+Aristides Aquino,2019,Cincinnati Reds,205,31,53,19,47,16,60,.259,.316,.576,.892,hitter
+Tucker Barnhart,2019,Cincinnati Reds,316,32,73,11,40,44,83,.231,.328,.380,.708,hitter
+Trevor Bauer,2019,Cleveland Indians,5,0,1,0,0,0,3,.200,.200,.200,.400,hitter
+Alex Blandino,2019,Cincinnati Reds,36,6,9,1,3,10,14,.250,.420,.361,.781,hitter
+Matt Bowman,2019,Cincinnati Reds,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Curt Casali,2019,Cincinnati Reds,207,24,52,8,32,25,59,.251,.331,.411,.742,hitter
+Luis Castillo,2019,Cincinnati Reds,62,3,6,0,0,0,32,.097,.097,.113,.210,hitter
+Christian Colón,2019,Cincinnati Reds,6,1,3,0,1,0,0,.500,.625,.500,1.125,hitter
+Anthony DeSclafani,2019,Cincinnati Reds,55,0,6,0,1,0,28,.109,.109,.109,.218,hitter
+Derek Dietrich,2019,Cincinnati Reds,251,41,47,19,43,28,74,.187,.328,.462,.790,hitter
+Zach Duke,2019,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Phillip Ervin,2019,Cincinnati Reds,236,30,64,7,23,18,63,.271,.331,.466,.797,hitter
+Kyle Farmer,2019,Cincinnati Reds,183,22,42,9,27,10,59,.230,.279,.410,.689,hitter
+Freddy Galvis,2019,Toronto Blue Jays,450,55,120,18,54,21,112,.267,.299,.444,.743,hitter
+Amir Garrett,2019,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kevin Gausman,2019,Atlanta Braves,27,1,1,0,0,0,18,.037,.037,.037,.074,hitter
+Scooter Gennett,2019,Cincinnati Reds,69,4,15,0,5,1,20,.217,.236,.261,.497,hitter
+Juan Graterol,2019,Cincinnati Reds,18,1,4,0,1,0,4,.222,.222,.222,.444,hitter
+Sonny Gray,2019,Cincinnati Reds,46,3,7,0,3,2,19,.152,.188,.196,.384,hitter
+Jimmy Herget,2019,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+David Hernandez,2019,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jared Hughes,2019,Cincinnati Reds,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Jose Iglesias,2019,Cincinnati Reds,504,62,145,11,59,20,70,.288,.318,.407,.725,hitter
+Raisel Iglesias,2019,Cincinnati Reds,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Matt Kemp,2019,Cincinnati Reds,60,4,12,1,5,1,19,.200,.210,.283,.493,hitter
+Joel Kuhnel,2019,Cincinnati Reds,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ryan Lavarnway,2019,Cincinnati Reds,18,4,5,2,7,1,5,.278,.316,.722,1.038,hitter
+Michael Lorenzen,2019,Cincinnati Reds,48,6,10,1,6,5,17,.208,.283,.313,.596,hitter
+Tyler Mahle,2019,Cincinnati Reds,34,4,3,0,0,1,19,.088,.114,.118,.232,hitter
+Keury Mella,2019,Cincinnati Reds,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Brian O'Grady,2019,Cincinnati Reds,42,4,8,2,3,4,17,.190,.292,.429,.721,hitter
+Wandy Peralta,2019,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+José Peraza,2019,Cincinnati Reds,376,37,90,6,33,17,58,.239,.285,.346,.631,hitter
+Yasiel Puig,2019,Cincinnati Reds,373,51,94,22,61,23,89,.252,.302,.475,.777,hitter
+Cody Reed,2019,Cincinnati Reds,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Tanner Roark,2019,Cincinnati Reds,33,2,5,1,2,0,13,.152,.152,.273,.425,hitter
+Sal Romano,2019,Cincinnati Reds,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Scott Schebler,2019,Cincinnati Reds,81,11,10,2,7,14,27,.123,.253,.222,.475,hitter
+Nick Senzel,2019,Cincinnati Reds,375,55,96,12,42,30,101,.256,.315,.427,.742,hitter
+Lucas Sims,2019,Cincinnati Reds,8,0,1,0,0,0,5,.125,.125,.125,.250,hitter
+Robert Stephenson,2019,Cincinnati Reds,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Eugenio Suárez,2019,Cincinnati Reds,575,87,156,49,103,70,189,.271,.358,.572,.930,hitter
+Josh VanMeter,2019,Cincinnati Reds,228,33,54,8,23,29,56,.237,.327,.408,.735,hitter
+Joey Votto,2019,Cincinnati Reds,525,79,137,15,47,76,123,.261,.357,.411,.768,hitter
+Jesse Winker,2019,Cincinnati Reds,338,51,91,16,38,38,60,.269,.357,.473,.830,hitter
+Alex Wood,2019,Cincinnati Reds,9,0,2,0,0,0,5,.222,.222,.222,.444,hitter
+Greg Allen,2019,Cleveland Indians,231,30,53,4,27,11,53,.229,.290,.346,.636,hitter
+Logan Allen,2019,San Diego Padres,4,1,1,0,0,0,0,.250,.400,.250,.650,hitter
+Trevor Bauer,2019,Cleveland Indians,5,0,1,0,0,0,3,.200,.200,.200,.400,hitter
+Jake Bauers,2019,Cleveland Indians,372,46,84,12,43,45,115,.226,.312,.371,.683,hitter
+Shane Bieber,2019,Cleveland Indians,5,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Bobby Bradley,2019,Cleveland Indians,45,4,8,1,4,4,20,.178,.245,.356,.601,hitter
+Carlos Carrasco,2019,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Yu Chang,2019,Cleveland Indians,73,8,13,1,6,11,22,.178,.286,.274,.560,hitter
+Adam Cimber,2019,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Aaron Civale,2019,Cleveland Indians,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Mike Clevinger,2019,Cleveland Indians,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Tyler Clippard,2019,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ryan Flaherty,2019,Cleveland Indians,21,4,3,0,1,0,7,.143,.143,.238,.381,hitter
+Mike Freeman,2019,Cleveland Indians,177,27,49,4,24,22,61,.277,.362,.390,.752,hitter
+Carlos González,2019,Cleveland Indians,105,13,22,2,7,10,33,.210,.282,.276,.558,hitter
+Nick Goody,2019,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Eric Haase,2019,Cleveland Indians,16,1,1,1,3,1,8,.063,.118,.250,.368,hitter
+Brad Hand,2019,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+James Hoyt,2019,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+James Karinchak,2019,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jason Kipnis,2019,Cleveland Indians,458,52,112,17,65,40,88,.245,.304,.410,.714,hitter
+Corey Kluber,2019,Cleveland Indians,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Francisco Lindor,2019,Cleveland Indians,598,101,170,32,74,46,98,.284,.335,.518,.853,hitter
+Jordan Luplow,2019,Cleveland Indians,225,42,62,15,38,33,61,.276,.372,.551,.923,hitter
+Leonys Martin,2019,Cleveland Indians,236,32,47,9,19,21,78,.199,.276,.343,.619,hitter
+Phil Maton,2019,San Diego Padres,4,0,1,0,1,0,2,.250,.250,.250,.500,hitter
+Óscar Mercado,2019,Cleveland Indians,438,70,118,15,54,28,84,.269,.318,.443,.761,hitter
+Brad Miller,2019,Cleveland Indians,36,4,9,1,4,4,10,.250,.325,.417,.742,hitter
+Max Moroff,2019,Cleveland Indians,32,3,4,1,4,2,16,.125,.176,.250,.426,hitter
+Tyler Naquin,2019,Cleveland Indians,274,34,79,10,34,14,66,.288,.325,.467,.792,hitter
+Tyler Olson,2019,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Dan Otero,2019,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Oliver Pérez,2019,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Roberto Pérez,2019,Cleveland Indians,389,46,93,24,63,45,127,.239,.321,.452,.773,hitter
+Kevin Plawecki,2019,Cleveland Indians,158,13,35,3,17,12,31,.222,.287,.342,.629,hitter
+Zach Plesac,2019,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Adam Plutko,2019,Cleveland Indians,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Yasiel Puig,2019,Cincinnati Reds,373,51,94,22,61,23,89,.252,.302,.475,.777,hitter
+Hanley Ramirez,2019,Cleveland Indians,49,4,9,2,8,8,17,.184,.298,.327,.625,hitter
+José Ramírez,2019,Cleveland Guardians,482,68,123,23,83,52,74,.255,.327,.479,.806,hitter
+Neil Ramírez,2019,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Franmil Reyes,2019,San Diego Padres,321,43,82,27,46,29,93,.255,.314,.536,.850,hitter
+Jefry Rodriguez,2019,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Carlos Santana,2019,Cleveland Guardians,573,110,161,34,93,108,108,.281,.397,.515,.912,hitter
+Josh D. Smith,2019,Miami Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Eric Stamets,2019,Cleveland Indians,41,4,2,0,2,5,24,.049,.149,.073,.222,hitter
+Andrew Velazquez,2019,Tampa Bay Rays,12,2,1,0,0,0,6,.083,.083,.167,.250,hitter
+Nick Wittgren,2019,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Hunter Wood,2019,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Bradley Zimmer,2019,Cleveland Indians,13,1,0,0,0,1,7,.000,.071,.000,.071,hitter
+Yency Almonte,2019,Colorado Rockies,5,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Yonder Alonso,2019,Chicago White Sox,219,23,39,7,27,29,53,.178,.275,.301,.576,hitter
+Tyler Anderson,2019,Colorado Rockies,7,1,1,0,0,0,4,.143,.143,.143,.286,hitter
+Nolan Arenado,2019,Colorado Rockies,588,102,185,41,118,62,93,.315,.379,.583,.962,hitter
+Chad Bettis,2019,Colorado Rockies,5,0,0,0,0,2,2,.000,.286,.000,.286,hitter
+Charlie Blackmon,2019,Colorado Rockies,580,112,182,32,86,40,104,.314,.364,.576,.940,hitter
+Drew Butera,2019,Colorado Rockies,43,6,7,0,3,4,14,.163,.229,.233,.462,hitter
+Noel Cuevas,2019,Colorado Rockies,2,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+David Dahl,2019,Colorado Rockies,374,67,113,15,61,28,110,.302,.353,.524,.877,hitter
+Wade Davis,2019,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Yonathan Daza,2019,Colorado Rockies,97,7,20,0,3,7,21,.206,.257,.237,.494,hitter
+Ian Desmond,2019,Colorado Rockies,443,64,113,20,65,34,119,.255,.310,.479,.789,hitter
+Jairo Díaz,2019,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Phillip Diehl,2019,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mike Dunn,2019,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Carlos Estévez,2019,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kyle Freeland,2019,Colorado Rockies,23,1,2,0,0,3,15,.087,.192,.087,.279,hitter
+Joshua Fuentes,2019,Colorado Rockies,55,8,12,3,7,1,20,.218,.232,.400,.632,hitter
+Rico Garcia,2019,Colorado Rockies,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Chi Chi González,2019,Colorado Rockies,24,0,1,0,2,0,15,.042,.042,.042,.084,hitter
+Jon Gray,2019,Colorado Rockies,47,1,3,0,1,3,22,.064,.120,.064,.184,hitter
+Garrett Hampson,2019,Colorado Rockies,299,40,74,8,27,24,88,.247,.302,.385,.687,hitter
+Joe Harvey,2019,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Sam Hilliard,2019,Colorado Rockies,77,13,21,7,13,9,23,.273,.356,.649,1.005,hitter
+Jeff Hoffman,2019,Colorado Rockies,21,2,5,0,1,0,9,.238,.238,.238,.476,hitter
+Sam Howard,2019,Colorado Rockies,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Chris Iannetta,2019,Colorado Rockies,144,20,32,6,21,18,54,.222,.311,.417,.728,hitter
+DJ Johnson,2019,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Peter Lambert,2019,Colorado Rockies,28,3,9,0,2,3,10,.321,.387,.321,.708,hitter
+Germán Márquez,2019,Colorado Rockies,48,5,11,0,11,0,14,.229,.229,.354,.583,hitter
+Jake McGee,2019,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ryan McMahon,2019,Colorado Rockies,480,70,120,24,83,56,160,.250,.329,.450,.779,hitter
+Tim Melville,2019,Colorado Rockies,8,0,2,0,2,0,3,.250,.250,.250,.500,hitter
+Daniel Murphy,2019,Colorado Rockies,438,56,122,13,78,32,74,.279,.328,.452,.780,hitter
+Harrison Musgrave,2019,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Dom Nuñez,2019,Colorado Rockies,39,4,7,2,4,3,17,.179,.233,.410,.643,hitter
+Scott Oberg,2019,Colorado Rockies,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Seunghwan Oh,2019,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Wes Parsons,2019,Atlanta Braves,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+James Pazos,2019,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mark Reynolds,2019,Colorado Rockies,135,13,23,4,20,22,57,.170,.290,.311,.601,hitter
+Brendan Rodgers,2019,Colorado Rockies,76,8,17,0,7,4,27,.224,.272,.250,.522,hitter
+Chris Rusin,2019,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Antonio Senzatela,2019,Colorado Rockies,40,2,1,0,3,1,24,.025,.049,.025,.074,hitter
+Bryan Shaw,2019,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Trevor Story,2019,Colorado Rockies,588,111,173,35,85,58,174,.294,.363,.554,.917,hitter
+Raimel Tapia,2019,Colorado Rockies,426,54,117,9,44,21,100,.275,.309,.415,.724,hitter
+Jesus Tinoco,2019,Colorado Rockies,5,1,1,0,0,0,4,.200,.200,.200,.400,hitter
+Pat Valaika,2019,Colorado Rockies,79,11,15,1,4,7,34,.190,.256,.316,.572,hitter
+Tony Wolters,2019,Colorado Rockies,359,42,94,1,42,36,68,.262,.337,.329,.666,hitter
+Austin Adams,2019,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Victor Alcántara,2019,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Gordon Beckham,2019,Detroit Tigers,223,29,48,6,15,13,68,.215,.271,.372,.643,hitter
+Matthew Boyd,2019,Detroit Tigers,2,0,1,0,0,0,1,.500,.500,.500,1.000,hitter
+Miguel Cabrera,2019,Detroit Tigers,493,41,139,12,59,48,108,.282,.346,.398,.744,hitter
+Jeimer Candelario,2019,Detroit Tigers,335,33,68,8,32,43,99,.203,.306,.337,.643,hitter
+Ryan Carpenter,2019,Detroit Tigers,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Nick Castellanos,2019,Detroit Tigers,403,57,110,11,37,31,96,.273,.328,.462,.790,hitter
+Harold Castro,2019,Detroit Tigers,354,30,103,5,38,9,86,.291,.305,.384,.689,hitter
+Willi Castro,2019,Detroit Tigers,100,10,23,1,8,6,34,.230,.284,.340,.624,hitter
+Travis Demeritte,2019,Detroit Tigers,169,24,38,3,10,14,63,.225,.286,.343,.629,hitter
+Brandon Dixon,2019,Detroit Tigers,391,41,97,15,52,21,136,.248,.290,.435,.725,hitter
+Buck Farmer,2019,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Niko Goodrum,2019,Detroit Tigers,423,61,105,12,45,46,138,.248,.322,.421,.743,hitter
+Shane Greene,2019,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Grayson Greiner,2019,Detroit Tigers,208,18,42,5,19,13,70,.202,.251,.308,.559,hitter
+Blaine Hardy,2019,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Josh Harrison,2019,Detroit Tigers,137,10,24,1,8,6,27,.175,.218,.263,.481,hitter
+John Hicks,2019,Detroit Tigers,319,29,67,13,35,13,109,.210,.240,.379,.619,hitter
+Edwin Jackson,2019,Toronto Blue Jays,3,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Joe Jiménez,2019,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+JaCoby Jones,2019,Detroit Tigers,298,39,70,11,26,27,94,.235,.310,.430,.740,hitter
+Dawel Lugo,2019,Detroit Tigers,273,28,67,6,26,8,59,.245,.271,.381,.652,hitter
+Mikie Mahtook,2019,Detroit Tigers,23,0,0,0,0,2,11,.000,.080,.000,.080,hitter
+Jordy Mercer,2019,Detroit Tigers,256,24,69,9,22,13,57,.270,.310,.438,.748,hitter
+Daniel Norris,2019,Detroit Tigers,6,1,1,0,0,0,3,.167,.167,.167,.334,hitter
+Dustin Peterson,2019,Detroit Tigers,44,3,10,0,6,2,14,.227,.277,.318,.595,hitter
+Nick Ramirez,2019,Detroit Tigers,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Zac Reininger,2019,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Victor Reyes,2019,Detroit Tigers,276,29,84,3,25,14,64,.304,.336,.431,.767,hitter
+Ronny Rodríguez,2019,Detroit Tigers,276,29,61,14,43,13,82,.221,.252,.438,.690,hitter
+Jake Rogers,2019,Detroit Tigers,112,11,14,4,8,13,51,.125,.222,.259,.481,hitter
+Trevor Rosenthal,2019,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Gregory Soto,2019,Detroit Tigers,2,0,2,0,0,0,0,1.000,1.000,1.000,2.000,hitter
+Christin Stewart,2019,Detroit Tigers,369,32,86,10,40,34,103,.233,.305,.388,.693,hitter
+Daniel Stumpf,2019,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Spencer Turnbull,2019,Detroit Tigers,8,1,0,0,0,0,7,.000,.000,.000,.000,hitter
+Drew VerHagen,2019,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Bobby Wilson,2019,Detroit Tigers,44,2,4,0,2,2,11,.091,.130,.114,.244,hitter
+Jordan Zimmermann,2019,Detroit Tigers,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Jose Altuve,2019,Houston Astros,500,89,149,31,74,41,82,.298,.353,.550,.903,hitter
+Yordan Alvarez,2019,Houston Astros,313,58,98,27,78,52,94,.313,.412,.655,1.067,hitter
+Joe Biagini,2019,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Michael Brantley,2019,Houston Astros,575,88,179,22,90,51,66,.311,.372,.503,.875,hitter
+Alex Bregman,2019,Houston Astros,554,122,164,41,112,119,83,.296,.423,.592,1.015,hitter
+Robinson Chirinos,2019,Houston Astros,366,57,87,17,58,51,125,.238,.347,.443,.790,hitter
+Gerrit Cole,2019,Houston Astros,7,0,0,0,0,0,5,.000,.000,.000,.000,hitter
+Carlos Correa,2019,Houston Astros,280,42,78,21,59,35,75,.279,.358,.568,.926,hitter
+Chris Devenski,2019,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Aledmys Díaz,2019,Houston Astros,210,36,57,9,40,26,28,.271,.356,.467,.823,hitter
+Derek Fisher,2019,Houston Astros,53,9,12,1,5,7,14,.226,.317,.358,.675,hitter
+Zack Greinke,2019,Arizona Diamondbacks,48,7,13,3,8,2,11,.271,.300,.583,.883,hitter
+Yuli Gurriel,2019,Houston Astros,564,85,168,31,104,37,65,.298,.343,.541,.884,hitter
+Will Harris,2019,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Josh James,2019,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tony Kemp,2019,Houston Astros,163,23,37,7,17,16,29,.227,.308,.417,.725,hitter
+Martín Maldonado,2019,Kansas City Royals,238,26,54,6,17,17,55,.227,.291,.366,.657,hitter
+Jake Marisnick,2019,Houston Astros,292,46,68,10,34,17,95,.233,.289,.411,.700,hitter
+Jack Mayfield,2019,Houston Astros,64,8,10,2,5,1,16,.156,.169,.328,.497,hitter
+Collin McHugh,2019,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Wade Miley,2019,Houston Astros,4,1,0,0,0,1,1,.000,.200,.000,.200,hitter
+Roberto Osuna,2019,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Cionel Pérez,2019,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ryan Pressly,2019,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Josh Reddick,2019,Houston Astros,501,57,138,14,56,36,66,.275,.319,.409,.728,hitter
+Héctor Rondón,2019,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Aaron Sanchez,2019,Toronto Blue Jays,2,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Joe Smith,2019,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+George Springer,2019,Houston Astros,479,96,140,39,96,67,113,.292,.383,.591,.974,hitter
+Max Stassi,2019,Houston Astros,90,4,15,1,3,7,34,.167,.235,.211,.446,hitter
+Myles Straw,2019,Houston Astros,108,27,29,0,7,19,24,.269,.378,.343,.721,hitter
+Garrett Stubbs,2019,Houston Astros,35,8,7,0,2,4,7,.200,.282,.286,.568,hitter
+Abraham Toro,2019,Houston Astros,78,13,17,2,9,9,19,.218,.303,.385,.688,hitter
+Kyle Tucker,2019,Houston Astros,67,15,18,4,11,4,20,.269,.319,.537,.856,hitter
+José Urquidy,2019,Houston Astros,4,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Justin Verlander,2019,Houston Astros,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Tyler White,2019,Houston Astros,218,16,49,3,21,32,74,.225,.320,.330,.650,hitter
+Humberto Arteaga,2019,Kansas City Royals,122,11,24,0,4,8,28,.197,.258,.230,.488,hitter
+Homer Bailey,2019,Kansas City Royals,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Scott Barlow,2019,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jacob Barnes,2019,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jorge Bonifacio,2019,Kansas City Royals,20,3,7,0,3,1,7,.350,.381,.500,.881,hitter
+Brad Boxberger,2019,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Cheslor Cuthbert,2019,Kansas City Royals,309,24,76,9,40,19,67,.246,.294,.379,.673,hitter
+Jake Diekman,2019,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Nick Dini,2019,Kansas City Royals,56,11,11,2,6,4,18,.196,.270,.357,.627,hitter
+Hunter Dozier,2019,Kansas City Royals,523,75,146,26,84,55,148,.279,.348,.522,.870,hitter
+Lucas Duda,2019,Kansas City Royals,105,7,18,4,15,11,32,.171,.252,.324,.576,hitter
+Danny Duffy,2019,Kansas City Royals,4,0,1,0,0,0,2,.250,.250,.250,.500,hitter
+Heath Fillmyer,2019,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brian Flynn,2019,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Cam Gallagher,2019,Kansas City Royals,126,14,30,3,12,11,28,.238,.312,.365,.677,hitter
+Alex Gordon,2019,Kansas City Royals,556,77,148,13,76,51,100,.266,.345,.396,.741,hitter
+Terrance Gore,2019,Kansas City Royals,51,13,14,0,1,6,18,.275,.362,.353,.715,hitter
+Kelvin Gutiérrez,2019,Kansas City Royals,73,4,19,1,11,5,24,.260,.304,.356,.660,hitter
+Jesse Hahn,2019,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Billy Hamilton,2019,Kansas City Royals,275,32,58,0,12,25,74,.211,.275,.269,.544,hitter
+Tim Hill,2019,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jakob Junis,2019,Kansas City Royals,2,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brad Keller,2019,Kansas City Royals,8,0,1,0,1,1,5,.125,.222,.125,.347,hitter
+Ian Kennedy,2019,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jorge López,2019,Kansas City Royals,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Nicky Lopez,2019,Kansas City Royals,379,44,91,2,30,18,51,.240,.276,.325,.601,hitter
+Richard Lovelady,2019,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Martín Maldonado,2019,Kansas City Royals,238,26,54,6,17,17,55,.227,.291,.366,.657,hitter
+Ryan McBroom,2019,Kansas City Royals,75,8,22,0,6,7,25,.293,.361,.360,.721,hitter
+Kevin McCarthy,2019,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Erick Mejia,2019,Kansas City Royals,22,3,5,0,4,4,7,.227,.333,.273,.606,hitter
+Whit Merrifield,2019,Kansas City Royals,681,105,206,16,74,45,126,.302,.348,.463,.811,hitter
+Adalberto Mondesi,2019,Kansas City Royals,415,58,109,9,62,19,132,.263,.291,.424,.715,hitter
+Mike Montgomery,2019,Chicago Cubs,5,0,1,0,0,0,2,.200,.200,.200,.400,hitter
+Jake Newberry,2019,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ryan O'Hearn,2019,Kansas City Royals,328,32,64,14,38,39,99,.195,.281,.369,.650,hitter
+Chris Owings,2019,Kansas City Royals,135,9,18,2,9,8,55,.133,.193,.222,.415,hitter
+Wily Peralta,2019,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brett Phillips,2019,Kansas City Royals,65,7,9,2,6,10,23,.138,.247,.262,.509,hitter
+Randy Rosario,2019,Chicago Cubs,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Frank Schwindel,2019,Kansas City Royals,15,0,1,0,0,0,2,.067,.067,.067,.134,hitter
+Eric Skoglund,2019,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jorge Soler,2019,Kansas City Royals,589,95,156,48,117,73,178,.265,.354,.569,.923,hitter
+Glenn Sparkman,2019,Kansas City Royals,2,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Gabe Speier,2019,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Bubba Starling,2019,Kansas City Royals,186,26,40,4,12,9,56,.215,.255,.317,.572,hitter
+Meibrys Viloria,2019,Kansas City Royals,133,7,28,1,15,10,44,.211,.259,.286,.545,hitter
+Kyle Zimmer,2019,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Scott Alexander,2019,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Pedro Báez,2019,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Austin Barnes,2019,Los Angeles Dodgers,212,28,43,5,25,23,56,.203,.293,.340,.633,hitter
+Matt Beaty,2019,Los Angeles Dodgers,249,36,66,9,46,17,33,.265,.317,.458,.775,hitter
+Cody Bellinger,2019,Los Angeles Dodgers,558,121,170,47,115,95,108,.305,.406,.629,1.035,hitter
+Walker Buehler,2019,Los Angeles Dodgers,59,5,5,1,2,4,33,.085,.143,.136,.279,hitter
+JT Chargois,2019,Los Angeles Dodgers,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Caleb Ferguson,2019,Los Angeles Dodgers,2,1,1,0,0,0,0,.500,.500,1.000,1.500,hitter
+Dylan Floro,2019,Los Angeles Dodgers,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+David Freese,2019,Los Angeles Dodgers,162,35,51,11,29,23,44,.315,.403,.599,1.002,hitter
+Rocky Gale,2019,Los Angeles Dodgers,15,1,2,0,0,0,7,.133,.133,.133,.266,hitter
+Yimi García,2019,Los Angeles Dodgers,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Kyle Garlick,2019,Los Angeles Dodgers,48,8,12,3,6,5,19,.250,.321,.521,.842,hitter
+Tony Gonsolin,2019,Los Angeles Dodgers,13,2,4,0,1,0,4,.308,.308,.308,.616,hitter
+Jedd Gyorko,2019,St. Louis Cardinals,56,5,11,2,7,6,14,.196,.274,.304,.578,hitter
+Enrique Hernández,2019,Los Angeles Dodgers,414,57,98,17,64,36,97,.237,.304,.411,.715,hitter
+Rich Hill,2019,Los Angeles Dodgers,18,0,3,0,1,1,9,.167,.211,.222,.433,hitter
+Kenley Jansen,2019,Los Angeles Dodgers,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Joe Kelly,2019,Los Angeles Dodgers,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Clayton Kershaw,2019,Los Angeles Dodgers,49,1,5,0,1,1,16,.102,.120,.122,.242,hitter
+Adam Kolarek,2019,Tampa Bay Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Gavin Lux,2019,Los Angeles Dodgers,75,12,18,2,9,7,24,.240,.305,.400,.705,hitter
+Kenta Maeda,2019,Los Angeles Dodgers,48,3,12,0,6,0,13,.250,.250,.292,.542,hitter
+Russell Martin,2019,Los Angeles Dodgers,209,29,46,6,20,30,60,.220,.337,.330,.667,hitter
+Dustin May,2019,Los Angeles Dodgers,11,0,1,0,0,0,4,.091,.091,.091,.182,hitter
+Max Muncy,2019,Los Angeles Dodgers,487,101,122,35,98,90,149,.251,.374,.515,.889,hitter
+Kristopher Negrón,2019,Seattle Mariners,23,3,5,0,1,2,9,.217,.280,.217,.497,hitter
+Joc Pederson,2019,Los Angeles Dodgers,450,83,112,36,74,50,111,.249,.339,.538,.877,hitter
+AJ Pollock,2019,Los Angeles Dodgers,308,49,82,15,47,23,74,.266,.327,.468,.795,hitter
+Edwin Ríos,2019,Los Angeles Dodgers,47,10,13,4,8,9,21,.277,.393,.617,1.010,hitter
+Zac Rosscup,2019,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Hyun Jin Ryu,2019,Los Angeles Dodgers,51,3,8,1,3,4,23,.157,.218,.235,.453,hitter
+Casey Sadler,2019,Los Angeles Dodgers,3,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Dennis Santana,2019,Los Angeles Dodgers,2,0,1,0,0,0,0,.500,.500,.500,1.000,hitter
+Josh Sborz,2019,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jaime Schultz,2019,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Corey Seager,2019,Los Angeles Dodgers,489,82,133,19,87,44,98,.272,.335,.483,.818,hitter
+Will Smith,2019,Los Angeles Dodgers,170,30,43,15,42,18,52,.253,.337,.571,.908,hitter
+Brock Stewart,2019,Los Angeles Dodgers,3,1,1,0,0,0,0,.333,.333,.667,1.000,hitter
+Ross Stripling,2019,Los Angeles Dodgers,20,1,3,0,1,2,7,.150,.227,.150,.377,hitter
+Chris Taylor,2019,Los Angeles Dodgers,366,52,96,12,52,37,115,.262,.333,.462,.795,hitter
+Justin Turner,2019,Los Angeles Dodgers,479,80,139,27,67,51,88,.290,.372,.509,.881,hitter
+Julio Urías,2019,Los Angeles Dodgers,12,0,3,0,2,1,4,.250,.308,.250,.558,hitter
+Alex Verdugo,2019,Los Angeles Dodgers,343,43,101,12,44,26,49,.294,.342,.475,.817,hitter
+Tyler White,2019,Houston Astros,218,16,49,3,21,32,74,.225,.320,.330,.650,hitter
+Travis d'Arnaud,2019,New York Mets,23,2,2,0,2,2,5,.087,.160,.087,.247,hitter
+Austin Adams,2019,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Matt Adams,2019,Washington Nationals,310,42,70,20,56,20,115,.226,.276,.465,.741,hitter
+Kyle Barraclough,2019,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tres Barrera,2019,Washington Nationals,2,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Aaron Barrett,2019,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Michael Blazek,2019,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+James Bourque,2019,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Asdrúbal Cabrera,2019,Texas Rangers,323,45,76,12,51,38,85,.235,.318,.393,.711,hitter
+Patrick Corbin,2019,Washington Nationals,65,3,6,0,4,3,27,.092,.132,.108,.240,hitter
+Wilmer Difo,2019,Washington Nationals,131,15,33,2,8,12,29,.252,.315,.313,.628,hitter
+Sean Doolittle,2019,Washington Nationals,3,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Brian Dozier,2019,Washington Nationals,416,54,99,20,50,61,105,.238,.340,.430,.770,hitter
+Adam Eaton,2019,Washington Nationals,566,103,158,15,49,65,106,.279,.365,.428,.793,hitter
+Roenis Elías,2019,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Erick Fedde,2019,Washington Nationals,15,1,2,0,0,0,6,.133,.133,.133,.266,hitter
+Yan Gomes,2019,Washington Nationals,314,36,70,12,43,38,84,.223,.316,.389,.705,hitter
+Matt Grace,2019,Washington Nationals,3,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Javy Guerra,2019,Washington Nationals,3,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Jeremy Hellickson,2019,Washington Nationals,9,3,1,0,0,2,4,.111,.273,.111,.384,hitter
+Daniel Hudson,2019,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Dan Jennings,2019,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Howie Kendrick,2019,Washington Nationals,334,61,115,17,62,27,49,.344,.395,.572,.967,hitter
+Carter Kieboom,2019,Washington Nationals,39,4,5,2,2,4,16,.128,.209,.282,.491,hitter
+Kyle McGowin,2019,Washington Nationals,3,1,1,0,0,0,0,.333,.333,.333,.666,hitter
+Justin Miller,2019,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jake Noll,2019,Washington Nationals,12,1,2,0,2,1,4,.167,.231,.250,.481,hitter
+Gerardo Parra,2019,San Francisco Giants,86,8,17,1,6,8,18,.198,.278,.267,.545,hitter
+Tanner Rainey,2019,Washington Nationals,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Raudy Read,2019,Washington Nationals,11,0,1,0,0,0,5,.091,.091,.091,.182,hitter
+Anthony Rendon,2019,Washington Nationals,545,117,174,34,126,80,86,.319,.412,.598,1.010,hitter
+Victor Robles,2019,Washington Nationals,546,86,139,17,65,35,140,.255,.326,.419,.745,hitter
+Fernando Rodney,2019,Oakland Athletics,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Trevor Rosenthal,2019,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Joe Ross,2019,Washington Nationals,19,1,2,0,0,1,10,.105,.150,.105,.255,hitter
+Adrián Sanchez,2019,Washington Nationals,31,3,7,0,1,1,10,.226,.250,.226,.476,hitter
+Aníbal Sánchez,2019,Washington Nationals,52,1,6,0,1,0,24,.115,.115,.115,.230,hitter
+Max Scherzer,2019,Washington Nationals,55,6,10,0,2,0,27,.182,.182,.182,.364,hitter
+Tony Sipp,2019,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Juan Soto,2019,Washington Nationals,542,110,153,34,110,108,132,.282,.401,.548,.949,hitter
+Andrew Stevenson,2019,Washington Nationals,30,4,11,0,0,6,11,.367,.486,.467,.953,hitter
+Stephen Strasburg,2019,Washington Nationals,72,4,12,1,10,3,25,.167,.200,.222,.422,hitter
+Hunter Strickland,2019,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Wander Suero,2019,Washington Nationals,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Kurt Suzuki,2019,Washington Nationals,280,37,74,17,63,20,36,.264,.324,.486,.810,hitter
+Michael A. Taylor,2019,Washington Nationals,88,10,22,1,3,7,34,.250,.305,.364,.669,hitter
+Trea Turner,2019,Washington Nationals,521,96,155,19,57,43,113,.298,.353,.497,.850,hitter
+Jonny Venters,2019,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Austin Voth,2019,Washington Nationals,9,0,1,0,1,0,3,.111,.111,.111,.222,hitter
+Austen Williams,2019,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ryan Zimmerman,2019,Washington Nationals,171,20,44,6,27,17,39,.257,.321,.415,.736,hitter
+Pete Alonso,2019,New York Mets,597,103,155,53,120,72,183,.260,.358,.583,.941,hitter
+Aaron Altherr,2019,Philadelphia Phillies,29,2,1,0,1,1,9,.034,.067,.069,.136,hitter
+Luis Avilán,2019,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tyler Bashlor,2019,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brad Brach,2019,Chicago Cubs,4,0,1,0,1,0,1,.250,.250,.250,.500,hitter
+Keon Broxton,2019,New York Mets,49,5,7,0,2,4,22,.143,.208,.163,.371,hitter
+Robinson Canó,2019,New York Mets,390,46,100,13,39,25,69,.256,.307,.428,.735,hitter
+Michael Conforto,2019,New York Mets,549,90,141,33,92,84,149,.257,.363,.494,.857,hitter
+J.D. Davis,2019,New York Mets,410,65,126,22,57,38,97,.307,.369,.527,.896,hitter
+Rajai Davis,2019,New York Mets,25,4,5,1,8,1,5,.200,.231,.400,.631,hitter
+Edwin Díaz,2019,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jeurys Familia,2019,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chris Flexen,2019,New York Mets,2,0,1,0,0,0,0,.500,.500,.500,1.000,hitter
+Wilmer Font,2019,Tampa Bay Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Todd Frazier,2019,New York Mets,447,63,112,21,67,40,106,.251,.329,.443,.772,hitter
+Drew Gagnon,2019,New York Mets,3,0,1,0,0,0,0,.333,.333,.333,.666,hitter
+Carlos Gómez,2019,New York Mets,86,10,17,3,10,7,30,.198,.278,.337,.615,hitter
+Robert Gsellman,2019,New York Mets,0,0,0,0,0,1,0,.000,1.000,.000,1.000,hitter
+Luis Guillorme,2019,New York Mets,61,8,15,1,3,7,14,.246,.324,.361,.685,hitter
+Sam Haggerty,2019,New York Mets,4,2,0,0,0,0,3,.000,.000,.000,.000,hitter
+Donnie Hart,2019,Milwaukee Brewers,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Adeiny Hechavarría,2019,New York Mets,142,20,29,5,18,8,33,.204,.252,.359,.611,hitter
+Juan Lagares,2019,New York Mets,258,38,55,5,27,22,75,.213,.279,.326,.605,hitter
+Walker Lockett,2019,New York Mets,6,0,1,0,0,1,4,.167,.286,.167,.453,hitter
+Jed Lowrie,2019,New York Mets,7,0,0,0,0,1,4,.000,.125,.000,.125,hitter
+Seth Lugo,2019,New York Mets,1,0,1,0,1,0,0,1.000,1.000,1.000,2.000,hitter
+Steven Matz,2019,New York Mets,57,4,13,1,1,0,17,.228,.228,.281,.509,hitter
+Chris Mazza,2019,New York Mets,3,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Jeff McNeil,2019,New York Mets,510,83,162,23,75,35,75,.318,.384,.531,.915,hitter
+Tomás Nido,2019,New York Mets,136,9,26,4,14,7,37,.191,.231,.316,.547,hitter
+Brandon Nimmo,2019,New York Mets,199,34,44,8,29,46,71,.221,.375,.407,.782,hitter
+Stephen Nogosek,2019,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ryan O'Rourke,2019,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Corey Oswalt,2019,New York Mets,1,0,0,0,1,0,1,.000,.000,.000,.000,hitter
+Joe Panik,2019,San Francisco Giants,344,33,81,3,27,36,38,.235,.310,.317,.627,hitter
+Tim Peterson,2019,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brooks Pounders,2019,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Wilson Ramos,2019,New York Mets,473,52,136,14,73,44,69,.288,.351,.416,.767,hitter
+Jacob Rhame,2019,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+René Rivera,2019,New York Mets,17,2,4,1,3,3,4,.235,.350,.412,.762,hitter
+Amed Rosario,2019,New York Mets,616,75,177,15,72,31,124,.287,.323,.432,.755,hitter
+Héctor Santiago,2019,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Paul Sewald,2019,New York Mets,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Dominic Smith,2019,New York Mets,177,35,50,11,25,19,44,.282,.355,.525,.880,hitter
+Marcus Stroman,2019,Toronto Blue Jays,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Noah Syndergaard,2019,New York Mets,65,6,6,2,2,3,47,.092,.132,.200,.332,hitter
+Rubén Tejada,2019,New York Mets,9,1,0,0,0,0,3,.000,.000,.000,.000,hitter
+Jason Vargas,2019,New York Mets,28,0,2,0,0,0,16,.071,.071,.071,.142,hitter
+Zack Wheeler,2019,New York Mets,57,5,12,1,6,2,19,.211,.262,.298,.560,hitter
+Justin Wilson,2019,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Daniel Zamora,2019,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Travis d'Arnaud,2019,New York Mets,23,2,2,0,2,2,5,.087,.160,.087,.247,hitter
+Jacob deGrom,2019,New York Mets,65,4,13,2,6,4,19,.200,.246,.323,.569,hitter

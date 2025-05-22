@@ -1,0 +1,1564 @@
+name,year,team,AB,R,H,HR,RBI,BB,K,AVG,OBP,SLG,OPS,playerType
+Austin Allen,2021,Oakland Athletics,8,2,2,1,1,0,3,.250,.250,.625,.875,hitter
+Elvis Andrus,2021,Oakland Athletics,497,60,121,3,37,31,81,.243,.294,.320,.614,hitter
+Luis Barrera,2021,Oakland Athletics,8,1,2,0,0,0,2,.250,.250,.250,.500,hitter
+Chris Bassitt,2021,Oakland Athletics,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Cam Bedrosian,2021,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Skye Bolt,2021,San Francisco Giants,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Seth Brown,2021,Oakland Athletics,281,43,60,20,48,23,89,.214,.274,.480,.754,hitter
+Mark Canha,2021,Oakland Athletics,519,93,120,17,61,77,128,.231,.358,.387,.745,hitter
+Andrew Chafin,2021,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Matt Chapman,2021,Oakland Athletics,529,75,111,27,72,80,202,.210,.314,.403,.717,hitter
+Khris Davis,2021,Texas Rangers,51,8,8,2,5,8,16,.157,.262,.333,.595,hitter
+Jake Diekman,2021,Oakland Athletics,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Michael Feliz,2021,Pittsburgh Pirates,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Aramis Garcia,2021,Oakland Athletics,88,8,18,3,7,1,28,.205,.239,.318,.557,hitter
+Yan Gomes,2021,Washington Nationals,218,30,59,9,35,13,47,.271,.323,.454,.777,hitter
+Deolis Guerra,2021,Oakland Athletics,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Josh Harrison,2021,Washington Nationals,320,39,94,6,38,25,50,.294,.366,.434,.800,hitter
+Cole Irvin,2021,Oakland Athletics,5,0,1,0,1,0,2,.200,.200,.200,.400,hitter
+James Kaprielian,2021,Oakland Athletics,3,1,1,0,0,0,2,.333,.333,.333,.666,hitter
+Tony Kemp,2021,Oakland Athletics,330,54,92,8,37,52,51,.279,.382,.418,.800,hitter
+Adam Kolarek,2021,Oakland Athletics,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Pete Kozma,2021,Oakland Athletics,11,0,1,0,0,1,4,.091,.167,.091,.258,hitter
+Ramón Laureano,2021,Oakland Athletics,341,43,84,14,39,27,98,.246,.317,.443,.760,hitter
+Jed Lowrie,2021,Oakland Athletics,457,55,112,14,69,49,108,.245,.318,.398,.716,hitter
+Jesús Luzardo,2021,Oakland Athletics,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Vimael Machín,2021,Oakland Athletics,32,1,4,0,1,3,10,.125,.200,.125,.325,hitter
+Sean Manaea,2021,Oakland Athletics,4,0,2,0,0,0,1,.500,.500,.750,1.250,hitter
+Starling Marte,2021,Miami Marlins,233,52,71,7,25,32,57,.305,.405,.451,.856,hitter
+Frankie Montas,2021,Oakland Athletics,4,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Mitch Moreland,2021,Oakland Athletics,229,28,52,10,30,18,58,.227,.286,.415,.701,hitter
+Sean Murphy,2021,Oakland Athletics,393,47,85,17,59,40,114,.216,.306,.405,.711,hitter
+Matt Olson,2021,Oakland Athletics,565,101,153,39,111,88,113,.271,.371,.540,.911,hitter
+Yusmeiro Petit,2021,Oakland Athletics,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chad Pinder,2021,Oakland Athletics,214,30,52,6,27,16,62,.243,.300,.411,.711,hitter
+Stephen Piscotty,2021,Oakland Athletics,173,14,38,5,16,13,48,.220,.282,.353,.635,hitter
+Sergio Romo,2021,Oakland Athletics,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Frank Schwindel,2021,Oakland Athletics,20,2,3,1,3,0,5,.150,.150,.350,.500,hitter
+Burch Smith,2021,Oakland Athletics,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ka'ai Tom,2021,Oakland Athletics,16,1,1,0,1,0,6,.063,.063,.063,.126,hitter
+Lou Trivino,2021,Oakland Athletics,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jordan Weems,2021,Oakland Athletics,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+J.B. Wendelken,2021,Oakland Athletics,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jacob Wilson,2021,Oakland Athletics,7,1,1,0,0,0,1,.143,.143,.143,.286,hitter
+Anthony Alford,2021,Pittsburgh Pirates,133,14,31,5,11,12,58,.233,.311,.406,.717,hitter
+Tanner Anderson,2021,Pittsburgh Pirates,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Tyler Anderson,2021,Pittsburgh Pirates,37,1,4,1,1,0,27,.108,.108,.189,.297,hitter
+Anthony Banda,2021,New York Mets,1,1,0,0,0,0,0,.000,.000,.000,.000,hitter
+David Bednar,2021,Pittsburgh Pirates,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Steven Brault,2021,Pittsburgh Pirates,6,0,1,0,0,0,2,.167,.167,.333,.500,hitter
+JT Brubaker,2021,Pittsburgh Pirates,38,0,3,0,3,4,15,.079,.167,.079,.246,hitter
+Trevor Cahill,2021,Pittsburgh Pirates,9,0,1,0,0,0,4,.111,.111,.111,.222,hitter
+Rodolfo Castro,2021,Pittsburgh Pirates,86,9,17,5,8,6,27,.198,.258,.395,.653,hitter
+Michael Chavis,2021,Boston Red Sox,79,12,15,2,6,1,32,.190,.207,.342,.549,hitter
+Roansy Contreras,2021,Pittsburgh Pirates,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Will Craig,2021,Pittsburgh Pirates,60,5,13,1,3,5,22,.217,.277,.300,.577,hitter
+Kyle Crick,2021,Pittsburgh Pirates,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Wil Crowe,2021,Pittsburgh Pirates,35,2,2,0,0,1,14,.057,.108,.086,.194,hitter
+Oneil Cruz,2021,Pittsburgh Pirates,9,2,3,1,3,0,4,.333,.333,.667,1.000,hitter
+Austin Davis,2021,Pittsburgh Pirates,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Taylor Davis,2021,Pittsburgh Pirates,5,0,2,0,0,1,0,.400,.500,.400,.900,hitter
+Chase De Jong,2021,Pittsburgh Pirates,12,1,1,0,0,0,5,.083,.083,.167,.250,hitter
+Enyel De Los Santos,2021,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Wilmer Difo,2021,Pittsburgh Pirates,219,25,59,4,24,20,54,.269,.329,.384,.713,hitter
+Phillip Evans,2021,Pittsburgh Pirates,214,23,44,5,16,28,53,.206,.312,.299,.611,hitter
+Michael Feliz,2021,Pittsburgh Pirates,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Dustin Fowler,2021,Pittsburgh Pirates,41,3,7,0,2,3,20,.171,.239,.195,.434,hitter
+Adam Frazier,2021,Pittsburgh Pirates,386,58,125,4,32,35,46,.324,.388,.448,.836,hitter
+Todd Frazier,2021,Pittsburgh Pirates,35,3,3,0,4,3,6,.086,.200,.114,.314,hitter
+Ben Gamel,2021,Cleveland Indians,14,1,1,0,0,3,6,.071,.235,.143,.378,hitter
+Erik González,2021,Pittsburgh Pirates,220,17,51,2,21,8,40,.232,.258,.300,.558,hitter
+Geoff Hartlieb,2021,Pittsburgh Pirates,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ke'Bryan Hayes,2021,Pittsburgh Pirates,362,49,93,6,38,31,87,.257,.316,.373,.689,hitter
+Clay Holmes,2021,Pittsburgh Pirates,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Sam Howard,2021,Pittsburgh Pirates,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kyle Keller,2021,Pittsburgh Pirates,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mitch Keller,2021,Pittsburgh Pirates,28,2,3,0,0,2,14,.107,.167,.107,.274,hitter
+Max Kranick,2021,Pittsburgh Pirates,12,0,0,0,0,0,5,.000,.000,.000,.000,hitter
+Chad Kuhl,2021,Pittsburgh Pirates,21,1,1,0,0,1,11,.048,.091,.048,.139,hitter
+Nick Mears,2021,Pittsburgh Pirates,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Shelby Miller,2021,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Colin Moran,2021,Pittsburgh Pirates,318,29,82,10,50,36,87,.258,.334,.390,.724,hitter
+Kevin Newman,2021,Pittsburgh Pirates,517,50,117,5,39,27,41,.226,.265,.309,.574,hitter
+John Nogowski,2021,St. Louis Cardinals,18,2,1,0,0,1,2,.056,.150,.056,.206,hitter
+Jared Oliva,2021,Pittsburgh Pirates,40,4,7,0,2,3,10,.175,.233,.225,.458,hitter
+Connor Overton,2021,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Luis Oviedo,2021,Pittsburgh Pirates,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Hunter Owen,2021,Pittsburgh Pirates,4,0,0,0,0,0,3,.000,.200,.000,.200,hitter
+Hoy Park,2021,New York Yankees,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Michael Pérez,2021,Pittsburgh Pirates,210,19,30,7,21,19,68,.143,.221,.290,.511,hitter
+Dillon Peters,2021,Pittsburgh Pirates,5,1,0,0,0,1,4,.000,.167,.000,.167,hitter
+Gregory Polanco,2021,Pittsburgh Pirates,336,38,70,11,36,36,104,.208,.283,.354,.637,hitter
+Cody Ponce,2021,Pittsburgh Pirates,6,0,0,0,0,0,4,.000,.000,.000,.000,hitter
+Sean Poppen,2021,Pittsburgh Pirates,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Bryan Reynolds,2021,Pittsburgh Pirates,559,93,169,24,90,75,119,.302,.390,.522,.912,hitter
+Richard Rodríguez,2021,Pittsburgh Pirates,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chasen Shreve,2021,Pittsburgh Pirates,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Shea Spitzbarth,2021,Pittsburgh Pirates,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jacob Stallings,2021,Pittsburgh Pirates,374,38,92,8,53,49,85,.246,.335,.369,.704,hitter
+Troy Stokes Jr.,2021,Pittsburgh Pirates,18,2,2,0,2,1,5,.111,.200,.167,.367,hitter
+Chris Stratton,2021,Pittsburgh Pirates,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Ka'ai Tom,2021,Oakland Athletics,16,1,1,0,1,0,6,.063,.063,.063,.126,hitter
+Yoshi Tsutsugo,2021,Tampa Bay Rays,78,5,13,0,5,8,27,.167,.244,.218,.462,hitter
+Cole Tucker,2021,Pittsburgh Pirates,117,15,26,2,12,13,33,.222,.298,.342,.640,hitter
+Duane Underwood Jr.,2021,Pittsburgh Pirates,4,0,0,0,0,0,4,.000,.000,.000,.000,hitter
+Ildemaro Vargas,2021,Chicago Cubs,21,3,3,0,2,3,7,.143,.250,.238,.488,hitter
+Bryse Wilson,2021,Atlanta Braves,12,0,1,0,0,0,5,.083,.154,.083,.237,hitter
+Miguel Yajure,2021,Pittsburgh Pirates,3,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Austin Adams,2021,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Dan Altavilla,2021,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Shaun Anderson,2021,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+John Andreoli,2021,San Diego Padres,6,2,1,0,0,1,3,.167,.286,.333,.619,hitter
+Jake Arrieta,2021,Chicago Cubs,21,2,2,0,0,2,16,.095,.208,.095,.303,hitter
+Pedro Avila,2021,San Diego Padres,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Daniel Camarena,2021,San Diego Padres,3,1,1,1,4,0,2,.333,.333,1.333,1.666,hitter
+Luis Campusano,2021,San Diego Padres,34,0,3,0,1,4,11,.088,.184,.088,.272,hitter
+Victor Caratini,2021,San Diego Padres,313,33,71,7,39,35,82,.227,.309,.323,.632,hitter
+Ivan Castillo,2021,San Diego Padres,3,0,1,0,1,1,0,.333,.500,.333,.833,hitter
+Nabil Crismatt,2021,San Diego Padres,10,0,0,0,0,0,6,.000,.000,.000,.000,hitter
+Jake Cronenworth,2021,San Diego Padres,567,94,151,21,71,55,90,.266,.340,.460,.800,hitter
+Yu Darvish,2021,San Diego Padres,53,2,5,0,1,0,25,.094,.111,.132,.243,hitter
+Ross Detwiler,2021,Miami Marlins,3,0,1,0,0,0,2,.333,.333,.333,.666,hitter
+Miguel Díaz,2021,San Diego Padres,3,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Adam Frazier,2021,Pittsburgh Pirates,386,58,125,4,32,35,46,.324,.388,.448,.836,hitter
+Trent Grisham,2021,San Diego Padres,462,61,112,15,62,54,119,.242,.327,.413,.740,hitter
+Javy Guerra,2021,San Diego Padres,0,1,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tim Hill,2021,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Eric Hosmer,2021,San Diego Padres,509,53,137,12,65,48,99,.269,.337,.395,.732,hitter
+Daniel Hudson,2021,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Pierce Johnson,2021,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Keone Kela,2021,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ha-Seong Kim,2021,San Diego Padres,267,27,54,8,34,22,71,.202,.270,.352,.622,hitter
+Patrick Kivlehan,2021,San Diego Padres,4,3,1,0,2,2,3,.250,.500,.250,.750,hitter
+Reiss Knehr,2021,San Diego Padres,8,0,0,0,0,0,5,.000,.000,.000,.000,hitter
+Dinelson Lamet,2021,San Diego Padres,6,0,0,0,0,1,6,.000,.143,.000,.143,hitter
+Manny Machado,2021,San Diego Padres,564,92,157,28,106,63,102,.278,.347,.489,.836,hitter
+Tucupita Marcano,2021,San Diego Padres,44,7,8,0,3,6,9,.182,.280,.205,.485,hitter
+Jake Marisnick,2021,Chicago Cubs,128,17,29,5,22,9,43,.227,.294,.438,.732,hitter
+Jorge Mateo,2021,San Diego Padres,87,10,18,2,6,2,27,.207,.250,.322,.572,hitter
+Mark Melancon,2021,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Adrian Morejon,2021,San Diego Padres,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Joe Musgrove,2021,San Diego Padres,51,2,7,0,1,1,23,.137,.151,.176,.327,hitter
+Wil Myers,2021,San Diego Padres,442,56,113,17,63,54,141,.256,.334,.434,.768,hitter
+Austin Nola,2021,San Diego Padres,173,15,47,2,29,14,19,.272,.340,.376,.716,hitter
+Aaron Northcraft,2021,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+James Norwood,2021,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brian O'Grady,2021,San Diego Padres,51,8,8,2,9,8,17,.157,.267,.333,.600,hitter
+Chris Paddack,2021,San Diego Padres,35,0,1,0,0,1,26,.029,.081,.029,.110,hitter
+Emilio Pagán,2021,San Diego Padres,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Tommy Pham,2021,San Diego Padres,475,74,109,15,49,78,128,.229,.340,.383,.723,hitter
+Drew Pomeranz,2021,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jurickson Profar,2021,San Diego Padres,353,47,80,4,33,49,65,.227,.329,.320,.649,hitter
+Nick Ramirez,2021,San Diego Padres,3,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Webster Rivas,2021,San Diego Padres,68,8,15,2,4,8,16,.221,.303,.338,.641,hitter
+Blake Snell,2021,San Diego Padres,34,1,4,0,0,0,17,.118,.118,.118,.236,hitter
+Craig Stammen,2021,San Diego Padres,5,0,1,0,0,0,3,.200,.200,.200,.400,hitter
+Matt Strahm,2021,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Fernando Tatis Jr.,2021,San Diego Padres,478,99,135,42,97,62,153,.282,.364,.611,.975,hitter
+Mason Thompson,2021,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Vince Velasquez,2021,Philadelphia Phillies,22,0,2,0,2,1,9,.091,.130,.091,.221,hitter
+Ryan Weathers,2021,San Diego Padres,27,3,4,1,1,1,7,.148,.179,.259,.438,hitter
+Taylor Williams,2021,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tyler Anderson,2021,Pittsburgh Pirates,37,1,4,1,1,0,27,.108,.108,.189,.297,hitter
+Matt Andriese,2021,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jake Bauers,2021,Cleveland Indians,100,7,19,2,6,12,27,.190,.277,.280,.557,hitter
+Braden Bishop,2021,Seattle Mariners,4,1,1,0,0,0,2,.250,.250,.250,.500,hitter
+Eric Campbell,2021,Seattle Mariners,11,1,3,0,0,1,1,.273,.333,.273,.606,hitter
+Diego Castillo,2021,Tampa Bay Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+JT Chargois,2021,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+J.P. Crawford,2021,Seattle Mariners,619,89,169,9,54,58,114,.273,.338,.376,.714,hitter
+Sean Doolittle,2021,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Robert Dugger,2021,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Justin Dunn,2021,Seattle Mariners,3,0,1,0,1,0,2,.333,.333,.667,1.000,hitter
+Aaron Fletcher,2021,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chris Flexen,2021,Seattle Mariners,3,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jake Fraley,2021,Seattle Mariners,214,27,45,9,36,46,71,.210,.352,.369,.721,hitter
+Ty France,2021,Seattle Mariners,571,85,166,18,73,46,106,.291,.368,.445,.813,hitter
+José Godoy,2021,Seattle Mariners,37,2,6,0,3,3,14,.162,.225,.189,.414,hitter
+Marco Gonzales,2021,Seattle Mariners,4,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Kendall Graveman,2021,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Sam Haggerty,2021,Seattle Mariners,86,15,16,2,5,6,28,.186,.247,.291,.538,hitter
+Mitch Haniger,2021,Seattle Mariners,620,110,157,39,100,54,169,.253,.318,.485,.803,hitter
+Jarred Kelenic,2021,Seattle Mariners,337,41,61,14,43,36,106,.181,.265,.350,.615,hitter
+Yusei Kikuchi,2021,Seattle Mariners,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Kyle Lewis,2021,Seattle Mariners,130,15,32,5,11,16,37,.246,.333,.392,.725,hitter
+Shed Long Jr.,2021,Seattle Mariners,111,13,22,4,17,9,39,.198,.258,.360,.618,hitter
+José Marmolejos,2021,Seattle Mariners,106,11,17,4,12,15,39,.160,.262,.311,.573,hitter
+Jack Mayfield,2021,Seattle Mariners,34,2,6,0,3,1,10,.176,.200,.206,.406,hitter
+Darren McCaughan,2021,Seattle Mariners,2,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Keynan Middleton,2021,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Wyatt Mills,2021,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Anthony Misiewicz,2021,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Rafael Montero,2021,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Dylan Moore,2021,Seattle Mariners,332,42,60,12,43,40,111,.181,.276,.334,.610,hitter
+Tom Murphy,2021,Seattle Mariners,277,35,56,11,34,40,99,.202,.304,.350,.654,hitter
+Jacob Nottingham,2021,Milwaukee Brewers,14,2,3,2,4,0,8,.214,.214,.714,.928,hitter
+Kevin Padlo,2021,Tampa Bay Rays,12,1,1,0,0,2,8,.083,.214,.167,.381,hitter
+Cal Raleigh,2021,Seattle Mariners,139,6,25,2,13,7,52,.180,.223,.309,.532,hitter
+Yohan Ramírez,2021,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Yacksel Ríos,2021,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Casey Sadler,2021,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kyle Seager,2021,Seattle Mariners,603,73,128,35,101,59,161,.212,.285,.438,.723,hitter
+Paul Sewald,2021,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Justus Sheffield,2021,Seattle Mariners,2,0,1,0,0,0,1,.500,.500,.500,1.000,hitter
+Joe Smith,2021,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Drew Steckenrider,2021,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Erik Swanson,2021,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Domingo Tapia,2021,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Dillon Thomas,2021,Seattle Mariners,9,2,1,0,2,0,7,.111,.111,.111,.222,hitter
+Abraham Toro,2021,Houston Astros,109,17,23,6,20,9,21,.211,.287,.385,.672,hitter
+Luis Torrens,2021,Seattle Mariners,346,39,84,15,47,28,99,.243,.299,.431,.730,hitter
+Taylor Trammell,2021,Seattle Mariners,156,23,25,8,18,17,75,.160,.256,.359,.615,hitter
+Will Vest,2021,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Donovan Walton,2021,Seattle Mariners,63,6,13,2,7,4,15,.206,.254,.365,.619,hitter
+Ryan Weber,2021,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Evan White,2021,Seattle Mariners,97,8,14,2,9,6,31,.144,.202,.237,.439,hitter
+Jose Alvarez,2021,San Francisco Giants,2,1,0,0,0,2,2,.000,.500,.000,.500,hitter
+Caleb Baragar,2021,San Francisco Giants,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Joey Bart,2021,San Francisco Giants,6,1,2,0,1,0,2,.333,.333,.333,.666,hitter
+Tyler Beede,2021,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brandon Belt,2021,San Francisco Giants,325,65,89,29,59,48,103,.274,.378,.597,.975,hitter
+Skye Bolt,2021,San Francisco Giants,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+John Brebbia,2021,San Francisco Giants,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Kris Bryant,2021,Chicago Cubs,326,58,87,18,51,39,89,.267,.358,.503,.861,hitter
+Curt Casali,2021,San Francisco Giants,200,20,42,5,26,26,66,.210,.313,.350,.663,hitter
+Kervin Castro,2021,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tyler Chatwood,2021,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brandon Crawford,2021,San Francisco Giants,483,79,144,24,90,56,105,.298,.373,.522,.895,hitter
+Johnny Cueto,2021,San Francisco Giants,29,1,2,0,0,3,9,.069,.156,.069,.225,hitter
+Jaylin Davis,2021,San Francisco Giants,9,1,1,0,0,0,1,.111,.111,.222,.333,hitter
+Anthony DeSclafani,2021,San Francisco Giants,51,2,2,0,1,4,33,.039,.109,.059,.168,hitter
+Alex Dickerson,2021,San Francisco Giants,283,37,66,13,38,23,76,.233,.304,.420,.724,hitter
+Camilo Doval,2021,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mauricio Dubón,2021,San Francisco Giants,175,20,42,5,22,9,41,.240,.278,.377,.655,hitter
+Steven Duggar,2021,San Francisco Giants,268,45,69,8,35,27,88,.257,.330,.437,.767,hitter
+Thairo Estrada,2021,San Francisco Giants,121,19,33,7,22,9,23,.273,.333,.479,.812,hitter
+Wilmer Flores,2021,San Francisco Giants,389,57,102,18,53,41,56,.262,.335,.447,.782,hitter
+Jarlín García,2021,San Francisco Giants,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Kevin Gausman,2021,San Francisco Giants,54,6,10,0,4,2,31,.185,.211,.185,.396,hitter
+Jay Jackson,2021,San Francisco Giants,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Scott Kazmir,2021,San Francisco Giants,3,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Tommy La Stella,2021,San Francisco Giants,220,26,55,7,27,18,26,.250,.308,.405,.713,hitter
+Dominic Leone,2021,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Zack Littell,2021,San Francisco Giants,4,0,1,0,0,0,3,.250,.250,.250,.500,hitter
+Sam Long,2021,San Francisco Giants,10,0,1,0,0,0,4,.100,.100,.100,.200,hitter
+Evan Longoria,2021,San Francisco Giants,253,45,66,13,46,35,68,.261,.351,.482,.833,hitter
+Jake McGee,2021,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Conner Menez,2021,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Reyes Moronta,2021,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Wandy Peralta,2021,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Buster Posey,2021,San Francisco Giants,395,68,120,18,56,56,87,.304,.390,.499,.889,hitter
+Jose Quintana,2021,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tyler Rogers,2021,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Darin Ruf,2021,San Francisco Giants,262,41,71,16,43,46,87,.271,.385,.519,.904,hitter
+Aaron Sanchez,2021,San Francisco Giants,10,0,0,0,0,0,7,.000,.000,.000,.000,hitter
+Gregory Santos,2021,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Sam Selman,2021,San Francisco Giants,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Jimmie Sherfy,2021,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Austin Slater,2021,San Francisco Giants,274,39,66,12,32,28,84,.241,.320,.423,.743,hitter
+Donovan Solano,2021,San Francisco Giants,307,35,86,7,31,25,58,.280,.344,.404,.748,hitter
+Mike Tauchman,2021,New York Yankees,14,1,3,0,0,1,6,.214,.267,.286,.553,hitter
+Chadwick Tromp,2021,San Francisco Giants,18,1,4,1,2,0,4,.222,.222,.389,.611,hitter
+Nick Tropeano,2021,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jason Vosler,2021,San Francisco Giants,73,12,13,3,9,7,21,.178,.256,.356,.612,hitter
+LaMonte Wade Jr.,2021,San Francisco Giants,336,52,85,18,56,33,89,.253,.326,.482,.808,hitter
+Tony Watson,2021,Los Angeles Angels,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Logan Webb,2021,San Francisco Giants,46,7,6,1,7,2,21,.130,.167,.283,.450,hitter
+Matt Wisler,2021,San Francisco Giants,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Alex Wood,2021,San Francisco Giants,38,0,0,0,0,5,26,.000,.116,.000,.116,hitter
+Mike Yastrzemski,2021,San Francisco Giants,468,75,105,25,71,51,131,.224,.311,.457,.768,hitter
+Nolan Arenado,2021,St. Louis Cardinals,593,81,151,34,105,50,96,.255,.312,.494,.806,hitter
+Harrison Bader,2021,St. Louis Cardinals,367,45,98,16,50,27,85,.267,.324,.460,.784,hitter
+Génesis Cabrera,2021,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Dylan Carlson,2021,St. Louis Cardinals,542,79,144,18,65,57,152,.266,.343,.437,.780,hitter
+Matt Carpenter,2021,St. Louis Cardinals,207,18,35,3,21,35,77,.169,.305,.275,.580,hitter
+Paul DeJong,2021,St. Louis Cardinals,356,44,70,19,45,35,103,.197,.284,.390,.674,hitter
+Austin Dean,2021,St. Louis Cardinals,30,5,7,1,7,6,11,.233,.342,.400,.742,hitter
+Brandon Dickson,2021,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tommy Edman,2021,St. Louis Cardinals,641,91,168,11,56,38,95,.262,.308,.387,.695,hitter
+Seth Elledge,2021,St. Louis Cardinals,2,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Junior Fernández,2021,St. Louis Cardinals,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Jack Flaherty,2021,St. Louis Cardinals,17,2,2,1,3,5,7,.118,.304,.294,.598,hitter
+Bernardo Flores Jr.,2021,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Giovanny Gallegos,2021,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+John Gant,2021,St. Louis Cardinals,13,0,0,0,0,0,8,.000,.000,.000,.000,hitter
+Luis García,2021,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Paul Goldschmidt,2021,St. Louis Cardinals,603,102,177,31,99,67,136,.294,.365,.514,.879,hitter
+J.A. Happ,2021,St. Louis Cardinals,14,0,0,0,0,1,5,.000,.067,.000,.067,hitter
+Ryan Helsley,2021,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jordan Hicks,2021,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Dakota Hudson,2021,St. Louis Cardinals,3,1,1,0,0,1,2,.333,.500,.333,.833,hitter
+Scott Hurst,2021,St. Louis Cardinals,5,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Kwang Hyun Kim,2021,St. Louis Cardinals,26,0,3,0,2,0,9,.115,.148,.154,.302,hitter
+Andrew Knizner,2021,St. Louis Cardinals,161,18,28,1,9,20,39,.174,.281,.236,.517,hitter
+Wade LeBlanc,2021,St. Louis Cardinals,11,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Jon Lester,2021,Washington Nationals,28,3,5,1,3,0,13,.179,.179,.286,.465,hitter
+Carlos Martinez,2021,St. Louis Cardinals,24,1,2,0,0,0,15,.083,.083,.125,.208,hitter
+T.J. McFarland,2021,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Miles Mikolas,2021,St. Louis Cardinals,8,0,0,0,0,1,5,.000,.111,.000,.111,hitter
+Andrew Miller,2021,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Justin Miller,2021,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Yadier Molina,2021,St. Louis Cardinals,440,45,111,11,66,24,79,.252,.297,.370,.667,hitter
+Max Moroff,2021,St. Louis Cardinals,16,0,1,0,1,0,10,.063,.063,.063,.126,hitter
+John Nogowski,2021,St. Louis Cardinals,18,2,1,0,0,1,2,.056,.150,.056,.206,hitter
+Lars Nootbaar,2021,St. Louis Cardinals,109,15,26,5,15,13,28,.239,.317,.422,.739,hitter
+Tyler O'Neill,2021,St. Louis Cardinals,482,89,138,34,80,38,168,.286,.352,.560,.912,hitter
+Johan Oviedo,2021,St. Louis Cardinals,20,3,3,0,2,2,9,.150,.227,.150,.377,hitter
+Daniel Ponce de Leon,2021,St. Louis Cardinals,5,0,0,0,0,0,5,.000,.000,.000,.000,hitter
+Roel Ramírez,2021,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Alex Reyes,2021,St. Louis Cardinals,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Angel Rondón,2021,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+José Rondón,2021,St. Louis Cardinals,80,13,21,3,9,8,17,.263,.322,.413,.735,hitter
+Ali Sánchez,2021,St. Louis Cardinals,4,0,2,0,0,0,0,.500,.500,1.000,1.500,hitter
+Edmundo Sosa,2021,St. Louis Cardinals,288,39,78,6,27,17,63,.271,.346,.389,.735,hitter
+Lane Thomas,2021,St. Louis Cardinals,48,2,5,0,1,10,17,.104,.259,.125,.384,hitter
+Brandon Waddell,2021,St. Louis Cardinals,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Adam Wainwright,2021,St. Louis Cardinals,57,1,7,0,4,3,25,.123,.167,.158,.325,hitter
+Tyler Webb,2021,St. Louis Cardinals,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Kodi Whitley,2021,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Justin Williams,2021,St. Louis Cardinals,119,10,19,4,11,17,46,.160,.270,.261,.531,hitter
+Jake Woodford,2021,St. Louis Cardinals,18,0,2,0,0,0,9,.111,.111,.111,.222,hitter
+Willy Adames,2021,Tampa Bay Rays,132,16,26,5,15,10,51,.197,.254,.371,.625,hitter
+Chris Archer,2021,Tampa Bay Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Shawn Armstrong,2021,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Randy Arozarena,2021,Tampa Bay Rays,529,94,145,20,69,56,170,.274,.356,.459,.815,hitter
+Mike Brosseau,2021,Tampa Bay Rays,150,21,28,5,18,15,53,.187,.266,.347,.613,hitter
+Vidal Bruján,2021,Tampa Bay Rays,26,3,2,0,2,0,8,.077,.077,.077,.154,hitter
+Diego Castillo,2021,Tampa Bay Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+JT Chargois,2021,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ji Man Choi,2021,Tampa Bay Rays,258,36,59,11,45,45,87,.229,.348,.411,.759,hitter
+Adam Conley,2021,Tampa Bay Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Nelson Cruz,2021,Minnesota Twins,296,44,87,19,50,35,63,.294,.370,.537,.907,hitter
+Yandy Díaz,2021,Tampa Bay Rays,465,62,119,13,64,69,85,.256,.353,.387,.740,hitter
+Chris Ellis,2021,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Pete Fairbanks,2021,Tampa Bay Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+J.P. Feyereisen,2021,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Josh Fleming,2021,Tampa Bay Rays,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Wander Franco,2021,Tampa Bay Rays,281,53,81,7,39,24,37,.288,.347,.463,.810,hitter
+Tyler Glasnow,2021,Tampa Bay Rays,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+David Hess,2021,Miami Marlins,4,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Rich Hill,2021,Tampa Bay Rays,4,0,1,0,0,0,2,.250,.250,.250,.500,hitter
+Kevin Kiermaier,2021,Tampa Bay Rays,348,54,90,4,37,33,99,.259,.328,.388,.716,hitter
+Andrew Kittredge,2021,Tampa Bay Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brandon Lowe,2021,Tampa Bay Rays,535,97,132,39,99,68,167,.247,.340,.523,.863,hitter
+Josh Lowe,2021,Tampa Bay Rays,1,0,1,0,0,1,0,1.000,1.000,1.000,2.000,hitter
+Jordan Luplow,2021,Cleveland Indians,98,12,17,7,20,21,31,.173,.331,.439,.770,hitter
+Manuel Margot,2021,Tampa Bay Rays,421,55,107,10,57,37,70,.254,.313,.382,.695,hitter
+Collin McHugh,2021,Tampa Bay Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Austin Meadows,2021,Tampa Bay Rays,518,79,121,27,106,59,122,.234,.315,.458,.773,hitter
+Francisco Mejía,2021,Tampa Bay Rays,250,31,65,6,35,17,49,.260,.322,.416,.738,hitter
+Joseph Odom,2021,Tampa Bay Rays,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Kevin Padlo,2021,Tampa Bay Rays,12,1,1,0,0,2,8,.083,.214,.167,.381,hitter
+Brett Phillips,2021,Tampa Bay Rays,253,50,52,13,44,33,113,.206,.300,.427,.727,hitter
+Evan Phillips,2021,Los Angeles Dodgers,3,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Sean Poppen,2021,Pittsburgh Pirates,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Drew Rasmussen,2021,Milwaukee Brewers,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Trevor Richards,2021,Milwaukee Brewers,0,1,0,0,0,1,0,.000,1.000,.000,1.000,hitter
+Chaz Roe,2021,Tampa Bay Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ryan Sherriff,2021,Tampa Bay Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kevan Smith,2021,Tampa Bay Rays,4,2,1,0,0,0,2,.250,.250,.250,.500,hitter
+Jeffrey Springs,2021,Tampa Bay Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Hunter Strickland,2021,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ryan Thompson,2021,Tampa Bay Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Yoshi Tsutsugo,2021,Tampa Bay Rays,78,5,13,0,5,8,27,.167,.244,.218,.462,hitter
+Michael Wacha,2021,Tampa Bay Rays,3,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Taylor Walls,2021,Tampa Bay Rays,152,15,32,1,15,23,49,.211,.314,.296,.610,hitter
+Joey Wendle,2021,Tampa Bay Rays,460,73,122,11,54,28,113,.265,.319,.422,.741,hitter
+Matt Wisler,2021,San Francisco Giants,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Ryan Yarbrough,2021,Tampa Bay Rays,4,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Mike Zunino,2021,Tampa Bay Rays,333,64,72,33,62,34,132,.216,.301,.559,.860,hitter
+Kolby Allard,2021,Texas Rangers,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Kohei Arihara,2021,Texas Rangers,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Joe Barlow,2021,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Wes Benjamin,2021,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Willie Calhoun,2021,Texas Rangers,260,26,65,6,25,21,34,.250,.310,.381,.691,hitter
+Jharel Cotton,2021,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Charlie Culberson,2021,Texas Rangers,247,23,60,5,22,17,64,.243,.296,.381,.677,hitter
+David Dahl,2021,Texas Rangers,205,19,43,4,18,10,59,.210,.247,.322,.569,hitter
+Khris Davis,2021,Texas Rangers,51,8,8,2,5,8,16,.157,.262,.333,.595,hitter
+Ryan Dorow,2021,Texas Rangers,6,0,0,0,0,1,3,.000,.143,.000,.143,hitter
+Dane Dunning,2021,Texas Rangers,3,0,1,0,0,0,1,.333,.333,.333,.666,hitter
+Demarcus Evans,2021,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mike Foltynewicz,2021,Texas Rangers,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Joey Gallo,2021,Texas Rangers,310,57,69,25,55,74,125,.223,.379,.490,.869,hitter
+Adolis García,2021,Texas Rangers,581,77,141,31,90,32,194,.243,.286,.454,.740,hitter
+Kyle Gibson,2021,Texas Rangers,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Ronald Guzmán,2021,Texas Rangers,16,1,1,1,1,1,6,.063,.118,.250,.368,hitter
+Taylor Hearn,2021,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jonah Heim,2021,Texas Rangers,265,22,52,10,32,15,58,.196,.239,.358,.597,hitter
+Jimmy Herget,2021,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Yonny Hernández,2021,Texas Rangers,143,15,31,0,6,17,32,.217,.315,.252,.567,hitter
+John Hicks,2021,Texas Rangers,31,6,8,4,7,0,8,.258,.258,.677,.935,hitter
+Brock Holt,2021,Texas Rangers,235,21,49,2,23,23,49,.209,.281,.298,.579,hitter
+Spencer Howard,2021,Philadelphia Phillies,6,0,2,0,0,0,3,.333,.333,.500,.833,hitter
+Andy Ibáñez,2021,Texas Rangers,253,31,70,7,25,15,35,.277,.321,.435,.756,hitter
+Ian Kennedy,2021,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Isiah Kiner-Falefa,2021,Texas Rangers,635,74,172,8,53,28,90,.271,.312,.357,.669,hitter
+John King,2021,Texas Rangers,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Nathaniel Lowe,2021,Texas Rangers,557,75,147,18,72,80,162,.264,.357,.415,.772,hitter
+Jordan Lyles,2021,Texas Rangers,6,0,0,0,0,0,5,.000,.000,.000,.000,hitter
+Brett Martin,2021,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jason Martin,2021,Texas Rangers,144,14,30,6,17,8,41,.208,.248,.354,.602,hitter
+Spencer Patton,2021,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+DJ Peters,2021,Los Angeles Dodgers,26,5,5,1,4,8,14,.192,.382,.385,.767,hitter
+Yohel Pozo,2021,Texas Rangers,74,8,21,1,9,3,10,.284,.312,.378,.690,hitter
+Joely Rodríguez,2021,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Dennis Santana,2021,Los Angeles Dodgers,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Josh Sborz,2021,Texas Rangers,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Nick Solak,2021,Texas Rangers,458,57,111,11,49,34,107,.242,.314,.362,.676,hitter
+Leody Taveras,2021,Texas Rangers,174,14,28,3,9,9,60,.161,.207,.270,.477,hitter
+Anderson Tejeda,2021,Texas Rangers,16,1,1,0,0,1,10,.063,.118,.063,.181,hitter
+Curtis Terry,2021,Texas Rangers,45,3,4,0,1,2,15,.089,.146,.133,.279,hitter
+Jose Trevino,2021,Texas Rangers,285,23,68,5,30,12,57,.239,.267,.340,.607,hitter
+Eli White,2021,Texas Rangers,198,26,35,6,15,18,66,.177,.259,.308,.567,hitter
+Hyeon-Jong Yang,2021,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brett de Geus,2021,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Riley Adams,2021,Toronto Blue Jays,28,2,3,0,0,2,12,.107,.167,.179,.346,hitter
+Jacob Barnes,2021,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Travis Bergen,2021,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+José Berríos,2021,Minnesota Twins,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Bo Bichette,2021,Toronto Blue Jays,640,121,191,29,102,40,137,.298,.343,.484,.827,hitter
+Cavan Biggio,2021,Toronto Blue Jays,250,27,56,7,27,37,78,.224,.322,.356,.678,hitter
+Ryan Borucki,2021,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tyler Chatwood,2021,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Adam Cimber,2021,Miami Marlins,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+A.J. Cole,2021,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jonathan Davis,2021,Toronto Blue Jays,70,16,10,1,4,11,21,.143,.282,.200,.482,hitter
+Corey Dickerson,2021,Miami Marlins,205,27,54,2,14,16,45,.263,.324,.380,.704,hitter
+Rafael Dolis,2021,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jarrod Dyson,2021,Kansas City Royals,122,13,27,0,10,6,28,.221,.256,.311,.567,hitter
+Carl Edwards Jr.,2021,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Santiago Espinal,2021,Toronto Blue Jays,222,32,69,2,17,22,30,.311,.376,.405,.781,hitter
+Randal Grichuk,2021,Toronto Blue Jays,511,59,123,22,81,27,114,.241,.281,.423,.704,hitter
+Vladimir Guerrero Jr.,2021,Toronto Blue Jays,604,123,188,48,111,86,110,.311,.401,.601,1.002,hitter
+Lourdes Gurriel Jr.,2021,Toronto Blue Jays,500,62,138,21,84,32,102,.276,.319,.466,.785,hitter
+Brad Hand,2021,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Teoscar Hernández,2021,Toronto Blue Jays,550,92,163,32,116,36,148,.296,.346,.524,.870,hitter
+Jared Hoying,2021,Toronto Blue Jays,3,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Danny Jansen,2021,Toronto Blue Jays,184,32,41,11,28,17,44,.223,.299,.473,.772,hitter
+Alejandro Kirk,2021,Toronto Blue Jays,165,19,40,8,24,19,22,.242,.328,.436,.764,hitter
+Jake Lamb,2021,Chicago White Sox,113,20,24,6,13,17,38,.212,.321,.389,.710,hitter
+Otto Lopez,2021,Toronto Blue Jays,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Alek Manoah,2021,Toronto Blue Jays,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Steven Matz,2021,Toronto Blue Jays,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Tim Mayza,2021,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Reese McGuire,2021,Toronto Blue Jays,198,22,50,1,10,15,44,.253,.310,.343,.653,hitter
+Patrick Murphy,2021,Washington Nationals,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Connor Overton,2021,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Joshua Palacios,2021,Toronto Blue Jays,35,7,7,0,4,3,11,.200,.293,.200,.493,hitter
+Joe Panik,2021,Toronto Blue Jays,114,9,28,2,11,8,14,.246,.293,.351,.644,hitter
+Joel Payamps,2021,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+David Phelps,2021,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Robbie Ray,2021,Toronto Blue Jays,4,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Trevor Richards,2021,Milwaukee Brewers,0,1,0,0,0,1,0,.000,1.000,.000,1.000,hitter
+Jordan Romano,2021,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Hyun Jin Ryu,2021,Toronto Blue Jays,4,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Tayler Saucedo,2021,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Marcus Semien,2021,Toronto Blue Jays,652,115,173,45,102,66,146,.265,.334,.538,.872,hitter
+Kevin Smith,2021,Toronto Blue Jays,32,2,3,1,1,3,11,.094,.194,.188,.382,hitter
+Kirby Snead,2021,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Joakim Soria,2021,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+George Springer,2021,Toronto Blue Jays,299,59,79,22,50,37,79,.264,.352,.555,.907,hitter
+Rowdy Tellez,2021,Toronto Blue Jays,139,12,29,4,8,9,33,.209,.272,.338,.610,hitter
+Trent Thornton,2021,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ty Tice,2021,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Breyvic Valera,2021,Toronto Blue Jays,87,10,22,1,15,8,12,.253,.313,.356,.669,hitter
+Jorge Alcala,2021,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Luis Arraez,2021,Minnesota Twins,428,58,126,2,42,43,48,.294,.357,.376,.733,hitter
+Willians Astudillo,2021,Minnesota Twins,208,17,49,7,21,3,12,.236,.259,.375,.634,hitter
+Charlie Barnes,2021,Minnesota Twins,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Kyle Barraclough,2021,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+José Berríos,2021,Minnesota Twins,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Travis Blankenhorn,2021,Minnesota Twins,0,1,0,0,0,0,0,.000,.000,.000,.000,hitter
+Beau Burrows,2021,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Byron Buxton,2021,Minnesota Twins,235,50,72,19,32,13,62,.306,.358,.647,1.005,hitter
+Jake Cave,2021,Minnesota Twins,164,14,31,3,13,10,62,.189,.249,.293,.542,hitter
+Gilberto Celestino,2021,Minnesota Twins,59,7,8,2,3,3,14,.136,.177,.288,.465,hitter
+Alex Colomé,2021,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Danny Coulombe,2021,Minnesota Twins,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Nelson Cruz,2021,Minnesota Twins,296,44,87,19,50,35,63,.294,.370,.537,.907,hitter
+Randy Dobnak,2021,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Josh Donaldson,2021,Minnesota Twins,457,73,113,26,72,74,114,.247,.352,.475,.827,hitter
+Tyler Duffey,2021,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+John Gant,2021,St. Louis Cardinals,13,0,0,0,0,0,8,.000,.000,.000,.000,hitter
+Edgar García,2021,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kyle Garlick,2021,Minnesota Twins,99,17,23,5,10,6,32,.232,.280,.465,.745,hitter
+Mitch Garver,2021,Minnesota Twins,207,29,53,13,34,31,71,.256,.358,.517,.875,hitter
+Nick Gordon,2021,Minnesota Twins,200,19,48,4,23,12,55,.240,.292,.355,.647,hitter
+J.A. Happ,2021,St. Louis Cardinals,14,0,0,0,0,1,5,.000,.067,.000,.067,hitter
+Griffin Jax,2021,Minnesota Twins,3,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Ryan Jeffers,2021,Minnesota Twins,267,28,53,14,35,22,108,.199,.270,.401,.671,hitter
+Max Kepler,2021,Minnesota Twins,426,61,90,19,54,54,96,.211,.306,.413,.719,hitter
+Alex Kirilloff,2021,Minnesota Twins,215,23,54,8,34,14,52,.251,.299,.423,.722,hitter
+Trevor Larnach,2021,Minnesota Twins,260,29,58,7,28,31,104,.223,.322,.350,.672,hitter
+Tzu-Wei Lin,2021,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kenta Maeda,2021,Minnesota Twins,3,2,1,0,0,0,1,.333,.333,.333,.666,hitter
+Juan Minaya,2021,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Bailey Ober,2021,Minnesota Twins,2,0,1,0,0,0,0,.500,.500,.500,1.000,hitter
+Michael Pineda,2021,Minnesota Twins,3,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Jorge Polanco,2021,Minnesota Twins,588,97,158,33,98,45,118,.269,.323,.503,.826,hitter
+Rob Refsnyder,2021,Minnesota Twins,139,21,34,2,12,17,40,.245,.325,.338,.663,hitter
+JT Riddle,2021,Minnesota Twins,6,1,2,0,0,0,0,.333,.333,.333,.666,hitter
+Hansel Robles,2021,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Taylor Rogers,2021,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brent Rooker,2021,Minnesota Twins,189,25,38,9,16,15,70,.201,.291,.397,.688,hitter
+Ben Rortvedt,2021,Minnesota Twins,89,8,15,3,7,6,29,.169,.229,.281,.510,hitter
+Joe Ryan,2021,Minnesota Twins,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Miguel Sanó,2021,Minnesota Twins,470,68,105,30,75,59,183,.223,.312,.466,.778,hitter
+Andrelton Simmons,2021,Minnesota Twins,412,37,92,3,31,32,62,.223,.283,.274,.557,hitter
+Cody Stashak,2021,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Caleb Thielbar,2021,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brandon Waddell,2021,St. Louis Cardinals,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+José Alvarado,2021,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chase Anderson,2021,Philadelphia Phillies,11,0,0,0,0,0,6,.000,.000,.000,.000,hitter
+Cam Bedrosian,2021,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Alec Bohm,2021,Philadelphia Phillies,380,46,94,7,47,31,111,.247,.305,.342,.647,hitter
+Jorge Bonifacio,2021,Philadelphia Phillies,11,0,1,0,2,1,6,.091,.167,.091,.258,hitter
+Archie Bradley,2021,Philadelphia Phillies,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Connor Brogdon,2021,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Sam Coonrod,2021,Philadelphia Phillies,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Hans Crouse,2021,Philadelphia Phillies,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Enyel De Los Santos,2021,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kyle Dohy,2021,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Seranthony Domínguez,2021,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Zach Eflin,2021,Philadelphia Phillies,29,1,0,0,1,1,15,.000,.065,.000,.065,hitter
+Bailey Falter,2021,Philadelphia Phillies,5,0,0,0,0,0,5,.000,.000,.000,.000,hitter
+Neftalí Feliz,2021,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Freddy Galvis,2021,Baltimore Orioles,249,36,62,9,26,18,58,.249,.306,.414,.720,hitter
+Kyle Gibson,2021,Texas Rangers,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Didi Gregorius,2021,Philadelphia Phillies,368,35,77,13,54,25,67,.209,.270,.370,.640,hitter
+David Hale,2021,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+JD Hammer,2021,Philadelphia Phillies,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Bryce Harper,2021,Philadelphia Phillies,488,101,151,35,84,100,134,.309,.429,.615,1.044,hitter
+Adam Haseley,2021,Philadelphia Phillies,21,2,4,0,0,0,4,.190,.190,.238,.428,hitter
+Odúbel Herrera,2021,Philadelphia Phillies,450,59,117,13,51,29,77,.260,.310,.416,.726,hitter
+Rhys Hoskins,2021,Philadelphia Phillies,389,64,96,27,71,47,108,.247,.334,.530,.864,hitter
+Spencer Howard,2021,Philadelphia Phillies,6,0,2,0,0,0,3,.333,.333,.500,.833,hitter
+Travis Jankowski,2021,Philadelphia Phillies,131,24,33,1,10,22,29,.252,.364,.351,.715,hitter
+Damon Jones,2021,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Matt Joyce,2021,Philadelphia Phillies,55,6,5,2,7,12,16,.091,.261,.218,.479,hitter
+Ian Kennedy,2021,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Scott Kingery,2021,Philadelphia Phillies,19,1,1,0,0,0,12,.053,.053,.053,.106,hitter
+Brandon Kintzler,2021,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Andrew Knapp,2021,Philadelphia Phillies,145,13,22,2,11,10,61,.152,.215,.214,.429,hitter
+Mauricio Llovera,2021,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Rafael Marchán,2021,Philadelphia Phillies,52,7,12,1,4,4,10,.231,.286,.346,.632,hitter
+Nick Maton,2021,Philadelphia Phillies,117,16,30,2,14,10,39,.256,.323,.385,.708,hitter
+Andrew McCutchen,2021,Philadelphia Phillies,482,78,107,27,80,81,132,.222,.334,.444,.778,hitter
+Adonis Medina,2021,Philadelphia Phillies,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Brad Miller,2021,Philadelphia Phillies,331,53,75,20,49,45,112,.227,.321,.453,.774,hitter
+Mickey Moniak,2021,Philadelphia Phillies,33,3,3,1,3,3,16,.091,.167,.182,.349,hitter
+Matt Moore,2021,Philadelphia Phillies,19,0,0,0,0,0,13,.000,.000,.000,.000,hitter
+Héctor Neris,2021,Philadelphia Phillies,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Aaron Nola,2021,Philadelphia Phillies,49,5,7,0,4,6,29,.143,.232,.184,.416,hitter
+David Paulino,2021,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Roman Quinn,2021,Philadelphia Phillies,52,8,9,0,2,6,19,.173,.306,.288,.594,hitter
+J.T. Realmuto,2021,Philadelphia Phillies,476,64,125,17,73,48,129,.263,.343,.439,.782,hitter
+JoJo Romero,2021,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ramón Rosso,2021,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Cristopher Sánchez,2021,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jean Segura,2021,Philadelphia Phillies,514,76,149,14,58,39,78,.290,.348,.436,.784,hitter
+Ranger Suárez,2021,Philadelphia Phillies,16,2,3,0,1,1,5,.188,.278,.313,.591,hitter
+Ronald Torreyes,2021,Philadelphia Phillies,318,30,77,7,41,19,41,.242,.286,.346,.632,hitter
+Vince Velasquez,2021,Philadelphia Phillies,22,0,2,0,2,1,9,.091,.130,.091,.221,hitter
+Matt Vierling,2021,Philadelphia Phillies,71,11,23,2,6,4,20,.324,.364,.479,.843,hitter
+Zack Wheeler,2021,Philadelphia Phillies,68,1,11,0,3,0,39,.162,.162,.191,.353,hitter
+Luke Williams,2021,Philadelphia Phillies,98,8,24,1,6,10,23,.245,.315,.316,.631,hitter
+Ronald Acuña Jr.,2021,Atlanta Braves,297,72,84,24,52,49,85,.283,.394,.596,.990,hitter
+Ehire Adrianza,2021,Atlanta Braves,182,32,45,5,28,21,42,.247,.327,.401,.728,hitter
+Abraham Almonte,2021,Atlanta Braves,148,20,32,5,19,26,38,.216,.331,.399,.730,hitter
+Ian Anderson,2021,Atlanta Braves,37,0,2,0,0,1,29,.054,.079,.081,.160,hitter
+Orlando Arcia,2021,Milwaukee Brewers,11,0,1,0,1,0,3,.091,.091,.091,.182,hitter
+Jesse Biddle,2021,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Johan Camargo,2021,Atlanta Braves,16,1,0,0,0,2,6,.000,.111,.000,.111,hitter
+Jesse Chavez,2021,Atlanta Braves,3,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+William Contreras,2021,Atlanta Braves,163,19,35,8,23,19,54,.215,.303,.399,.702,hitter
+Tucker Davidson,2021,Atlanta Braves,6,0,0,0,0,0,6,.000,.000,.000,.000,hitter
+Grant Dayton,2021,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Adam Duvall,2021,Miami Marlins,314,41,72,22,68,21,105,.229,.277,.478,.755,hitter
+Carl Edwards Jr.,2021,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jay Flaa,2021,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Freddie Freeman,2021,Atlanta Braves,600,120,180,31,83,85,107,.300,.393,.503,.896,hitter
+Max Fried,2021,Atlanta Braves,55,7,15,0,5,4,18,.273,.322,.327,.649,hitter
+Shane Greene,2021,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Guillermo Heredia,2021,Atlanta Braves,305,46,67,5,26,32,81,.220,.311,.354,.665,hitter
+Ender Inciarte,2021,Atlanta Braves,79,11,17,2,10,7,22,.215,.276,.316,.592,hitter
+Alex Jackson,2021,Atlanta Braves,23,2,1,0,0,2,13,.043,.214,.043,.257,hitter
+Luke Jackson,2021,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Nate Jones,2021,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Sean Kazmar Jr.,2021,Atlanta Braves,2,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Dylan Lee,2021,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jonathan Lucroy,2021,Washington Nationals,14,0,5,0,2,0,2,.357,.357,.429,.786,hitter
+Chris Martin,2021,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jeff Mathis,2021,Atlanta Braves,9,0,0,0,0,0,5,.000,.000,.000,.000,hitter
+Tyler Matzek,2021,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+A.J. Minter,2021,Atlanta Braves,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Charlie Morton,2021,Atlanta Braves,55,5,7,0,1,0,31,.127,.127,.145,.272,hitter
+Kyle Muller,2021,Atlanta Braves,11,0,1,0,0,1,7,.091,.167,.091,.258,hitter
+Sean Newcomb,2021,Atlanta Braves,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Marcell Ozuna,2021,Atlanta Braves,188,21,40,7,26,19,46,.213,.288,.356,.644,hitter
+Cristian Pache,2021,Atlanta Braves,63,6,7,1,4,2,25,.111,.152,.206,.358,hitter
+Joc Pederson,2021,Chicago Cubs,256,35,59,11,39,22,74,.230,.300,.418,.718,hitter
+Austin Riley,2021,Atlanta Braves,590,91,179,33,107,52,168,.303,.367,.531,.898,hitter
+Richard Rodríguez,2021,Pittsburgh Pirates,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Eddie Rosario,2021,Cleveland Indians,283,29,72,7,46,17,47,.254,.296,.389,.685,hitter
+Pablo Sandoval,2021,Atlanta Braves,73,11,13,4,11,11,25,.178,.302,.342,.644,hitter
+Edgar Santana,2021,Atlanta Braves,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Kevan Smith,2021,Tampa Bay Rays,4,2,1,0,0,0,2,.250,.250,.250,.500,hitter
+Will Smith,2021,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Drew Smyly,2021,Atlanta Braves,41,0,3,0,0,0,19,.073,.073,.073,.146,hitter
+Jorge Soler,2021,Kansas City Royals,308,38,59,13,37,38,97,.192,.288,.370,.658,hitter
+Spencer Strider,2021,Atlanta Braves,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Dansby Swanson,2021,Atlanta Braves,588,78,146,27,88,52,167,.248,.311,.449,.760,hitter
+Ty Tice,2021,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Josh Tomlin,2021,Atlanta Braves,3,0,1,0,0,1,1,.333,.500,.333,.833,hitter
+Touki Toussaint,2021,Atlanta Braves,15,1,0,0,0,2,9,.000,.118,.000,.118,hitter
+Stephen Vogt,2021,Arizona Diamondbacks,132,17,28,5,17,18,36,.212,.307,.386,.693,hitter
+Jacob Webb,2021,Atlanta Braves,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Bryse Wilson,2021,Atlanta Braves,12,0,1,0,0,0,5,.083,.154,.083,.237,hitter
+Kyle Wright,2021,Atlanta Braves,3,1,1,0,0,0,1,.333,.333,.667,1.000,hitter
+Huascar Ynoa,2021,Atlanta Braves,32,3,7,2,6,0,15,.219,.219,.438,.657,hitter
+Travis d'Arnaud,2021,Atlanta Braves,209,21,46,7,26,17,53,.220,.284,.388,.672,hitter
+José Abreu,2021,Chicago White Sox,566,86,148,30,117,61,143,.261,.351,.481,.832,hitter
+Tim Anderson,2021,Chicago White Sox,527,94,163,17,61,22,119,.309,.338,.469,.807,hitter
+Aaron Bummer,2021,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jake Burger,2021,Chicago White Sox,38,5,10,1,3,4,15,.263,.333,.474,.807,hitter
+Ryan Burr,2021,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Dylan Cease,2021,Chicago White Sox,8,1,3,0,0,0,3,.375,.375,.500,.875,hitter
+Zack Collins,2021,Chicago White Sox,195,25,41,4,26,34,69,.210,.330,.338,.668,hitter
+Garrett Crochet,2021,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Adam Eaton,2021,Chicago White Sox,189,33,38,5,28,20,55,.201,.298,.344,.642,hitter
+Adam Engel,2021,Chicago White Sox,123,21,31,7,18,11,31,.252,.336,.496,.832,hitter
+Matt Foster,2021,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Leury García,2021,Chicago White Sox,415,60,111,5,54,41,97,.267,.335,.376,.711,hitter
+Lucas Giolito,2021,Chicago White Sox,4,0,1,0,0,0,3,.250,.250,.250,.500,hitter
+Luis González,2021,Chicago White Sox,8,2,2,0,0,3,2,.250,.455,.500,.955,hitter
+Romy Gonzalez,2021,Chicago White Sox,32,4,8,0,2,1,11,.250,.273,.344,.617,hitter
+Brian Goodwin,2021,Chicago White Sox,235,33,52,8,29,33,58,.221,.319,.374,.693,hitter
+Yasmani Grandal,2021,Chicago White Sox,279,60,67,23,62,87,82,.240,.420,.520,.940,hitter
+Billy Hamilton,2021,Chicago White Sox,127,23,28,2,11,4,47,.220,.242,.378,.620,hitter
+Liam Hendriks,2021,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+César Hernández,2021,Cleveland Indians,376,60,87,18,47,38,90,.231,.307,.431,.738,hitter
+Codi Heuer,2021,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Eloy Jiménez,2021,Chicago White Sox,213,23,53,10,37,16,57,.249,.303,.437,.740,hitter
+Dallas Keuchel,2021,Chicago White Sox,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Craig Kimbrel,2021,Chicago Cubs,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Michael Kopech,2021,Chicago White Sox,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jake Lamb,2021,Chicago White Sox,113,20,24,6,13,17,38,.212,.321,.389,.710,hitter
+Reynaldo López,2021,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Lance Lynn,2021,Chicago White Sox,5,0,1,0,2,0,3,.200,.200,.200,.400,hitter
+Nick Madrigal,2021,Chicago White Sox,200,30,61,2,21,11,17,.305,.349,.425,.774,hitter
+Alex McRae,2021,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Danny Mendick,2021,Chicago White Sox,164,14,36,2,20,18,42,.220,.303,.287,.590,hitter
+Yermín Mercedes,2021,Chicago White Sox,240,26,65,7,37,20,46,.271,.328,.404,.732,hitter
+Yoán Moncada,2021,Chicago White Sox,520,74,137,14,61,84,157,.263,.375,.412,.787,hitter
+Luis Robert Jr.,2021,Chicago White Sox,275,42,93,13,43,14,61,.338,.378,.567,.945,hitter
+Carlos Rodón,2021,Chicago White Sox,3,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+José Ruiz,2021,Chicago White Sox,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Gavin Sheets,2021,Chicago White Sox,160,23,40,11,34,16,40,.250,.324,.506,.830,hitter
+Ryan Tepera,2021,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Andrew Vaughn,2021,Chicago White Sox,417,56,98,15,48,41,101,.235,.309,.396,.705,hitter
+Nick Williams,2021,Chicago White Sox,10,2,0,0,0,1,4,.000,.231,.000,.231,hitter
+Seby Zavala,2021,Chicago White Sox,93,15,17,5,15,6,41,.183,.240,.376,.616,hitter
+Jesús Aguilar,2021,Miami Marlins,449,49,117,22,93,46,93,.261,.329,.459,.788,hitter
+Sandy Alcantara,2021,Miami Marlins,58,0,2,0,0,3,45,.034,.097,.052,.149,hitter
+Jorge Alfaro,2021,Miami Marlins,295,22,72,4,30,11,99,.244,.283,.342,.625,hitter
+Eddy Alvarez,2021,Miami Marlins,64,8,12,1,6,4,18,.188,.297,.328,.625,hitter
+Brian Anderson,2021,Miami Marlins,233,24,58,7,28,26,65,.249,.337,.378,.715,hitter
+Anthony Bass,2021,Miami Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Andrew Bellatti,2021,Miami Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Anthony Bender,2021,Miami Marlins,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Jon Berti,2021,Miami Marlins,233,35,49,4,19,32,61,.210,.311,.313,.624,hitter
+Richard Bleier,2021,Miami Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Lewis Brinson,2021,Miami Marlins,274,24,62,9,33,13,72,.226,.263,.376,.639,hitter
+Edward Cabrera,2021,Miami Marlins,7,0,1,0,1,0,3,.143,.143,.286,.429,hitter
+Paul Campbell,2021,Miami Marlins,5,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Daniel Castano,2021,Miami Marlins,4,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Jazz Chisholm Jr.,2021,Miami Marlins,464,70,115,18,53,34,145,.248,.303,.425,.728,hitter
+Adam Cimber,2021,Miami Marlins,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Garrett Cooper,2021,Miami Marlins,215,30,61,9,33,30,68,.284,.380,.465,.845,hitter
+John Curtiss,2021,Miami Marlins,5,1,0,0,0,0,3,.000,.000,.000,.000,hitter
+Bryan De La Cruz,2021,Miami Marlins,199,17,59,5,19,18,53,.296,.356,.427,.783,hitter
+Ross Detwiler,2021,Miami Marlins,3,0,1,0,0,0,2,.333,.333,.333,.666,hitter
+José Devers,2021,Miami Marlins,41,7,10,0,5,3,11,.244,.304,.317,.621,hitter
+Isan Díaz,2021,Miami Marlins,238,25,46,4,17,34,73,.193,.293,.282,.575,hitter
+Lewin Díaz,2021,Miami Marlins,122,16,25,8,13,6,33,.205,.242,.451,.693,hitter
+Corey Dickerson,2021,Miami Marlins,205,27,54,2,14,16,45,.263,.324,.380,.704,hitter
+Adam Duvall,2021,Miami Marlins,314,41,72,22,68,21,105,.229,.277,.478,.755,hitter
+Dylan Floro,2021,Miami Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Nick Fortes,2021,Miami Marlins,31,6,9,4,7,3,8,.290,.353,.677,1.030,hitter
+Yimi García,2021,Miami Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Braxton Garrett,2021,Miami Marlins,11,1,2,0,0,0,4,.182,.182,.182,.364,hitter
+Sean Guenther,2021,Miami Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Preston Guilmet,2021,Miami Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jorge Guzmán,2021,Miami Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Monte Harrison,2021,Miami Marlins,10,0,2,0,0,0,3,.200,.200,.300,.500,hitter
+Payton Henry,2021,Miami Marlins,15,0,4,0,0,1,5,.267,.313,.333,.646,hitter
+Elieser Hernández,2021,Miami Marlins,14,1,1,0,0,0,7,.071,.071,.071,.142,hitter
+David Hess,2021,Miami Marlins,4,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Jordan Holloway,2021,Miami Marlins,10,0,1,0,0,0,6,.100,.100,.100,.200,hitter
+Alex Jackson,2021,Atlanta Braves,23,2,1,0,0,2,13,.043,.214,.043,.257,hitter
+Sandy León,2021,Miami Marlins,202,15,37,4,14,12,65,.183,.237,.267,.504,hitter
+Pablo López,2021,Miami Marlins,33,2,2,0,0,0,17,.061,.061,.121,.182,hitter
+Jesús Luzardo,2021,Oakland Athletics,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Luís Madero,2021,Miami Marlins,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Deven Marrero,2021,Miami Marlins,16,4,3,1,1,3,6,.188,.316,.375,.691,hitter
+Luis Marté,2021,Miami Marlins,6,2,1,0,0,1,2,.167,.286,.167,.453,hitter
+Starling Marte,2021,Miami Marlins,233,52,71,7,25,32,57,.305,.405,.451,.856,hitter
+Brian Miller,2021,Miami Marlins,11,1,3,0,0,0,3,.273,.273,.273,.546,hitter
+Bryan Mitchell,2021,Miami Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Shawn Morimando,2021,Miami Marlins,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Nick Neidert,2021,Miami Marlins,11,0,0,0,0,1,5,.000,.083,.000,.083,hitter
+Steven Okert,2021,Miami Marlins,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Joe Panik,2021,Toronto Blue Jays,114,9,28,2,11,8,14,.246,.293,.351,.644,hitter
+Zach Pop,2021,Miami Marlins,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Cody Poteet,2021,Miami Marlins,10,1,1,0,1,0,3,.100,.100,.100,.200,hitter
+Austin Pruitt,2021,Miami Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Trevor Rogers,2021,Miami Marlins,43,0,3,0,0,1,27,.070,.091,.070,.161,hitter
+Miguel Rojas,2021,Miami Marlins,495,66,131,9,48,37,74,.265,.322,.392,.714,hitter
+Jesús Sánchez,2021,Miami Marlins,227,27,57,14,36,20,78,.251,.319,.489,.808,hitter
+Magneuris Sierra,2021,Miami Marlins,209,27,48,0,5,15,50,.230,.281,.268,.549,hitter
+Zach Thompson,2021,Miami Marlins,15,0,2,0,0,0,9,.133,.133,.200,.333,hitter
+Chad Wallach,2021,Miami Marlins,60,2,12,0,6,3,32,.200,.242,.267,.509,hitter
+Taylor Williams,2021,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Albert Abreu,2021,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Greg Allen,2021,New York Yankees,37,9,10,0,2,5,13,.270,.417,.432,.849,hitter
+Trey Amburgey,2021,New York Yankees,4,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Miguel Andujar,2021,New York Yankees,154,19,39,6,12,7,28,.253,.284,.383,.667,hitter
+Rob Brantly,2021,New York Yankees,20,0,3,0,0,0,4,.150,.190,.200,.390,hitter
+Zack Britton,2021,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jay Bruce,2021,New York Yankees,34,3,4,1,3,5,13,.118,.231,.235,.466,hitter
+Luis Cessa,2021,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Aroldis Chapman,2021,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Nestor Cortes,2021,New York Yankees,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jonathan Davis,2021,Toronto Blue Jays,70,16,10,1,4,11,21,.143,.282,.200,.482,hitter
+Estevan Florial,2021,New York Yankees,20,3,6,1,2,5,6,.300,.440,.550,.990,hitter
+Mike Ford,2021,New York Yankees,60,6,8,3,5,11,23,.133,.278,.283,.561,hitter
+Clint Frazier,2021,New York Yankees,183,20,34,5,15,32,65,.186,.317,.317,.634,hitter
+Joey Gallo,2021,Texas Rangers,310,57,69,25,55,74,125,.223,.379,.490,.869,hitter
+Brett Gardner,2021,New York Yankees,387,47,86,10,39,60,100,.222,.327,.362,.689,hitter
+Domingo Germán,2021,New York Yankees,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Chris Gittens,2021,New York Yankees,36,1,4,1,5,7,13,.111,.250,.194,.444,hitter
+Chad Green,2021,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Andrew Heaney,2021,Los Angeles Angels,2,1,1,0,0,1,1,.500,.667,.500,1.167,hitter
+Aaron Hicks,2021,New York Yankees,108,13,21,4,14,14,30,.194,.294,.333,.627,hitter
+Kyle Higashioka,2021,New York Yankees,193,20,35,10,29,17,59,.181,.246,.389,.635,hitter
+Clay Holmes,2021,Pittsburgh Pirates,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Aaron Judge,2021,New York Yankees,550,89,158,39,98,75,158,.287,.373,.544,.917,hitter
+Michael King,2021,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Corey Kluber,2021,New York Yankees,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Brooks Kriske,2021,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ryan LaMarre,2021,New York Yankees,21,3,4,2,4,2,6,.190,.292,.476,.768,hitter
+DJ LeMahieu,2021,New York Yankees,597,84,160,10,57,73,94,.268,.349,.362,.711,hitter
+Jonathan Loáisiga,2021,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tim Locastro,2021,Arizona Diamondbacks,118,11,21,1,5,6,26,.178,.271,.220,.491,hitter
+Lucas Luetge,2021,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jordan Montgomery,2021,New York Yankees,4,0,0,0,0,0,4,.000,.000,.000,.000,hitter
+Rougned Odor,2021,New York Yankees,322,42,65,15,39,27,100,.202,.286,.379,.665,hitter
+Hoy Park,2021,New York Yankees,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Wandy Peralta,2021,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Anthony Rizzo,2021,Chicago Cubs,323,41,80,14,40,36,59,.248,.346,.446,.792,hitter
+Joely Rodríguez,2021,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Sal Romano,2021,Cincinnati Reds,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Gary Sánchez,2021,New York Yankees,383,54,78,23,54,52,121,.204,.307,.423,.730,hitter
+Clarke Schmidt,2021,New York Yankees,1,0,0,0,0,1,1,.000,.500,.000,.500,hitter
+Giancarlo Stanton,2021,New York Yankees,510,64,139,35,97,63,157,.273,.354,.516,.870,hitter
+Jameson Taillon,2021,New York Yankees,1,0,0,0,0,1,0,.000,.500,.000,.500,hitter
+Mike Tauchman,2021,New York Yankees,14,1,3,0,0,1,6,.214,.267,.286,.553,hitter
+Gleyber Torres,2021,New York Yankees,459,50,119,9,51,50,104,.259,.331,.366,.697,hitter
+Gio Urshela,2021,New York Yankees,420,42,112,14,49,20,109,.267,.301,.419,.720,hitter
+Andrew Velazquez,2021,New York Yankees,67,11,15,1,6,1,23,.224,.235,.358,.593,hitter
+Luke Voit,2021,New York Yankees,213,26,51,11,35,21,74,.239,.328,.437,.765,hitter
+Tyler Wade,2021,New York Yankees,127,31,34,0,5,16,37,.268,.354,.323,.677,hitter
+Justin Wilson,2021,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Willy Adames,2021,Tampa Bay Rays,132,16,26,5,15,10,51,.197,.254,.371,.625,hitter
+Brett Anderson,2021,Milwaukee Brewers,28,2,0,0,1,4,14,.000,.125,.000,.125,hitter
+Orlando Arcia,2021,Milwaukee Brewers,11,0,1,0,1,0,3,.091,.091,.091,.182,hitter
+Aaron Ashby,2021,Milwaukee Brewers,2,0,0,0,0,1,2,.000,.333,.000,.333,hitter
+John Axford,2021,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Alec Bettinger,2021,Milwaukee Brewers,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Phil Bickford,2021,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brad Boxberger,2021,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jackie Bradley Jr.,2021,Milwaukee Brewers,387,39,63,6,29,28,132,.163,.236,.261,.497,hitter
+Corbin Burnes,2021,Milwaukee Brewers,52,1,8,0,4,3,26,.154,.200,.154,.354,hitter
+Lorenzo Cain,2021,Milwaukee Brewers,257,40,66,8,36,26,48,.257,.329,.401,.730,hitter
+Jake Cousins,2021,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+John Curtiss,2021,Miami Marlins,5,1,0,0,0,0,3,.000,.000,.000,.000,hitter
+Eduardo Escobar,2021,Arizona Diamondbacks,370,50,91,22,65,29,85,.246,.300,.478,.778,hitter
+Mario Feliciano,2021,Milwaukee Brewers,0,1,0,0,0,1,0,.000,1.000,.000,1.000,hitter
+J.P. Feyereisen,2021,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Derek Fisher,2021,Milwaukee Brewers,8,1,2,0,1,0,1,.250,.250,.500,.750,hitter
+Avisaíl García,2021,Milwaukee Brewers,461,68,121,29,86,38,121,.262,.330,.490,.820,hitter
+Zack Godley,2021,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jandel Gustave,2021,Milwaukee Brewers,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Josh Hader,2021,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Blaine Hardy,2021,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Keston Hiura,2021,Milwaukee Brewers,173,16,29,4,19,14,77,.168,.256,.301,.557,hitter
+Adrian Houser,2021,Milwaukee Brewers,42,2,3,2,2,2,30,.071,.114,.214,.328,hitter
+Eric Lauer,2021,Milwaukee Brewers,26,3,4,1,4,3,15,.154,.258,.269,.527,hitter
+Josh Lindblom,2021,Milwaukee Brewers,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Tim Lopes,2021,Milwaukee Brewers,10,1,1,0,0,1,4,.100,.182,.100,.282,hitter
+Luke Maile,2021,Milwaukee Brewers,30,6,9,0,3,3,7,.300,.382,.433,.815,hitter
+Billy McKinney,2021,Milwaukee Brewers,92,9,19,3,6,7,24,.207,.260,.359,.619,hitter
+Hoby Milner,2021,Milwaukee Brewers,1,0,0,0,0,1,1,.000,.500,.000,.500,hitter
+Omar Narváez,2021,Milwaukee Brewers,391,54,104,11,49,41,84,.266,.342,.402,.744,hitter
+Daniel Norris,2021,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jacob Nottingham,2021,Milwaukee Brewers,14,2,3,2,4,0,8,.214,.214,.714,.928,hitter
+Freddy Peralta,2021,Milwaukee Brewers,43,1,4,0,0,1,22,.093,.114,.093,.207,hitter
+Angel Perdomo,2021,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jace Peterson,2021,Milwaukee Brewers,259,36,64,6,31,38,68,.247,.348,.367,.715,hitter
+Manny Piña,2021,Milwaukee Brewers,180,27,34,13,33,22,38,.189,.293,.439,.732,hitter
+Drew Rasmussen,2021,Milwaukee Brewers,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Corey Ray,2021,Milwaukee Brewers,2,1,0,0,0,1,1,.000,.333,.000,.333,hitter
+Colin Rea,2021,Milwaukee Brewers,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Pablo Reyes,2021,Milwaukee Brewers,78,12,20,1,3,9,15,.256,.333,.359,.692,hitter
+Trevor Richards,2021,Milwaukee Brewers,0,1,0,0,0,1,0,.000,1.000,.000,1.000,hitter
+Daniel Robertson,2021,Milwaukee Brewers,73,10,12,2,4,12,28,.164,.303,.274,.577,hitter
+Sal Romano,2021,Cincinnati Reds,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Miguel Sánchez,2021,Milwaukee Brewers,1,1,0,0,0,0,0,.000,.000,.000,.000,hitter
+Travis Shaw,2021,Milwaukee Brewers,178,14,34,6,28,19,51,.191,.279,.337,.616,hitter
+Hunter Strickland,2021,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brent Suter,2021,Milwaukee Brewers,4,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Tyrone Taylor,2021,Milwaukee Brewers,243,33,60,12,43,20,59,.247,.321,.457,.778,hitter
+Rowdy Tellez,2021,Toronto Blue Jays,139,12,29,4,8,9,33,.209,.272,.338,.610,hitter
+Justin Topa,2021,Milwaukee Brewers,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Luis Urías,2021,Milwaukee Brewers,490,77,122,23,75,63,116,.249,.345,.445,.790,hitter
+Daniel Vogelbach,2021,Milwaukee Brewers,215,30,47,9,24,43,57,.219,.349,.381,.730,hitter
+Ryan Weber,2021,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Patrick Weigel,2021,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Devin Williams,2021,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kolten Wong,2021,Milwaukee Brewers,445,70,121,14,50,31,83,.272,.335,.447,.782,hitter
+Brandon Woodruff,2021,Milwaukee Brewers,52,0,6,0,2,3,28,.115,.164,.115,.279,hitter
+Eric Yardley,2021,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Christian Yelich,2021,Milwaukee Brewers,399,70,99,9,51,70,113,.248,.362,.373,.735,hitter
+Jordan Zimmermann,2021,Milwaukee Brewers,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Jo Adell,2021,Los Angeles Angels,130,17,32,4,26,8,32,.246,.295,.408,.703,hitter
+Jaime Barria,2021,Los Angeles Angels,3,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Anthony Bemboom,2021,Los Angeles Angels,27,2,6,0,2,1,10,.222,.250,.222,.472,hitter
+Dylan Bundy,2021,Los Angeles Angels,4,0,1,0,0,0,3,.250,.250,.250,.500,hitter
+Drew Butera,2021,Los Angeles Angels,32,1,3,0,5,0,16,.094,.091,.125,.216,hitter
+Griffin Canning,2021,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Steve Cishek,2021,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Alex Claudio,2021,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Alex Cobb,2021,Los Angeles Angels,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Reid Detmers,2021,Los Angeles Angels,1,0,0,0,0,1,1,.000,.500,.000,.500,hitter
+Adam Eaton,2021,Chicago White Sox,189,33,38,5,28,20,55,.201,.298,.344,.642,hitter
+David Fletcher,2021,Los Angeles Angels,626,74,164,2,47,31,60,.262,.297,.324,.621,hitter
+Dexter Fowler,2021,Los Angeles Angels,20,3,5,0,1,1,6,.250,.286,.250,.536,hitter
+Phil Gosselin,2021,Los Angeles Angels,345,40,90,7,47,24,81,.261,.314,.362,.676,hitter
+Junior Guerra,2021,Los Angeles Angels,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Andrew Heaney,2021,Los Angeles Angels,2,1,1,0,0,1,1,.500,.667,.500,1.167,hitter
+Jimmy Herget,2021,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+James Hoyt,2021,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jose Iglesias,2021,Los Angeles Angels,424,57,110,8,41,18,66,.259,.295,.375,.670,hitter
+Raisel Iglesias,2021,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jon Jay,2021,Los Angeles Angels,14,2,5,0,1,0,2,.357,.357,.357,.714,hitter
+Jack Kruger,2021,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Juan Lagares,2021,Los Angeles Angels,309,39,73,6,38,12,76,.236,.266,.372,.638,hitter
+Brandon Marsh,2021,Los Angeles Angels,236,27,60,2,19,20,91,.254,.317,.356,.673,hitter
+Mike Mayers,2021,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jack Mayfield,2021,Seattle Mariners,34,2,6,0,3,1,10,.176,.200,.206,.406,hitter
+Packy Naughton,2021,Los Angeles Angels,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Shohei Ohtani,2021,Los Angeles Angels,537,103,138,46,100,96,189,.257,.372,.592,.964,hitter
+Oliver Ortega,2021,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jake Petricka,2021,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Albert Pujols,2021,Los Angeles Angels,86,9,17,5,12,3,13,.198,.250,.372,.622,hitter
+José Quijada,2021,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jose Quintana,2021,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Noé Ramirez,2021,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+AJ Ramos,2021,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Anthony Rendon,2021,Los Angeles Angels,217,24,52,6,34,29,41,.240,.329,.382,.711,hitter
+Luis Rengifo,2021,Los Angeles Angels,174,22,35,6,18,9,38,.201,.246,.310,.556,hitter
+Chris Rodriguez,2021,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jose Rojas,2021,Los Angeles Angels,168,26,35,6,15,15,50,.208,.277,.399,.676,hitter
+Patrick Sandoval,2021,Los Angeles Angels,4,1,1,0,0,0,2,.250,.250,.250,.500,hitter
+Scott Schebler,2021,Los Angeles Angels,34,3,5,0,0,0,17,.147,.147,.235,.382,hitter
+Sam Selman,2021,San Francisco Giants,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Aaron Slegers,2021,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Max Stassi,2021,Los Angeles Angels,282,45,68,13,35,28,101,.241,.326,.426,.752,hitter
+Hunter Strickland,2021,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+José Suarez,2021,Los Angeles Angels,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Kurt Suzuki,2021,Los Angeles Angels,219,17,49,6,16,12,44,.224,.294,.342,.636,hitter
+Matt Thaiss,2021,Los Angeles Angels,7,1,1,0,0,1,1,.143,.250,.143,.393,hitter
+Mike Trout,2021,Los Angeles Angels,117,23,39,8,18,27,41,.333,.466,.624,1.090,hitter
+Kyle Tyler,2021,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Justin Upton,2021,Los Angeles Angels,318,47,67,17,41,39,107,.211,.296,.409,.705,hitter
+Jared Walsh,2021,Los Angeles Angels,530,70,147,29,98,48,152,.277,.340,.509,.849,hitter
+Andrew Wantz,2021,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Taylor Ward,2021,Los Angeles Angels,208,33,52,8,33,20,55,.250,.332,.438,.770,hitter
+Austin Warren,2021,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tony Watson,2021,Los Angeles Angels,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Kean Wong,2021,Los Angeles Angels,60,3,10,0,6,2,17,.167,.194,.233,.427,hitter
+Miguel Aguilar,2021,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Nick Ahmed,2021,Arizona Diamondbacks,434,46,96,5,38,34,104,.221,.280,.339,.619,hitter
+Seth Beer,2021,Arizona Diamondbacks,9,4,4,1,3,1,3,.444,.500,.889,1.389,hitter
+Ryan Buchter,2021,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+J.B. Bukauskas,2021,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Madison Bumgarner,2021,Arizona Diamondbacks,39,3,4,0,3,9,29,.103,.280,.128,.408,hitter
+Asdrúbal Cabrera,2021,Arizona Diamondbacks,283,34,69,7,40,33,73,.244,.324,.392,.716,hitter
+Kole Calhoun,2021,Arizona Diamondbacks,166,17,39,5,17,15,41,.235,.297,.373,.670,hitter
+Humberto Castellanos,2021,Arizona Diamondbacks,6,1,3,1,5,0,1,.500,.429,1.000,1.429,hitter
+Taylor Clarke,2021,Arizona Diamondbacks,3,0,1,0,0,0,2,.333,.333,.333,.666,hitter
+Tyler Clippard,2021,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Stefan Crichton,2021,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chris Devenski,2021,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jon Duplantier,2021,Arizona Diamondbacks,2,0,0,0,0,0,2,.000,.333,.000,.333,hitter
+Drew Ellis,2021,Arizona Diamondbacks,69,10,9,1,5,10,27,.130,.277,.203,.480,hitter
+Eduardo Escobar,2021,Arizona Diamondbacks,370,50,91,22,65,29,85,.246,.300,.478,.778,hitter
+Stuart Fairchild,2021,Arizona Diamondbacks,15,3,2,0,2,1,3,.133,.235,.200,.435,hitter
+Jake Faria,2021,Arizona Diamondbacks,3,1,1,0,0,0,1,.333,.333,.667,1.000,hitter
+Seth Frankoff,2021,Arizona Diamondbacks,3,0,0,0,0,1,2,.000,.250,.000,.250,hitter
+Luis Frías,2021,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Zac Gallen,2021,Arizona Diamondbacks,32,2,6,0,3,1,18,.188,.212,.250,.462,hitter
+Tyler Gilbert,2021,Arizona Diamondbacks,9,0,0,0,0,0,6,.000,.000,.000,.000,hitter
+Kevin Ginkel,2021,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jake Hager,2021,New York Mets,8,1,1,0,0,0,3,.125,.125,.125,.250,hitter
+Nick Heath,2021,Arizona Diamondbacks,35,3,5,0,1,4,15,.143,.231,.171,.402,hitter
+Bryan Holaday,2021,Arizona Diamondbacks,31,2,6,0,1,1,15,.194,.265,.258,.523,hitter
+Carson Kelly,2021,Arizona Diamondbacks,304,41,73,13,46,44,74,.240,.343,.411,.754,hitter
+Merrill Kelly,2021,Arizona Diamondbacks,47,1,3,0,1,4,27,.064,.137,.085,.222,hitter
+Domingo Leyba,2021,Arizona Diamondbacks,22,0,0,0,0,2,7,.000,.083,.000,.083,hitter
+Tim Locastro,2021,Arizona Diamondbacks,118,11,21,1,5,6,26,.178,.271,.220,.491,hitter
+Yoan López,2021,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Joe Mantiply,2021,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ketel Marte,2021,Arizona Diamondbacks,340,52,108,14,50,31,60,.318,.377,.532,.909,hitter
+Corbin Martin,2021,Arizona Diamondbacks,4,0,1,0,0,0,3,.250,.250,.250,.500,hitter
+Wyatt Mathisen,2021,Arizona Diamondbacks,42,3,5,1,8,5,21,.119,.255,.190,.445,hitter
+Jake McCarthy,2021,Arizona Diamondbacks,59,11,13,2,4,8,23,.220,.333,.373,.706,hitter
+Humberto Mejía,2021,Arizona Diamondbacks,7,1,1,0,0,0,2,.143,.143,.286,.429,hitter
+Keury Mella,2021,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Matt Peacock,2021,Arizona Diamondbacks,16,3,4,0,2,1,4,.250,.294,.250,.544,hitter
+David Peralta,2021,Arizona Diamondbacks,487,57,126,8,63,46,92,.259,.325,.402,.727,hitter
+Geraldo Perdomo,2021,Arizona Diamondbacks,31,5,8,0,1,6,6,.258,.378,.419,.797,hitter
+Sean Poppen,2021,Pittsburgh Pirates,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Noé Ramirez,2021,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Henry Ramos,2021,Arizona Diamondbacks,50,5,10,1,8,4,12,.200,.255,.300,.555,hitter
+Josh Reddick,2021,Arizona Diamondbacks,151,15,39,2,21,6,31,.258,.285,.371,.656,hitter
+Josh Rojas,2021,Arizona Diamondbacks,484,69,128,11,44,58,137,.264,.341,.411,.752,hitter
+Brandyn Sittinger,2021,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Caleb Smith,2021,Arizona Diamondbacks,22,2,2,0,0,1,14,.091,.167,.136,.303,hitter
+Pavin Smith,2021,Arizona Diamondbacks,498,68,133,11,49,42,106,.267,.328,.404,.732,hitter
+Riley Smith,2021,Arizona Diamondbacks,16,0,0,0,0,0,11,.000,.000,.000,.000,hitter
+Joakim Soria,2021,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Anthony Swarzak,2021,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Josh VanMeter,2021,Arizona Diamondbacks,274,26,58,6,36,33,83,.212,.297,.354,.651,hitter
+Ildemaro Vargas,2021,Chicago Cubs,21,3,3,0,2,3,7,.143,.250,.238,.488,hitter
+Daulton Varsho,2021,Arizona Diamondbacks,284,41,70,11,38,30,67,.246,.318,.437,.755,hitter
+Stephen Vogt,2021,Arizona Diamondbacks,132,17,28,5,17,18,36,.212,.307,.386,.693,hitter
+Christian Walker,2021,Arizona Diamondbacks,401,55,98,10,46,38,106,.244,.315,.382,.697,hitter
+Luke Weaver,2021,Arizona Diamondbacks,19,1,2,0,1,1,12,.105,.150,.105,.255,hitter
+Jordan Weems,2021,Oakland Athletics,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+J.B. Wendelken,2021,Oakland Athletics,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Taylor Widener,2021,Arizona Diamondbacks,16,1,1,0,0,1,11,.063,.118,.063,.181,hitter
+Alex Young,2021,Arizona Diamondbacks,4,0,0,0,0,0,4,.000,.000,.000,.000,hitter
+Andrew Young,2021,Arizona Diamondbacks,91,13,19,6,15,6,45,.209,.298,.484,.782,hitter
+Brett de Geus,2021,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Fernando Abad,2021,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Keegan Akin,2021,Baltimore Orioles,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Shaun Anderson,2021,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Shawn Armstrong,2021,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Nick Ciuffo,2021,Baltimore Orioles,5,0,1,0,0,1,1,.200,.333,.400,.733,hitter
+Marcos Diplán,2021,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chris Ellis,2021,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Thomas Eshelman,2021,Baltimore Orioles,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jay Flaa,2021,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Maikel Franco,2021,Baltimore Orioles,377,31,79,11,47,20,67,.210,.253,.355,.608,hitter
+Paul Fry,2021,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Freddy Galvis,2021,Baltimore Orioles,249,36,62,9,26,18,58,.249,.306,.414,.720,hitter
+Conner Greene,2021,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kelvin Gutiérrez,2021,Kansas City Royals,135,9,29,1,8,6,31,.215,.254,.296,.550,hitter
+Eric Hanhold,2021,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Matt Harvey,2021,Baltimore Orioles,5,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Austin Hays,2021,Baltimore Orioles,488,73,125,22,71,28,107,.256,.308,.461,.769,hitter
+Jahmai Jones,2021,Baltimore Orioles,67,5,10,0,3,4,26,.149,.208,.194,.402,hitter
+Brooks Kriske,2021,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Travis Lakins Sr.,2021,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Wade LeBlanc,2021,St. Louis Cardinals,11,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Domingo Leyba,2021,Arizona Diamondbacks,22,0,0,0,0,2,7,.000,.083,.000,.083,hitter
+Jorge López,2021,Baltimore Orioles,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Trey Mancini,2021,Baltimore Orioles,556,77,142,21,71,51,143,.255,.326,.432,.758,hitter
+Richie Martin,2021,Baltimore Orioles,98,9,23,1,8,4,28,.235,.269,.286,.555,hitter
+Jorge Mateo,2021,San Diego Padres,87,10,18,2,6,2,27,.207,.250,.322,.572,hitter
+Ryan McKenna,2021,Baltimore Orioles,169,20,31,2,14,24,74,.183,.292,.266,.558,hitter
+John Means,2021,Baltimore Orioles,5,0,1,0,0,0,2,.200,.200,.400,.600,hitter
+Ryan Mountcastle,2021,Baltimore Orioles,534,77,136,33,89,41,161,.255,.309,.487,.796,hitter
+Cedric Mullins,2021,Baltimore Orioles,602,91,175,30,59,59,125,.291,.360,.518,.878,hitter
+Tyler Nevin,2021,Baltimore Orioles,14,3,4,1,3,4,5,.286,.444,.643,1.087,hitter
+Adam Plutko,2021,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Rio Ruiz,2021,Baltimore Orioles,90,10,15,3,6,9,29,.167,.250,.300,.550,hitter
+Anthony Santander,2021,Baltimore Orioles,406,54,98,18,50,23,101,.241,.286,.433,.719,hitter
+Tanner Scott,2021,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Pedro Severino,2021,Baltimore Orioles,379,32,94,11,46,34,109,.248,.308,.383,.691,hitter
+Chance Sisco,2021,Baltimore Orioles,65,4,10,0,3,6,18,.154,.247,.185,.432,hitter
+DJ Stewart,2021,Baltimore Orioles,270,39,55,12,33,44,89,.204,.324,.374,.698,hitter
+Cole Sulser,2021,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Dillon Tate,2021,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ramón Urías,2021,Baltimore Orioles,262,33,73,7,38,28,76,.279,.361,.412,.773,hitter
+Pat Valaika,2021,Baltimore Orioles,259,17,52,5,25,16,76,.201,.250,.290,.540,hitter
+César Valdez,2021,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brandon Waddell,2021,St. Louis Cardinals,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Tyler Wells,2021,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Stevie Wilkerson,2021,Baltimore Orioles,72,5,12,0,2,3,30,.167,.211,.208,.419,hitter
+Austin Wynns,2021,Baltimore Orioles,130,14,24,4,14,8,31,.185,.232,.308,.540,hitter
+Bruce Zimmermann,2021,Baltimore Orioles,4,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Matt Andriese,2021,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jonathan Araúz,2021,Boston Red Sox,65,9,12,3,8,8,15,.185,.274,.369,.643,hitter
+Christian Arroyo,2021,Boston Red Sox,164,22,43,6,25,8,44,.262,.324,.445,.769,hitter
+Matt Barnes,2021,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Xander Bogaerts,2021,Boston Red Sox,529,90,156,23,79,62,113,.295,.370,.493,.863,hitter
+Ryan Brasier,2021,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Michael Chavis,2021,Boston Red Sox,79,12,15,2,6,1,32,.190,.207,.342,.549,hitter
+Franchy Cordero,2021,Boston Red Sox,127,12,24,1,9,8,51,.189,.237,.260,.497,hitter
+Bobby Dalbec,2021,Boston Red Sox,417,50,100,25,78,28,156,.240,.298,.494,.792,hitter
+Austin Davis,2021,Pittsburgh Pirates,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Rafael Devers,2021,Boston Red Sox,591,101,165,38,113,62,143,.279,.352,.538,.890,hitter
+Jarren Duran,2021,Boston Red Sox,107,17,23,2,10,4,40,.215,.241,.336,.577,hitter
+Nathan Eovaldi,2021,Boston Red Sox,2,1,0,0,0,1,1,.000,.333,.000,.333,hitter
+Michael Feliz,2021,Pittsburgh Pirates,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Marwin Gonzalez,2021,Boston Red Sox,242,25,49,2,20,19,70,.202,.281,.285,.566,hitter
+Darwinzon Hernández,2021,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Enrique Hernández,2021,Boston Red Sox,508,84,127,20,60,61,110,.250,.337,.449,.786,hitter
+Tanner Houck,2021,Boston Red Sox,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Jose Iglesias,2021,Los Angeles Angels,424,57,110,8,41,18,66,.259,.295,.375,.670,hitter
+Jack López,2021,Boston Red Sox,13,2,2,0,0,1,6,.154,.214,.308,.522,hitter
+J.D. Martinez,2021,Boston Red Sox,570,92,163,28,99,55,150,.286,.349,.518,.867,hitter
+Taylor Motter,2021,Colorado Rockies,20,2,3,0,0,2,6,.150,.227,.150,.377,hitter
+Yairo Muñoz,2021,Boston Red Sox,11,0,1,0,0,0,2,.091,.091,.091,.182,hitter
+Adam Ottavino,2021,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Martín Pérez,2021,Boston Red Sox,3,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Nick Pivetta,2021,Boston Red Sox,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Kevin Plawecki,2021,Boston Red Sox,157,15,45,3,15,12,26,.287,.349,.389,.738,hitter
+Hunter Renfroe,2021,Boston Red Sox,521,89,135,31,96,44,130,.259,.315,.501,.816,hitter
+Garrett Richards,2021,Boston Red Sox,5,0,1,0,1,0,2,.200,.200,.400,.600,hitter
+Yacksel Ríos,2021,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Hansel Robles,2021,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Eduardo Rodriguez,2021,Boston Red Sox,6,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Chris Sale,2021,Boston Red Sox,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Danny Santana,2021,Boston Red Sox,116,15,21,5,14,10,30,.181,.252,.345,.597,hitter
+Hirokazu Sawamura,2021,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kyle Schwarber,2021,Washington Nationals,265,42,67,25,53,31,88,.253,.340,.570,.910,hitter
+Travis Shaw,2021,Milwaukee Brewers,178,14,34,6,28,19,51,.191,.279,.337,.616,hitter
+Josh Taylor,2021,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Phillips Valdez,2021,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Christian Vázquez,2021,Boston Red Sox,458,51,118,6,49,33,84,.258,.308,.352,.660,hitter
+Alex Verdugo,2021,Boston Red Sox,544,88,157,13,63,51,96,.289,.351,.426,.777,hitter
+Ryan Weber,2021,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Garrett Whitlock,2021,Boston Red Sox,2,0,1,0,0,0,1,.500,.500,.500,1.000,hitter
+Connor Wong,2021,Boston Red Sox,13,3,4,0,1,1,7,.308,.357,.538,.895,hitter
+Brandon Workman,2021,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Cory Abbott,2021,Chicago Cubs,3,0,1,0,0,0,1,.333,.333,.333,.666,hitter
+Jason Adam,2021,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Sergio Alcántara,2021,Chicago Cubs,220,30,45,5,17,30,74,.205,.303,.327,.630,hitter
+Adbert Alzolay,2021,Chicago Cubs,31,1,2,0,0,1,13,.065,.094,.097,.191,hitter
+Jake Arrieta,2021,Chicago Cubs,21,2,2,0,0,2,16,.095,.208,.095,.303,hitter
+Javier Báez,2021,Chicago Cubs,335,48,83,22,65,15,131,.248,.292,.484,.776,hitter
+Joe Biagini,2021,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+David Bote,2021,Chicago Cubs,291,32,58,8,35,27,73,.199,.276,.330,.606,hitter
+Rex Brothers,2021,Chicago Cubs,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Kris Bryant,2021,Chicago Cubs,326,58,87,18,51,39,89,.267,.358,.503,.861,hitter
+Erick Castillo,2021,Chicago Cubs,8,0,2,0,0,1,1,.250,.333,.250,.583,hitter
+Andrew Chafin,2021,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Robinson Chirinos,2021,Chicago Cubs,97,13,22,5,15,9,36,.227,.324,.454,.778,hitter
+Willson Contreras,2021,Chicago Cubs,413,61,98,21,57,52,138,.237,.340,.438,.778,hitter
+Zach Davies,2021,Chicago Cubs,34,2,6,0,2,0,8,.176,.176,.176,.352,hitter
+Greg Deichmann,2021,Chicago Cubs,30,0,4,0,1,1,14,.133,.161,.133,.294,hitter
+Matt Duffy,2021,Chicago Cubs,289,45,83,5,30,25,63,.287,.357,.381,.738,hitter
+Scott Effross,2021,Chicago Cubs,0,0,0,0,1,0,0,.000,.000,.000,.000,hitter
+Johneshwy Fargas,2021,New York Mets,21,1,6,0,3,0,7,.286,.286,.524,.810,hitter
+Trent Giambrone,2021,Chicago Cubs,13,0,2,0,0,0,4,.154,.154,.154,.308,hitter
+Taylor Gushue,2021,Chicago Cubs,4,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Ian Happ,2021,Chicago Cubs,465,63,105,25,66,62,156,.226,.323,.434,.757,hitter
+Kyle Hendricks,2021,Chicago Cubs,52,3,6,0,1,2,26,.115,.148,.135,.283,hitter
+Michael Hermosillo,2021,Chicago Cubs,36,5,7,3,7,1,12,.194,.237,.500,.737,hitter
+Codi Heuer,2021,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jason Heyward,2021,Chicago Cubs,323,35,69,8,30,27,68,.214,.280,.347,.627,hitter
+P.J. Higgins,2021,Chicago Cubs,23,1,1,0,0,2,8,.043,.120,.043,.163,hitter
+Nico Hoerner,2021,Chicago Cubs,149,13,45,0,16,17,25,.302,.382,.369,.751,hitter
+Jake Jewell,2021,Chicago Cubs,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Craig Kimbrel,2021,Chicago Cubs,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Tyler Ladendorf,2021,Chicago Cubs,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jose Lobaton,2021,Chicago Cubs,11,1,0,0,0,2,5,.000,.154,.000,.154,hitter
+Dillon Maples,2021,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jake Marisnick,2021,Chicago Cubs,128,17,29,5,22,9,43,.227,.294,.438,.732,hitter
+Nick Martini,2021,Chicago Cubs,37,4,10,0,4,6,10,.270,.356,.297,.653,hitter
+Trevor Megill,2021,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ryan Meisinger,2021,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Shelby Miller,2021,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Alec Mills,2021,Chicago Cubs,32,1,1,0,0,0,26,.031,.031,.063,.094,hitter
+Adam Morgan,2021,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tommy Nance,2021,Chicago Cubs,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Rafael Ortega,2021,Chicago Cubs,296,44,86,11,33,30,70,.291,.360,.463,.823,hitter
+Tyler Payne,2021,Chicago Cubs,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Joc Pederson,2021,Chicago Cubs,256,35,59,11,39,22,74,.230,.300,.418,.718,hitter
+Alfonso Rivas III,2021,Chicago Cubs,44,7,14,1,3,4,16,.318,.388,.409,.797,hitter
+Anthony Rizzo,2021,Chicago Cubs,323,41,80,14,40,36,59,.248,.346,.446,.792,hitter
+Manuel Rodríguez,2021,Chicago Cubs,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Andrew Romine,2021,Chicago Cubs,60,7,11,1,5,4,24,.183,.234,.267,.501,hitter
+Austin Romine,2021,Chicago Cubs,60,5,13,1,5,2,22,.217,.242,.300,.542,hitter
+Michael Rucker,2021,Chicago Cubs,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Kyle Ryan,2021,Chicago Cubs,2,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Adrian Sampson,2021,Chicago Cubs,7,0,0,0,0,0,7,.000,.000,.000,.000,hitter
+Frank Schwindel,2021,Oakland Athletics,20,2,3,1,3,0,5,.150,.150,.350,.500,hitter
+Eric Sogard,2021,Chicago Cubs,169,16,42,1,12,9,30,.249,.283,.314,.597,hitter
+Justin Steele,2021,Chicago Cubs,13,3,2,0,0,0,4,.154,.154,.154,.308,hitter
+Kohl Stewart,2021,Chicago Cubs,3,0,1,0,0,0,1,.333,.333,.333,.666,hitter
+Robert Stock,2021,Chicago Cubs,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Pedro Strop,2021,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ryan Tepera,2021,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Keegan Thompson,2021,Chicago Cubs,6,0,1,0,0,0,3,.167,.167,.167,.334,hitter
+Trayce Thompson,2021,Chicago Cubs,28,6,7,4,9,7,11,.250,.400,.714,1.114,hitter
+Ildemaro Vargas,2021,Chicago Cubs,21,3,3,0,2,3,7,.143,.250,.238,.488,hitter
+Rowan Wick,2021,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brad Wieck,2021,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Trevor Williams,2021,Chicago Cubs,18,1,4,0,1,1,6,.222,.263,.222,.485,hitter
+Dan Winkler,2021,Chicago Cubs,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Patrick Wisdom,2021,Chicago Cubs,338,54,78,28,61,32,153,.231,.305,.518,.823,hitter
+Tony Wolters,2021,Chicago Cubs,24,3,3,0,0,5,12,.125,.276,.125,.401,hitter
+Brandon Workman,2021,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Shogo Akiyama,2021,Cincinnati Reds,162,16,33,0,12,14,40,.204,.282,.253,.535,hitter
+R.J. Alaniz,2021,Cincinnati Reds,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Tejay Antone,2021,Cincinnati Reds,3,1,0,0,0,1,3,.000,.250,.000,.250,hitter
+Aristides Aquino,2021,Cincinnati Reds,174,25,33,10,23,27,75,.190,.299,.408,.707,hitter
+Tucker Barnhart,2021,Cincinnati Reds,348,41,86,7,48,29,100,.247,.317,.368,.685,hitter
+Jose Barrero,2021,Cincinnati Reds,50,4,10,0,3,3,17,.200,.286,.320,.606,hitter
+Cam Bedrosian,2021,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Alex Blandino,2021,Cincinnati Reds,70,9,14,0,5,8,28,.200,.317,.257,.574,hitter
+Brad Brach,2021,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Asdrúbal Cabrera,2021,Arizona Diamondbacks,283,34,69,7,40,33,73,.244,.324,.392,.716,hitter
+Nick Castellanos,2021,Cincinnati Reds,531,95,164,34,100,41,121,.309,.362,.576,.938,hitter
+Luis Castillo,2021,Cincinnati Reds,49,1,8,0,2,1,23,.163,.180,.204,.384,hitter
+Luis Cessa,2021,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+José De León,2021,Cincinnati Reds,4,0,1,0,1,0,2,.250,.250,.250,.500,hitter
+Delino DeShields,2021,Cincinnati Reds,47,4,12,1,6,9,11,.255,.375,.426,.801,hitter
+Sean Doolittle,2021,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kyle Farmer,2021,Cincinnati Reds,483,60,127,16,63,22,97,.263,.316,.416,.732,hitter
+Michael Feliz,2021,Pittsburgh Pirates,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mike Freeman,2021,Cincinnati Reds,59,6,11,0,3,5,20,.186,.262,.186,.448,hitter
+TJ Friedl,2021,Cincinnati Reds,31,9,9,1,2,4,2,.290,.361,.419,.780,hitter
+Carson Fulmer,2021,Cincinnati Reds,2,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Edgar García,2021,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Amir Garrett,2021,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mychal Givens,2021,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ashton Goudeau,2021,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Sonny Gray,2021,Cincinnati Reds,41,4,6,0,0,1,10,.146,.167,.146,.313,hitter
+Vladimir Gutierrez,2021,Cincinnati Reds,33,3,3,0,1,2,14,.091,.143,.091,.234,hitter
+Scott Heineman,2021,Cincinnati Reds,30,5,3,2,3,3,15,.100,.206,.300,.506,hitter
+Heath Hembree,2021,Cincinnati Reds,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Ryan Hendrix,2021,Cincinnati Reds,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jeff Hoffman,2021,Cincinnati Reds,15,1,2,0,1,0,3,.133,.133,.133,.266,hitter
+Jonathan India,2021,Cincinnati Reds,532,98,143,21,69,71,141,.269,.376,.459,.835,hitter
+Alejo Lopez,2021,Cincinnati Reds,23,3,6,0,0,0,5,.261,.261,.261,.522,hitter
+Michael Lorenzen,2021,Cincinnati Reds,1,1,0,0,0,0,1,.000,.000,.000,.000,hitter
+Tyler Mahle,2021,Cincinnati Reds,55,1,3,0,1,4,19,.055,.119,.055,.174,hitter
+Wade Miley,2021,Cincinnati Reds,54,9,10,0,3,3,13,.185,.228,.241,.469,hitter
+Dauri Moreta,2021,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mike Moustakas,2021,Cincinnati Reds,183,21,38,6,22,18,46,.208,.282,.372,.654,hitter
+Tyler Naquin,2021,Cincinnati Reds,411,52,111,19,70,35,106,.270,.333,.477,.810,hitter
+Josh Osich,2021,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mark Payton,2021,Cincinnati Reds,22,2,4,0,0,2,7,.182,.250,.182,.432,hitter
+Cionel Pérez,2021,Cincinnati Reds,2,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Sal Romano,2021,Cincinnati Reds,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Reiver Sanmartin,2021,Cincinnati Reds,6,0,0,0,0,0,5,.000,.000,.000,.000,hitter
+Tony Santillan,2021,Cincinnati Reds,7,1,1,0,0,0,2,.143,.143,.286,.429,hitter
+Max Schrock,2021,Cincinnati Reds,125,19,36,3,14,8,24,.288,.328,.448,.776,hitter
+Nick Senzel,2021,Cincinnati Reds,111,18,28,1,8,12,16,.252,.323,.315,.638,hitter
+Lucas Sims,2021,Cincinnati Reds,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Tyler Stephenson,2021,Cincinnati Reds,350,56,100,10,45,41,75,.286,.366,.431,.797,hitter
+Eugenio Suárez,2021,Cincinnati Reds,505,71,100,31,79,56,171,.198,.286,.428,.714,hitter
+Joey Votto,2021,Cincinnati Reds,448,73,119,36,99,77,127,.266,.375,.563,.938,hitter
+Art Warren,2021,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Justin Wilson,2021,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jesse Winker,2021,Cincinnati Reds,423,77,129,24,71,53,75,.305,.394,.556,.950,hitter
+Logan Allen,2021,Cleveland Indians,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Jake Bauers,2021,Cleveland Indians,100,7,19,2,6,12,27,.190,.277,.280,.557,hitter
+Shane Bieber,2021,Cleveland Indians,6,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Bobby Bradley,2021,Cleveland Indians,245,36,51,16,41,25,99,.208,.294,.445,.739,hitter
+Yu Chang,2021,Cleveland Indians,237,32,54,9,39,11,69,.228,.267,.426,.693,hitter
+Aaron Civale,2021,Cleveland Indians,1,0,0,0,0,1,1,.000,.500,.000,.500,hitter
+Emmanuel Clase,2021,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ernie Clement,2021,Cleveland Indians,121,16,28,3,9,7,19,.231,.285,.339,.624,hitter
+Ben Gamel,2021,Cleveland Indians,14,1,1,0,0,3,6,.071,.235,.143,.378,hitter
+Andrés Giménez,2021,Cleveland Indians,188,23,41,5,16,11,54,.218,.282,.351,.633,hitter
+Austin Hedges,2021,Cleveland Indians,286,32,51,10,31,15,87,.178,.220,.308,.528,hitter
+Sam Hentges,2021,Cleveland Indians,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+César Hernández,2021,Cleveland Indians,376,60,87,18,47,38,90,.231,.307,.431,.738,hitter
+Daniel Johnson,2021,Cleveland Indians,77,9,17,4,5,4,27,.221,.259,.377,.636,hitter
+James Karinchak,2021,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ryan Lavarnway,2021,Cleveland Indians,28,2,7,0,0,1,10,.250,.276,.357,.633,hitter
+Jordan Luplow,2021,Cleveland Indians,98,12,17,7,20,21,31,.173,.331,.439,.770,hitter
+Phil Maton,2021,Cleveland Indians,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Triston McKenzie,2021,Cleveland Indians,2,0,1,0,0,0,0,.500,.500,.500,1.000,hitter
+J.C. Mejía,2021,Cleveland Indians,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Óscar Mercado,2021,Cleveland Indians,214,27,48,6,19,21,42,.224,.300,.369,.669,hitter
+Owen Miller,2021,Cleveland Indians,191,17,39,4,18,9,54,.204,.243,.309,.552,hitter
+Eli Morgan,2021,Cleveland Indians,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Josh Naylor,2021,Cleveland Indians,233,28,59,7,21,14,45,.253,.301,.399,.700,hitter
+Kyle Nelson,2021,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Blake Parker,2021,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Oliver Pérez,2021,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Roberto Pérez,2021,Cleveland Indians,141,13,21,7,17,17,56,.149,.245,.319,.564,hitter
+Cal Quantrill,2021,Cleveland Indians,2,0,1,0,0,0,0,.500,.500,.500,1.000,hitter
+Harold Ramírez,2021,Cleveland Indians,339,33,91,7,41,14,56,.268,.305,.398,.703,hitter
+José Ramírez,2021,Cleveland Indians,552,111,147,36,103,72,87,.266,.355,.538,.893,hitter
+Wilson Ramos,2021,Detroit Tigers,120,12,24,6,13,6,29,.200,.238,.392,.630,hitter
+Franmil Reyes,2021,Cleveland Indians,418,57,106,30,85,43,149,.254,.324,.522,.846,hitter
+René Rivera,2021,Cleveland Indians,55,6,13,2,9,4,24,.236,.300,.400,.700,hitter
+Amed Rosario,2021,Cleveland Indians,550,77,155,11,57,31,120,.282,.321,.409,.730,hitter
+Eddie Rosario,2021,Cleveland Indians,283,29,72,7,46,17,47,.254,.296,.389,.685,hitter
+Nick Sandlin,2021,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Bryan Shaw,2021,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Trevor Stephan,2021,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Myles Straw,2021,Houston Astros,325,44,85,2,34,38,71,.262,.339,.326,.665,hitter
+Nick Wittgren,2021,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Alex Young,2021,Arizona Diamondbacks,4,0,0,0,0,0,4,.000,.000,.000,.000,hitter
+Bradley Zimmer,2021,Cleveland Indians,299,44,68,8,35,30,122,.227,.325,.344,.669,hitter
+Matt Adams,2021,Colorado Rockies,36,3,6,0,2,4,9,.167,.250,.194,.444,hitter
+Yency Almonte,2021,Colorado Rockies,3,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Daniel Bard,2021,Colorado Rockies,1,1,1,0,0,0,0,1.000,1.000,1.000,2.000,hitter
+Charlie Blackmon,2021,Colorado Rockies,514,76,139,13,78,54,91,.270,.351,.411,.762,hitter
+Ben Bowden,2021,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ryan Castellani,2021,Colorado Rockies,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jhoulys Chacín,2021,Colorado Rockies,6,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+C.J. Cron,2021,Colorado Rockies,470,70,132,28,92,60,117,.281,.375,.530,.905,hitter
+Yonathan Daza,2021,Colorado Rockies,301,26,85,2,30,21,60,.282,.332,.355,.687,hitter
+Elias Díaz,2021,Colorado Rockies,338,52,83,18,44,30,60,.246,.310,.464,.774,hitter
+Carlos Estévez,2021,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ryan Feltner,2021,Colorado Rockies,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Julian Fernández,2021,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kyle Freeland,2021,Colorado Rockies,33,3,6,0,4,2,17,.182,.222,.212,.434,hitter
+Joshua Fuentes,2021,Colorado Rockies,271,30,61,7,33,12,65,.225,.257,.351,.608,hitter
+Lucas Gilbreath,2021,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mychal Givens,2021,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Austin Gomber,2021,Colorado Rockies,32,0,3,0,1,1,13,.094,.121,.094,.215,hitter
+Chi Chi González,2021,Colorado Rockies,31,3,5,0,1,1,16,.161,.188,.194,.382,hitter
+Ashton Goudeau,2021,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jon Gray,2021,Colorado Rockies,47,2,5,0,3,0,32,.106,.106,.106,.212,hitter
+Garrett Hampson,2021,Colorado Rockies,453,69,106,11,33,33,118,.234,.289,.380,.669,hitter
+Sam Hilliard,2021,Colorado Rockies,214,32,46,14,34,23,87,.215,.294,.463,.757,hitter
+Connor Joe,2021,Colorado Rockies,179,23,51,8,35,26,41,.285,.379,.469,.848,hitter
+Tyler Kinley,2021,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Peter Lambert,2021,Colorado Rockies,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Justin Lawrence,2021,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Germán Márquez,2021,Colorado Rockies,53,5,14,1,9,0,13,.264,.264,.415,.679,hitter
+Ryan McMahon,2021,Colorado Rockies,528,80,134,23,86,59,147,.254,.331,.449,.780,hitter
+Taylor Motter,2021,Colorado Rockies,20,2,3,0,0,2,6,.150,.227,.150,.377,hitter
+Dom Nuñez,2021,Colorado Rockies,228,31,43,10,33,34,91,.189,.293,.399,.692,hitter
+Chris Owings,2021,Colorado Rockies,43,9,14,1,5,7,15,.326,.420,.628,1.048,hitter
+Brendan Rodgers,2021,Colorado Rockies,387,49,110,15,51,19,84,.284,.328,.470,.798,hitter
+Zac Rosscup,2021,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Rio Ruiz,2021,Baltimore Orioles,90,10,15,3,6,9,29,.167,.250,.300,.550,hitter
+Antonio Santos,2021,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Antonio Senzatela,2021,Colorado Rockies,39,1,2,0,1,0,19,.051,.051,.051,.102,hitter
+Jordan Sheffield,2021,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Robert Stephenson,2021,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Trevor Story,2021,Colorado Rockies,526,88,132,24,75,53,139,.251,.329,.471,.800,hitter
+Raimel Tapia,2021,Colorado Rockies,487,69,133,6,50,40,70,.273,.327,.372,.699,hitter
+Alan Trejo,2021,Colorado Rockies,46,7,10,1,3,3,15,.217,.260,.326,.586,hitter
+Ryan Vilade,2021,Colorado Rockies,6,0,0,0,0,1,1,.000,.143,.000,.143,hitter
+Colton Welker,2021,Colorado Rockies,37,7,7,0,2,3,11,.189,.250,.216,.466,hitter
+Tyler Alexander,2021,Detroit Tigers,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Akil Baddoo,2021,Detroit Tigers,413,60,107,13,55,45,122,.259,.330,.436,.766,hitter
+Matthew Boyd,2021,Detroit Tigers,3,0,1,0,0,1,1,.333,.500,.333,.833,hitter
+Beau Burrows,2021,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Miguel Cabrera,2021,Detroit Tigers,472,48,121,15,75,40,118,.256,.316,.386,.702,hitter
+Daz Cameron,2021,Detroit Tigers,103,16,20,4,13,10,38,.194,.278,.359,.637,hitter
+Jeimer Candelario,2021,Detroit Tigers,557,75,151,16,67,65,135,.271,.351,.443,.794,hitter
+Drew Carlton,2021,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Harold Castro,2021,Detroit Tigers,315,35,89,3,37,14,72,.283,.310,.359,.669,hitter
+Willi Castro,2021,Detroit Tigers,413,56,91,9,38,23,109,.220,.273,.351,.624,hitter
+José Cisnero,2021,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Miguel Del Pozo,2021,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Michael Fulmer,2021,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kyle Funkhouser,2021,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Rony García,2021,Detroit Tigers,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Dustin Garneau,2021,Detroit Tigers,62,9,13,6,11,3,18,.210,.250,.581,.831,hitter
+Niko Goodrum,2021,Detroit Tigers,290,39,62,9,33,29,107,.214,.292,.359,.651,hitter
+Grayson Greiner,2021,Detroit Tigers,72,7,17,1,7,9,31,.236,.321,.333,.654,hitter
+Robbie Grossman,2021,Detroit Tigers,557,88,133,23,67,98,155,.239,.357,.415,.772,hitter
+Eric Haase,2021,Detroit Tigers,351,48,81,22,61,26,119,.231,.286,.459,.745,hitter
+Derek Hill,2021,Detroit Tigers,139,19,36,3,14,10,42,.259,.313,.388,.701,hitter
+Derek Holland,2021,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Drew Hutchison,2021,Detroit Tigers,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Joe Jiménez,2021,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+JaCoby Jones,2021,Detroit Tigers,100,9,17,2,9,5,42,.170,.210,.250,.460,hitter
+Alex Lange,2021,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Matt Manning,2021,Detroit Tigers,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Nomar Mazara,2021,Detroit Tigers,165,12,35,3,19,15,45,.212,.276,.321,.597,hitter
+Casey Mize,2021,Detroit Tigers,2,0,0,0,1,1,1,.000,.333,.000,.333,hitter
+Daniel Norris,2021,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Renato Núñez,2021,Detroit Tigers,53,7,10,4,7,1,16,.189,.218,.472,.690,hitter
+Isaac Paredes,2021,Detroit Tigers,72,7,15,1,5,10,11,.208,.306,.319,.625,hitter
+Wily Peralta,2021,Detroit Tigers,1,0,0,0,0,1,0,.000,.500,.000,.500,hitter
+Erasmo Ramírez,2021,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Wilson Ramos,2021,Detroit Tigers,120,12,24,6,13,6,29,.200,.238,.392,.630,hitter
+Victor Reyes,2021,Detroit Tigers,209,26,54,5,22,8,55,.258,.284,.416,.700,hitter
+Jacob Robson,2021,Detroit Tigers,7,1,0,0,0,0,4,.000,.000,.000,.000,hitter
+Jake Rogers,2021,Detroit Tigers,113,17,27,6,17,11,46,.239,.306,.496,.802,hitter
+Jonathan Schoop,2021,Detroit Tigers,623,85,173,22,84,37,133,.278,.320,.435,.755,hitter
+Zack Short,2021,Detroit Tigers,156,21,22,6,20,22,59,.141,.239,.282,.521,hitter
+Tarik Skubal,2021,Detroit Tigers,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Gregory Soto,2021,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+José Ureña,2021,Detroit Tigers,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Bryan Abreu,2021,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jose Altuve,2021,Houston Astros,601,117,167,31,83,66,91,.278,.350,.489,.839,hitter
+Yordan Alvarez,2021,Houston Astros,537,92,149,33,104,50,145,.277,.346,.531,.877,hitter
+Brandon Bielak,2021,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Michael Brantley,2021,Houston Astros,469,68,146,8,47,33,53,.311,.362,.437,.799,hitter
+Alex Bregman,2021,Houston Astros,348,54,94,12,55,44,53,.270,.355,.422,.777,hitter
+Jason Castro,2021,Houston Astros,149,22,35,8,21,25,54,.235,.356,.443,.799,hitter
+Carlos Correa,2021,Houston Astros,555,104,155,26,92,75,116,.279,.366,.485,.851,hitter
+Ronnie Dawson,2021,Houston Astros,5,2,1,0,0,1,0,.200,.333,.200,.533,hitter
+Alex De Goti,2021,Houston Astros,6,2,2,0,1,1,2,.333,.429,.333,.762,hitter
+Aledmys Díaz,2021,Houston Astros,294,28,76,8,45,16,62,.259,.317,.405,.722,hitter
+Luis Garcia,2021,Houston Astros,6,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Robel García,2021,Houston Astros,106,8,16,1,8,8,42,.151,.216,.208,.424,hitter
+Yimi García,2021,Miami Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Marwin Gonzalez,2021,Boston Red Sox,242,25,49,2,20,19,70,.202,.281,.285,.566,hitter
+Kendall Graveman,2021,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Zack Greinke,2021,Houston Astros,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Yuli Gurriel,2021,Houston Astros,530,83,169,15,81,59,68,.319,.383,.462,.845,hitter
+Josh James,2021,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Cristian Javier,2021,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Taylor Jones,2021,Houston Astros,102,11,25,2,16,4,29,.245,.269,.402,.671,hitter
+Martín Maldonado,2021,Houston Astros,373,40,64,12,36,47,127,.172,.272,.300,.572,hitter
+Phil Maton,2021,Cleveland Indians,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chas McCormick,2021,Houston Astros,284,47,73,14,50,25,104,.257,.319,.447,.766,hitter
+Lance McCullers Jr.,2021,Houston Astros,4,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Jake Meyers,2021,Houston Astros,146,22,38,6,28,10,50,.260,.323,.438,.761,hitter
+Rafael Montero,2021,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jake Odorizzi,2021,Houston Astros,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ryan Pressly,2021,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brooks Raley,2021,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jose Siri,2021,Houston Astros,46,10,14,4,9,1,17,.304,.347,.609,.956,hitter
+Joe Smith,2021,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Peter Solomon,2021,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ryne Stanek,2021,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Myles Straw,2021,Houston Astros,325,44,85,2,34,38,71,.262,.339,.326,.665,hitter
+Garrett Stubbs,2021,Houston Astros,34,2,6,0,3,2,7,.176,.222,.235,.457,hitter
+Blake Taylor,2021,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Abraham Toro,2021,Houston Astros,109,17,23,6,20,9,21,.211,.287,.385,.672,hitter
+Kyle Tucker,2021,Houston Astros,506,83,149,30,92,53,90,.294,.359,.557,.916,hitter
+José Urquidy,2021,Houston Astros,4,0,1,0,0,0,3,.250,.250,.250,.500,hitter
+Framber Valdez,2021,Houston Astros,4,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Jacob Wilson,2021,Oakland Athletics,7,1,1,0,0,0,1,.143,.143,.143,.286,hitter
+Hanser Alberto,2021,Kansas City Royals,241,25,65,2,24,4,26,.270,.291,.402,.693,hitter
+Scott Barlow,2021,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Andrew Benintendi,2021,Kansas City Royals,493,63,136,17,73,36,97,.276,.324,.442,.766,hitter
+Jake Brentz,2021,Kansas City Royals,0,0,0,0,0,1,0,.000,1.000,.000,1.000,hitter
+Kris Bubic,2021,Kansas City Royals,5,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Wade Davis,2021,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Hunter Dozier,2021,Kansas City Royals,487,55,105,16,54,43,154,.216,.285,.394,.679,hitter
+Jarrod Dyson,2021,Kansas City Royals,122,13,27,0,10,6,28,.221,.256,.311,.567,hitter
+Cam Gallagher,2021,Kansas City Royals,112,9,28,1,7,8,20,.250,.298,.330,.628,hitter
+Kelvin Gutiérrez,2021,Kansas City Royals,135,9,29,1,8,6,31,.215,.254,.296,.550,hitter
+Carlos Hernández,2021,Kansas City Royals,4,0,0,0,0,0,4,.000,.000,.000,.000,hitter
+Greg Holland,2021,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kyle Isbel,2021,Kansas City Royals,76,16,21,1,7,7,23,.276,.337,.434,.771,hitter
+Jakob Junis,2021,Kansas City Royals,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Brad Keller,2021,Kansas City Royals,5,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Nicky Lopez,2021,Kansas City Royals,497,78,149,2,43,49,74,.300,.365,.378,.743,hitter
+Richard Lovelady,2021,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ryan McBroom,2021,Kansas City Royals,8,1,2,0,0,1,6,.250,.333,.250,.583,hitter
+Whit Merrifield,2021,Kansas City Royals,664,97,184,10,74,40,103,.277,.317,.395,.712,hitter
+Mike Minor,2021,Kansas City Royals,7,0,0,0,0,0,4,.000,.000,.000,.000,hitter
+Adalberto Mondesi,2021,Kansas City Royals,126,19,29,6,17,6,43,.230,.271,.452,.723,hitter
+Ryan O'Hearn,2021,Kansas City Royals,236,23,53,9,29,13,71,.225,.268,.369,.637,hitter
+Edward Olivares,2021,Kansas City Royals,101,14,24,5,12,5,19,.238,.291,.406,.697,hitter
+Joel Payamps,2021,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Salvador Perez,2021,Kansas City Royals,620,88,169,48,121,28,170,.273,.316,.544,.860,hitter
+Emmanuel Rivera,2021,Kansas City Royals,90,13,23,1,5,8,21,.256,.316,.333,.649,hitter
+Sebastián  Rivero,2021,Kansas City Royals,40,1,7,0,3,3,15,.175,.250,.225,.475,hitter
+Carlos Santana,2021,Kansas City Royals,565,66,121,19,69,86,102,.214,.319,.342,.661,hitter
+Ervin Santana,2021,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jorge Soler,2021,Kansas City Royals,308,38,59,13,37,38,97,.192,.288,.370,.658,hitter
+Josh Staumont,2021,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Anthony Swarzak,2021,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Domingo Tapia,2021,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Michael A. Taylor,2021,Kansas City Royals,483,58,118,12,54,33,144,.244,.297,.356,.653,hitter
+Kyle Zimmer,2021,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tyler Zuber,2021,Kansas City Royals,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Scott Alexander,2021,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Austin Barnes,2021,Los Angeles Dodgers,200,28,43,6,23,20,56,.215,.299,.345,.644,hitter
+Trevor Bauer,2021,Los Angeles Dodgers,30,0,1,0,1,1,11,.033,.065,.033,.098,hitter
+Matt Beaty,2021,Los Angeles Dodgers,204,35,55,7,40,20,44,.270,.363,.402,.765,hitter
+Cody Bellinger,2021,Los Angeles Dodgers,315,39,52,10,36,31,94,.165,.240,.302,.542,hitter
+Mookie Betts,2021,Los Angeles Dodgers,466,93,123,23,58,68,86,.264,.367,.487,.854,hitter
+Phil Bickford,2021,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Justin Bruihl,2021,Los Angeles Dodgers,0,0,0,0,0,1,0,.000,1.000,.000,1.000,hitter
+Walker Buehler,2021,Los Angeles Dodgers,69,5,7,0,3,5,45,.101,.162,.130,.292,hitter
+Andy Burns,2021,Los Angeles Dodgers,11,2,3,0,0,3,1,.273,.467,.364,.831,hitter
+Garrett Cleavinger,2021,Los Angeles Dodgers,2,0,1,0,0,0,1,.500,.500,1.000,1.500,hitter
+Neftalí Feliz,2021,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tony Gonsolin,2021,Los Angeles Dodgers,17,2,3,0,0,1,8,.176,.222,.235,.457,hitter
+Victor González,2021,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brusdar Graterol,2021,Los Angeles Dodgers,2,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Josiah Gray,2021,Los Angeles Dodgers,3,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Conner Greene,2021,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Shane Greene,2021,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Andre Jackson,2021,Los Angeles Dodgers,4,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Kenley Jansen,2021,Los Angeles Dodgers,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Nate Jones,2021,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Joe Kelly,2021,Los Angeles Dodgers,3,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Clayton Kershaw,2021,Los Angeles Dodgers,36,2,8,0,3,1,11,.222,.243,.222,.465,hitter
+Mike Kickham,2021,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Corey Knebel,2021,Los Angeles Dodgers,2,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Gavin Lux,2021,Los Angeles Dodgers,335,49,81,7,46,41,83,.242,.328,.364,.692,hitter
+Dustin May,2021,Los Angeles Dodgers,3,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Billy McKinney,2021,Milwaukee Brewers,92,9,19,3,6,7,24,.207,.260,.359,.619,hitter
+Zach McKinstry,2021,Los Angeles Dodgers,158,19,34,7,29,10,50,.215,.263,.405,.668,hitter
+Max Muncy,2021,Los Angeles Dodgers,497,95,124,36,94,83,120,.249,.368,.527,.895,hitter
+Jimmy Nelson,2021,Los Angeles Dodgers,3,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Sheldon Neuse,2021,Los Angeles Dodgers,65,6,11,3,4,1,26,.169,.182,.323,.505,hitter
+Darien Núñez,2021,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+DJ Peters,2021,Los Angeles Dodgers,26,5,5,1,4,8,14,.192,.382,.385,.767,hitter
+Evan Phillips,2021,Los Angeles Dodgers,3,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+AJ Pollock,2021,Los Angeles Dodgers,384,53,114,21,69,30,80,.297,.355,.536,.891,hitter
+David Price,2021,Los Angeles Dodgers,15,1,4,0,2,0,3,.267,.250,.333,.583,hitter
+Albert Pujols,2021,Los Angeles Angels,86,9,17,5,12,3,13,.198,.250,.372,.622,hitter
+Kevin Quackenbush,2021,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Luke Raley,2021,Los Angeles Dodgers,66,5,12,2,4,2,25,.182,.250,.288,.538,hitter
+Yefry Ramírez,2021,Los Angeles Dodgers,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jake Reed,2021,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Zach Reks,2021,Los Angeles Dodgers,10,2,0,0,0,0,7,.000,.000,.000,.000,hitter
+Edwin Ríos,2021,Los Angeles Dodgers,51,4,4,1,1,7,18,.078,.217,.137,.354,hitter
+Keibert Ruiz,2021,Los Angeles Dodgers,7,1,1,1,1,0,5,.143,.143,.571,.714,hitter
+Dennis Santana,2021,Los Angeles Dodgers,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Max Scherzer,2021,Washington Nationals,35,0,0,0,0,0,13,.000,.000,.000,.000,hitter
+Corey Seager,2021,Los Angeles Dodgers,353,54,108,16,57,48,66,.306,.394,.521,.915,hitter
+Jimmie Sherfy,2021,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Will Smith,2021,Los Angeles Dodgers,414,71,107,25,76,58,101,.258,.365,.495,.860,hitter
+Steven Souza Jr.,2021,Los Angeles Dodgers,33,2,5,1,3,2,14,.152,.222,.333,.555,hitter
+Chris Taylor,2021,Los Angeles Dodgers,507,92,129,20,73,63,167,.254,.344,.438,.782,hitter
+Yoshi Tsutsugo,2021,Tampa Bay Rays,78,5,13,0,5,8,27,.167,.244,.218,.462,hitter
+Justin Turner,2021,Los Angeles Dodgers,533,87,148,27,87,61,98,.278,.361,.471,.832,hitter
+Trea Turner,2021,Washington Nationals,388,66,125,18,49,26,77,.322,.369,.521,.890,hitter
+Edwin Uceta,2021,Los Angeles Dodgers,5,1,1,0,0,0,2,.200,.200,.200,.400,hitter
+Julio Urías,2021,Los Angeles Dodgers,59,5,12,0,9,0,22,.203,.217,.237,.454,hitter
+Andrew Vasquez,2021,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Alex Vesia,2021,Los Angeles Dodgers,3,0,0,0,0,1,3,.000,.250,.000,.250,hitter
+Mitch White,2021,Los Angeles Dodgers,15,1,0,0,0,1,11,.000,.063,.000,.063,hitter
+Riley Adams,2021,Toronto Blue Jays,28,2,3,0,0,2,12,.107,.167,.179,.346,hitter
+Joan Adon,2021,Washington Nationals,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Humberto Arteaga,2021,Washington Nationals,3,0,0,0,1,0,0,.000,.000,.000,.000,hitter
+Alex Avila,2021,Washington Nationals,89,5,17,1,9,19,37,.191,.345,.348,.693,hitter
+Luis Avilán,2021,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Alberto Baldonado,2021,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tres Barrera,2021,Washington Nationals,91,8,24,2,10,12,22,.264,.374,.385,.759,hitter
+Josh Bell,2021,Washington Nationals,498,75,130,27,88,65,101,.261,.347,.476,.823,hitter
+Starlin Castro,2021,Washington Nationals,315,25,89,3,38,26,62,.283,.333,.375,.708,hitter
+Sam Clay,2021,Washington Nationals,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Patrick Corbin,2021,Washington Nationals,53,1,7,0,0,3,24,.132,.179,.132,.311,hitter
+Alcides Escobar,2021,Washington Nationals,319,53,92,4,28,17,56,.288,.340,.404,.744,hitter
+Paolo Espino,2021,Washington Nationals,30,2,5,0,0,0,15,.167,.167,.167,.334,hitter
+Erick Fedde,2021,Washington Nationals,36,0,0,0,1,1,14,.000,.026,.000,.026,hitter
+Kyle Finnegan,2021,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Luis García Jr.,2021,Washington Nationals,236,29,57,6,22,11,43,.242,.275,.411,.686,hitter
+Yan Gomes,2021,Washington Nationals,218,30,59,9,35,13,47,.271,.323,.454,.777,hitter
+Josiah Gray,2021,Los Angeles Dodgers,3,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Javy Guerra,2021,Washington Nationals,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Brad Hand,2021,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ryne Harper,2021,Washington Nationals,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Will Harris,2021,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Josh Harrison,2021,Washington Nationals,320,39,94,6,38,25,50,.294,.366,.434,.800,hitter
+Yadiel Hernandez,2021,Washington Nationals,264,33,72,9,32,22,59,.273,.329,.413,.742,hitter
+Daniel Hudson,2021,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Carter Kieboom,2021,Washington Nationals,217,26,45,6,20,25,62,.207,.301,.318,.619,hitter
+Gabe Klobosits,2021,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jon Lester,2021,Washington Nationals,28,3,5,1,3,0,13,.179,.179,.286,.465,hitter
+Kyle Lobstein,2021,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jonathan Lucroy,2021,Washington Nationals,14,0,5,0,2,0,2,.357,.357,.429,.786,hitter
+Andrés Machado,2021,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kyle McGowin,2021,Washington Nationals,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Jordy Mercer,2021,Washington Nationals,118,13,30,2,9,9,34,.254,.307,.364,.671,hitter
+Justin Miller,2021,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Patrick Murphy,2021,Washington Nationals,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Sean Nolin,2021,Washington Nationals,5,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Gerardo Parra,2021,Washington Nationals,97,13,23,2,10,6,30,.237,.292,.351,.643,hitter
+Hernán Pérez,2021,Washington Nationals,19,1,1,0,0,2,10,.053,.143,.053,.196,hitter
+Tanner Rainey,2021,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jakson Reetz,2021,Washington Nationals,2,1,1,0,0,0,0,.500,.500,1.000,1.500,hitter
+René Rivera,2021,Cleveland Indians,55,6,13,2,9,4,24,.236,.300,.400,.700,hitter
+Victor Robles,2021,Washington Nationals,315,37,64,2,19,33,85,.203,.310,.295,.605,hitter
+Jefry Rodriguez,2021,Washington Nationals,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Josh Rogers,2021,Washington Nationals,12,0,0,0,0,1,4,.000,.077,.000,.077,hitter
+Jhon Romero,2021,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Joe Ross,2021,Washington Nationals,32,1,8,0,3,1,14,.250,.294,.250,.544,hitter
+Keibert Ruiz,2021,Los Angeles Dodgers,7,1,1,1,1,0,5,.143,.143,.571,.714,hitter
+Adrián Sanchez,2021,Washington Nationals,35,5,9,0,1,3,4,.257,.316,.314,.630,hitter
+Max Scherzer,2021,Washington Nationals,35,0,0,0,0,0,13,.000,.000,.000,.000,hitter
+Kyle Schwarber,2021,Washington Nationals,265,42,67,25,53,31,88,.253,.340,.570,.910,hitter
+Juan Soto,2021,Washington Nationals,502,111,157,29,95,145,93,.313,.465,.534,.999,hitter
+Andrew Stevenson,2021,Washington Nationals,192,22,44,5,23,13,61,.229,.294,.339,.633,hitter
+Stephen Strasburg,2021,Washington Nationals,5,0,1,0,0,1,2,.200,.333,.400,.733,hitter
+Wander Suero,2021,Washington Nationals,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Lane Thomas,2021,St. Louis Cardinals,48,2,5,0,1,10,17,.104,.259,.125,.384,hitter
+Mason Thompson,2021,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Trea Turner,2021,Washington Nationals,388,66,125,18,49,26,77,.322,.369,.521,.890,hitter
+Austin Voth,2021,Washington Nationals,2,1,1,0,0,0,1,.500,.667,.500,1.167,hitter
+Cody Wilson,2021,Washington Nationals,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ryan Zimmerman,2021,Washington Nationals,255,27,62,14,46,16,77,.243,.286,.471,.757,hitter
+Albert Almora Jr.,2021,New York Mets,52,3,6,0,0,2,17,.115,.148,.173,.321,hitter
+Pete Alonso,2021,New York Mets,561,81,147,37,94,60,127,.262,.344,.519,.863,hitter
+Javier Báez,2021,Chicago Cubs,335,48,83,22,65,15,131,.248,.292,.484,.776,hitter
+Anthony Banda,2021,New York Mets,1,1,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jacob Barnes,2021,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Dellin Betances,2021,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Travis Blankenhorn,2021,Minnesota Twins,0,1,0,0,0,0,0,.000,.000,.000,.000,hitter
+Akeem Bostick,2021,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Carlos Carrasco,2021,New York Mets,15,0,0,0,0,0,10,.000,.000,.000,.000,hitter
+Miguel Castro,2021,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Michael Conforto,2021,New York Mets,406,52,94,14,55,59,104,.232,.344,.384,.728,hitter
+J.D. Davis,2021,New York Mets,179,18,51,5,23,24,68,.285,.384,.436,.820,hitter
+Edwin Díaz,2021,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Yennsy Díaz,2021,New York Mets,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Brandon Drury,2021,New York Mets,84,7,23,4,14,3,22,.274,.307,.476,.783,hitter
+Jerad Eickhoff,2021,New York Mets,5,0,2,0,0,0,0,.400,.400,.400,.800,hitter
+Jeurys Familia,2021,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Johneshwy Fargas,2021,New York Mets,21,1,6,0,3,0,7,.286,.286,.524,.810,hitter
+Robert Gsellman,2021,New York Mets,5,0,0,0,0,1,4,.000,.167,.000,.167,hitter
+Luis Guillorme,2021,New York Mets,132,13,35,1,5,23,23,.265,.374,.311,.685,hitter
+Jake Hager,2021,New York Mets,8,1,1,0,0,0,3,.125,.125,.125,.250,hitter
+Brad Hand,2021,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Geoff Hartlieb,2021,Pittsburgh Pirates,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Heath Hembree,2021,Cincinnati Reds,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Trevor Hildenberger,2021,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Rich Hill,2021,Tampa Bay Rays,4,0,1,0,0,0,2,.250,.250,.250,.500,hitter
+Tommy Hunter,2021,New York Mets,1,1,1,0,0,0,0,1.000,1.000,1.000,2.000,hitter
+Khalil Lee,2021,New York Mets,18,2,1,0,1,0,13,.056,.056,.111,.167,hitter
+Francisco Lindor,2021,New York Mets,452,73,104,20,63,58,96,.230,.322,.412,.734,hitter
+Aaron Loup,2021,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Joey Lucchesi,2021,New York Mets,10,1,0,0,0,1,7,.000,.091,.000,.091,hitter
+Seth Lugo,2021,New York Mets,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Trevor May,2021,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Cameron Maybin,2021,New York Mets,28,2,1,0,0,3,12,.036,.182,.036,.218,hitter
+Patrick Mazeika,2021,New York Mets,79,6,15,1,6,4,18,.190,.253,.266,.519,hitter
+James McCann,2021,New York Mets,375,29,87,10,46,32,115,.232,.294,.349,.643,hitter
+Billy McKinney,2021,Milwaukee Brewers,92,9,19,3,6,7,24,.207,.260,.359,.619,hitter
+Jeff McNeil,2021,New York Mets,386,48,97,7,35,29,58,.251,.319,.360,.679,hitter
+Tylor Megill,2021,New York Mets,28,1,6,0,0,1,17,.214,.241,.321,.562,hitter
+Tomás Nido,2021,New York Mets,153,16,34,3,13,5,44,.222,.261,.327,.588,hitter
+Brandon Nimmo,2021,New York Mets,325,51,95,8,28,54,79,.292,.401,.437,.838,hitter
+Stephen Nogosek,2021,New York Mets,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Corey Oswalt,2021,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+José Peraza,2021,New York Mets,142,21,29,6,20,9,26,.204,.266,.380,.646,hitter
+David Peterson,2021,New York Mets,16,2,1,0,0,0,10,.063,.118,.125,.243,hitter
+Kevin Pillar,2021,New York Mets,325,40,75,15,47,11,81,.231,.277,.415,.692,hitter
+Jake Reed,2021,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Sean Reid-Foley,2021,New York Mets,0,0,0,0,0,2,0,.000,1.000,.000,1.000,hitter
+Chance Sisco,2021,Baltimore Orioles,65,4,10,0,3,6,18,.154,.247,.185,.432,hitter
+Dominic Smith,2021,New York Mets,446,43,109,11,58,32,112,.244,.304,.363,.667,hitter
+Drew Smith,2021,New York Mets,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Robert Stock,2021,Chicago Cubs,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Marcus Stroman,2021,New York Mets,51,2,5,0,1,4,24,.098,.164,.137,.301,hitter
+Noah Syndergaard,2021,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Thomas Szapucki,2021,New York Mets,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Stephen Tarpley,2021,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Wilfredo Tovar,2021,New York Mets,11,0,2,0,1,1,4,.182,.250,.182,.432,hitter
+Nick Tropeano,2021,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jonathan Villar,2021,New York Mets,454,63,113,18,42,46,132,.249,.322,.416,.738,hitter
+Taijuan Walker,2021,New York Mets,47,0,5,0,1,1,29,.106,.143,.106,.249,hitter
+Mason Williams,2021,New York Mets,33,3,7,1,1,4,9,.212,.297,.333,.630,hitter
+Trevor Williams,2021,Chicago Cubs,18,1,4,0,1,1,6,.222,.263,.222,.485,hitter
+Jordan Yamamoto,2021,New York Mets,2,0,1,0,0,0,1,.500,.500,.500,1.000,hitter
+Jacob deGrom,2021,New York Mets,33,4,12,0,6,0,9,.364,.364,.394,.758,hitter

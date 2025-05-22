@@ -1,0 +1,844 @@
+name,year,team,AB,R,H,HR,RBI,BB,K,AVG,OBP,SLG,OPS,playerType
+Jesús Aguilar,2023,Oakland Athletics,104,8,23,5,9,8,31,.221,.281,.385,.666,hitter
+Nick Allen,2023,Oakland Athletics,303,29,67,4,20,17,52,.221,.263,.287,.550,hitter
+JJ Bleday,2023,Oakland Athletics,256,35,50,10,27,42,72,.195,.310,.355,.665,hitter
+Jonah Bride,2023,Oakland Athletics,88,9,15,0,7,11,22,.170,.286,.205,.491,hitter
+Seth Brown,2023,Oakland Athletics,343,33,76,14,52,30,101,.222,.286,.405,.691,hitter
+Lawrence Butler,2023,Oakland Athletics,123,10,26,4,10,4,35,.211,.240,.341,.581,hitter
+Conner Capel,2023,Oakland Athletics,73,6,19,0,3,12,25,.260,.372,.329,.701,hitter
+Aledmys Díaz,2023,Oakland Athletics,315,25,72,4,24,17,66,.229,.280,.337,.617,hitter
+Jordan Diaz,2023,Oakland Athletics,272,20,60,10,27,17,69,.221,.273,.364,.637,hitter
+Shintaro Fujinami,2023,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Zack Gelof,2023,Oakland Athletics,270,40,72,14,32,26,82,.267,.337,.504,.841,hitter
+Tony Kemp,2023,Oakland Athletics,359,42,75,5,27,44,40,.209,.303,.304,.607,hitter
+Shea Langeliers,2023,Oakland Athletics,448,52,92,22,63,34,143,.205,.268,.413,.681,hitter
+Ramón Laureano,2023,Oakland Athletics,225,24,48,6,21,17,73,.213,.280,.364,.644,hitter
+Ryan Noda,2023,Oakland Athletics,406,63,93,16,54,77,170,.229,.364,.406,.770,hitter
+Carlos Pérez,2023,Oakland Athletics,168,17,38,6,20,13,40,.226,.293,.357,.650,hitter
+Jace Peterson,2023,Oakland Athletics,281,30,62,6,28,36,77,.221,.313,.324,.637,hitter
+Manny Piña,2023,Oakland Athletics,12,1,3,1,1,0,3,.250,.250,.500,.750,hitter
+Brent Rooker,2023,Oakland Athletics,463,61,114,30,69,49,172,.246,.329,.488,.817,hitter
+Esteury Ruiz,2023,Oakland Athletics,449,47,114,5,47,20,99,.254,.309,.345,.654,hitter
+Tayler Scott,2023,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kevin Smith,2023,Oakland Athletics,135,15,25,5,11,5,51,.185,.220,.326,.546,hitter
+Tyler Soderstrom,2023,Oakland Athletics,125,9,20,3,7,11,43,.160,.232,.240,.472,hitter
+Cody Thomas,2023,Oakland Athletics,42,1,10,1,2,4,17,.238,.304,.381,.685,hitter
+Tyler Wade,2023,Oakland Athletics,51,8,13,0,2,4,13,.255,.309,.314,.623,hitter
+Miguel Andujar,2023,Pittsburgh Pirates,84,9,21,4,18,6,13,.250,.300,.476,.776,hitter
+Ji Hwan Bae,2023,Pittsburgh Pirates,334,54,77,2,32,30,92,.231,.296,.311,.607,hitter
+Vinny Capra,2023,Pittsburgh Pirates,18,3,3,0,1,2,5,.167,.250,.222,.472,hitter
+Rodolfo Castro,2023,Pittsburgh Pirates,197,19,45,6,22,21,62,.228,.317,.355,.672,hitter
+Ji Man Choi,2023,Pittsburgh Pirates,73,9,15,6,11,2,27,.205,.224,.507,.731,hitter
+Oneil Cruz,2023,Pittsburgh Pirates,32,7,8,1,4,7,8,.250,.375,.375,.750,hitter
+Henry Davis,2023,Pittsburgh Pirates,225,27,48,7,24,25,69,.213,.302,.351,.653,hitter
+Jason Delay,2023,Pittsburgh Pirates,167,20,42,1,18,14,44,.251,.319,.347,.666,hitter
+Nick Gonzales,2023,Pittsburgh Pirates,115,12,24,2,13,6,36,.209,.268,.348,.616,hitter
+Ke'Bryan Hayes,2023,Pittsburgh Pirates,494,65,134,15,61,28,104,.271,.309,.453,.762,hitter
+Austin Hedges,2023,Pittsburgh Pirates,161,13,29,1,14,11,39,.180,.237,.230,.467,hitter
+Tyler Heineman,2023,Pittsburgh Pirates,9,1,1,0,0,1,1,.111,.200,.111,.311,hitter
+Connor Joe,2023,Pittsburgh Pirates,413,63,102,11,42,50,110,.247,.339,.421,.760,hitter
+Drew Maggi,2023,Pittsburgh Pirates,6,1,2,0,1,0,1,.333,.333,.500,.833,hitter
+Tucupita Marcano,2023,Pittsburgh Pirates,202,16,47,3,18,10,35,.233,.276,.356,.632,hitter
+Mark Mathias,2023,Pittsburgh Pirates,52,5,12,0,4,10,11,.231,.355,.269,.624,hitter
+Andrew McCutchen,2023,Pittsburgh Pirates,390,55,100,12,43,75,100,.256,.378,.397,.775,hitter
+Cal Mitchell,2023,Pittsburgh Pirates,4,0,0,0,0,1,1,.000,.200,.000,.200,hitter
+Chris Owings,2023,Pittsburgh Pirates,25,0,4,0,0,0,12,.160,.160,.160,.320,hitter
+Joshua Palacios,2023,Pittsburgh Pirates,247,26,59,10,40,12,56,.239,.279,.413,.692,hitter
+Liover Peguero,2023,Pittsburgh Pirates,198,21,47,7,26,11,67,.237,.280,.374,.654,hitter
+Bryan Reynolds,2023,Pittsburgh Pirates,574,85,151,24,84,53,138,.263,.330,.460,.790,hitter
+Alfonso Rivas III,2023,San Diego Padres,15,2,3,0,1,2,7,.200,.294,.333,.627,hitter
+Endy Rodríguez,2023,Pittsburgh Pirates,186,27,41,3,13,17,49,.220,.284,.328,.612,hitter
+Carlos Santana,2023,Pittsburgh Pirates,345,45,81,12,53,45,69,.235,.321,.412,.733,hitter
+Canaan Smith-Njigba,2023,Pittsburgh Pirates,32,3,4,0,5,4,16,.125,.216,.219,.435,hitter
+Jack Suwinski,2023,Pittsburgh Pirates,447,63,100,26,74,75,172,.224,.339,.454,.793,hitter
+Jared Triolo,2023,Pittsburgh Pirates,181,30,54,3,21,24,63,.298,.388,.398,.786,hitter
+Alika Williams,2023,Pittsburgh Pirates,101,7,20,0,6,9,35,.198,.270,.248,.518,hitter
+José Azocar,2023,San Diego Padres,91,16,21,2,9,4,24,.231,.278,.363,.641,hitter
+Scott Barlow,2023,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Matthew Batten,2023,San Diego Padres,120,19,31,2,11,17,30,.258,.355,.358,.713,hitter
+Xander Bogaerts,2023,San Diego Padres,596,83,170,19,58,56,110,.285,.350,.440,.790,hitter
+Luis Campusano,2023,San Diego Padres,163,27,52,7,30,7,21,.319,.356,.491,.847,hitter
+Matt Carpenter,2023,San Diego Padres,188,18,33,5,31,41,67,.176,.322,.319,.641,hitter
+Ji Man Choi,2023,Pittsburgh Pirates,73,9,15,6,11,2,27,.205,.224,.507,.731,hitter
+Garrett Cooper,2023,Miami Marlins,305,28,78,13,46,17,97,.256,.296,.426,.722,hitter
+Jake Cronenworth,2023,San Diego Padres,458,54,105,10,48,46,97,.229,.312,.378,.690,hitter
+Nelson Cruz,2023,San Diego Padres,143,9,35,5,23,6,46,.245,.283,.399,.682,hitter
+David Dahl,2023,San Diego Padres,9,1,1,1,1,0,2,.111,.111,.444,.555,hitter
+Brandon Dixon,2023,San Diego Padres,79,10,16,2,9,1,31,.203,.244,.329,.573,hitter
+Adam Engel,2023,San Diego Padres,6,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Ben Gamel,2023,San Diego Padres,15,2,3,0,2,0,2,.200,.200,.267,.467,hitter
+Trent Grisham,2023,San Diego Padres,469,67,93,13,50,75,154,.198,.315,.352,.667,hitter
+Josh Hader,2023,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ha-Seong Kim,2023,San Diego Padres,538,84,140,17,60,75,124,.260,.351,.398,.749,hitter
+Taylor Kohlwey,2023,San Diego Padres,13,0,2,0,0,0,5,.154,.154,.154,.308,hitter
+Manny Machado,2023,San Diego Padres,543,75,140,30,91,50,109,.258,.319,.462,.781,hitter
+Austin Nola,2023,San Diego Padres,130,9,19,1,8,18,31,.146,.260,.192,.452,hitter
+Rougned Odor,2023,San Diego Padres,138,21,28,4,18,17,37,.203,.299,.355,.654,hitter
+Jurickson Profar,2023,Colorado Rockies,415,51,98,8,39,45,86,.236,.316,.364,.680,hitter
+Alfonso Rivas III,2023,San Diego Padres,15,2,3,0,1,2,7,.200,.294,.333,.627,hitter
+Eguy Rosario,2023,San Diego Padres,36,6,9,2,6,1,12,.250,.270,.500,.770,hitter
+Gary Sánchez,2023,New York Mets,6,0,1,0,1,0,3,.167,.143,.167,.310,hitter
+Chandler Seagle,2023,San Diego Padres,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Juan Soto,2023,San Diego Padres,568,97,156,35,109,132,129,.275,.410,.519,.929,hitter
+Robert Suarez,2023,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brett Sullivan,2023,San Diego Padres,81,7,17,1,6,4,19,.210,.244,.284,.528,hitter
+Domingo Tapia,2023,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Fernando Tatis Jr.,2023,San Diego Padres,575,91,148,25,78,53,141,.257,.322,.449,.771,hitter
+Ty Adcock,2023,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Matt Brash,2023,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+J.B. Bukauskas,2023,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+José Caballero,2023,Seattle Mariners,231,37,51,4,26,28,66,.221,.343,.320,.663,hitter
+Dominic Canzone,2023,Arizona Diamondbacks,38,4,9,1,8,2,8,.237,.293,.368,.661,hitter
+J.P. Crawford,2023,Seattle Mariners,534,94,142,19,65,94,125,.266,.380,.438,.818,hitter
+Mike Ford,2023,Seattle Mariners,219,32,50,16,34,24,81,.228,.323,.475,.798,hitter
+Ty France,2023,Seattle Mariners,587,79,147,12,58,43,117,.250,.337,.366,.703,hitter
+Sam Haggerty,2023,Seattle Mariners,91,13,23,1,5,15,17,.253,.364,.341,.705,hitter
+Teoscar Hernández,2023,Seattle Mariners,625,70,161,26,93,38,211,.258,.305,.435,.740,hitter
+Cooper Hummel,2023,Seattle Mariners,23,2,2,0,0,2,9,.087,.192,.130,.322,hitter
+Jarred Kelenic,2023,Seattle Mariners,372,44,94,11,49,41,132,.253,.327,.419,.746,hitter
+Tommy La Stella,2023,Seattle Mariners,21,2,4,0,2,3,5,.190,.292,.238,.530,hitter
+Cade Marlowe,2023,Seattle Mariners,88,14,21,3,11,12,33,.239,.330,.420,.750,hitter
+Dylan Moore,2023,Seattle Mariners,145,18,30,7,19,16,56,.207,.303,.428,.731,hitter
+Andrés Muñoz,2023,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Penn Murfee,2023,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tom Murphy,2023,Seattle Mariners,145,19,42,8,17,10,44,.290,.335,.538,.873,hitter
+Brian O'Keefe,2023,Seattle Mariners,19,0,2,0,2,2,7,.105,.190,.211,.401,hitter
+AJ Pollock,2023,Seattle Mariners,127,15,22,5,15,9,30,.173,.225,.323,.548,hitter
+Cal Raleigh,2023,Seattle Mariners,513,78,119,30,75,54,158,.232,.306,.456,.762,hitter
+Julio Rodríguez,2023,Seattle Mariners,654,102,180,32,103,47,175,.275,.333,.485,.818,hitter
+Josh Rojas,2023,Arizona Diamondbacks,189,23,43,0,26,18,51,.228,.292,.296,.588,hitter
+Tayler Saucedo,2023,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Paul Sewald,2023,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Eugenio Suárez,2023,Seattle Mariners,598,68,139,22,96,70,214,.232,.323,.391,.714,hitter
+Justin Topa,2023,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Luis Torrens,2023,Chicago Cubs,20,1,5,0,3,1,8,.250,.318,.300,.618,hitter
+Taylor Trammell,2023,Seattle Mariners,46,7,6,3,11,9,22,.130,.286,.326,.612,hitter
+Kolten Wong,2023,Seattle Mariners,194,21,32,2,19,16,46,.165,.241,.227,.468,hitter
+Scott Alexander,2023,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Patrick Bailey,2023,San Francisco Giants,326,29,76,7,48,21,100,.233,.285,.359,.644,hitter
+Joey Bart,2023,San Francisco Giants,87,9,18,0,5,3,23,.207,.263,.264,.527,hitter
+Matt Beaty,2023,San Francisco Giants,5,1,1,0,1,0,2,.200,.200,.200,.400,hitter
+Johan Camargo,2023,San Francisco Giants,18,0,4,0,2,1,4,.222,.300,.222,.522,hitter
+Michael Conforto,2023,San Francisco Giants,406,58,97,15,58,53,106,.239,.334,.384,.718,hitter
+Brandon Crawford,2023,San Francisco Giants,283,31,55,7,38,28,81,.194,.273,.314,.587,hitter
+J.D. Davis,2023,San Francisco Giants,480,61,119,18,69,52,152,.248,.325,.413,.738,hitter
+Paul DeJong,2023,St. Louis Cardinals,279,38,65,13,32,21,87,.233,.297,.412,.709,hitter
+Isan Díaz,2023,San Francisco Giants,19,0,1,0,1,2,7,.053,.143,.053,.196,hitter
+Camilo Doval,2023,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Thairo Estrada,2023,San Francisco Giants,495,63,134,14,49,22,120,.271,.315,.416,.731,hitter
+Tyler Fitzgerald,2023,San Francisco Giants,32,3,7,2,5,2,10,.219,.265,.469,.734,hitter
+Wilmer Flores,2023,San Francisco Giants,405,51,115,23,60,41,63,.284,.355,.509,.864,hitter
+Mitch Haniger,2023,San Francisco Giants,211,27,44,6,28,15,65,.209,.266,.365,.631,hitter
+Bryce Johnson,2023,San Francisco Giants,43,7,7,1,3,4,15,.163,.229,.256,.485,hitter
+Jakob Junis,2023,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Marco Luciano,2023,San Francisco Giants,39,4,9,0,0,6,17,.231,.333,.308,.641,hitter
+Mark Mathias,2023,Pittsburgh Pirates,52,5,12,0,4,10,11,.231,.355,.269,.624,hitter
+Luis Matos,2023,San Francisco Giants,228,24,57,2,14,20,33,.250,.319,.342,.661,hitter
+Wade Meckler,2023,San Francisco Giants,56,6,13,0,4,6,25,.232,.328,.250,.578,hitter
+Joc Pederson,2023,San Francisco Giants,358,59,84,15,51,57,89,.235,.348,.416,.764,hitter
+Roberto Pérez,2023,San Francisco Giants,15,0,2,0,1,2,6,.133,.235,.133,.368,hitter
+AJ Pollock,2023,Seattle Mariners,127,15,22,5,15,9,30,.173,.225,.323,.548,hitter
+Heliot Ramos,2023,San Francisco Giants,56,5,10,1,2,4,20,.179,.233,.304,.537,hitter
+Taylor Rogers,2023,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tyler Rogers,2023,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Darin Ruf,2023,San Francisco Giants,23,1,6,0,3,4,9,.261,.370,.348,.718,hitter
+Blake Sabol,2023,San Francisco Giants,310,36,73,13,44,24,117,.235,.301,.394,.695,hitter
+Casey Schmitt,2023,San Francisco Giants,253,28,52,5,30,13,65,.206,.255,.324,.579,hitter
+Austin Slater,2023,San Francisco Giants,185,24,50,5,20,20,58,.270,.348,.400,.748,hitter
+Cal Stevenson,2023,San Francisco Giants,9,1,0,0,0,3,2,.000,.250,.000,.250,hitter
+David Villar,2023,San Francisco Giants,124,15,18,5,12,11,45,.145,.236,.315,.551,hitter
+LaMonte Wade Jr.,2023,San Francisco Giants,429,64,110,17,45,76,95,.256,.373,.417,.790,hitter
+Brett Wisely,2023,San Francisco Giants,120,10,21,2,8,9,40,.175,.231,.267,.498,hitter
+Austin Wynns,2023,San Francisco Giants,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Mike Yastrzemski,2023,San Francisco Giants,330,54,77,15,43,45,99,.233,.330,.445,.775,hitter
+Nolan Arenado,2023,St. Louis Cardinals,560,71,149,26,93,41,101,.266,.315,.459,.774,hitter
+Luken Baker,2023,St. Louis Cardinals,86,9,18,2,10,13,31,.209,.313,.314,.627,hitter
+Tres Barrera,2023,St. Louis Cardinals,2,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Alec Burleson,2023,St. Louis Cardinals,315,34,77,8,36,23,45,.244,.300,.390,.690,hitter
+Génesis Cabrera,2023,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Dylan Carlson,2023,St. Louis Cardinals,219,27,48,5,27,26,49,.219,.318,.333,.651,hitter
+Willson Contreras,2023,St. Louis Cardinals,428,55,113,20,67,51,111,.264,.358,.467,.825,hitter
+Paul DeJong,2023,St. Louis Cardinals,279,38,65,13,32,21,87,.233,.297,.412,.709,hitter
+Brendan Donovan,2023,St. Louis Cardinals,327,48,93,11,34,33,53,.284,.365,.422,.787,hitter
+Tommy Edman,2023,St. Louis Cardinals,479,69,119,13,47,35,84,.248,.307,.399,.706,hitter
+José Fermín,2023,St. Louis Cardinals,51,2,12,0,4,6,8,.235,.339,.255,.594,hitter
+Paul Goldschmidt,2023,St. Louis Cardinals,593,89,159,25,80,87,161,.268,.363,.447,.810,hitter
+Nolan Gorman,2023,St. Louis Cardinals,406,59,96,27,76,53,148,.236,.328,.478,.806,hitter
+Ryan Helsley,2023,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Iván Herrera,2023,St. Louis Cardinals,37,6,11,0,4,5,11,.297,.409,.351,.760,hitter
+John King,2023,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Andrew Knizner,2023,St. Louis Cardinals,224,30,54,10,31,12,62,.241,.288,.424,.712,hitter
+Irving Lopez,2023,St. Louis Cardinals,11,0,0,0,1,0,5,.000,.000,.000,.000,hitter
+Óscar Mercado,2023,St. Louis Cardinals,31,3,9,0,5,1,4,.290,.313,.387,.700,hitter
+Taylor Motter,2023,St. Louis Cardinals,76,3,13,0,2,5,31,.171,.232,.211,.443,hitter
+James Naile,2023,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Lars Nootbaar,2023,St. Louis Cardinals,426,74,111,14,46,72,99,.261,.367,.418,.785,hitter
+Tyler O'Neill,2023,St. Louis Cardinals,238,27,55,9,21,28,67,.231,.312,.403,.715,hitter
+Richie Palacios,2023,St. Louis Cardinals,93,9,24,6,16,6,11,.258,.307,.516,.823,hitter
+Juniel Querecuto,2023,St. Louis Cardinals,20,2,2,0,0,1,6,.100,.143,.150,.293,hitter
+JoJo Romero,2023,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Michael Siani,2023,Cincinnati Reds,0,1,0,0,0,1,0,.000,1.000,.000,1.000,hitter
+Adam Wainwright,2023,St. Louis Cardinals,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Jordan Walker,2023,St. Louis Cardinals,420,51,116,16,51,37,104,.276,.342,.445,.787,hitter
+Masyn Winn,2023,St. Louis Cardinals,122,8,21,2,12,10,26,.172,.230,.238,.468,hitter
+Juan Yepez,2023,St. Louis Cardinals,60,5,11,2,2,4,20,.183,.246,.300,.546,hitter
+Jonathan Aranda,2023,Tampa Bay Rays,87,13,20,2,13,13,31,.230,.340,.368,.708,hitter
+Randy Arozarena,2023,Tampa Bay Rays,551,95,140,23,83,80,156,.254,.364,.425,.789,hitter
+Osleivis Basabe,2023,Tampa Bay Rays,87,15,19,1,12,6,25,.218,.277,.310,.587,hitter
+Christian Bethancourt,2023,Tampa Bay Rays,315,49,71,11,33,13,91,.225,.254,.381,.635,hitter
+Vidal Bruján,2023,Tampa Bay Rays,76,14,13,0,6,5,21,.171,.241,.197,.438,hitter
+Junior Caminero,2023,Tampa Bay Rays,34,4,8,1,7,2,8,.235,.278,.353,.631,hitter
+Yandy Díaz,2023,Tampa Bay Rays,525,95,173,22,78,65,94,.330,.410,.522,.932,hitter
+Wander Franco,2023,Tampa Bay Rays,442,65,124,17,58,42,69,.281,.344,.475,.819,hitter
+Tristan Gray,2023,Tampa Bay Rays,5,1,2,1,1,0,0,.400,.400,1.000,1.400,hitter
+Brandon Lowe,2023,Tampa Bay Rays,377,58,87,21,68,50,119,.231,.328,.443,.771,hitter
+Josh Lowe,2023,Tampa Bay Rays,466,71,136,20,83,31,124,.292,.335,.500,.835,hitter
+Manuel Margot,2023,Tampa Bay Rays,311,39,82,4,38,18,55,.264,.310,.376,.686,hitter
+Curtis Mead,2023,Tampa Bay Rays,83,12,21,1,5,7,21,.253,.326,.349,.675,hitter
+Francisco Mejía,2023,Tampa Bay Rays,150,22,34,5,19,6,38,.227,.258,.400,.658,hitter
+Isaac Paredes,2023,Tampa Bay Rays,492,71,123,31,98,58,104,.250,.352,.488,.840,hitter
+René Pinto,2023,Tampa Bay Rays,103,10,26,6,16,2,34,.252,.267,.456,.723,hitter
+Luke Raley,2023,Tampa Bay Rays,357,56,89,19,49,28,128,.249,.333,.490,.823,hitter
+Harold Ramírez,2023,Tampa Bay Rays,400,58,125,12,68,22,79,.313,.353,.460,.813,hitter
+Jose Siri,2023,Tampa Bay Rays,338,58,75,25,56,20,130,.222,.267,.494,.761,hitter
+Raimel Tapia,2023,Boston Red Sox,87,14,23,1,10,9,19,.264,.333,.368,.701,hitter
+Taylor Walls,2023,Tampa Bay Rays,303,50,61,8,36,44,92,.201,.305,.333,.638,hitter
+Evan Carter,2023,Texas Rangers,62,15,19,5,12,12,24,.306,.413,.645,1.058,hitter
+Aroldis Chapman,2023,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ezequiel Duran,2023,Texas Rangers,406,55,112,14,46,23,120,.276,.324,.443,.767,hitter
+Adolis García,2023,Texas Rangers,555,108,136,39,107,65,175,.245,.328,.508,.836,hitter
+Mitch Garver,2023,Texas Rangers,296,45,80,19,50,44,82,.270,.370,.500,.870,hitter
+Jon Gray,2023,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Robbie Grossman,2023,Texas Rangers,353,56,84,10,49,57,98,.238,.340,.394,.734,hitter
+Taylor Hearn,2023,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Austin Hedges,2023,Pittsburgh Pirates,161,13,29,1,14,11,39,.180,.237,.230,.467,hitter
+Jonah Heim,2023,Texas Rangers,457,61,118,18,95,40,96,.258,.317,.438,.755,hitter
+Sam Huff,2023,Texas Rangers,43,5,11,3,6,2,17,.256,.289,.512,.801,hitter
+Travis Jankowski,2023,Texas Rangers,247,34,65,1,30,35,42,.263,.357,.332,.689,hitter
+Josh Jung,2023,Texas Rangers,478,75,127,23,70,30,151,.266,.315,.467,.782,hitter
+John King,2023,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Sandy León,2023,Texas Rangers,41,4,6,0,4,1,20,.146,.186,.195,.381,hitter
+Nathaniel Lowe,2023,Texas Rangers,623,89,163,17,82,93,165,.262,.360,.414,.774,hitter
+J.P. Martínez,2023,Texas Rangers,40,7,9,1,4,2,16,.225,.250,.325,.575,hitter
+Brad Miller,2023,Texas Rangers,56,8,12,1,6,10,11,.214,.328,.339,.667,hitter
+Jonathan Ornelas,2023,Texas Rangers,7,2,1,0,0,0,4,.143,.250,.143,.393,hitter
+Cole Ragans,2023,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Josh Sborz,2023,Texas Rangers,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Corey Seager,2023,Texas Rangers,477,88,156,33,96,49,88,.327,.390,.623,1.013,hitter
+Marcus Semien,2023,Texas Rangers,670,122,185,29,100,72,110,.276,.348,.478,.826,hitter
+Josh Smith,2023,Texas Rangers,195,29,36,6,15,25,55,.185,.304,.328,.632,hitter
+Will Smith,2023,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Leody Taveras,2023,Texas Rangers,511,67,136,14,67,35,117,.266,.312,.421,.733,hitter
+Bubba Thompson,2023,Texas Rangers,53,10,9,0,4,4,16,.170,.237,.283,.520,hitter
+Brandon Belt,2023,Toronto Blue Jays,339,53,86,19,43,61,141,.254,.369,.490,.859,hitter
+José Berríos,2023,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Bo Bichette,2023,Toronto Blue Jays,571,69,175,20,73,27,115,.306,.339,.475,.814,hitter
+Cavan Biggio,2023,Toronto Blue Jays,289,54,68,9,40,40,88,.235,.340,.370,.710,hitter
+Génesis Cabrera,2023,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Matt Chapman,2023,Toronto Blue Jays,509,66,122,17,54,62,165,.240,.330,.424,.754,hitter
+Ernie Clement,2023,Toronto Blue Jays,50,7,19,1,10,1,4,.380,.385,.500,.885,hitter
+Paul DeJong,2023,St. Louis Cardinals,279,38,65,13,32,21,87,.233,.297,.412,.709,hitter
+Cam Eden,2023,Toronto Blue Jays,6,1,1,0,0,0,2,.167,.167,.167,.334,hitter
+Santiago Espinal,2023,Toronto Blue Jays,230,30,57,2,25,18,36,.248,.310,.335,.645,hitter
+Vladimir Guerrero Jr.,2023,Toronto Blue Jays,602,78,159,26,94,67,100,.264,.345,.444,.789,hitter
+Tyler Heineman,2023,Pittsburgh Pirates,9,1,1,0,0,1,1,.111,.200,.111,.311,hitter
+Spencer Horwitz,2023,Toronto Blue Jays,39,5,10,1,7,4,12,.256,.341,.385,.726,hitter
+Danny Jansen,2023,Toronto Blue Jays,268,38,61,17,53,23,62,.228,.312,.474,.786,hitter
+Kevin Kiermaier,2023,Toronto Blue Jays,370,58,98,8,36,29,86,.265,.322,.419,.741,hitter
+Alejandro Kirk,2023,Toronto Blue Jays,372,34,93,8,43,42,45,.250,.334,.358,.692,hitter
+Nathan Lukes,2023,Toronto Blue Jays,26,4,5,0,2,4,9,.192,.290,.308,.598,hitter
+Jordan Luplow,2023,Toronto Blue Jays,14,1,3,0,1,3,8,.214,.353,.214,.567,hitter
+Tim Mayza,2023,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mason McCoy,2023,Toronto Blue Jays,1,2,0,0,0,0,1,.000,.000,.000,.000,hitter
+Whit Merrifield,2023,Toronto Blue Jays,547,66,149,11,67,36,101,.272,.318,.382,.700,hitter
+Jordan Romano,2023,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Davis Schneider,2023,Toronto Blue Jays,116,23,32,8,20,21,43,.276,.404,.603,1.007,hitter
+George Springer,2023,Toronto Blue Jays,613,87,158,21,72,60,125,.258,.327,.405,.732,hitter
+Daulton Varsho,2023,Toronto Blue Jays,527,65,116,20,61,45,135,.220,.285,.389,.674,hitter
+Byron Buxton,2023,Minnesota Twins,304,49,63,17,42,35,109,.207,.294,.438,.732,hitter
+Willi Castro,2023,Minnesota Twins,358,60,92,9,34,34,99,.257,.339,.411,.750,hitter
+Carlos Correa,2023,Minnesota Twins,514,60,118,18,65,59,131,.230,.312,.399,.711,hitter
+José De León,2023,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kyle Farmer,2023,Minnesota Twins,336,49,86,11,46,23,86,.256,.317,.408,.725,hitter
+Joey Gallo,2023,Minnesota Twins,282,39,50,21,40,48,142,.177,.301,.440,.741,hitter
+Kyle Garlick,2023,Minnesota Twins,28,2,5,2,4,2,11,.179,.233,.429,.662,hitter
+Nick Gordon,2023,Minnesota Twins,91,13,16,2,7,1,11,.176,.185,.319,.504,hitter
+Ryan Jeffers,2023,Minnesota Twins,286,46,79,14,43,33,93,.276,.369,.490,.859,hitter
+Edouard Julien,2023,Minnesota Twins,338,60,89,16,37,64,128,.263,.381,.459,.840,hitter
+Max Kepler,2023,Minnesota Twins,438,72,114,24,66,45,106,.260,.332,.484,.816,hitter
+Alex Kirilloff,2023,Minnesota Twins,281,35,76,11,41,28,80,.270,.348,.445,.793,hitter
+Trevor Larnach,2023,Minnesota Twins,183,26,39,8,40,27,72,.213,.311,.415,.726,hitter
+Royce Lewis,2023,Minnesota Twins,217,36,67,15,52,20,55,.309,.372,.548,.920,hitter
+Jordan Luplow,2023,Toronto Blue Jays,14,1,3,0,1,3,8,.214,.353,.214,.567,hitter
+Jose Miranda,2023,Minnesota Twins,142,12,30,3,13,9,24,.211,.263,.303,.566,hitter
+Jovani Moran,2023,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chris Paddack,2023,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Emilio Pagán,2023,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jorge Polanco,2023,Minnesota Twins,302,38,77,14,48,36,88,.255,.335,.454,.789,hitter
+Cole Sands,2023,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Donovan Solano,2023,Minnesota Twins,394,43,111,5,38,40,100,.282,.369,.391,.760,hitter
+Andrew Stevenson,2023,Minnesota Twins,37,4,7,0,1,2,8,.189,.250,.216,.466,hitter
+Michael A. Taylor,2023,Minnesota Twins,355,48,78,21,51,26,130,.220,.278,.442,.720,hitter
+Christian Vázquez,2023,Minnesota Twins,327,34,73,6,32,25,82,.223,.280,.318,.598,hitter
+Matt Wallner,2023,Minnesota Twins,213,42,53,14,41,28,80,.249,.370,.507,.877,hitter
+Alec Bohm,2023,Philadelphia Phillies,558,74,153,20,97,42,94,.274,.327,.437,.764,hitter
+Nick Castellanos,2023,Philadelphia Phillies,626,79,170,29,106,36,185,.272,.311,.476,.787,hitter
+Rodolfo Castro,2023,Pittsburgh Pirates,197,19,45,6,22,21,62,.228,.317,.355,.672,hitter
+Jake Cave,2023,Philadelphia Phillies,184,18,39,5,21,15,55,.212,.272,.348,.620,hitter
+Kody Clemens,2023,Philadelphia Phillies,139,15,32,4,13,8,40,.230,.277,.367,.644,hitter
+Drew Ellis,2023,Philadelphia Phillies,23,4,5,2,4,6,7,.217,.379,.478,.857,hitter
+Dalton Guthrie,2023,Philadelphia Phillies,24,4,4,0,0,3,7,.167,.286,.208,.494,hitter
+Darick Hall,2023,Philadelphia Phillies,54,2,9,1,3,2,18,.167,.196,.241,.437,hitter
+Bryce Harper,2023,Philadelphia Phillies,457,84,134,21,72,80,119,.293,.401,.499,.900,hitter
+Josh Harrison,2023,Philadelphia Phillies,103,8,21,2,10,3,20,.204,.263,.291,.554,hitter
+Brandon Marsh,2023,Philadelphia Phillies,404,58,112,12,60,59,144,.277,.372,.458,.830,hitter
+Cristian Pache,2023,Philadelphia Phillies,84,12,20,2,11,10,27,.238,.319,.417,.736,hitter
+J.T. Realmuto,2023,Philadelphia Phillies,489,70,123,20,63,35,138,.252,.310,.452,.762,hitter
+Johan Rojas,2023,Philadelphia Phillies,149,24,45,2,23,5,42,.302,.342,.430,.772,hitter
+Kyle Schwarber,2023,Philadelphia Phillies,585,108,115,47,104,126,215,.197,.343,.474,.817,hitter
+Edmundo Sosa,2023,Philadelphia Phillies,279,34,70,10,30,8,74,.251,.293,.427,.720,hitter
+Bryson Stott,2023,Philadelphia Phillies,585,78,164,15,62,39,100,.280,.329,.419,.748,hitter
+Garrett Stubbs,2023,Philadelphia Phillies,113,15,23,1,12,9,29,.204,.274,.283,.557,hitter
+Trea Turner,2023,Philadelphia Phillies,639,102,170,26,76,45,150,.266,.320,.459,.779,hitter
+Weston Wilson,2023,Philadelphia Phillies,16,5,5,1,2,6,5,.313,.500,.500,1.000,hitter
+Ronald Acuña Jr.,2023,Atlanta Braves,643,149,217,41,106,80,84,.337,.416,.596,1.012,hitter
+Ehire Adrianza,2023,Atlanta Braves,10,0,0,0,0,1,4,.000,.091,.000,.091,hitter
+Ozzie Albies,2023,Atlanta Braves,596,96,167,33,109,46,107,.280,.336,.513,.849,hitter
+Orlando Arcia,2023,Atlanta Braves,488,66,129,17,65,39,102,.264,.321,.420,.741,hitter
+Charlie Culberson,2023,Atlanta Braves,1,0,1,0,0,0,0,1.000,1.000,1.000,2.000,hitter
+Vaughn Grissom,2023,Atlanta Braves,75,5,21,0,9,2,15,.280,.313,.347,.660,hitter
+Michael Harris II,2023,Atlanta Braves,505,76,148,18,57,25,101,.293,.331,.477,.808,hitter
+Sam Hilliard,2023,Atlanta Braves,72,15,17,3,6,6,33,.236,.295,.431,.726,hitter
+Joe Jiménez,2023,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Pierce Johnson,2023,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Nicky Lopez,2023,Kansas City Royals,160,19,34,0,13,21,30,.213,.323,.281,.604,hitter
+Sean Murphy,2023,Atlanta Braves,370,65,93,21,68,49,98,.251,.365,.478,.843,hitter
+Matt Olson,2023,Atlanta Braves,608,127,172,54,139,104,167,.283,.389,.604,.993,hitter
+Marcell Ozuna,2023,Atlanta Braves,530,84,145,40,100,57,134,.274,.346,.558,.904,hitter
+Kevin Pillar,2023,Atlanta Braves,197,29,45,9,32,6,50,.228,.248,.416,.664,hitter
+Austin Riley,2023,Atlanta Braves,636,117,179,37,97,59,172,.281,.345,.516,.861,hitter
+Eddie Rosario,2023,Atlanta Braves,478,64,122,21,74,34,122,.255,.305,.450,.755,hitter
+Braden Shewmake,2023,Atlanta Braves,4,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Nick Solak,2023,Atlanta Braves,0,1,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chadwick Tromp,2023,Atlanta Braves,16,1,2,0,1,0,7,.125,.125,.188,.313,hitter
+Forrest Wall,2023,Atlanta Braves,13,6,6,1,2,2,4,.462,.533,.846,1.379,hitter
+Eli White,2023,Atlanta Braves,14,1,1,0,0,2,7,.071,.235,.071,.306,hitter
+Luke Williams,2023,Los Angeles Dodgers,10,0,1,0,0,0,3,.100,.100,.100,.200,hitter
+Travis d'Arnaud,2023,Atlanta Braves,267,31,60,11,39,21,67,.225,.288,.397,.685,hitter
+Hanser Alberto,2023,Chicago White Sox,82,11,18,3,16,4,13,.220,.261,.390,.651,hitter
+Tim Anderson,2023,Chicago White Sox,493,52,121,1,25,26,122,.245,.286,.296,.582,hitter
+Elvis Andrus,2023,Chicago White Sox,374,39,94,6,44,25,71,.251,.304,.358,.662,hitter
+Andrew Benintendi,2023,Chicago White Sox,562,72,147,5,45,52,89,.262,.326,.356,.682,hitter
+Aaron Bummer,2023,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jake Burger,2023,Chicago White Sox,294,44,63,25,52,22,102,.214,.279,.527,.806,hitter
+Oscar Colás,2023,Chicago White Sox,245,32,53,5,19,12,71,.216,.257,.314,.571,hitter
+Clint Frazier,2023,Chicago White Sox,66,10,13,0,3,10,23,.197,.303,.242,.545,hitter
+Romy Gonzalez,2023,Chicago White Sox,93,11,18,3,14,2,36,.194,.208,.376,.584,hitter
+Yasmani Grandal,2023,Chicago White Sox,363,33,85,8,33,36,86,.234,.309,.339,.648,hitter
+Kendall Graveman,2023,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Billy Hamilton,2023,Chicago White Sox,2,2,0,0,0,0,1,.000,.000,.000,.000,hitter
+Adam Haseley,2023,Chicago White Sox,36,6,8,0,2,3,8,.222,.282,.278,.560,hitter
+Eloy Jiménez,2023,Chicago White Sox,456,50,124,18,64,30,93,.272,.317,.441,.758,hitter
+Korey Lee,2023,Chicago White Sox,65,4,5,1,3,5,20,.077,.143,.138,.281,hitter
+Jake Marisnick,2023,Chicago White Sox,2,1,0,0,0,0,1,.000,.000,.000,.000,hitter
+Yoán Moncada,2023,Chicago White Sox,334,39,87,11,40,20,107,.260,.305,.425,.730,hitter
+Tyler Naquin,2023,Chicago White Sox,8,0,0,0,0,0,7,.000,.000,.000,.000,hitter
+Carlos Pérez,2023,Chicago White Sox,49,5,10,1,3,4,11,.204,.264,.347,.611,hitter
+Zach Remillard,2023,Chicago White Sox,147,16,37,1,18,8,48,.252,.295,.320,.615,hitter
+Luis Robert Jr.,2023,Chicago White Sox,546,90,144,38,80,30,172,.264,.315,.542,.857,hitter
+José Rodríguez,2023,Chicago White Sox,0,1,0,0,0,0,0,.000,.000,.000,.000,hitter
+José Ruiz,2023,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Gavin Sheets,2023,Chicago White Sox,311,24,63,10,43,28,66,.203,.267,.331,.598,hitter
+Lenyn Sosa,2023,Chicago White Sox,164,12,33,6,14,5,40,.201,.224,.348,.572,hitter
+Trayce Thompson,2023,Los Angeles Dodgers,71,12,11,5,14,15,37,.155,.310,.366,.676,hitter
+Andrew Vaughn,2023,Chicago White Sox,566,67,146,21,80,36,129,.258,.314,.429,.743,hitter
+Seby Zavala,2023,Chicago White Sox,161,15,25,7,16,10,68,.155,.207,.304,.511,hitter
+Jacob Amaya,2023,Miami Marlins,9,1,2,0,2,0,1,.222,.222,.222,.444,hitter
+Luis Arraez,2023,Miami Marlins,574,71,203,10,69,35,34,.354,.393,.469,.862,hitter
+Josh Bell,2023,Cleveland Guardians,347,26,81,11,48,43,81,.233,.318,.383,.701,hitter
+Jon Berti,2023,Miami Marlins,388,53,114,7,33,29,77,.294,.344,.405,.749,hitter
+Peyton Burdick,2023,Miami Marlins,33,4,6,1,2,3,18,.182,.270,.333,.603,hitter
+Jake Burger,2023,Chicago White Sox,294,44,63,25,52,22,102,.214,.279,.527,.806,hitter
+Jazz Chisholm Jr.,2023,Miami Marlins,352,50,88,19,51,26,118,.250,.304,.457,.761,hitter
+Garrett Cooper,2023,Miami Marlins,305,28,78,13,46,17,97,.256,.296,.426,.722,hitter
+Jonathan Davis,2023,Miami Marlins,90,22,22,2,10,7,29,.244,.307,.378,.685,hitter
+Bryan De La Cruz,2023,Miami Marlins,579,60,149,19,78,40,142,.257,.304,.411,.715,hitter
+Xavier Edwards,2023,Miami Marlins,78,12,23,0,3,3,14,.295,.329,.333,.662,hitter
+Nick Fortes,2023,Miami Marlins,294,33,60,6,26,17,59,.204,.263,.299,.562,hitter
+Avisaíl García,2023,Miami Marlins,108,8,20,3,12,6,39,.185,.241,.315,.556,hitter
+Yuli Gurriel,2023,Miami Marlins,298,32,73,4,27,26,44,.245,.304,.359,.663,hitter
+Garrett Hampson,2023,Miami Marlins,221,30,61,3,23,23,67,.276,.349,.380,.729,hitter
+Bryan Hoeing,2023,Miami Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Dane Myers,2023,Miami Marlins,67,9,18,1,9,2,19,.269,.286,.358,.644,hitter
+Andrew Nardi,2023,Miami Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jesús Sánchez,2023,Miami Marlins,360,43,91,14,52,38,107,.253,.327,.450,.777,hitter
+Jean Segura,2023,Miami Marlins,301,25,66,3,21,22,47,.219,.277,.279,.556,hitter
+Jorge Soler,2023,Miami Marlins,504,77,126,36,75,66,141,.250,.341,.512,.853,hitter
+Jacob Stallings,2023,Miami Marlins,241,22,46,3,20,27,67,.191,.278,.286,.564,hitter
+Joey Wendle,2023,Miami Marlins,297,33,63,2,20,13,67,.212,.248,.306,.554,hitter
+Greg Allen,2023,New York Yankees,23,6,5,1,1,2,10,.217,.333,.478,.811,hitter
+Harrison Bader,2023,New York Yankees,288,40,69,7,37,14,56,.240,.278,.365,.643,hitter
+Jake Bauers,2023,New York Yankees,242,28,49,12,30,27,95,.202,.279,.413,.692,hitter
+Oswaldo Cabrera,2023,New York Yankees,298,35,63,5,29,25,72,.211,.275,.299,.574,hitter
+Willie Calhoun,2023,New York Yankees,134,16,32,5,16,14,20,.239,.309,.403,.712,hitter
+Franchy Cordero,2023,New York Yankees,69,9,13,6,13,2,25,.188,.211,.478,.689,hitter
+Jasson Domínguez,2023,New York Yankees,31,6,8,4,7,2,8,.258,.303,.677,.980,hitter
+Josh Donaldson,2023,New York Yankees,106,13,15,10,15,12,32,.142,.225,.434,.659,hitter
+Estevan Florial,2023,New York Yankees,61,5,14,0,8,7,20,.230,.324,.311,.635,hitter
+Aaron Hicks,2023,New York Yankees,69,9,13,1,5,7,20,.188,.263,.261,.524,hitter
+Kyle Higashioka,2023,New York Yankees,242,24,57,10,34,14,74,.236,.274,.413,.687,hitter
+Aaron Judge,2023,New York Yankees,367,79,98,37,75,88,130,.267,.406,.613,1.019,hitter
+Isiah Kiner-Falefa,2023,New York Yankees,326,39,79,6,37,28,70,.242,.306,.340,.646,hitter
+DJ LeMahieu,2023,New York Yankees,497,55,121,15,44,60,125,.243,.327,.390,.717,hitter
+Billy McKinney,2023,New York Yankees,128,19,29,6,14,17,39,.227,.320,.406,.726,hitter
+Oswald Peraza,2023,New York Yankees,173,15,33,2,14,13,50,.191,.267,.272,.539,hitter
+Everson Pereira,2023,New York Yankees,93,6,14,0,10,8,40,.151,.233,.194,.427,hitter
+Anthony Rizzo,2023,New York Yankees,373,45,91,12,41,35,97,.244,.328,.378,.706,hitter
+Ben Rortvedt,2023,New York Yankees,68,6,8,2,4,11,19,.118,.241,.221,.462,hitter
+Giancarlo Stanton,2023,New York Yankees,371,43,71,24,60,41,124,.191,.275,.420,.695,hitter
+Gleyber Torres,2023,New York Yankees,596,90,163,25,68,67,98,.273,.347,.453,.800,hitter
+Jose Trevino,2023,New York Yankees,157,15,33,4,15,8,22,.210,.257,.312,.569,hitter
+Anthony Volpe,2023,New York Yankees,541,62,113,21,60,52,167,.209,.283,.383,.666,hitter
+Austin Wells,2023,New York Yankees,70,8,16,4,13,3,14,.229,.257,.486,.743,hitter
+Willy Adames,2023,Milwaukee Brewers,553,73,120,24,80,71,165,.217,.310,.407,.717,hitter
+Brian Anderson,2023,Milwaukee Brewers,318,38,72,9,40,36,108,.226,.310,.368,.678,hitter
+Mike Brosseau,2023,Milwaukee Brewers,73,4,15,4,8,4,20,.205,.256,.397,.653,hitter
+J.B. Bukauskas,2023,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mark Canha,2023,New York Mets,257,28,63,6,29,32,52,.245,.343,.381,.724,hitter
+Victor Caratini,2023,Milwaukee Brewers,201,23,52,7,25,19,45,.259,.327,.383,.710,hitter
+Andrew Chafin,2023,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+William Contreras,2023,Milwaukee Brewers,540,86,156,17,78,63,126,.289,.367,.457,.824,hitter
+Josh Donaldson,2023,New York Yankees,106,13,15,10,15,12,32,.142,.225,.434,.659,hitter
+Sal Frelick,2023,Milwaukee Brewers,191,29,47,3,24,28,37,.246,.341,.351,.692,hitter
+Jahmai Jones,2023,Milwaukee Brewers,10,2,2,0,3,1,5,.200,.273,.300,.573,hitter
+Owen Miller,2023,Milwaukee Brewers,291,29,76,5,27,17,61,.261,.303,.371,.674,hitter
+Garrett Mitchell,2023,Milwaukee Brewers,65,10,16,3,7,7,26,.246,.315,.446,.761,hitter
+Andruw Monasterio,2023,Milwaukee Brewers,282,38,73,3,27,28,66,.259,.330,.348,.678,hitter
+Blake Perkins,2023,Milwaukee Brewers,143,28,31,4,20,23,46,.217,.325,.350,.675,hitter
+Darin Ruf,2023,San Francisco Giants,23,1,6,0,3,4,9,.261,.370,.348,.718,hitter
+Carlos Santana,2023,Pittsburgh Pirates,345,45,81,12,53,45,69,.235,.321,.412,.733,hitter
+Jon Singleton,2023,Milwaukee Brewers,29,3,3,0,2,3,11,.103,.188,.138,.326,hitter
+Raimel Tapia,2023,Boston Red Sox,87,14,23,1,10,9,19,.264,.333,.368,.701,hitter
+Tyrone Taylor,2023,Milwaukee Brewers,231,36,54,10,35,8,55,.234,.267,.446,.713,hitter
+Rowdy Tellez,2023,Milwaukee Brewers,311,26,67,13,47,35,86,.215,.291,.376,.667,hitter
+Abraham Toro,2023,Milwaukee Brewers,18,4,8,2,9,2,5,.444,.524,.778,1.302,hitter
+Brice Turang,2023,Milwaukee Brewers,404,46,88,6,34,38,94,.218,.285,.300,.585,hitter
+Luis Urías,2023,Milwaukee Brewers,55,5,8,1,5,7,15,.145,.299,.236,.535,hitter
+Luke Voit,2023,Milwaukee Brewers,68,5,15,0,4,4,27,.221,.284,.265,.549,hitter
+Joey Wiemer,2023,Milwaukee Brewers,367,48,75,13,42,36,116,.204,.283,.362,.645,hitter
+Jesse Winker,2023,Milwaukee Brewers,166,16,33,1,23,26,51,.199,.320,.247,.567,hitter
+Christian Yelich,2023,Milwaukee Brewers,550,106,153,19,76,78,140,.278,.370,.447,.817,hitter
+Jordyn Adams,2023,Los Angeles Angels,39,1,5,0,1,0,16,.128,.125,.128,.253,hitter
+Jo Adell,2023,Los Angeles Angels,58,7,12,3,6,4,25,.207,.258,.448,.706,hitter
+Trey Cabbage,2023,Los Angeles Angels,53,5,11,1,7,2,26,.208,.232,.321,.553,hitter
+C.J. Cron,2023,Colorado Rockies,208,31,54,11,32,13,50,.260,.304,.476,.780,hitter
+Brandon Drury,2023,Los Angeles Angels,485,61,127,26,83,25,136,.262,.306,.497,.803,hitter
+Eduardo Escobar,2023,New York Mets,110,15,26,4,16,8,24,.236,.286,.409,.695,hitter
+David Fletcher,2023,Los Angeles Angels,89,7,22,2,12,7,9,.247,.302,.326,.628,hitter
+Randal Grichuk,2023,Colorado Rockies,240,40,74,8,27,18,51,.308,.365,.496,.861,hitter
+Jake Lamb,2023,Los Angeles Angels,51,7,11,2,5,3,15,.216,.259,.353,.612,hitter
+Mickey Moniak,2023,Los Angeles Angels,311,35,87,14,45,9,113,.280,.307,.495,.802,hitter
+Mike Moustakas,2023,Colorado Rockies,115,21,31,4,17,17,34,.270,.360,.435,.795,hitter
+Zach Neto,2023,Los Angeles Angels,289,38,65,9,34,20,77,.225,.308,.377,.685,hitter
+Logan O'Hoppe,2023,Los Angeles Angels,182,23,43,14,29,14,48,.236,.296,.500,.796,hitter
+Shohei Ohtani,2023,Los Angeles Angels,497,102,151,44,95,91,143,.304,.412,.654,1.066,hitter
+Chris Okey,2023,Los Angeles Angels,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Kevin Padlo,2023,Los Angeles Angels,8,1,1,0,0,0,0,.125,.125,.250,.375,hitter
+Kyren Paris,2023,Los Angeles Angels,40,4,4,0,1,4,17,.100,.200,.100,.300,hitter
+Brett Phillips,2023,Los Angeles Angels,63,9,11,3,6,8,36,.175,.268,.333,.601,hitter
+Anthony Rendon,2023,Los Angeles Angels,148,23,35,2,22,25,27,.236,.361,.318,.679,hitter
+Hunter Renfroe,2023,Los Angeles Angels,459,56,111,19,56,39,113,.242,.304,.434,.738,hitter
+Luis Rengifo,2023,Los Angeles Angels,394,55,104,16,51,41,82,.264,.339,.444,.783,hitter
+Nolan Schanuel,2023,Los Angeles Angels,109,19,30,1,6,20,19,.275,.402,.330,.732,hitter
+Livan Soto,2023,Los Angeles Angels,9,2,2,0,0,3,2,.222,.417,.222,.639,hitter
+Michael Stefanic,2023,Los Angeles Angels,62,5,18,0,6,8,8,.290,.380,.355,.735,hitter
+Matt Thaiss,2023,Los Angeles Angels,262,32,56,9,31,36,83,.214,.319,.340,.659,hitter
+Mike Trout,2023,Los Angeles Angels,308,54,81,18,44,45,104,.263,.367,.490,.857,hitter
+Gio Urshela,2023,Los Angeles Angels,214,22,64,2,24,10,36,.299,.329,.374,.703,hitter
+Andrew Velazquez,2023,Los Angeles Angels,81,12,14,2,3,10,30,.173,.264,.284,.548,hitter
+Chad Wallach,2023,Los Angeles Angels,157,18,31,7,15,13,57,.197,.259,.376,.635,hitter
+Jared Walsh,2023,Los Angeles Angels,104,10,13,4,11,11,45,.125,.216,.279,.495,hitter
+Taylor Ward,2023,Los Angeles Angels,356,60,90,14,47,39,80,.253,.335,.421,.756,hitter
+Nick Ahmed,2023,Arizona Diamondbacks,198,14,42,2,17,12,52,.212,.257,.303,.560,hitter
+Dominic Canzone,2023,Arizona Diamondbacks,38,4,9,1,8,2,8,.237,.293,.368,.661,hitter
+Corbin Carroll,2023,Arizona Diamondbacks,565,116,161,25,76,57,125,.285,.362,.506,.868,hitter
+Diego A. Castillo,2023,Arizona Diamondbacks,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Miguel Castro,2023,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Andrew Chafin,2023,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Dominic Fletcher,2023,Arizona Diamondbacks,93,10,28,2,14,7,22,.301,.350,.441,.791,hitter
+Luis Frías,2023,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kevin Ginkel,2023,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Lourdes Gurriel Jr.,2023,Arizona Diamondbacks,551,65,144,24,82,33,103,.261,.309,.463,.772,hitter
+Jose Herrera,2023,Arizona Diamondbacks,101,15,21,0,7,13,30,.208,.296,.257,.553,hitter
+Drey Jameson,2023,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Bryce Jarvis,2023,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Carson Kelly,2023,Arizona Diamondbacks,84,6,19,1,6,7,23,.226,.283,.298,.581,hitter
+Buddy Kennedy,2023,Arizona Diamondbacks,24,1,4,0,1,4,6,.167,.310,.208,.518,hitter
+Jordan Lawlar,2023,Arizona Diamondbacks,31,2,4,0,0,2,11,.129,.206,.129,.335,hitter
+Kyle Lewis,2023,Arizona Diamondbacks,51,2,8,1,2,3,21,.157,.204,.255,.459,hitter
+Evan Longoria,2023,Arizona Diamondbacks,211,25,47,11,28,23,73,.223,.295,.422,.717,hitter
+Ketel Marte,2023,Arizona Diamondbacks,569,94,157,25,82,71,109,.276,.358,.485,.843,hitter
+Jake McCarthy,2023,Arizona Diamondbacks,276,37,67,2,16,26,62,.243,.318,.326,.644,hitter
+Scott McGough,2023,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Gabriel Moreno,2023,Arizona Diamondbacks,341,33,97,7,50,29,75,.284,.339,.408,.747,hitter
+Kyle Nelson,2023,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Geraldo Perdomo,2023,Arizona Diamondbacks,407,71,100,6,47,64,86,.246,.353,.359,.712,hitter
+Jace Peterson,2023,Oakland Athletics,281,30,62,6,28,36,77,.221,.313,.324,.637,hitter
+Tommy Pham,2023,New York Mets,231,29,62,10,36,29,56,.268,.348,.472,.820,hitter
+Emmanuel Rivera,2023,Arizona Diamondbacks,257,32,67,4,29,22,56,.261,.314,.358,.672,hitter
+Josh Rojas,2023,Arizona Diamondbacks,189,23,43,0,26,18,51,.228,.292,.296,.588,hitter
+José Ruiz,2023,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Paul Sewald,2023,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Pavin Smith,2023,Arizona Diamondbacks,191,26,36,7,30,35,45,.188,.317,.325,.642,hitter
+Alek Thomas,2023,Arizona Diamondbacks,374,51,86,9,39,19,86,.230,.273,.374,.647,hitter
+Christian Walker,2023,Arizona Diamondbacks,582,86,150,33,103,62,127,.258,.333,.497,.830,hitter
+Seby Zavala,2023,Chicago White Sox,161,15,25,7,16,10,68,.155,.207,.304,.511,hitter
+Bryan Baker,2023,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mike Baumann,2023,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Anthony Bemboom,2023,Baltimore Orioles,11,0,2,0,0,2,2,.182,.308,.182,.490,hitter
+Yennier Cano,2023,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Danny Coulombe,2023,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Colton Cowser,2023,Baltimore Orioles,61,15,7,0,4,13,22,.115,.286,.148,.434,hitter
+Adam Frazier,2023,Baltimore Orioles,412,59,99,13,60,32,68,.240,.300,.396,.696,hitter
+Shintaro Fujinami,2023,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kyle Gibson,2023,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Logan Gillaspie,2023,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+DL Hall,2023,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Austin Hays,2023,Baltimore Orioles,520,76,143,16,67,38,141,.275,.325,.444,.769,hitter
+Gunnar Henderson,2023,Baltimore Orioles,560,100,143,28,82,56,159,.255,.325,.489,.814,hitter
+Aaron Hicks,2023,New York Yankees,69,9,13,1,5,7,20,.188,.263,.261,.524,hitter
+Heston Kjerstad,2023,Baltimore Orioles,30,3,7,2,3,2,10,.233,.281,.467,.748,hitter
+Mark Kolozsvary,2023,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Josh Lester,2023,Baltimore Orioles,22,0,4,0,4,1,7,.182,.217,.182,.399,hitter
+Jorge Mateo,2023,Baltimore Orioles,318,58,69,7,34,22,82,.217,.267,.340,.607,hitter
+James McCann,2023,Baltimore Orioles,207,25,46,6,26,9,57,.222,.269,.377,.646,hitter
+Ryan McKenna,2023,Baltimore Orioles,122,23,31,2,18,9,40,.254,.316,.361,.677,hitter
+Ryan Mountcastle,2023,Baltimore Orioles,423,64,114,18,68,37,107,.270,.328,.452,.780,hitter
+Cedric Mullins,2023,Baltimore Orioles,404,51,94,15,74,43,101,.233,.305,.416,.721,hitter
+Ryan O'Hearn,2023,Baltimore Orioles,346,48,100,14,60,15,82,.289,.322,.480,.802,hitter
+Joey Ortiz,2023,Baltimore Orioles,33,4,7,0,4,0,9,.212,.206,.242,.448,hitter
+Cionel Pérez,2023,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Adley Rutschman,2023,Baltimore Orioles,588,84,163,20,80,92,101,.277,.374,.435,.809,hitter
+Anthony Santander,2023,Baltimore Orioles,591,81,152,28,95,55,152,.257,.325,.472,.797,hitter
+Kyle Stowers,2023,Baltimore Orioles,30,1,2,0,0,3,12,.067,.152,.067,.219,hitter
+Ramón Urías,2023,Baltimore Orioles,360,45,95,4,42,27,101,.264,.328,.375,.703,hitter
+Terrin Vavra,2023,Baltimore Orioles,49,9,12,0,5,5,12,.245,.315,.245,.560,hitter
+Jordan Westburg,2023,Baltimore Orioles,208,26,54,3,23,16,56,.260,.311,.404,.715,hitter
+Wilyer Abreu,2023,Boston Red Sox,76,10,24,2,14,9,23,.316,.388,.474,.862,hitter
+Jorge Alfaro,2023,Colorado Rockies,31,2,5,1,4,0,12,.161,.188,.387,.575,hitter
+Christian Arroyo,2023,Boston Red Sox,195,23,47,3,24,7,45,.241,.268,.369,.637,hitter
+Ryan Brasier,2023,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Triston Casas,2023,Boston Red Sox,429,66,113,24,65,70,126,.263,.367,.490,.857,hitter
+Yu Chang,2023,Boston Red Sox,105,12,17,6,18,3,34,.162,.200,.352,.552,hitter
+Kutter Crawford,2023,Boston Red Sox,0,1,0,0,0,0,0,.000,.000,.000,.000,hitter
+Bobby Dalbec,2023,Boston Red Sox,49,6,10,1,1,4,28,.204,.264,.306,.570,hitter
+Rafael Devers,2023,Boston Red Sox,580,90,157,33,100,62,126,.271,.351,.500,.851,hitter
+Jarren Duran,2023,Boston Red Sox,332,46,98,8,40,24,90,.295,.346,.482,.828,hitter
+Adam Duvall,2023,Boston Red Sox,320,45,79,21,58,22,110,.247,.303,.531,.834,hitter
+Caleb Hamilton,2023,Boston Red Sox,5,0,0,0,0,1,5,.000,.167,.000,.167,hitter
+David Hamilton,2023,Boston Red Sox,33,2,4,0,0,6,10,.121,.256,.182,.438,hitter
+Enrique Hernández,2023,Boston Red Sox,297,38,66,6,31,22,68,.222,.279,.320,.599,hitter
+Kenley Jansen,2023,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chris Martin,2023,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Reese McGuire,2023,Boston Red Sox,187,15,50,1,16,11,53,.267,.310,.358,.668,hitter
+Nick Pivetta,2023,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ceddanne Rafaela,2023,Boston Red Sox,83,11,20,2,5,4,28,.241,.281,.386,.667,hitter
+Rob Refsnyder,2023,Boston Red Sox,202,31,50,1,28,33,47,.248,.365,.317,.682,hitter
+Pablo Reyes,2023,Boston Red Sox,167,27,48,2,20,14,21,.287,.339,.377,.716,hitter
+John Schreiber,2023,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tayler Scott,2023,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Trevor Story,2023,Boston Red Sox,158,12,32,3,14,9,55,.203,.250,.316,.566,hitter
+Raimel Tapia,2023,Boston Red Sox,87,14,23,1,10,9,19,.264,.333,.368,.701,hitter
+Justin Turner,2023,Boston Red Sox,558,86,154,23,96,51,110,.276,.345,.455,.800,hitter
+Luis Urías,2023,Milwaukee Brewers,55,5,8,1,5,7,15,.145,.299,.236,.535,hitter
+Enmanuel Valdez,2023,Boston Red Sox,139,17,37,6,19,8,37,.266,.311,.453,.764,hitter
+Alex Verdugo,2023,Boston Red Sox,546,81,144,13,54,45,93,.264,.324,.421,.745,hitter
+Garrett Whitlock,2023,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Connor Wong,2023,Boston Red Sox,371,55,87,9,36,22,134,.235,.288,.385,.673,hitter
+Masataka Yoshida,2023,Boston Red Sox,537,71,155,15,72,34,81,.289,.338,.445,.783,hitter
+Miguel Amaya,2023,Chicago Cubs,131,17,28,5,18,12,40,.214,.329,.359,.688,hitter
+Tucker Barnhart,2023,Chicago Cubs,109,6,22,1,9,12,42,.202,.285,.257,.542,hitter
+Cody Bellinger,2023,Chicago Cubs,499,95,153,26,97,40,87,.307,.356,.525,.881,hitter
+Alexander Canario,2023,Chicago Cubs,17,1,5,1,6,0,8,.294,.294,.647,.941,hitter
+Jeimer Candelario,2023,Washington Nationals,368,57,95,16,53,36,88,.258,.342,.481,.823,hitter
+Pete Crow-Armstrong,2023,Chicago Cubs,14,3,0,0,1,3,7,.000,.176,.000,.176,hitter
+Michael Fulmer,2023,Chicago Cubs,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Yan Gomes,2023,Chicago Cubs,382,44,102,10,63,21,81,.267,.315,.408,.723,hitter
+Ian Happ,2023,Chicago Cubs,580,86,144,21,84,99,153,.248,.360,.431,.791,hitter
+Nico Hoerner,2023,Chicago Cubs,619,98,175,9,68,49,83,.283,.346,.383,.729,hitter
+Eric Hosmer,2023,Chicago Cubs,94,7,22,2,14,6,25,.234,.280,.330,.610,hitter
+Anthony Kay,2023,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mark Leiter Jr.,2023,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Luke Little,2023,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Nick Madrigal,2023,Chicago Cubs,270,34,71,2,28,10,24,.263,.311,.352,.663,hitter
+Trey Mancini,2023,Chicago Cubs,235,31,55,4,28,21,78,.234,.299,.336,.635,hitter
+Miles Mastrobuoni,2023,Chicago Cubs,133,24,32,1,5,13,32,.241,.308,.301,.609,hitter
+Julian Merryweather,2023,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Matt Mervis,2023,Chicago Cubs,90,8,15,3,11,8,32,.167,.242,.289,.531,hitter
+Christopher Morel,2023,Chicago Cubs,388,62,96,26,70,36,133,.247,.313,.508,.821,hitter
+Edwin Ríos,2023,Chicago Cubs,28,3,2,1,2,5,16,.071,.235,.214,.449,hitter
+Michael Rucker,2023,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Drew Smyly,2023,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Seiya Suzuki,2023,Chicago Cubs,515,75,147,20,74,59,130,.285,.357,.485,.842,hitter
+Dansby Swanson,2023,Chicago Cubs,565,81,138,22,80,66,154,.244,.328,.416,.744,hitter
+Mike Tauchman,2023,Chicago Cubs,337,64,85,8,48,56,86,.252,.363,.377,.740,hitter
+Luis Torrens,2023,Chicago Cubs,20,1,5,0,3,1,8,.250,.318,.300,.618,hitter
+Nelson Velázquez,2023,Chicago Cubs,29,8,7,3,6,3,8,.241,.313,.621,.934,hitter
+Hayden Wesneski,2023,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Patrick Wisdom,2023,Chicago Cubs,268,43,55,23,46,30,111,.205,.289,.500,.789,hitter
+Jared Young,2023,Chicago Cubs,43,8,8,2,8,3,13,.186,.255,.465,.720,hitter
+Harrison Bader,2023,New York Yankees,288,40,69,7,37,14,56,.240,.278,.365,.643,hitter
+Jose Barrero,2023,Cincinnati Reds,133,15,29,2,17,15,44,.218,.295,.323,.618,hitter
+Will Benson,2023,Cincinnati Reds,287,51,79,11,31,40,103,.275,.365,.498,.863,hitter
+Curt Casali,2023,Cincinnati Reds,80,8,14,0,6,11,23,.175,.290,.200,.490,hitter
+Elly De La Cruz,2023,Cincinnati Reds,388,67,91,13,44,35,144,.235,.300,.410,.710,hitter
+Alexis Díaz,2023,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Daniel Duarte,2023,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Christian Encarnacion-Strand,2023,Cincinnati Reds,222,29,60,13,37,14,69,.270,.328,.477,.805,hitter
+Stuart Fairchild,2023,Cincinnati Reds,219,34,50,5,28,25,69,.228,.321,.388,.709,hitter
+Buck Farmer,2023,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jake Fraley,2023,Cincinnati Reds,336,41,86,15,65,37,71,.256,.339,.443,.782,hitter
+TJ Friedl,2023,Cincinnati Reds,488,73,136,18,66,47,90,.279,.352,.467,.819,hitter
+Ian Gibaut,2023,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+TJ Hopkins,2023,Cincinnati Reds,41,7,7,0,1,2,17,.171,.227,.171,.398,hitter
+Jonathan India,2023,Cincinnati Reds,454,78,111,17,61,52,109,.244,.338,.407,.745,hitter
+Derek Law,2023,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Alejo Lopez,2023,Cincinnati Reds,2,1,1,0,1,0,1,.500,.500,1.000,1.500,hitter
+Luke Maile,2023,Cincinnati Reds,179,17,42,6,25,14,49,.235,.308,.391,.699,hitter
+Noelvi Marte,2023,Cincinnati Reds,114,15,36,3,15,8,25,.316,.366,.456,.822,hitter
+Nick Martini,2023,Cincinnati Reds,72,10,19,6,16,5,15,.264,.329,.583,.912,hitter
+Matt McLain,2023,Cincinnati Reds,365,65,106,16,50,31,115,.290,.357,.507,.864,hitter
+Wil Myers,2023,Cincinnati Reds,127,11,24,3,12,12,48,.189,.257,.283,.540,hitter
+Kevin Newman,2023,Cincinnati Reds,225,28,57,3,28,17,34,.253,.311,.364,.675,hitter
+Henry Ramos,2023,Cincinnati Reds,74,9,18,0,5,11,21,.243,.349,.311,.660,hitter
+Hunter Renfroe,2023,Los Angeles Angels,459,56,111,19,56,39,113,.242,.304,.434,.738,hitter
+Matt Reynolds,2023,Cincinnati Reds,5,1,1,0,0,0,3,.200,.200,.200,.400,hitter
+Tony Santillan,2023,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Nick Senzel,2023,Cincinnati Reds,301,49,71,13,42,26,74,.236,.297,.399,.696,hitter
+Michael Siani,2023,Cincinnati Reds,0,1,0,0,0,1,0,.000,1.000,.000,1.000,hitter
+Lucas Sims,2023,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Carson Spiers,2023,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Spencer Steer,2023,Cincinnati Reds,582,74,158,23,86,68,139,.271,.356,.464,.820,hitter
+Tyler Stephenson,2023,Cincinnati Reds,465,59,113,13,56,47,135,.243,.317,.378,.695,hitter
+Jason Vosler,2023,Cincinnati Reds,62,6,10,3,10,3,25,.161,.200,.371,.571,hitter
+Joey Votto,2023,Cincinnati Reds,208,26,42,14,38,27,62,.202,.314,.433,.747,hitter
+Alex Young,2023,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Gabriel Arias,2023,Cleveland Guardians,315,36,66,10,26,28,113,.210,.275,.352,.627,hitter
+Josh Bell,2023,Cleveland Guardians,347,26,81,11,48,43,81,.233,.318,.383,.701,hitter
+Will Brennan,2023,Cleveland Guardians,432,41,115,5,41,16,57,.266,.299,.356,.655,hitter
+Kole Calhoun,2023,Cleveland Guardians,157,18,34,6,25,13,37,.217,.282,.376,.658,hitter
+Zack Collins,2023,Cleveland Guardians,4,0,2,0,0,2,2,.500,.667,.500,1.167,hitter
+Tyler Freeman,2023,Cleveland Guardians,153,20,37,4,18,10,30,.242,.295,.366,.661,hitter
+David Fry,2023,Cleveland Guardians,101,12,24,4,15,8,30,.238,.319,.416,.735,hitter
+Cam Gallagher,2023,Cleveland Guardians,143,6,18,0,7,4,46,.126,.154,.168,.322,hitter
+Andrés Giménez,2023,Cleveland Guardians,557,76,140,15,62,32,112,.251,.314,.399,.713,hitter
+Oscar Gonzalez,2023,Cleveland Guardians,173,15,37,2,12,5,46,.214,.239,.312,.551,hitter
+Eric Haase,2023,Detroit Tigers,264,22,53,4,26,16,78,.201,.246,.284,.530,hitter
+Steven Kwan,2023,Cleveland Guardians,638,93,171,5,54,70,75,.268,.340,.370,.710,hitter
+Ramón Laureano,2023,Oakland Athletics,225,24,48,6,21,17,73,.213,.280,.364,.644,hitter
+Bo Naylor,2023,Cleveland Guardians,198,33,47,11,32,30,53,.237,.339,.470,.809,hitter
+Josh Naylor,2023,Cleveland Guardians,452,52,139,17,97,33,68,.308,.354,.489,.843,hitter
+José Ramírez,2023,Cleveland Guardians,611,87,172,24,80,73,73,.282,.356,.475,.831,hitter
+Brayan Rocchio,2023,Cleveland Guardians,81,9,20,0,8,4,27,.247,.279,.321,.600,hitter
+Amed Rosario,2023,Cleveland Guardians,385,51,102,3,40,22,77,.265,.306,.369,.675,hitter
+Myles Straw,2023,Cleveland Guardians,462,52,110,1,29,42,97,.238,.301,.297,.598,hitter
+José Tena,2023,Cleveland Guardians,31,2,7,0,3,3,13,.226,.294,.290,.584,hitter
+Meibrys Viloria,2023,Cleveland Guardians,3,0,0,0,0,1,0,.000,.250,.000,.250,hitter
+Mike Zunino,2023,Cleveland Guardians,124,11,22,3,11,15,61,.177,.271,.306,.577,hitter
+Jorge Alfaro,2023,Colorado Rockies,31,2,5,1,4,0,12,.161,.188,.387,.575,hitter
+Charlie Blackmon,2023,Colorado Rockies,359,57,100,8,40,39,55,.279,.363,.440,.803,hitter
+Sean Bouchard,2023,Colorado Rockies,38,11,12,4,7,4,14,.316,.372,.684,1.056,hitter
+Kris Bryant,2023,Colorado Rockies,300,36,70,10,31,29,68,.233,.313,.367,.680,hitter
+Harold Castro,2023,Colorado Rockies,258,24,65,1,31,9,66,.252,.275,.314,.589,hitter
+C.J. Cron,2023,Colorado Rockies,208,31,54,11,32,13,50,.260,.304,.476,.780,hitter
+Yonathan Daza,2023,Colorado Rockies,74,8,20,0,7,3,13,.270,.304,.351,.655,hitter
+Elias Díaz,2023,Colorado Rockies,486,48,130,14,72,34,118,.267,.316,.409,.725,hitter
+Brenton Doyle,2023,Colorado Rockies,399,48,81,10,48,22,151,.203,.250,.343,.593,hitter
+Hunter Goodman,2023,Colorado Rockies,70,6,14,1,17,5,24,.200,.247,.386,.633,hitter
+Randal Grichuk,2023,Colorado Rockies,240,40,74,8,27,18,51,.308,.365,.496,.861,hitter
+Pierce Johnson,2023,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Nolan Jones,2023,Colorado Rockies,367,60,109,20,62,53,126,.297,.389,.542,.931,hitter
+Connor Kaiser,2023,Colorado Rockies,4,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Karl Kauffmann,2023,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Justin Lawrence,2023,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ryan McMahon,2023,Colorado Rockies,555,80,133,23,70,68,198,.240,.322,.431,.753,hitter
+Elehuris Montero,2023,Colorado Rockies,284,40,69,11,39,15,111,.243,.290,.426,.716,hitter
+Coco Montes,2023,Colorado Rockies,38,3,7,1,3,2,12,.184,.244,.316,.560,hitter
+Mike Moustakas,2023,Colorado Rockies,115,21,31,4,17,17,34,.270,.360,.435,.795,hitter
+Jurickson Profar,2023,Colorado Rockies,415,51,98,8,39,45,86,.236,.316,.364,.680,hitter
+Brendan Rodgers,2023,Colorado Rockies,178,21,46,4,20,11,41,.258,.313,.388,.701,hitter
+Brian Serven,2023,Colorado Rockies,23,0,3,0,1,0,10,.130,.130,.174,.304,hitter
+Brent Suter,2023,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Michael Toglia,2023,Colorado Rockies,141,18,23,4,9,10,50,.163,.224,.284,.508,hitter
+Ezequiel Tovar,2023,Colorado Rockies,581,79,147,15,73,25,166,.253,.287,.408,.695,hitter
+Alan Trejo,2023,Colorado Rockies,207,24,48,4,26,16,51,.232,.288,.343,.631,hitter
+Cole Tucker,2023,Colorado Rockies,8,2,4,0,2,1,2,.500,.600,.500,1.100,hitter
+Austin Wynns,2023,San Francisco Giants,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Akil Baddoo,2023,Detroit Tigers,312,40,68,11,34,42,89,.218,.310,.372,.682,hitter
+Javier Báez,2023,Detroit Tigers,510,58,113,9,59,24,125,.222,.267,.325,.592,hitter
+Miguel Cabrera,2023,Detroit Tigers,334,21,86,4,34,31,74,.257,.322,.353,.675,hitter
+Kerry Carpenter,2023,Detroit Tigers,418,57,116,20,64,32,115,.278,.340,.471,.811,hitter
+Isan Díaz,2023,San Francisco Giants,19,0,1,0,1,2,7,.053,.143,.053,.196,hitter
+Riley Greene,2023,Detroit Tigers,378,51,109,11,37,35,114,.288,.349,.447,.796,hitter
+Eric Haase,2023,Detroit Tigers,264,22,53,4,26,16,78,.201,.246,.284,.530,hitter
+Andy Ibáñez,2023,Detroit Tigers,356,42,94,11,41,24,69,.264,.312,.433,.745,hitter
+Carson Kelly,2023,Arizona Diamondbacks,84,6,19,1,6,7,23,.226,.283,.298,.581,hitter
+Ryan Kreidler,2023,Detroit Tigers,18,2,2,0,0,0,7,.111,.111,.111,.222,hitter
+Alex Lange,2023,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Andre Lipcius,2023,Detroit Tigers,35,3,10,1,4,3,8,.286,.342,.400,.742,hitter
+Jake Marisnick,2023,Chicago White Sox,2,1,0,0,0,0,1,.000,.000,.000,.000,hitter
+Nick Maton,2023,Detroit Tigers,249,29,43,8,32,38,73,.173,.288,.305,.593,hitter
+Zach McKinstry,2023,Detroit Tigers,464,60,107,9,35,44,113,.231,.302,.351,.653,hitter
+Austin Meadows,2023,Detroit Tigers,21,0,5,0,2,0,3,.238,.238,.286,.524,hitter
+Parker Meadows,2023,Detroit Tigers,125,19,29,3,13,17,37,.232,.331,.368,.699,hitter
+Tyler Nevin,2023,Detroit Tigers,95,11,19,2,10,12,25,.200,.306,.316,.622,hitter
+Jake Rogers,2023,Detroit Tigers,331,47,73,21,49,28,118,.221,.286,.444,.730,hitter
+Jonathan Schoop,2023,Detroit Tigers,136,15,29,0,7,13,37,.213,.278,.272,.550,hitter
+Zack Short,2023,Detroit Tigers,221,17,45,7,33,28,66,.204,.292,.339,.631,hitter
+Nick Solak,2023,Atlanta Braves,0,1,0,0,0,0,0,.000,.000,.000,.000,hitter
+Spencer Torkelson,2023,Detroit Tigers,606,88,141,31,94,67,171,.233,.313,.446,.759,hitter
+Will Vest,2023,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Matt Vierling,2023,Detroit Tigers,479,63,125,10,44,44,112,.261,.329,.388,.717,hitter
+José Abreu,2023,Houston Astros,540,62,128,18,90,42,130,.237,.296,.383,.679,hitter
+Jose Altuve,2023,Houston Astros,360,76,112,17,51,44,71,.311,.393,.522,.915,hitter
+Yordan Alvarez,2023,Houston Astros,410,77,120,31,97,69,92,.293,.407,.583,.990,hitter
+Rylan Bannon,2023,Houston Astros,6,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Michael Brantley,2023,Houston Astros,54,7,15,2,7,2,2,.278,.298,.426,.724,hitter
+Alex Bregman,2023,Houston Astros,622,103,163,25,98,92,87,.262,.363,.441,.804,hitter
+Yainer Diaz,2023,Houston Astros,355,51,100,23,60,11,74,.282,.308,.538,.846,hitter
+Mauricio Dubón,2023,Houston Astros,467,76,130,10,46,19,70,.278,.309,.411,.720,hitter
+Kendall Graveman,2023,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+David Hensley,2023,Houston Astros,84,12,10,1,3,10,35,.119,.213,.167,.380,hitter
+Corey Julks,2023,Houston Astros,298,35,73,6,33,22,75,.245,.297,.352,.649,hitter
+Grae Kessinger,2023,Houston Astros,40,3,8,1,1,5,12,.200,.289,.325,.614,hitter
+Bligh Madris,2023,Houston Astros,26,4,4,0,0,4,7,.154,.267,.192,.459,hitter
+Martín Maldonado,2023,Houston Astros,362,33,69,15,36,30,139,.191,.258,.348,.606,hitter
+Seth Martinez,2023,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Phil Maton,2023,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chas McCormick,2023,Houston Astros,403,59,110,22,70,40,117,.273,.353,.489,.842,hitter
+Jake Meyers,2023,Houston Astros,309,42,70,10,33,26,88,.227,.296,.382,.678,hitter
+Rafael Montero,2023,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Héctor Neris,2023,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jeremy Peña,2023,Houston Astros,577,81,152,10,52,43,129,.263,.324,.381,.705,hitter
+Ryan Pressly,2023,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+César Salazar,2023,Houston Astros,18,1,2,0,0,1,6,.111,.158,.111,.269,hitter
+Jon Singleton,2023,Milwaukee Brewers,29,3,3,0,2,3,11,.103,.188,.138,.326,hitter
+Ryne Stanek,2023,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kyle Tucker,2023,Houston Astros,574,97,163,29,112,80,92,.284,.369,.517,.886,hitter
+Scott Barlow,2023,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Matt Beaty,2023,San Francisco Giants,5,1,1,0,1,0,2,.200,.200,.200,.400,hitter
+Dairon Blanco,2023,Kansas City Royals,124,19,32,3,18,10,33,.258,.324,.452,.776,hitter
+Jackie Bradley Jr.,2023,Kansas City Royals,105,10,14,1,6,5,29,.133,.188,.210,.398,hitter
+Aroldis Chapman,2023,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Taylor Clarke,2023,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Dylan Coleman,2023,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Austin Cox,2023,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tyler Cropley,2023,Kansas City Royals,6,0,1,0,1,0,2,.167,.143,.167,.310,hitter
+Hunter Dozier,2023,Kansas City Royals,82,8,15,2,9,8,29,.183,.253,.305,.558,hitter
+Matt Duffy,2023,Kansas City Royals,191,17,48,2,16,12,39,.251,.306,.325,.631,hitter
+Nate Eaton,2023,Kansas City Royals,53,2,4,0,1,2,21,.075,.125,.075,.200,hitter
+Freddy Fermin,2023,Kansas City Royals,217,26,61,9,32,13,50,.281,.321,.461,.782,hitter
+Maikel Garcia,2023,Kansas City Royals,464,59,126,4,50,38,115,.272,.323,.358,.681,hitter
+Zack Greinke,2023,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Taylor Hearn,2023,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jonathan Heasley,2023,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Carlos Hernández,2023,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kyle Isbel,2023,Kansas City Royals,292,45,70,5,34,17,59,.240,.282,.380,.662,hitter
+Nick Loftin,2023,Kansas City Royals,62,10,20,0,10,4,12,.323,.368,.435,.803,hitter
+Nicky Lopez,2023,Kansas City Royals,160,19,34,0,13,21,30,.213,.323,.281,.604,hitter
+Michael Massey,2023,Kansas City Royals,428,42,98,15,55,24,99,.229,.274,.381,.655,hitter
+James McArthur,2023,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+MJ Melendez,2023,Kansas City Royals,533,65,125,16,56,62,170,.235,.316,.398,.714,hitter
+Edward Olivares,2023,Kansas City Royals,354,47,93,12,36,22,64,.263,.317,.452,.769,hitter
+Vinnie Pasquantino,2023,Kansas City Royals,231,24,57,9,26,25,31,.247,.324,.437,.761,hitter
+Salvador Perez,2023,Kansas City Royals,538,59,137,23,80,19,135,.255,.292,.422,.714,hitter
+Logan Porter,2023,Kansas City Royals,31,4,6,1,3,5,11,.194,.324,.323,.647,hitter
+Nick Pratto,2023,Kansas City Royals,306,33,71,7,35,29,138,.232,.307,.353,.660,hitter
+Cole Ragans,2023,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Franmil Reyes,2023,Kansas City Royals,59,5,11,2,7,4,24,.186,.231,.288,.519,hitter
+Samad Taylor,2023,Kansas City Royals,60,11,12,0,4,7,22,.200,.279,.267,.546,hitter
+Nelson Velázquez,2023,Chicago Cubs,29,8,7,3,6,3,8,.241,.313,.621,.934,hitter
+Drew Waters,2023,Kansas City Royals,302,40,69,8,32,27,107,.228,.300,.377,.677,hitter
+Bobby Witt Jr.,2023,Kansas City Royals,641,97,177,30,96,40,121,.276,.319,.495,.814,hitter
+Nick Wittgren,2023,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ryan Yarbrough,2023,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Austin Barnes,2023,Los Angeles Dodgers,178,15,32,2,11,17,43,.180,.256,.242,.498,hitter
+Mookie Betts,2023,Los Angeles Dodgers,584,126,179,39,107,96,107,.307,.408,.579,.987,hitter
+Ryan Brasier,2023,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Michael Busch,2023,Los Angeles Dodgers,72,9,12,2,7,8,27,.167,.247,.292,.539,hitter
+Jonny DeLuca,2023,Los Angeles Dodgers,42,5,11,2,6,3,8,.262,.311,.429,.740,hitter
+Caleb Ferguson,2023,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Freddie Freeman,2023,Los Angeles Dodgers,637,131,211,29,102,72,121,.331,.410,.567,.977,hitter
+Victor González,2023,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brusdar Graterol,2023,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Enrique Hernández,2023,Boston Red Sox,297,38,66,6,31,22,68,.222,.279,.320,.599,hitter
+Yonny Hernández,2023,Los Angeles Dodgers,22,5,3,0,4,2,8,.136,.231,.182,.413,hitter
+Jason Heyward,2023,Los Angeles Dodgers,334,56,90,15,40,34,64,.269,.340,.473,.813,hitter
+Jake Marisnick,2023,Chicago White Sox,2,1,0,0,0,0,1,.000,.000,.000,.000,hitter
+J.D. Martinez,2023,Los Angeles Dodgers,432,61,117,33,103,34,149,.271,.321,.572,.893,hitter
+Shelby Miller,2023,Los Angeles Dodgers,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Max Muncy,2023,Los Angeles Dodgers,482,95,102,36,105,85,153,.212,.333,.475,.808,hitter
+James Outman,2023,Los Angeles Dodgers,483,86,120,23,70,68,181,.248,.353,.437,.790,hitter
+David Peralta,2023,Los Angeles Dodgers,394,47,102,7,55,20,72,.259,.294,.381,.675,hitter
+Miguel Rojas,2023,Los Angeles Dodgers,385,49,91,5,31,26,48,.236,.290,.322,.612,hitter
+Amed Rosario,2023,Cleveland Guardians,385,51,102,3,40,22,77,.265,.306,.369,.675,hitter
+Tayler Scott,2023,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Will Smith,2023,Los Angeles Dodgers,464,80,121,19,76,63,89,.261,.359,.438,.797,hitter
+Chris Taylor,2023,Los Angeles Dodgers,338,51,80,15,56,41,125,.237,.326,.420,.746,hitter
+Trayce Thompson,2023,Los Angeles Dodgers,71,12,11,5,14,15,37,.155,.310,.366,.676,hitter
+Miguel Vargas,2023,Los Angeles Dodgers,256,36,50,7,32,38,61,.195,.305,.367,.672,hitter
+Alex Vesia,2023,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Luke Williams,2023,Los Angeles Dodgers,10,0,1,0,0,0,3,.100,.100,.100,.200,hitter
+Kolten Wong,2023,Seattle Mariners,194,21,32,2,19,16,46,.165,.241,.227,.468,hitter
+Austin Wynns,2023,San Francisco Giants,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Ryan Yarbrough,2023,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+CJ Abrams,2023,Washington Nationals,563,83,138,18,64,32,118,.245,.300,.412,.712,hitter
+Riley Adams,2023,Washington Nationals,143,8,39,4,21,11,45,.273,.331,.476,.807,hitter
+Jake Alu,2023,Washington Nationals,159,14,36,2,16,10,42,.226,.282,.289,.571,hitter
+Travis Blankenhorn,2023,Washington Nationals,31,2,5,1,1,6,6,.161,.297,.258,.555,hitter
+Alex Call,2023,Washington Nationals,375,43,75,8,38,53,78,.200,.307,.307,.614,hitter
+Jeimer Candelario,2023,Washington Nationals,368,57,95,16,53,36,88,.258,.342,.481,.823,hitter
+Michael Chavis,2023,Washington Nationals,91,16,22,2,5,5,33,.242,.281,.341,.622,hitter
+Corey Dickerson,2023,Washington Nationals,144,12,36,2,17,7,28,.250,.283,.354,.637,hitter
+Jeter Downs,2023,Washington Nationals,5,4,2,0,1,4,1,.400,.667,.400,1.067,hitter
+Luis García Jr.,2023,Washington Nationals,447,61,119,9,50,27,60,.266,.304,.385,.689,hitter
+Stone Garrett,2023,Washington Nationals,234,40,63,9,40,26,82,.269,.343,.457,.800,hitter
+Derek Hill,2023,Washington Nationals,47,3,8,0,1,3,11,.170,.220,.191,.411,hitter
+Carter Kieboom,2023,Washington Nationals,87,12,18,4,11,6,27,.207,.266,.368,.634,hitter
+Joey Meneses,2023,Washington Nationals,611,71,168,13,89,38,130,.275,.321,.401,.722,hitter
+Drew Millas,2023,Washington Nationals,28,1,8,1,6,4,5,.286,.375,.464,.839,hitter
+Victor Robles,2023,Washington Nationals,107,15,32,0,8,11,18,.299,.385,.364,.749,hitter
+Keibert Ruiz,2023,Washington Nationals,523,55,136,18,67,31,58,.260,.308,.409,.717,hitter
+Blake Rutherford,2023,Washington Nationals,35,4,6,0,2,1,10,.171,.194,.171,.365,hitter
+Dominic Smith,2023,Washington Nationals,527,57,134,12,46,47,91,.254,.326,.366,.692,hitter
+Lane Thomas,2023,Washington Nationals,628,101,168,28,86,36,176,.268,.315,.468,.783,hitter
+Ildemaro Vargas,2023,Washington Nationals,262,32,66,4,31,19,20,.252,.304,.363,.667,hitter
+Jacob Young,2023,Washington Nationals,107,9,27,0,12,10,22,.252,.322,.336,.658,hitter
+Abraham Almonte,2023,New York Mets,15,1,1,0,0,1,8,.067,.125,.133,.258,hitter
+Pete Alonso,2023,New York Mets,568,92,123,46,118,65,151,.217,.318,.504,.822,hitter
+Francisco Alvarez,2023,New York Mets,382,51,80,25,63,34,110,.209,.284,.437,.721,hitter
+Jonathan Araúz,2023,New York Mets,59,3,8,3,9,5,18,.136,.203,.288,.491,hitter
+Brett Baty,2023,New York Mets,353,41,75,9,34,29,109,.212,.275,.323,.598,hitter
+Mark Canha,2023,New York Mets,257,28,63,6,29,32,52,.245,.343,.381,.724,hitter
+Eduardo Escobar,2023,New York Mets,110,15,26,4,16,8,24,.236,.286,.409,.695,hitter
+Luis Guillorme,2023,New York Mets,107,12,24,1,9,10,28,.224,.288,.327,.615,hitter
+Tommy Hunter,2023,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Anthony Kay,2023,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Francisco Lindor,2023,New York Mets,602,108,153,31,98,66,137,.254,.336,.470,.806,hitter
+Tim Locastro,2023,New York Mets,56,13,13,2,3,3,22,.232,.338,.393,.731,hitter
+Starling Marte,2023,New York Mets,315,38,78,5,28,16,69,.248,.301,.324,.625,hitter
+Ronny Mauricio,2023,New York Mets,101,11,25,2,9,7,31,.248,.296,.347,.643,hitter
+Jeff McNeil,2023,New York Mets,585,75,158,10,55,39,65,.270,.333,.378,.711,hitter
+Danny Mendick,2023,New York Mets,65,4,12,1,4,4,15,.185,.232,.277,.509,hitter
+Omar Narváez,2023,New York Mets,128,12,27,2,7,14,27,.211,.283,.297,.580,hitter
+Tomás Nido,2023,New York Mets,56,5,7,0,1,2,18,.125,.153,.125,.278,hitter
+Brandon Nimmo,2023,New York Mets,592,89,162,24,68,74,146,.274,.363,.466,.829,hitter
+Rafael Ortega,2023,New York Mets,114,16,25,1,8,20,33,.219,.341,.272,.613,hitter
+Michael Pérez,2023,New York Mets,8,1,4,0,0,0,1,.500,.500,.625,1.125,hitter
+Tommy Pham,2023,New York Mets,231,29,62,10,36,29,56,.268,.348,.472,.820,hitter
+Brooks Raley,2023,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Gary Sánchez,2023,New York Mets,6,0,1,0,1,0,3,.167,.143,.167,.310,hitter
+Drew Smith,2023,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+DJ Stewart,2023,New York Mets,160,21,39,11,26,15,56,.244,.333,.506,.839,hitter
+Mark Vientos,2023,New York Mets,218,19,46,9,22,10,71,.211,.253,.367,.620,hitter
+Daniel Vogelbach,2023,New York Mets,275,33,64,13,48,42,81,.233,.339,.404,.743,hitter

@@ -1,74 +1,83 @@
 [
   {
-    "date": "2025-05-22",
-    "home_team": "NYY",
-    "home_score": "0",
-    "away_team": "TEX",
-    "away_score": "0",
-    "status": "Scheduled"
+    "date": "2025-05-22T16:35Z",
+    "name": "Texas Rangers at New York Yankees",
+    "status": "In Progress",
+    "homeTeam": "New York Yankees",
+    "awayTeam": "Texas Rangers",
+    "homeScore": "1",
+    "awayScore": "0"
   },
   {
-    "date": "2025-05-22",
-    "home_team": "TOR",
-    "home_score": "0",
-    "away_team": "SD",
-    "away_score": "0",
-    "status": "Scheduled"
+    "date": "2025-05-22T17:07Z",
+    "name": "San Diego Padres at Toronto Blue Jays",
+    "status": "In Progress",
+    "homeTeam": "Toronto Blue Jays",
+    "awayTeam": "San Diego Padres",
+    "homeScore": "4",
+    "awayScore": "2"
   },
   {
-    "date": "2025-05-22",
-    "home_team": "COL",
-    "home_score": "0",
-    "away_team": "PHI",
-    "away_score": "0",
-    "status": "Scheduled"
+    "date": "2025-05-22T19:10Z",
+    "name": "Philadelphia Phillies at Colorado Rockies",
+    "status": "Scheduled",
+    "homeTeam": "Colorado Rockies",
+    "awayTeam": "Philadelphia Phillies",
+    "homeScore": "0",
+    "awayScore": "0"
   },
   {
-    "date": "2025-05-22",
-    "home_team": "ATH",
-    "home_score": "0",
-    "away_team": "LAA",
-    "away_score": "0",
-    "status": "Scheduled"
+    "date": "2025-05-22T19:35Z",
+    "name": "Los Angeles Angels at Athletics Athletics",
+    "status": "Scheduled",
+    "homeTeam": "Athletics",
+    "awayTeam": "Los Angeles Angels",
+    "homeScore": "0",
+    "awayScore": "0"
   },
   {
-    "date": "2025-05-22",
-    "home_team": "DET",
-    "home_score": "0",
-    "away_team": "CLE",
-    "away_score": "0",
-    "status": "Scheduled"
+    "date": "2025-05-22T22:40Z",
+    "name": "Cleveland Guardians at Detroit Tigers",
+    "status": "Scheduled",
+    "homeTeam": "Detroit Tigers",
+    "awayTeam": "Cleveland Guardians",
+    "homeScore": "0",
+    "awayScore": "0"
   },
   {
-    "date": "2025-05-22",
-    "home_team": "PIT",
-    "home_score": "0",
-    "away_team": "MIL",
-    "away_score": "0",
-    "status": "Scheduled"
+    "date": "2025-05-22T22:40Z",
+    "name": "Milwaukee Brewers at Pittsburgh Pirates",
+    "status": "Scheduled",
+    "homeTeam": "Pittsburgh Pirates",
+    "awayTeam": "Milwaukee Brewers",
+    "homeScore": "0",
+    "awayScore": "0"
   },
   {
-    "date": "2025-05-22",
-    "home_team": "WSH",
-    "home_score": "0",
-    "away_team": "ATL",
-    "away_score": "0",
-    "status": "Scheduled"
+    "date": "2025-05-22T22:45Z",
+    "name": "Atlanta Braves at Washington Nationals",
+    "status": "Scheduled",
+    "homeTeam": "Washington Nationals",
+    "awayTeam": "Atlanta Braves",
+    "homeScore": "0",
+    "awayScore": "0"
   },
   {
-    "date": "2025-05-22",
-    "home_team": "BOS",
-    "home_score": "0",
-    "away_team": "BAL",
-    "away_score": "0",
-    "status": "Scheduled"
+    "date": "2025-05-22T22:45Z",
+    "name": "Baltimore Orioles at Boston Red Sox",
+    "status": "Postponed",
+    "homeTeam": "Boston Red Sox",
+    "awayTeam": "Baltimore Orioles",
+    "homeScore": "0",
+    "awayScore": "0"
   },
   {
-    "date": "2025-05-22",
-    "home_team": "HOU",
-    "home_score": "0",
-    "away_team": "SEA",
-    "away_score": "0",
-    "status": "Scheduled"
+    "date": "2025-05-23T00:10Z",
+    "name": "Seattle Mariners at Houston Astros",
+    "status": "Scheduled",
+    "homeTeam": "Houston Astros",
+    "awayTeam": "Seattle Mariners",
+    "homeScore": "0",
+    "awayScore": "0"
   }
 ]

@@ -1,0 +1,841 @@
+name,year,team,AB,R,H,HR,RBI,BB,K,AVG,OBP,SLG,OPS,playerType
+Nick Allen,2024,Oakland Athletics,97,6,17,1,4,5,20,.175,.216,.247,.463,hitter
+Armando Alvarez,2024,Oakland Athletics,37,7,9,0,2,2,8,.243,.282,.270,.552,hitter
+Miguel Andujar,2024,Oakland Athletics,302,31,86,4,30,13,42,.285,.320,.377,.697,hitter
+JJ Bleday,2024,Oakland Athletics,572,74,139,20,60,67,125,.243,.324,.437,.761,hitter
+Seth Brown,2024,Oakland Athletics,372,32,86,14,44,25,112,.231,.283,.379,.662,hitter
+Lawrence Butler,2024,Oakland Athletics,412,63,108,22,57,35,108,.262,.317,.490,.807,hitter
+Daz Cameron,2024,Oakland Athletics,170,22,34,5,15,13,51,.200,.258,.329,.587,hitter
+J.D. Davis,2024,Oakland Athletics,123,12,29,4,5,9,30,.236,.304,.366,.670,hitter
+Aledmys Díaz,2024,Oakland Athletics,29,2,3,0,1,1,7,.103,.133,.103,.236,hitter
+Zack Gelof,2024,Oakland Athletics,497,60,105,17,49,38,188,.211,.270,.362,.632,hitter
+Tristan Gray,2024,Miami Marlins,7,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Brett Harris,2024,Oakland Athletics,103,15,15,3,12,17,25,.146,.276,.262,.538,hitter
+Darell Hernaiz,2024,Oakland Athletics,120,8,23,1,12,11,27,.192,.261,.242,.503,hitter
+Shea Langeliers,2024,Oakland Athletics,482,58,108,29,80,41,145,.224,.288,.450,.738,hitter
+Kyle McCann,2024,Oakland Athletics,140,13,33,5,15,16,59,.236,.318,.371,.689,hitter
+Tyler Nevin,2024,Oakland Athletics,245,22,50,7,20,25,64,.204,.288,.331,.619,hitter
+Ryan Noda,2024,Oakland Athletics,95,8,13,1,4,14,37,.137,.255,.211,.466,hitter
+Brent Rooker,2024,Oakland Athletics,546,82,160,39,112,59,177,.293,.365,.562,.927,hitter
+Esteury Ruiz,2024,Oakland Athletics,55,10,11,2,8,4,20,.200,.270,.382,.652,hitter
+Max Schuemann,2024,Oakland Athletics,396,55,87,7,34,47,119,.220,.311,.308,.619,hitter
+Tyler Soderstrom,2024,Oakland Athletics,189,18,44,9,26,20,53,.233,.315,.429,.744,hitter
+Abraham Toro,2024,Oakland Athletics,337,34,81,6,26,20,62,.240,.293,.350,.643,hitter
+Jacob Wilson,2024,Oakland Athletics,92,11,23,0,3,8,10,.250,.314,.315,.629,hitter
+Ji Hwan Bae,2024,Pittsburgh Pirates,74,11,14,0,6,6,24,.189,.247,.216,.463,hitter
+Joey Bart,2024,Pittsburgh Pirates,253,38,67,13,45,22,73,.265,.337,.462,.799,hitter
+Jalen Beeks,2024,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Billy Cook,2024,Pittsburgh Pirates,49,5,11,3,8,0,19,.224,.224,.449,.673,hitter
+Oneil Cruz,2024,Pittsburgh Pirates,541,72,140,21,76,51,181,.259,.324,.449,.773,hitter
+Henry Davis,2024,Pittsburgh Pirates,104,9,15,1,5,13,45,.144,.242,.212,.454,hitter
+Bryan De La Cruz,2024,Miami Marlins,424,44,104,18,51,25,118,.245,.289,.417,.706,hitter
+Jason Delay,2024,Pittsburgh Pirates,15,1,3,0,6,3,0,.200,.333,.400,.733,hitter
+Nick Gonzales,2024,Pittsburgh Pirates,359,42,97,7,49,18,74,.270,.311,.398,.709,hitter
+Yasmani Grandal,2024,Pittsburgh Pirates,215,26,49,9,27,24,46,.228,.304,.400,.704,hitter
+Ke'Bryan Hayes,2024,Pittsburgh Pirates,365,38,85,4,25,23,75,.233,.283,.290,.573,hitter
+Connor Joe,2024,Pittsburgh Pirates,364,49,83,9,36,44,91,.228,.320,.368,.688,hitter
+Isiah Kiner-Falefa,2024,Toronto Blue Jays,257,32,75,7,33,13,37,.292,.338,.420,.758,hitter
+Grant Koch,2024,Pittsburgh Pirates,7,1,0,0,0,1,6,.000,.125,.000,.125,hitter
+Andrew McCutchen,2024,Pittsburgh Pirates,448,66,104,20,50,58,133,.232,.328,.411,.739,hitter
+Billy McKinney,2024,Pittsburgh Pirates,25,4,5,0,2,2,13,.200,.286,.240,.526,hitter
+Edward Olivares,2024,Pittsburgh Pirates,174,22,39,5,23,16,37,.224,.291,.333,.624,hitter
+Joshua Palacios,2024,Pittsburgh Pirates,67,10,15,2,9,10,12,.224,.333,.343,.676,hitter
+Liover Peguero,2024,Pittsburgh Pirates,10,0,2,0,2,0,3,.200,.200,.300,.500,hitter
+Bryan Reynolds,2024,Pittsburgh Pirates,622,73,171,24,88,57,156,.275,.344,.447,.791,hitter
+Jack Suwinski,2024,Pittsburgh Pirates,247,29,45,9,26,27,79,.182,.264,.324,.588,hitter
+Michael A. Taylor,2024,Pittsburgh Pirates,269,35,52,5,21,23,105,.193,.253,.290,.543,hitter
+Rowdy Tellez,2024,Pittsburgh Pirates,383,38,93,13,56,31,89,.243,.299,.392,.691,hitter
+Jared Triolo,2024,Pittsburgh Pirates,394,41,85,9,46,42,118,.216,.296,.315,.611,hitter
+Alika Williams,2024,Pittsburgh Pirates,87,13,18,0,5,3,22,.207,.242,.299,.541,hitter
+Nick Yorke,2024,Pittsburgh Pirates,37,4,8,2,5,4,12,.216,.286,.378,.664,hitter
+Nick Ahmed,2024,San Francisco Giants,155,13,36,1,15,10,35,.232,.278,.303,.581,hitter
+Luis Arraez,2024,Miami Marlins,137,22,41,0,5,8,11,.299,.347,.372,.719,hitter
+Pedro Avila,2024,Cleveland Guardians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+José Azocar,2024,San Diego Padres,73,13,16,0,2,5,19,.219,.269,.247,.516,hitter
+Matthew Batten,2024,San Diego Padres,3,0,1,0,0,0,0,.333,.333,1.000,1.333,hitter
+Xander Bogaerts,2024,San Diego Padres,428,50,113,11,44,28,79,.264,.307,.381,.688,hitter
+Jhony Brito,2024,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Luis Campusano,2024,San Diego Padres,277,37,63,8,40,20,41,.227,.281,.361,.642,hitter
+Jake Cronenworth,2024,San Diego Padres,577,72,139,17,83,61,118,.241,.324,.390,.714,hitter
+Elias Díaz,2024,Colorado Rockies,304,26,82,5,36,17,64,.270,.315,.378,.693,hitter
+Kyle Higashioka,2024,San Diego Padres,246,29,54,17,45,15,74,.220,.263,.476,.739,hitter
+Bryce Johnson,2024,San Diego Padres,63,9,13,0,4,7,12,.206,.286,.238,.524,hitter
+Ha-Seong Kim,2024,San Diego Padres,403,60,94,11,47,58,77,.233,.330,.370,.700,hitter
+Brandon Lockridge,2024,San Diego Padres,12,4,2,1,1,0,4,.167,.167,.417,.584,hitter
+Manny Machado,2024,San Diego Padres,593,77,163,29,105,45,124,.275,.325,.472,.797,hitter
+Mason McCoy,2024,San Diego Padres,49,7,10,0,3,5,19,.204,.278,.245,.523,hitter
+Jackson Merrill,2024,San Diego Padres,554,77,162,24,90,29,101,.292,.326,.500,.826,hitter
+Graham Pauley,2024,San Diego Padres,32,4,4,2,5,0,15,.125,.125,.313,.438,hitter
+David Peralta,2024,San Diego Padres,236,35,63,8,28,22,54,.267,.335,.415,.750,hitter
+Jurickson Profar,2024,San Diego Padres,564,94,158,24,85,76,101,.280,.380,.459,.839,hitter
+Eguy Rosario,2024,San Diego Padres,53,5,13,3,6,2,20,.245,.286,.528,.814,hitter
+Donovan Solano,2024,San Diego Padres,283,31,81,8,35,22,65,.286,.343,.417,.760,hitter
+Brett Sullivan,2024,San Diego Padres,16,1,3,1,2,1,4,.188,.235,.375,.610,hitter
+Fernando Tatis Jr.,2024,San Diego Padres,398,64,110,21,49,32,96,.276,.340,.492,.832,hitter
+Tyler Wade,2024,San Diego Padres,138,28,30,0,8,11,29,.217,.285,.239,.524,hitter
+Mike Baumann,2024,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ryan Bliss,2024,Seattle Mariners,63,10,14,2,9,5,22,.222,.290,.397,.687,hitter
+Dominic Canzone,2024,Seattle Mariners,168,20,33,8,17,18,53,.196,.271,.381,.652,hitter
+Luis Castillo,2024,Seattle Mariners,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Jonatan Clase,2024,Seattle Mariners,41,4,8,0,3,2,14,.195,.233,.220,.453,hitter
+J.P. Crawford,2024,Seattle Mariners,392,55,79,9,37,52,102,.202,.304,.321,.625,hitter
+Ty France,2024,Seattle Mariners,300,28,67,8,31,28,83,.223,.312,.350,.662,hitter
+Mitch Garver,2024,Seattle Mariners,367,37,63,15,51,53,133,.172,.286,.341,.627,hitter
+Sam Haggerty,2024,Seattle Mariners,15,1,1,0,1,1,4,.067,.125,.067,.192,hitter
+Mitch Haniger,2024,Seattle Mariners,380,42,79,12,44,40,126,.208,.286,.334,.620,hitter
+Jonathan Hernández,2024,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tyler Locklear,2024,Seattle Mariners,45,3,7,2,3,3,20,.156,.224,.311,.535,hitter
+Cade Marlowe,2024,Seattle Mariners,8,1,2,0,0,1,1,.250,.333,.250,.583,hitter
+Dylan Moore,2024,Seattle Mariners,368,53,74,10,42,53,123,.201,.320,.367,.687,hitter
+Jorge Polanco,2024,Seattle Mariners,417,43,89,16,45,46,137,.213,.296,.355,.651,hitter
+Cal Raleigh,2024,Seattle Mariners,546,73,120,34,100,70,176,.220,.312,.436,.748,hitter
+Luke Raley,2024,Seattle Mariners,404,58,98,22,58,27,135,.243,.320,.463,.783,hitter
+Leo Rivas,2024,Seattle Mariners,73,10,17,0,8,10,24,.233,.333,.274,.607,hitter
+Victor Robles,2024,Washington Nationals,25,3,3,0,2,5,9,.120,.281,.120,.401,hitter
+Julio Rodríguez,2024,Seattle Mariners,567,76,155,20,68,38,156,.273,.325,.409,.734,hitter
+Josh Rojas,2024,Seattle Mariners,422,48,95,8,31,46,108,.225,.304,.336,.640,hitter
+Ryne Stanek,2024,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Samad Taylor,2024,Seattle Mariners,5,2,2,0,0,0,1,.400,.400,.400,.800,hitter
+Trent Thornton,2024,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Justin Turner,2024,Toronto Blue Jays,301,37,77,6,31,39,60,.256,.350,.372,.722,hitter
+Luis Urías,2024,Seattle Mariners,94,11,18,4,16,9,34,.191,.303,.394,.697,hitter
+Jason Vosler,2024,Seattle Mariners,28,2,5,0,3,2,9,.179,.233,.286,.519,hitter
+Austin Voth,2024,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Seby Zavala,2024,Seattle Mariners,39,4,6,1,2,3,16,.154,.214,.282,.496,hitter
+Nick Ahmed,2024,San Francisco Giants,155,13,36,1,15,10,35,.232,.278,.303,.581,hitter
+Patrick Bailey,2024,San Francisco Giants,401,46,94,8,46,39,100,.234,.298,.339,.637,hitter
+Mike Baumann,2024,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Trenton Brooks,2024,San Francisco Giants,25,3,3,0,1,4,6,.120,.241,.120,.361,hitter
+Mark Canha,2024,Detroit Tigers,320,42,74,7,38,42,79,.231,.337,.350,.687,hitter
+Curt Casali,2024,San Francisco Giants,108,12,21,1,8,13,22,.194,.293,.250,.543,hitter
+Matt Chapman,2024,San Francisco Giants,575,98,142,27,78,64,158,.247,.328,.463,.791,hitter
+Michael Conforto,2024,San Francisco Giants,438,56,104,20,66,42,118,.237,.309,.450,.759,hitter
+Jerar Encarnacion,2024,San Francisco Giants,113,13,28,5,19,5,34,.248,.277,.425,.702,hitter
+Thairo Estrada,2024,San Francisco Giants,364,43,79,9,47,10,76,.217,.247,.343,.590,hitter
+Tyler Fitzgerald,2024,San Francisco Giants,314,53,88,15,34,22,108,.280,.334,.497,.831,hitter
+Wilmer Flores,2024,San Francisco Giants,214,19,44,4,26,20,33,.206,.277,.318,.595,hitter
+Derek Hill,2024,Texas Rangers,43,5,11,3,5,2,14,.256,.289,.465,.754,hitter
+Spencer Howard,2024,Cleveland Guardians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Andrew Knapp,2024,San Francisco Giants,6,0,1,0,0,0,2,.167,.167,.167,.334,hitter
+Jung Hoo Lee,2024,San Francisco Giants,145,15,38,2,8,10,13,.262,.310,.331,.641,hitter
+Marco Luciano,2024,San Francisco Giants,76,10,16,0,3,5,28,.211,.259,.303,.562,hitter
+Luis Matos,2024,San Francisco Giants,150,14,32,5,25,5,24,.213,.237,.347,.584,hitter
+Grant McCray,2024,San Francisco Giants,124,13,25,5,10,6,56,.202,.238,.379,.617,hitter
+Ryan McKenna,2024,Baltimore Orioles,8,3,3,2,2,1,1,.375,.444,1.125,1.569,hitter
+Tom Murphy,2024,San Francisco Giants,34,3,4,1,2,4,14,.118,.211,.235,.446,hitter
+Heliot Ramos,2024,San Francisco Giants,475,54,128,22,72,37,135,.269,.322,.469,.791,hitter
+Jakson Reetz,2024,San Francisco Giants,14,1,2,1,1,1,5,.143,.200,.429,.629,hitter
+Blake Sabol,2024,San Francisco Giants,32,3,10,0,1,5,9,.313,.421,.375,.796,hitter
+Casey Schmitt,2024,San Francisco Giants,107,11,27,6,16,4,25,.252,.283,.477,.760,hitter
+Austin Slater,2024,San Francisco Giants,90,12,18,1,9,16,31,.200,.330,.244,.574,hitter
+Jorge Soler,2024,San Francisco Giants,341,57,82,12,40,44,97,.240,.330,.419,.749,hitter
+David Villar,2024,San Francisco Giants,35,3,9,1,4,1,13,.257,.270,.457,.727,hitter
+LaMonte Wade Jr.,2024,San Francisco Giants,331,45,86,8,34,62,90,.260,.380,.381,.761,hitter
+Donovan Walton,2024,San Francisco Giants,22,3,3,1,2,2,7,.136,.240,.273,.513,hitter
+Mitch White,2024,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brett Wisely,2024,San Francisco Giants,252,25,60,4,31,13,65,.238,.278,.345,.623,hitter
+Mike Yastrzemski,2024,San Francisco Giants,428,60,99,18,57,38,124,.231,.302,.437,.739,hitter
+Nolan Arenado,2024,St. Louis Cardinals,578,70,157,16,71,44,92,.272,.325,.394,.719,hitter
+Luken Baker,2024,St. Louis Cardinals,40,3,7,2,10,7,11,.175,.286,.400,.686,hitter
+Alec Burleson,2024,St. Louis Cardinals,547,71,147,21,78,35,76,.269,.314,.420,.734,hitter
+Dylan Carlson,2024,St. Louis Cardinals,121,12,24,0,11,12,37,.198,.275,.240,.515,hitter
+Matt Carpenter,2024,St. Louis Cardinals,137,15,32,4,15,15,51,.234,.314,.372,.686,hitter
+Willson Contreras,2024,St. Louis Cardinals,301,48,79,15,36,45,96,.262,.380,.468,.848,hitter
+Brandon Crawford,2024,St. Louis Cardinals,71,5,12,1,4,8,26,.169,.263,.282,.545,hitter
+Brendan Donovan,2024,St. Louis Cardinals,587,65,163,14,73,47,81,.278,.342,.417,.759,hitter
+José Fermín,2024,St. Louis Cardinals,71,7,11,0,4,7,11,.155,.241,.197,.438,hitter
+Ryan Fernandez,2024,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Paul Goldschmidt,2024,St. Louis Cardinals,599,70,147,22,65,47,173,.245,.302,.414,.716,hitter
+Nolan Gorman,2024,St. Louis Cardinals,365,42,74,19,50,34,151,.203,.271,.400,.671,hitter
+Ryan Helsley,2024,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Iván Herrera,2024,St. Louis Cardinals,229,37,69,5,27,25,53,.301,.372,.428,.800,hitter
+John King,2024,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Andrew Kittredge,2024,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kyle Leahy,2024,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Lars Nootbaar,2024,St. Louis Cardinals,348,39,85,12,45,52,79,.244,.342,.417,.759,hitter
+Pedro Pagés,2024,St. Louis Cardinals,202,19,48,7,27,13,58,.238,.281,.376,.657,hitter
+Tommy Pham,2024,Chicago White Sox,271,33,72,5,19,25,63,.266,.330,.380,.710,hitter
+JoJo Romero,2024,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Thomas Saggese,2024,St. Louis Cardinals,49,5,10,1,4,2,14,.204,.250,.306,.556,hitter
+Victor Scott II,2024,St. Louis Cardinals,145,14,26,2,10,6,42,.179,.219,.283,.502,hitter
+Michael Siani,2024,St. Louis Cardinals,298,42,68,2,20,21,92,.228,.285,.285,.570,hitter
+Jordan Walker,2024,St. Louis Cardinals,164,16,33,5,20,10,50,.201,.253,.366,.619,hitter
+Masyn Winn,2024,St. Louis Cardinals,587,85,157,15,57,41,109,.267,.314,.416,.730,hitter
+Jonathan Aranda,2024,Tampa Bay Rays,128,22,30,6,14,12,32,.234,.308,.430,.738,hitter
+Randy Arozarena,2024,Tampa Bay Rays,350,45,74,15,37,45,101,.211,.318,.394,.712,hitter
+Rob Brantly,2024,Tampa Bay Rays,9,0,1,0,0,0,2,.111,.111,.111,.222,hitter
+José Caballero,2024,Tampa Bay Rays,441,53,100,9,44,27,133,.227,.283,.347,.630,hitter
+Junior Caminero,2024,Tampa Bay Rays,165,15,41,6,18,11,38,.248,.299,.424,.723,hitter
+Dylan Carlson,2024,St. Louis Cardinals,121,12,24,0,11,12,37,.198,.275,.240,.515,hitter
+Jonny DeLuca,2024,Tampa Bay Rays,332,29,72,6,31,24,77,.217,.278,.331,.609,hitter
+Yandy Díaz,2024,Tampa Bay Rays,563,55,158,14,65,50,95,.281,.341,.414,.755,hitter
+Logan Driscoll,2024,Tampa Bay Rays,35,2,6,1,5,1,6,.171,.189,.257,.446,hitter
+Niko Goodrum,2024,Tampa Bay Rays,16,1,3,0,0,1,6,.188,.235,.188,.423,hitter
+Alex Jackson,2024,Tampa Bay Rays,139,17,17,3,12,12,53,.122,.201,.237,.438,hitter
+Brandon Lowe,2024,Tampa Bay Rays,385,56,94,21,58,33,112,.244,.311,.473,.784,hitter
+Josh Lowe,2024,Tampa Bay Rays,353,37,85,10,34,32,123,.241,.302,.391,.693,hitter
+Curtis Mead,2024,Tampa Bay Rays,122,10,29,1,7,6,30,.238,.282,.287,.569,hitter
+Kameron Misner,2024,Tampa Bay Rays,15,0,1,0,0,0,10,.067,.067,.067,.134,hitter
+Christopher Morel,2024,Chicago Cubs,362,43,72,18,51,47,103,.199,.302,.373,.675,hitter
+Richie Palacios,2024,Tampa Bay Rays,264,46,59,5,21,45,67,.223,.346,.318,.664,hitter
+Isaac Paredes,2024,Tampa Bay Rays,363,41,89,16,55,52,68,.245,.357,.435,.792,hitter
+René Pinto,2024,Tampa Bay Rays,42,5,9,2,6,4,18,.214,.292,.429,.721,hitter
+Harold Ramírez,2024,Tampa Bay Rays,164,21,44,1,13,3,33,.268,.284,.305,.589,hitter
+Ben Rortvedt,2024,Tampa Bay Rays,290,27,66,3,31,34,88,.228,.317,.303,.620,hitter
+Amed Rosario,2024,Tampa Bay Rays,264,22,81,2,26,7,48,.307,.331,.417,.748,hitter
+Austin Shenton,2024,Tampa Bay Rays,42,3,9,1,3,8,14,.214,.340,.405,.745,hitter
+Jose Siri,2024,Tampa Bay Rays,402,50,75,18,47,31,170,.187,.255,.366,.621,hitter
+Taylor Walls,2024,Tampa Bay Rays,218,27,40,1,14,31,67,.183,.282,.248,.530,hitter
+Chase Anderson,2024,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Evan Carter,2024,Texas Rangers,144,23,27,5,15,15,43,.188,.272,.361,.633,hitter
+Matt Duffy,2024,Texas Rangers,7,2,2,0,0,2,1,.286,.500,.286,.786,hitter
+Ezequiel Duran,2024,Texas Rangers,268,26,66,3,20,14,63,.246,.288,.321,.609,hitter
+Sandro Fabian,2024,Texas Rangers,5,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Justin Foscue,2024,Texas Rangers,42,3,2,0,1,2,18,.048,.091,.071,.162,hitter
+Adolis García,2024,Texas Rangers,580,68,130,25,85,45,177,.224,.284,.400,.684,hitter
+Jon Gray,2024,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Robbie Grossman,2024,Chicago White Sox,71,6,15,0,4,13,20,.211,.329,.268,.597,hitter
+Dustin Harris,2024,Texas Rangers,6,1,2,1,3,1,2,.333,.429,1.000,1.429,hitter
+Jonah Heim,2024,Texas Rangers,459,45,101,13,59,26,90,.220,.267,.336,.603,hitter
+Jonathan Hernández,2024,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Derek Hill,2024,Texas Rangers,43,5,11,3,5,2,14,.256,.289,.465,.754,hitter
+Sam Huff,2024,Texas Rangers,3,0,0,0,0,1,2,.000,.250,.000,.250,hitter
+Travis Jankowski,2024,Texas Rangers,190,19,38,1,12,12,44,.200,.266,.242,.508,hitter
+Josh Jung,2024,Texas Rangers,178,19,47,7,16,8,48,.264,.298,.421,.719,hitter
+Carson Kelly,2024,Detroit Tigers,179,21,43,7,29,17,40,.240,.325,.391,.716,hitter
+Andrew Knizner,2024,Texas Rangers,90,5,15,1,9,1,22,.167,.183,.211,.394,hitter
+Wyatt Langford,2024,Texas Rangers,499,74,126,16,74,51,115,.253,.325,.415,.740,hitter
+Jacob Latz,2024,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+José Leclerc,2024,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Nathaniel Lowe,2024,Texas Rangers,486,62,129,16,69,71,125,.265,.361,.401,.762,hitter
+Jonathan Ornelas,2024,Texas Rangers,37,1,8,0,3,2,13,.216,.256,.270,.526,hitter
+David Robertson,2024,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Yerry Rodríguez,2024,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Corey Seager,2024,Texas Rangers,475,68,132,30,74,53,96,.278,.353,.512,.865,hitter
+Marcus Semien,2024,Texas Rangers,650,101,154,23,74,64,105,.237,.308,.391,.699,hitter
+Josh Smith,2024,Texas Rangers,523,67,135,13,62,46,121,.258,.337,.394,.731,hitter
+Leody Taveras,2024,Texas Rangers,480,59,110,12,44,42,112,.229,.289,.352,.641,hitter
+José Ureña,2024,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jared Walsh,2024,Texas Rangers,53,9,12,1,7,7,21,.226,.317,.321,.638,hitter
+Davis Wendzel,2024,Texas Rangers,47,2,6,1,2,1,12,.128,.163,.234,.397,hitter
+Owen White,2024,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kirby Yates,2024,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Addison Barger,2024,Toronto Blue Jays,208,20,41,7,28,14,60,.197,.250,.351,.601,hitter
+Steward Berroa,2024,Toronto Blue Jays,37,7,7,0,1,8,14,.189,.333,.216,.549,hitter
+Bo Bichette,2024,Toronto Blue Jays,311,29,70,4,31,20,64,.225,.277,.322,.599,hitter
+Cavan Biggio,2024,Toronto Blue Jays,110,15,22,2,9,14,42,.200,.323,.291,.614,hitter
+Génesis Cabrera,2024,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jonatan Clase,2024,Seattle Mariners,41,4,8,0,3,2,14,.195,.233,.220,.453,hitter
+Ernie Clement,2024,Toronto Blue Jays,434,48,114,12,51,11,41,.263,.284,.408,.692,hitter
+Luis De Los Santos,2024,Toronto Blue Jays,29,2,5,0,1,2,10,.172,.226,.241,.467,hitter
+Luis Frías,2024,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chad Green,2024,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Vladimir Guerrero Jr.,2024,Toronto Blue Jays,616,98,199,30,103,72,96,.323,.396,.544,.940,hitter
+Tyler Heineman,2024,Boston Red Sox,2,0,0,0,0,0,1,.000,.333,.000,.333,hitter
+Spencer Horwitz,2024,Toronto Blue Jays,328,46,87,12,40,42,70,.265,.357,.433,.790,hitter
+Danny Jansen,2024,Toronto Blue Jays,198,27,42,6,18,25,42,.212,.303,.369,.672,hitter
+Leo Jiménez,2024,Toronto Blue Jays,179,18,41,4,19,12,59,.229,.329,.358,.687,hitter
+Kevin Kiermaier,2024,Toronto Blue Jays,200,24,39,4,18,10,66,.195,.236,.310,.546,hitter
+Isiah Kiner-Falefa,2024,Toronto Blue Jays,257,32,75,7,33,13,37,.292,.338,.420,.758,hitter
+Alejandro Kirk,2024,Toronto Blue Jays,340,23,86,5,54,35,51,.253,.319,.359,.678,hitter
+Joey Loperfido,2024,Houston Astros,106,11,25,2,16,7,43,.236,.299,.358,.657,hitter
+Nathan Lukes,2024,Toronto Blue Jays,76,13,23,1,10,10,9,.303,.371,.447,.818,hitter
+Orelvis Martinez,2024,Toronto Blue Jays,3,0,1,0,0,0,1,.333,.333,.333,.666,hitter
+Yerry Rodríguez,2024,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Davis Schneider,2024,Toronto Blue Jays,397,48,76,13,46,47,144,.191,.282,.343,.625,hitter
+Brian Serven,2024,Toronto Blue Jays,63,6,10,0,3,5,22,.159,.243,.222,.465,hitter
+George Springer,2024,Toronto Blue Jays,545,74,120,19,56,60,115,.220,.303,.371,.674,hitter
+Justin Turner,2024,Toronto Blue Jays,301,37,77,6,31,39,60,.256,.350,.372,.722,hitter
+Daulton Varsho,2024,Toronto Blue Jays,459,73,98,18,58,48,137,.214,.293,.407,.700,hitter
+Daniel Vogelbach,2024,Toronto Blue Jays,70,5,13,1,8,9,17,.186,.278,.300,.578,hitter
+Will Wagner,2024,Toronto Blue Jays,82,8,25,2,11,4,16,.305,.337,.451,.788,hitter
+Mitch White,2024,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Byron Buxton,2024,Minnesota Twins,355,62,99,18,56,20,99,.279,.335,.524,.859,hitter
+Jair Camargo,2024,Minnesota Twins,6,1,0,0,0,1,3,.000,.143,.000,.143,hitter
+Diego A. Castillo,2024,Minnesota Twins,6,3,2,0,2,2,1,.333,.500,.500,1.000,hitter
+Willi Castro,2024,Minnesota Twins,558,89,138,12,60,51,150,.247,.331,.385,.716,hitter
+Carlos Correa,2024,Minnesota Twins,319,55,99,14,54,40,61,.310,.388,.517,.905,hitter
+Kyle Farmer,2024,Minnesota Twins,215,26,46,5,25,19,49,.214,.293,.353,.646,hitter
+Michael Helman,2024,Minnesota Twins,10,2,3,0,0,0,3,.300,.300,.500,.800,hitter
+Ryan Jeffers,2024,Minnesota Twins,412,56,93,21,64,32,94,.226,.300,.432,.732,hitter
+Edouard Julien,2024,Minnesota Twins,266,36,53,8,21,33,102,.199,.292,.323,.615,hitter
+DaShawn Keirsey Jr.,2024,Minnesota Twins,13,1,2,1,1,0,1,.154,.214,.385,.599,hitter
+Max Kepler,2024,Minnesota Twins,368,43,93,8,42,22,80,.253,.302,.380,.682,hitter
+Alex Kirilloff,2024,Minnesota Twins,159,20,32,5,20,15,47,.201,.270,.384,.654,hitter
+Trevor Larnach,2024,Minnesota Twins,355,59,92,15,52,40,89,.259,.338,.434,.772,hitter
+Brooks Lee,2024,Minnesota Twins,172,9,38,3,27,11,27,.221,.265,.320,.585,hitter
+Royce Lewis,2024,Minnesota Twins,292,40,68,16,47,28,74,.233,.295,.452,.747,hitter
+Manuel Margot,2024,Minnesota Twins,315,37,75,4,31,21,54,.238,.289,.337,.626,hitter
+Austin Martin,2024,Minnesota Twins,233,41,59,1,16,20,47,.253,.318,.352,.670,hitter
+Jose Miranda,2024,Minnesota Twins,401,44,114,9,49,18,66,.284,.322,.441,.763,hitter
+Carlos Santana,2024,Minnesota Twins,521,63,124,23,71,65,99,.238,.328,.420,.748,hitter
+Christian Vázquez,2024,Minnesota Twins,294,29,65,7,27,11,65,.221,.248,.327,.575,hitter
+Matt Wallner,2024,Minnesota Twins,220,26,57,13,37,24,95,.259,.372,.523,.895,hitter
+Alec Bohm,2024,Philadelphia Phillies,554,62,155,15,97,40,86,.280,.332,.448,.780,hitter
+Nick Castellanos,2024,Philadelphia Phillies,606,80,154,23,86,41,139,.254,.311,.431,.742,hitter
+Kody Clemens,2024,Philadelphia Phillies,114,17,25,5,18,5,29,.219,.258,.447,.705,hitter
+David Dahl,2024,Philadelphia Phillies,58,6,12,3,8,3,21,.207,.242,.397,.639,hitter
+Seranthony Domínguez,2024,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Aramis Garcia,2024,Philadelphia Phillies,7,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Bryce Harper,2024,Philadelphia Phillies,550,85,157,30,87,76,138,.285,.373,.525,.898,hitter
+Austin Hays,2024,Baltimore Orioles,157,18,40,3,14,9,40,.255,.316,.395,.711,hitter
+Buddy Kennedy,2024,Detroit Tigers,10,2,2,1,4,2,4,.200,.308,.500,.808,hitter
+Rafael Marchán,2024,Philadelphia Phillies,51,8,15,3,6,3,8,.294,.345,.549,.894,hitter
+Brandon Marsh,2024,Philadelphia Phillies,418,55,104,16,60,50,154,.249,.328,.419,.747,hitter
+Whit Merrifield,2024,Philadelphia Phillies,156,21,31,3,11,15,19,.199,.277,.295,.572,hitter
+Cristian Pache,2024,Philadelphia Phillies,104,9,21,0,9,13,43,.202,.288,.269,.557,hitter
+J.T. Realmuto,2024,Philadelphia Phillies,380,50,101,14,47,27,102,.266,.322,.429,.751,hitter
+Johan Rojas,2024,Philadelphia Phillies,338,47,82,3,32,13,69,.243,.279,.322,.601,hitter
+Kyle Schwarber,2024,Philadelphia Phillies,573,110,142,38,104,106,197,.248,.366,.485,.851,hitter
+Edmundo Sosa,2024,Philadelphia Phillies,249,39,64,7,31,13,66,.257,.313,.422,.735,hitter
+Cal Stevenson,2024,Philadelphia Phillies,24,2,6,0,6,3,4,.250,.333,.375,.708,hitter
+Bryson Stott,2024,Philadelphia Phillies,506,65,124,11,57,53,93,.245,.315,.356,.671,hitter
+Garrett Stubbs,2024,Philadelphia Phillies,164,18,34,1,11,17,50,.207,.296,.262,.558,hitter
+Trea Turner,2024,Philadelphia Phillies,505,88,149,21,62,27,98,.295,.338,.469,.807,hitter
+Weston Wilson,2024,Philadelphia Phillies,88,13,25,3,10,8,29,.284,.347,.489,.836,hitter
+Ronald Acuña Jr.,2024,Atlanta Braves,192,38,48,4,15,27,53,.250,.351,.365,.716,hitter
+Ozzie Albies,2024,Atlanta Braves,399,52,100,10,53,27,65,.251,.303,.404,.707,hitter
+Nacho Alvarez Jr.,2024,Atlanta Braves,30,1,3,0,0,0,10,.100,.156,.100,.256,hitter
+Brian Anderson,2024,Atlanta Braves,5,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Orlando Arcia,2024,Atlanta Braves,551,50,120,17,46,41,128,.218,.271,.354,.625,hitter
+Cavan Biggio,2024,Toronto Blue Jays,110,15,22,2,9,14,42,.200,.323,.291,.614,hitter
+John Brebbia,2024,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Adam Duvall,2024,Atlanta Braves,303,29,55,11,30,21,99,.182,.245,.323,.568,hitter
+David Fletcher,2024,Atlanta Braves,8,0,2,0,2,0,1,.250,.222,.250,.472,hitter
+Luis Guillorme,2024,Atlanta Braves,20,2,3,0,3,1,5,.150,.190,.250,.440,hitter
+Michael Harris II,2024,Atlanta Braves,440,58,116,16,48,23,94,.264,.304,.418,.722,hitter
+Jarred Kelenic,2024,Atlanta Braves,412,49,95,15,45,32,133,.231,.286,.393,.679,hitter
+Ramón Laureano,2024,Cleveland Guardians,70,7,10,1,4,7,32,.143,.265,.229,.494,hitter
+J.P. Martínez,2024,Atlanta Braves,10,2,2,0,0,0,4,.200,.200,.300,.500,hitter
+Whit Merrifield,2024,Philadelphia Phillies,156,21,31,3,11,15,19,.199,.277,.295,.572,hitter
+Sean Murphy,2024,Atlanta Braves,233,19,45,10,25,27,67,.193,.284,.352,.636,hitter
+Matt Olson,2024,Atlanta Braves,600,78,148,29,98,71,170,.247,.333,.457,.790,hitter
+Marcell Ozuna,2024,Atlanta Braves,606,96,183,39,104,74,170,.302,.378,.546,.924,hitter
+Austin Riley,2024,Atlanta Braves,425,63,109,19,56,37,118,.256,.322,.461,.783,hitter
+Eddie Rosario,2024,Washington Nationals,219,26,40,7,26,13,54,.183,.226,.329,.555,hitter
+Zack Short,2024,New York Mets,9,2,1,0,0,2,4,.111,.273,.111,.384,hitter
+Jorge Soler,2024,San Francisco Giants,341,57,82,12,40,44,97,.240,.330,.419,.749,hitter
+Chadwick Tromp,2024,Atlanta Braves,52,3,13,0,6,1,17,.250,.259,.365,.624,hitter
+Gio Urshela,2024,Detroit Tigers,300,25,73,5,37,19,49,.243,.286,.333,.619,hitter
+Forrest Wall,2024,Atlanta Braves,29,3,7,0,1,3,6,.241,.313,.241,.554,hitter
+Eli White,2024,Atlanta Braves,39,9,11,1,4,1,12,.282,.333,.436,.769,hitter
+Luke Williams,2024,Atlanta Braves,46,8,9,0,4,4,13,.196,.275,.261,.536,hitter
+Travis d'Arnaud,2024,Atlanta Braves,307,40,73,15,48,24,89,.238,.302,.436,.738,hitter
+Jacob Amaya,2024,Houston Astros,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brooks Baldwin,2024,Chicago White Sox,114,9,24,2,8,6,31,.211,.250,.316,.566,hitter
+Andrew Benintendi,2024,Chicago White Sox,477,50,109,20,64,41,96,.229,.289,.396,.685,hitter
+John Brebbia,2024,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Oscar Colás,2024,Chicago White Sox,33,1,9,0,4,4,10,.273,.368,.273,.641,hitter
+Paul DeJong,2024,Chicago White Sox,337,39,77,18,41,14,112,.228,.275,.430,.705,hitter
+Duke Ellis,2024,Chicago White Sox,4,1,0,0,0,0,2,.000,.000,.000,.000,hitter
+Dominic Fletcher,2024,Chicago White Sox,223,14,46,1,17,11,58,.206,.252,.256,.508,hitter
+Robbie Grossman,2024,Chicago White Sox,71,6,15,0,4,13,20,.211,.329,.268,.597,hitter
+Eloy Jiménez,2024,Chicago White Sox,229,18,55,5,16,18,47,.240,.297,.345,.642,hitter
+Corey Julks,2024,Chicago White Sox,173,17,37,3,14,15,50,.214,.275,.306,.581,hitter
+Michael Kopech,2024,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Korey Lee,2024,Chicago White Sox,377,36,79,12,37,17,122,.210,.244,.347,.591,hitter
+Nicky Lopez,2024,Chicago White Sox,398,40,96,1,21,37,67,.241,.312,.294,.606,hitter
+Martín Maldonado,2024,Chicago White Sox,135,9,16,4,11,8,51,.119,.174,.230,.404,hitter
+Danny Mendick,2024,Chicago White Sox,132,13,26,3,8,6,35,.197,.243,.318,.561,hitter
+Yoán Moncada,2024,Chicago White Sox,40,4,11,0,0,5,11,.275,.356,.400,.756,hitter
+Rafael Ortega,2024,Chicago White Sox,14,4,1,0,1,2,4,.071,.176,.071,.247,hitter
+Tommy Pham,2024,Chicago White Sox,271,33,72,5,19,25,63,.266,.330,.380,.710,hitter
+Kevin Pillar,2024,Chicago White Sox,25,1,4,1,4,4,8,.160,.290,.360,.650,hitter
+Bryan Ramos,2024,Chicago White Sox,99,13,20,3,11,7,22,.202,.252,.333,.585,hitter
+Zach Remillard,2024,Chicago White Sox,33,3,8,0,1,5,10,.242,.342,.333,.675,hitter
+Luis Robert Jr.,2024,Chicago White Sox,393,47,88,14,35,28,141,.224,.278,.379,.657,hitter
+Chuckie Robinson,2024,Chicago White Sox,70,2,9,0,0,5,20,.129,.197,.129,.326,hitter
+Nick Senzel,2024,Washington Nationals,206,25,43,7,18,27,53,.209,.303,.359,.662,hitter
+Gavin Sheets,2024,Chicago White Sox,451,35,105,10,45,43,106,.233,.303,.357,.660,hitter
+Braden Shewmake,2024,Chicago White Sox,64,4,8,1,4,1,10,.125,.134,.203,.337,hitter
+Lenyn Sosa,2024,Chicago White Sox,351,28,89,8,35,12,77,.254,.283,.359,.642,hitter
+Miguel Vargas,2024,Los Angeles Dodgers,71,11,17,3,9,8,16,.239,.313,.423,.736,hitter
+Andrew Vaughn,2024,Chicago White Sox,570,55,140,19,70,38,132,.246,.297,.402,.699,hitter
+Tim Anderson,2024,Miami Marlins,234,16,50,0,9,7,68,.214,.237,.226,.463,hitter
+Luis Arraez,2024,Miami Marlins,137,22,41,0,5,8,11,.299,.347,.372,.719,hitter
+Mike Baumann,2024,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Josh Bell,2024,Miami Marlins,398,38,95,14,49,34,88,.239,.305,.394,.699,hitter
+Christian Bethancourt,2024,Miami Marlins,82,9,13,2,7,3,22,.159,.198,.268,.466,hitter
+Jonah Bride,2024,Miami Marlins,232,30,64,11,39,30,55,.276,.357,.461,.818,hitter
+Vidal Bruján,2024,Miami Marlins,248,32,55,2,16,25,54,.222,.303,.319,.622,hitter
+Jake Burger,2024,Miami Marlins,535,68,134,29,76,31,150,.250,.301,.460,.761,hitter
+Jazz Chisholm Jr.,2024,Miami Marlins,386,46,96,13,50,39,107,.249,.323,.407,.730,hitter
+Griffin Conine,2024,Miami Marlins,82,14,22,3,12,6,28,.268,.326,.451,.777,hitter
+Bryan De La Cruz,2024,Miami Marlins,424,44,104,18,51,25,118,.245,.289,.417,.706,hitter
+José Devers,2024,Miami Marlins,4,1,1,0,0,0,1,.250,.250,.250,.500,hitter
+Xavier Edwards,2024,Miami Marlins,265,39,87,1,26,33,52,.328,.397,.423,.820,hitter
+Nick Fortes,2024,Miami Marlins,308,28,70,4,29,11,41,.227,.259,.318,.577,hitter
+Avisaíl García,2024,Miami Marlins,50,4,12,2,2,1,13,.240,.255,.380,.635,hitter
+Nick Gordon,2024,Miami Marlins,260,29,59,8,32,11,67,.227,.258,.369,.627,hitter
+Tristan Gray,2024,Miami Marlins,7,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+David Hensley,2024,Miami Marlins,52,9,11,1,4,6,17,.212,.293,.288,.581,hitter
+Derek Hill,2024,Texas Rangers,43,5,11,3,5,2,14,.256,.289,.465,.754,hitter
+Otto Lopez,2024,Miami Marlins,403,49,109,6,39,25,75,.270,.313,.377,.690,hitter
+Dane Myers,2024,Miami Marlins,95,17,25,3,19,8,36,.263,.333,.442,.775,hitter
+Connor Norby,2024,Baltimore Orioles,32,3,6,2,3,0,12,.188,.188,.406,.594,hitter
+Cristian Pache,2024,Philadelphia Phillies,104,9,21,0,9,13,43,.202,.288,.269,.557,hitter
+Jhonny Pereda,2024,Miami Marlins,39,2,9,0,4,0,10,.231,.250,.231,.481,hitter
+A.J. Puk,2024,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Emmanuel Rivera,2024,Miami Marlins,201,15,43,1,15,20,51,.214,.294,.269,.563,hitter
+Ali Sánchez,2024,Miami Marlins,84,5,14,0,4,4,24,.167,.211,.190,.401,hitter
+Jesús Sánchez,2024,Miami Marlins,489,60,123,18,64,41,140,.252,.313,.417,.730,hitter
+Javier Sanoja,2024,Miami Marlins,35,3,8,0,2,1,4,.229,.250,.286,.536,hitter
+Kyle Stowers,2024,Baltimore Orioles,36,3,11,1,9,0,13,.306,.297,.500,.797,hitter
+Forrest Wall,2024,Atlanta Braves,29,3,7,0,1,3,6,.241,.313,.241,.554,hitter
+Jon Berti,2024,New York Yankees,66,10,18,1,6,6,14,.273,.342,.318,.660,hitter
+Oswaldo Cabrera,2024,New York Yankees,299,47,74,8,36,21,63,.247,.296,.365,.661,hitter
+Jazz Chisholm Jr.,2024,Miami Marlins,386,46,96,13,50,39,107,.249,.323,.407,.730,hitter
+J.D. Davis,2024,Oakland Athletics,123,12,29,4,5,9,30,.236,.304,.366,.670,hitter
+Jasson Domínguez,2024,New York Yankees,56,8,10,2,4,11,19,.179,.313,.304,.617,hitter
+Duke Ellis,2024,Chicago White Sox,4,1,0,0,0,0,2,.000,.000,.000,.000,hitter
+Trent Grisham,2024,New York Yankees,179,21,34,9,31,22,57,.190,.290,.385,.675,hitter
+Jahmai Jones,2024,New York Yankees,42,8,10,1,4,2,16,.238,.304,.381,.685,hitter
+Aaron Judge,2024,New York Yankees,559,122,180,58,144,133,171,.322,.458,.701,1.159,hitter
+DJ LeMahieu,2024,New York Yankees,201,19,41,2,26,19,35,.204,.269,.259,.528,hitter
+Carlos Narváez,2024,New York Yankees,13,0,3,0,0,2,6,.231,.333,.231,.564,hitter
+Oswald Peraza,2024,New York Yankees,10,2,2,1,1,1,3,.200,.273,.500,.773,hitter
+Ben Rice,2024,New York Yankees,152,20,26,7,23,20,48,.171,.264,.349,.613,hitter
+Anthony Rizzo,2024,New York Yankees,337,38,77,8,35,27,65,.228,.301,.335,.636,hitter
+Kevin Smith,2024,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Juan Soto,2024,New York Yankees,576,128,166,41,109,129,119,.288,.419,.569,.988,hitter
+Giancarlo Stanton,2024,New York Yankees,417,49,97,27,72,38,143,.233,.298,.475,.773,hitter
+Gleyber Torres,2024,New York Yankees,587,80,151,15,63,65,136,.257,.330,.378,.708,hitter
+Taylor Trammell,2024,Los Angeles Dodgers,6,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Jose Trevino,2024,New York Yankees,209,26,45,8,28,20,41,.215,.288,.354,.642,hitter
+Alex Verdugo,2024,New York Yankees,559,74,130,13,61,49,93,.233,.291,.356,.647,hitter
+Anthony Volpe,2024,New York Yankees,637,90,155,12,60,42,156,.243,.293,.364,.657,hitter
+Austin Wells,2024,New York Yankees,354,42,81,13,55,47,87,.229,.322,.395,.717,hitter
+Willy Adames,2024,Milwaukee Brewers,610,93,153,32,112,74,173,.251,.331,.462,.793,hitter
+Jake Bauers,2024,Milwaukee Brewers,302,45,60,12,43,39,118,.199,.301,.361,.662,hitter
+Tyler Black,2024,Milwaukee Brewers,49,4,10,0,2,7,17,.204,.316,.245,.561,hitter
+Vinny Capra,2024,Milwaukee Brewers,9,1,1,0,0,0,3,.111,.111,.222,.333,hitter
+Jackson Chourio,2024,Milwaukee Brewers,528,80,145,21,79,39,121,.275,.327,.464,.791,hitter
+Isaac Collins,2024,Milwaukee Brewers,17,0,2,0,0,2,10,.118,.211,.118,.329,hitter
+William Contreras,2024,Milwaukee Brewers,595,99,167,23,92,78,139,.281,.365,.466,.831,hitter
+Oliver Dunn,2024,Milwaukee Brewers,95,11,21,1,7,6,40,.221,.282,.316,.598,hitter
+Sal Frelick,2024,Milwaukee Brewers,475,66,123,2,32,39,78,.259,.320,.335,.655,hitter
+Eric Haase,2024,Milwaukee Brewers,66,10,18,5,14,3,28,.273,.304,.515,.819,hitter
+Kevin Herget,2024,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brewer Hicklen,2024,Milwaukee Brewers,5,0,0,0,0,0,4,.000,.000,.000,.000,hitter
+Rhys Hoskins,2024,Milwaukee Brewers,449,59,96,26,82,53,149,.214,.303,.419,.722,hitter
+Nick Mears,2024,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Trevor Megill,2024,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Owen Miller,2024,Milwaukee Brewers,27,2,5,0,3,0,8,.185,.185,.222,.407,hitter
+Hoby Milner,2024,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Garrett Mitchell,2024,Milwaukee Brewers,196,33,50,8,21,25,71,.255,.342,.469,.811,hitter
+Andruw Monasterio,2024,Milwaukee Brewers,125,14,26,1,16,16,40,.208,.303,.272,.575,hitter
+Joey Ortiz,2024,Milwaukee Brewers,440,58,105,11,60,56,103,.239,.329,.398,.727,hitter
+Joel Payamps,2024,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Elvis Peguero,2024,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Blake Perkins,2024,Milwaukee Brewers,383,54,92,6,43,42,108,.240,.316,.332,.648,hitter
+Chris Roller,2024,Milwaukee Brewers,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Gary Sánchez,2024,Milwaukee Brewers,245,30,54,11,37,27,76,.220,.307,.392,.699,hitter
+Brice Turang,2024,Milwaukee Brewers,559,72,142,7,57,50,105,.254,.316,.349,.665,hitter
+Mitch White,2024,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Joey Wiemer,2024,Milwaukee Brewers,26,2,4,0,0,1,9,.154,.185,.154,.339,hitter
+Christian Yelich,2024,Milwaukee Brewers,270,44,85,11,42,40,58,.315,.406,.504,.910,hitter
+Jordyn Adams,2024,Los Angeles Angels,35,4,8,1,4,3,12,.229,.289,.314,.603,hitter
+Jo Adell,2024,Los Angeles Angels,405,54,84,20,62,35,126,.207,.280,.402,.682,hitter
+Ehire Adrianza,2024,Los Angeles Angels,26,4,5,1,2,2,11,.192,.250,.346,.596,hitter
+Mike Baumann,2024,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Willie Calhoun,2024,Los Angeles Angels,229,26,56,5,20,23,31,.245,.315,.380,.695,hitter
+Gustavo Campero,2024,Los Angeles Angels,46,6,11,1,6,0,8,.239,.271,.348,.619,hitter
+Brandon Drury,2024,Los Angeles Angels,325,28,55,4,15,27,81,.169,.242,.228,.470,hitter
+Niko Goodrum,2024,Tampa Bay Rays,16,1,3,0,0,1,6,.188,.235,.188,.423,hitter
+Luis Guillorme,2024,Atlanta Braves,20,2,3,0,3,1,5,.150,.190,.250,.440,hitter
+Aaron Hicks,2024,Los Angeles Angels,57,6,8,1,5,6,23,.140,.222,.193,.415,hitter
+Keston Hiura,2024,Los Angeles Angels,27,1,4,0,1,0,10,.148,.148,.148,.296,hitter
+Niko Kavadas,2024,Los Angeles Angels,93,11,17,4,8,11,41,.183,.283,.333,.616,hitter
+Charles Leblanc,2024,Los Angeles Angels,21,6,4,2,6,7,9,.190,.393,.476,.869,hitter
+Jack López,2024,Los Angeles Angels,67,4,17,1,6,2,25,.254,.286,.343,.629,hitter
+Mickey Moniak,2024,Los Angeles Angels,392,48,86,14,49,21,114,.219,.266,.380,.646,hitter
+Zach Neto,2024,Los Angeles Angels,542,70,135,23,77,39,140,.249,.318,.443,.761,hitter
+Logan O'Hoppe,2024,Los Angeles Angels,479,64,117,20,56,33,155,.244,.303,.409,.712,hitter
+Kyren Paris,2024,Los Angeles Angels,51,4,6,1,5,7,17,.118,.224,.216,.440,hitter
+Kevin Pillar,2024,Chicago White Sox,25,1,4,1,4,4,8,.160,.290,.360,.650,hitter
+José Quijada,2024,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Anthony Rendon,2024,Los Angeles Angels,206,21,45,0,14,23,35,.218,.307,.267,.574,hitter
+Luis Rengifo,2024,Los Angeles Angels,283,41,85,6,30,16,44,.300,.347,.417,.764,hitter
+Miguel Sanó,2024,Los Angeles Angels,83,9,17,2,6,9,36,.205,.295,.313,.608,hitter
+Nolan Schanuel,2024,Los Angeles Angels,519,62,130,13,54,68,103,.250,.343,.362,.705,hitter
+Michael Stefanic,2024,Los Angeles Angels,110,8,24,0,8,10,20,.218,.301,.255,.556,hitter
+Bryce Teodosio,2024,Los Angeles Angels,12,1,1,0,0,0,5,.083,.083,.083,.166,hitter
+Matt Thaiss,2024,Los Angeles Angels,157,14,32,2,16,28,58,.204,.323,.299,.622,hitter
+Mike Trout,2024,Los Angeles Angels,109,17,24,10,14,16,27,.220,.325,.541,.866,hitter
+Cole Tucker,2024,Los Angeles Angels,50,3,9,0,3,6,17,.180,.263,.300,.563,hitter
+Eric Wagaman,2024,Los Angeles Angels,72,6,18,2,10,2,17,.250,.270,.403,.673,hitter
+Taylor Ward,2024,Los Angeles Angels,585,73,144,25,75,63,163,.246,.323,.426,.749,hitter
+Guillo Zuñiga,2024,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Blaze Alexander,2024,Arizona Diamondbacks,166,19,41,3,21,15,49,.247,.321,.343,.664,hitter
+Tucker Barnhart,2024,Arizona Diamondbacks,81,13,14,0,6,13,31,.173,.287,.210,.497,hitter
+Jorge Barrosa,2024,Arizona Diamondbacks,17,3,3,0,1,0,2,.176,.176,.294,.470,hitter
+Josh Bell,2024,Miami Marlins,398,38,95,14,49,34,88,.239,.305,.394,.699,hitter
+Corbin Carroll,2024,Arizona Diamondbacks,589,121,136,22,74,73,130,.231,.322,.428,.750,hitter
+Adrian Del Castillo,2024,Arizona Diamondbacks,80,12,25,4,19,7,28,.313,.368,.525,.893,hitter
+Luis Frías,2024,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kevin Ginkel,2024,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Randal Grichuk,2024,Arizona Diamondbacks,254,40,74,12,46,20,46,.291,.348,.528,.876,hitter
+Luis Guillorme,2024,Atlanta Braves,20,2,3,0,3,1,5,.150,.190,.250,.440,hitter
+Lourdes Gurriel Jr.,2024,Arizona Diamondbacks,513,72,143,18,75,29,101,.279,.322,.435,.757,hitter
+Jose Herrera,2024,Arizona Diamondbacks,97,11,22,1,13,9,27,.227,.290,.320,.610,hitter
+Bryce Jarvis,2024,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Joe Mantiply,2024,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ketel Marte,2024,Arizona Diamondbacks,504,93,147,36,95,65,106,.292,.372,.560,.932,hitter
+Justin Martinez,2024,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jake McCarthy,2024,Arizona Diamondbacks,442,66,126,8,56,31,78,.285,.349,.400,.749,hitter
+Scott McGough,2024,Arizona Diamondbacks,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Gabriel Moreno,2024,Arizona Diamondbacks,305,39,81,5,45,41,52,.266,.353,.380,.733,hitter
+Kevin Newman,2024,Arizona Diamondbacks,288,41,80,3,28,15,48,.278,.311,.375,.686,hitter
+Joc Pederson,2024,Arizona Diamondbacks,367,62,101,23,64,55,105,.275,.393,.515,.908,hitter
+Geraldo Perdomo,2024,Arizona Diamondbacks,337,61,92,3,37,36,58,.273,.344,.374,.718,hitter
+Jace Peterson,2024,Arizona Diamondbacks,22,2,1,0,1,3,6,.045,.154,.045,.199,hitter
+A.J. Puk,2024,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Paul Sewald,2024,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Pavin Smith,2024,Arizona Diamondbacks,137,26,37,9,36,18,31,.270,.348,.547,.895,hitter
+Eugenio Suárez,2024,Arizona Diamondbacks,571,90,146,30,101,49,176,.256,.319,.469,.788,hitter
+Alek Thomas,2024,Arizona Diamondbacks,95,13,18,3,17,7,17,.189,.245,.358,.603,hitter
+Ryan Thompson,2024,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Christian Walker,2024,Arizona Diamondbacks,479,72,120,26,84,55,133,.251,.335,.468,.803,hitter
+David Bañuelos,2024,Baltimore Orioles,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mike Baumann,2024,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Danny Coulombe,2024,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Colton Cowser,2024,Baltimore Orioles,499,77,121,24,69,52,172,.242,.321,.447,.768,hitter
+Seranthony Domínguez,2024,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Austin Hays,2024,Baltimore Orioles,157,18,40,3,14,9,40,.255,.316,.395,.711,hitter
+Jonathan Heasley,2024,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Gunnar Henderson,2024,Baltimore Orioles,630,118,177,37,92,78,159,.281,.364,.529,.893,hitter
+Jackson Holliday,2024,Baltimore Orioles,190,28,36,5,23,15,69,.189,.255,.311,.566,hitter
+Eloy Jiménez,2024,Chicago White Sox,229,18,55,5,16,18,47,.240,.297,.345,.642,hitter
+Daniel Johnson,2024,Baltimore Orioles,1,1,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tony Kemp,2024,Baltimore Orioles,9,1,0,0,0,1,1,.000,.100,.000,.100,hitter
+Craig Kimbrel,2024,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Heston Kjerstad,2024,Baltimore Orioles,99,8,25,4,14,10,33,.253,.351,.394,.745,hitter
+Jorge Mateo,2024,Baltimore Orioles,192,30,44,5,18,10,48,.229,.267,.401,.668,hitter
+Nick Maton,2024,Baltimore Orioles,5,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Coby Mayo,2024,Baltimore Orioles,41,4,4,0,0,4,22,.098,.196,.098,.294,hitter
+James McCann,2024,Baltimore Orioles,214,27,50,8,31,13,56,.234,.279,.388,.667,hitter
+Ryan McKenna,2024,Baltimore Orioles,8,3,3,2,2,1,1,.375,.444,1.125,1.569,hitter
+Ryan Mountcastle,2024,Baltimore Orioles,473,54,128,13,63,27,114,.271,.308,.425,.733,hitter
+Cedric Mullins,2024,Baltimore Orioles,444,69,104,18,54,41,98,.234,.305,.405,.710,hitter
+Connor Norby,2024,Baltimore Orioles,32,3,6,2,3,0,12,.188,.188,.406,.594,hitter
+Ryan O'Hearn,2024,Baltimore Orioles,443,60,117,15,59,46,69,.264,.334,.427,.761,hitter
+Cristian Pache,2024,Philadelphia Phillies,104,9,21,0,9,13,43,.202,.288,.269,.557,hitter
+Emmanuel Rivera,2024,Miami Marlins,201,15,43,1,15,20,51,.214,.294,.269,.563,hitter
+Adley Rutschman,2024,Baltimore Orioles,571,68,143,19,79,58,103,.250,.318,.391,.709,hitter
+Anthony Santander,2024,Baltimore Orioles,595,91,140,44,102,58,129,.235,.308,.506,.814,hitter
+Austin Slater,2024,San Francisco Giants,90,12,18,1,9,16,31,.200,.330,.244,.574,hitter
+Livan Soto,2024,Cincinnati Reds,3,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Kyle Stowers,2024,Baltimore Orioles,36,3,11,1,9,0,13,.306,.297,.500,.797,hitter
+Albert Suárez,2024,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ramón Urías,2024,Baltimore Orioles,272,39,69,11,37,23,55,.254,.322,.423,.745,hitter
+Jacob Webb,2024,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jordan Westburg,2024,Baltimore Orioles,416,57,110,18,63,22,97,.264,.312,.481,.793,hitter
+Wilyer Abreu,2024,Boston Red Sox,399,59,101,15,58,40,125,.253,.322,.459,.781,hitter
+Chase Anderson,2024,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brennan Bernardino,2024,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Isaiah Campbell,2024,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Triston Casas,2024,Boston Red Sox,212,28,51,13,32,30,77,.241,.337,.462,.799,hitter
+Garrett Cooper,2024,Chicago Cubs,37,3,10,1,6,4,13,.270,.341,.432,.773,hitter
+Bobby Dalbec,2024,Boston Red Sox,83,6,11,1,8,8,43,.133,.217,.193,.410,hitter
+Rafael Devers,2024,Boston Red Sox,525,87,143,28,83,67,147,.272,.354,.516,.870,hitter
+Jarren Duran,2024,Boston Red Sox,671,111,191,21,75,54,160,.285,.342,.492,.834,hitter
+Mickey Gasper,2024,Boston Red Sox,18,1,0,0,0,4,8,.000,.217,.000,.217,hitter
+Romy Gonzalez,2024,Boston Red Sox,199,25,53,6,29,12,58,.266,.306,.417,.723,hitter
+Vaughn Grissom,2024,Boston Red Sox,105,10,20,0,6,7,24,.190,.246,.219,.465,hitter
+David Hamilton,2024,Boston Red Sox,294,47,73,8,28,22,80,.248,.303,.395,.698,hitter
+Tyler Heineman,2024,Boston Red Sox,2,0,0,0,0,0,1,.000,.333,.000,.333,hitter
+Danny Jansen,2024,Toronto Blue Jays,198,27,42,6,18,25,42,.212,.303,.369,.672,hitter
+Kenley Jansen,2024,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chris Martin,2024,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Reese McGuire,2024,Boston Red Sox,139,10,29,3,18,13,39,.209,.280,.295,.575,hitter
+Tyler O'Neill,2024,Boston Red Sox,411,74,99,31,61,53,159,.241,.336,.511,.847,hitter
+Zach Penrod,2024,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ceddanne Rafaela,2024,Boston Red Sox,544,70,134,15,75,15,151,.246,.274,.390,.664,hitter
+Rob Refsnyder,2024,Boston Red Sox,272,32,77,11,40,28,78,.283,.359,.471,.830,hitter
+Pablo Reyes,2024,Boston Red Sox,60,4,11,0,5,3,19,.183,.234,.217,.451,hitter
+Zack Short,2024,New York Mets,9,2,1,0,0,2,4,.111,.273,.111,.384,hitter
+Chase Shugart,2024,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Lucas Sims,2024,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Dominic Smith,2024,Boston Red Sox,249,29,59,6,34,25,65,.237,.317,.390,.707,hitter
+Nick Sogard,2024,Boston Red Sox,77,13,21,0,8,7,25,.273,.326,.325,.651,hitter
+Trevor Story,2024,Boston Red Sox,94,8,24,2,10,11,33,.255,.340,.394,.734,hitter
+Enmanuel Valdez,2024,Boston Red Sox,201,23,43,6,28,17,53,.214,.270,.363,.633,hitter
+Jamie Westbrook,2024,Boston Red Sox,40,4,6,2,7,4,14,.150,.234,.350,.584,hitter
+Josh Winckowski,2024,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Connor Wong,2024,Boston Red Sox,447,54,125,13,52,28,114,.280,.333,.425,.758,hitter
+Masataka Yoshida,2024,Boston Red Sox,378,45,106,10,56,27,52,.280,.349,.415,.764,hitter
+Kevin Alcántara,2024,Chicago Cubs,10,1,1,0,0,0,1,.100,.100,.100,.200,hitter
+Miguel Amaya,2024,Chicago Cubs,328,32,76,8,47,23,62,.232,.288,.357,.645,hitter
+Cody Bellinger,2024,Chicago Cubs,516,72,137,18,78,45,89,.266,.325,.426,.751,hitter
+Christian Bethancourt,2024,Miami Marlins,82,9,13,2,7,3,22,.159,.198,.268,.466,hitter
+David Bote,2024,Chicago Cubs,46,4,14,0,6,2,13,.304,.333,.391,.724,hitter
+Michael Busch,2024,Chicago Cubs,496,73,123,21,65,63,162,.248,.335,.440,.775,hitter
+Alexander Canario,2024,Chicago Cubs,25,4,7,1,2,2,11,.280,.357,.440,.797,hitter
+Garrett Cooper,2024,Chicago Cubs,37,3,10,1,6,4,13,.270,.341,.432,.773,hitter
+Pete Crow-Armstrong,2024,Chicago Cubs,372,46,88,10,47,21,98,.237,.286,.384,.670,hitter
+Yan Gomes,2024,Chicago Cubs,91,7,14,2,7,2,36,.154,.179,.242,.421,hitter
+Ian Happ,2024,Chicago Cubs,569,89,138,25,86,80,168,.243,.341,.441,.782,hitter
+Porter Hodge,2024,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Nico Hoerner,2024,Chicago Cubs,582,86,159,7,48,44,66,.273,.335,.373,.708,hitter
+Jorge López,2024,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Nick Madrigal,2024,Chicago Cubs,86,5,19,0,10,4,10,.221,.280,.256,.536,hitter
+Miles Mastrobuoni,2024,Chicago Cubs,98,9,19,0,4,7,17,.194,.245,.224,.469,hitter
+Julian Merryweather,2024,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Matt Mervis,2024,Chicago Cubs,26,1,3,0,3,1,8,.115,.148,.154,.302,hitter
+Christopher Morel,2024,Chicago Cubs,362,43,72,18,51,47,103,.199,.302,.373,.675,hitter
+Héctor Neris,2024,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tomás Nido,2024,New York Mets,83,9,19,3,8,4,20,.229,.261,.361,.622,hitter
+Isaac Paredes,2024,Tampa Bay Rays,363,41,89,16,55,52,68,.245,.357,.435,.792,hitter
+Seiya Suzuki,2024,Chicago Cubs,512,74,145,21,73,63,160,.283,.366,.482,.848,hitter
+Dansby Swanson,2024,Chicago Cubs,534,82,129,16,66,54,144,.242,.312,.390,.702,hitter
+Mike Tauchman,2024,Chicago Cubs,298,50,74,7,29,47,70,.248,.357,.366,.723,hitter
+Luis Vázquez,2024,Chicago Cubs,12,2,1,0,1,0,6,.083,.143,.083,.226,hitter
+Patrick Wisdom,2024,Chicago Cubs,158,16,27,8,23,10,59,.171,.237,.392,.629,hitter
+Will Benson,2024,Cincinnati Reds,343,41,64,14,43,40,154,.187,.274,.376,.650,hitter
+Jeimer Candelario,2024,Cincinnati Reds,427,47,96,20,56,27,114,.225,.279,.429,.708,hitter
+Conner Capel,2024,Cincinnati Reds,8,1,2,0,0,0,2,.250,.250,.250,.500,hitter
+Fernando Cruz,2024,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Elly De La Cruz,2024,Cincinnati Reds,618,105,160,25,76,69,218,.259,.339,.471,.810,hitter
+Alexis Díaz,2024,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Blake Dunn,2024,Cincinnati Reds,26,8,4,1,1,2,11,.154,.241,.308,.549,hitter
+Christian Encarnacion-Strand,2024,Cincinnati Reds,116,13,22,2,16,4,35,.190,.220,.293,.513,hitter
+Santiago Espinal,2024,Cincinnati Reds,357,32,88,9,45,24,54,.246,.295,.356,.651,hitter
+Stuart Fairchild,2024,Cincinnati Reds,209,33,45,8,30,17,60,.215,.286,.368,.654,hitter
+Buck Farmer,2024,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mike Ford,2024,Cincinnati Reds,60,2,9,1,4,2,15,.150,.177,.233,.410,hitter
+Jake Fraley,2024,Cincinnati Reds,350,44,97,5,26,26,70,.277,.330,.386,.716,hitter
+Ty France,2024,Seattle Mariners,300,28,67,8,31,28,83,.223,.312,.350,.662,hitter
+TJ Friedl,2024,Cincinnati Reds,297,35,67,13,55,26,52,.226,.310,.380,.690,hitter
+Rece Hinds,2024,Cincinnati Reds,46,9,12,5,11,4,16,.261,.333,.717,1.050,hitter
+Jacob Hurtubise,2024,Cincinnati Reds,54,7,10,0,4,6,18,.185,.297,.241,.538,hitter
+Jonathan India,2024,Cincinnati Reds,533,84,132,15,58,80,125,.248,.357,.392,.749,hitter
+Levi Jordan,2024,Cincinnati Reds,10,1,1,0,1,0,3,.100,.091,.200,.291,hitter
+Luke Maile,2024,Cincinnati Reds,135,8,24,2,8,13,52,.178,.268,.252,.520,hitter
+Noelvi Marte,2024,Cincinnati Reds,229,24,48,4,18,9,75,.210,.248,.301,.549,hitter
+Nick Martini,2024,Cincinnati Reds,146,23,31,5,24,9,38,.212,.272,.370,.642,hitter
+Edwin Ríos,2024,Cincinnati Reds,9,1,1,0,0,1,4,.111,.200,.111,.311,hitter
+Amed Rosario,2024,Tampa Bay Rays,264,22,81,2,26,7,48,.307,.331,.417,.748,hitter
+Lucas Sims,2024,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Austin Slater,2024,San Francisco Giants,90,12,18,1,9,16,31,.200,.330,.244,.574,hitter
+Dominic Smith,2024,Boston Red Sox,249,29,59,6,34,25,65,.237,.317,.390,.707,hitter
+Spencer Steer,2024,Cincinnati Reds,574,74,129,20,92,72,137,.225,.319,.402,.721,hitter
+Tyler Stephenson,2024,Cincinnati Reds,457,69,118,19,66,48,117,.258,.338,.444,.782,hitter
+Bubba Thompson,2024,Cincinnati Reds,18,5,2,0,0,0,11,.111,.111,.167,.278,hitter
+Joey Wiemer,2024,Milwaukee Brewers,26,2,4,0,0,1,9,.154,.185,.154,.339,hitter
+Justin Wilson,2024,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Austin Wynns,2024,Cincinnati Reds,19,3,7,0,2,0,5,.368,.400,.579,.979,hitter
+Eric Yang,2024,Cincinnati Reds,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Alex Young,2024,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Gabriel Arias,2024,Cleveland Guardians,153,15,34,3,15,6,53,.222,.255,.353,.608,hitter
+Pedro Avila,2024,Cleveland Guardians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Will Brennan,2024,Cleveland Guardians,330,37,87,8,30,19,48,.264,.309,.388,.697,hitter
+Estevan Florial,2024,Cleveland Guardians,98,11,17,3,11,11,41,.173,.264,.367,.631,hitter
+Tyler Freeman,2024,Cleveland Guardians,330,48,69,7,32,28,53,.209,.305,.321,.626,hitter
+David Fry,2024,Cleveland Guardians,335,44,88,14,51,42,84,.263,.356,.448,.804,hitter
+Hunter Gaddis,2024,Cleveland Guardians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Andrés Giménez,2024,Cleveland Guardians,583,64,147,9,63,26,97,.252,.298,.340,.638,hitter
+Austin Hedges,2024,Cleveland Guardians,132,12,20,2,15,6,50,.152,.203,.220,.423,hitter
+Spencer Howard,2024,Cleveland Guardians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Steven Kwan,2024,Cleveland Guardians,480,83,140,14,44,53,51,.292,.368,.425,.793,hitter
+Ramón Laureano,2024,Cleveland Guardians,70,7,10,1,4,7,32,.143,.265,.229,.494,hitter
+Kyle Manzardo,2024,Cleveland Guardians,145,11,34,5,15,9,41,.234,.282,.421,.703,hitter
+Angel Martínez,2024,Cleveland Guardians,151,16,35,3,11,15,33,.232,.298,.338,.636,hitter
+Bo Naylor,2024,Cleveland Guardians,354,39,71,13,39,29,122,.201,.264,.350,.614,hitter
+Josh Naylor,2024,Cleveland Guardians,563,84,137,31,108,58,105,.243,.320,.456,.776,hitter
+Jhonkensy Noel,2024,Cleveland Guardians,179,25,39,13,28,13,63,.218,.288,.486,.774,hitter
+José Ramírez,2024,Cleveland Guardians,620,114,173,39,118,54,82,.279,.335,.537,.872,hitter
+Brayan Rocchio,2024,Cleveland Guardians,383,50,79,8,36,44,90,.206,.298,.316,.614,hitter
+Johnathan Rodríguez,2024,Cleveland Guardians,31,6,4,0,5,9,14,.129,.325,.161,.486,hitter
+Daniel Schneemann,2024,Cleveland Guardians,193,17,42,5,22,25,70,.218,.303,.368,.671,hitter
+Myles Straw,2024,Cleveland Guardians,4,2,1,0,0,0,0,.250,.250,.250,.500,hitter
+José Tena,2024,Cleveland Guardians,4,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Lane Thomas,2024,Washington Nationals,300,42,76,8,40,32,72,.253,.331,.407,.738,hitter
+Adael Amador,2024,Colorado Rockies,35,1,6,0,0,1,6,.171,.194,.200,.394,hitter
+Jordan Beck,2024,Colorado Rockies,170,14,32,3,13,12,65,.188,.245,.276,.521,hitter
+Jalen Beeks,2024,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Charlie Blackmon,2024,Colorado Rockies,449,59,115,12,52,43,86,.256,.329,.412,.741,hitter
+Sean Bouchard,2024,Colorado Rockies,91,14,17,1,8,12,33,.187,.290,.297,.587,hitter
+Kris Bryant,2024,Colorado Rockies,133,9,29,2,15,13,48,.218,.323,.301,.624,hitter
+Jake Cave,2024,Colorado Rockies,323,42,81,7,37,18,98,.251,.290,.396,.686,hitter
+Jeff Criswell,2024,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Elias Díaz,2024,Colorado Rockies,304,26,82,5,36,17,64,.270,.315,.378,.693,hitter
+Brenton Doyle,2024,Colorado Rockies,542,82,141,23,72,46,153,.260,.317,.446,.763,hitter
+Kyle Freeland,2024,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Hunter Goodman,2024,Colorado Rockies,211,24,40,13,36,8,64,.190,.228,.417,.645,hitter
+Seth Halvorsen,2024,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Sam Hilliard,2024,Colorado Rockies,138,26,33,10,27,14,56,.239,.305,.507,.812,hitter
+Greg Jones,2024,Colorado Rockies,5,1,1,1,1,1,4,.200,.333,.800,1.133,hitter
+Nolan Jones,2024,Colorado Rockies,256,28,58,3,28,36,91,.227,.321,.320,.641,hitter
+Tyler Kinley,2024,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Matt Koch,2024,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Peter Lambert,2024,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Justin Lawrence,2024,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ryan McMahon,2024,Colorado Rockies,567,68,137,20,65,69,185,.242,.325,.397,.722,hitter
+Nick Mears,2024,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Elehuris Montero,2024,Colorado Rockies,224,23,46,4,28,20,56,.205,.267,.304,.571,hitter
+Brendan Rodgers,2024,Colorado Rockies,501,67,134,13,54,31,132,.267,.314,.407,.721,hitter
+Drew Romo,2024,Colorado Rockies,51,4,9,0,6,2,18,.176,.208,.235,.443,hitter
+Aaron Schunk,2024,Colorado Rockies,94,14,22,2,7,4,31,.234,.265,.330,.595,hitter
+Jacob Stallings,2024,Colorado Rockies,243,31,64,9,36,27,65,.263,.357,.453,.810,hitter
+Michael Toglia,2024,Colorado Rockies,399,62,87,25,55,54,147,.218,.311,.456,.767,hitter
+Ezequiel Tovar,2024,Colorado Rockies,655,83,176,26,78,23,200,.269,.295,.469,.764,hitter
+Alan Trejo,2024,Colorado Rockies,63,4,9,0,1,2,15,.143,.182,.143,.325,hitter
+Victor Vodnik,2024,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Akil Baddoo,2024,Detroit Tigers,73,7,10,2,5,8,27,.137,.220,.301,.521,hitter
+Javier Báez,2024,Detroit Tigers,272,25,50,6,37,12,69,.184,.221,.294,.515,hitter
+Mark Canha,2024,Detroit Tigers,320,42,74,7,38,42,79,.231,.337,.350,.687,hitter
+Kerry Carpenter,2024,Detroit Tigers,264,37,75,18,57,22,75,.284,.345,.587,.932,hitter
+Dillon Dingler,2024,Detroit Tigers,84,2,14,1,11,3,30,.167,.195,.310,.505,hitter
+Mason Englert,2024,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jason Foley,2024,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Riley Greene,2024,Detroit Tigers,512,82,134,24,74,64,156,.262,.348,.479,.827,hitter
+Andy Ibáñez,2024,Detroit Tigers,224,30,54,5,32,15,63,.241,.295,.357,.652,hitter
+Jace Jung,2024,Detroit Tigers,79,14,19,0,3,15,29,.241,.362,.304,.666,hitter
+Colt Keith,2024,Detroit Tigers,516,54,134,13,61,36,110,.260,.309,.380,.689,hitter
+Carson Kelly,2024,Detroit Tigers,179,21,43,7,29,17,40,.240,.325,.391,.716,hitter
+Buddy Kennedy,2024,Detroit Tigers,10,2,2,1,4,2,4,.200,.308,.500,.808,hitter
+Ryan Kreidler,2024,Detroit Tigers,59,9,7,1,2,6,19,.119,.200,.169,.369,hitter
+Bligh Madris,2024,Detroit Tigers,67,8,18,1,5,6,20,.269,.324,.358,.682,hitter
+Justyn-Henry Malloy,2024,Detroit Tigers,202,18,41,8,21,23,85,.203,.291,.366,.657,hitter
+Zach McKinstry,2024,Detroit Tigers,297,32,64,4,23,24,69,.215,.277,.337,.614,hitter
+Parker Meadows,2024,Detroit Tigers,270,39,66,9,28,25,76,.244,.310,.433,.743,hitter
+Wenceel Pérez,2024,Detroit Tigers,389,51,94,9,37,32,92,.242,.300,.383,.683,hitter
+Jake Rogers,2024,Detroit Tigers,310,43,61,10,36,22,99,.197,.255,.352,.607,hitter
+Trey Sweeney,2024,Detroit Tigers,110,11,24,4,17,7,32,.218,.269,.373,.642,hitter
+Spencer Torkelson,2024,Detroit Tigers,342,45,75,10,37,33,105,.219,.295,.374,.669,hitter
+Gio Urshela,2024,Detroit Tigers,300,25,73,5,37,19,49,.243,.286,.333,.619,hitter
+Matt Vierling,2024,Detroit Tigers,518,80,133,16,57,41,121,.257,.312,.423,.735,hitter
+Ryan Vilade,2024,Detroit Tigers,45,5,8,1,5,2,12,.178,.208,.244,.452,hitter
+José Abreu,2024,Houston Astros,113,10,14,2,7,4,28,.124,.167,.195,.362,hitter
+Jose Altuve,2024,Houston Astros,628,94,185,20,65,47,119,.295,.350,.439,.789,hitter
+Yordan Alvarez,2024,Houston Astros,552,88,170,35,86,69,95,.308,.392,.567,.959,hitter
+Jacob Amaya,2024,Houston Astros,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Alex Bregman,2024,Houston Astros,581,79,151,26,75,44,86,.260,.315,.453,.768,hitter
+Trey Cabbage,2024,Houston Astros,86,12,18,1,8,4,34,.209,.253,.337,.590,hitter
+Victor Caratini,2024,Houston Astros,245,30,66,8,30,23,53,.269,.336,.408,.744,hitter
+Zach Dezenzo,2024,Houston Astros,62,5,15,2,8,3,22,.242,.277,.371,.648,hitter
+Aledmys Díaz,2024,Oakland Athletics,29,2,3,0,1,1,7,.103,.133,.103,.236,hitter
+Yainer Diaz,2024,Houston Astros,585,70,175,16,84,24,107,.299,.325,.441,.766,hitter
+Mauricio Dubón,2024,Houston Astros,402,45,108,4,47,16,55,.269,.296,.361,.657,hitter
+Ben Gamel,2024,New York Mets,23,9,5,0,0,7,7,.217,.400,.261,.661,hitter
+Josh Hader,2024,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jason Heyward,2024,Los Angeles Dodgers,173,25,36,6,28,17,36,.208,.289,.393,.682,hitter
+Cooper Hummel,2024,Houston Astros,8,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Grae Kessinger,2024,Houston Astros,21,4,0,0,0,3,7,.000,.160,.000,.160,hitter
+Bryan King,2024,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Pedro León,2024,Houston Astros,20,2,2,0,0,1,10,.100,.143,.100,.243,hitter
+Joey Loperfido,2024,Houston Astros,106,11,25,2,16,7,43,.236,.299,.358,.657,hitter
+Chas McCormick,2024,Houston Astros,242,32,51,5,27,17,72,.211,.271,.306,.577,hitter
+Jake Meyers,2024,Houston Astros,461,51,101,13,61,35,117,.219,.286,.360,.646,hitter
+Héctor Neris,2024,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jeremy Peña,2024,Houston Astros,602,78,160,15,70,25,111,.266,.308,.394,.702,hitter
+Ryan Pressly,2024,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+César Salazar,2024,Houston Astros,25,5,8,0,8,2,6,.320,.387,.400,.787,hitter
+Jon Singleton,2024,Houston Astros,355,46,83,13,42,47,111,.234,.321,.386,.707,hitter
+Kyle Tucker,2024,Houston Astros,277,56,80,23,49,56,54,.289,.408,.585,.993,hitter
+Shay Whitcomb,2024,Houston Astros,41,1,9,0,5,5,8,.220,.304,.293,.597,hitter
+CJ Alexander,2024,Kansas City Royals,8,0,1,0,0,0,3,.125,.125,.125,.250,hitter
+Dairon Blanco,2024,Kansas City Royals,120,37,31,4,13,8,32,.258,.308,.392,.700,hitter
+Kris Bubic,2024,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Paul DeJong,2024,Chicago White Sox,337,39,77,18,41,14,112,.228,.275,.430,.705,hitter
+Freddy Fermin,2024,Kansas City Royals,339,40,92,6,36,23,66,.271,.319,.366,.685,hitter
+Adam Frazier,2024,Kansas City Royals,262,35,53,4,22,22,59,.202,.282,.294,.576,hitter
+Maikel Garcia,2024,Kansas City Royals,575,84,133,7,58,42,103,.231,.281,.332,.613,hitter
+Tyler Gentry,2024,Kansas City Royals,5,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Robbie Grossman,2024,Chicago White Sox,71,6,15,0,4,13,20,.211,.329,.268,.597,hitter
+Yuli Gurriel,2024,Kansas City Royals,54,7,13,0,6,9,15,.241,.338,.296,.634,hitter
+Garrett Hampson,2024,Kansas City Royals,213,16,49,0,16,14,59,.230,.275,.300,.575,hitter
+Hunter Harvey,2024,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kyle Isbel,2024,Kansas City Royals,384,62,88,8,42,27,88,.229,.287,.367,.654,hitter
+Nick Loftin,2024,Kansas City Royals,148,15,28,1,14,19,24,.189,.282,.236,.518,hitter
+Michael Massey,2024,Kansas City Royals,332,45,86,14,45,15,56,.259,.294,.449,.743,hitter
+James McArthur,2024,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+MJ Melendez,2024,Kansas City Royals,412,44,85,17,44,35,113,.206,.273,.400,.673,hitter
+Vinnie Pasquantino,2024,Kansas City Royals,496,64,130,19,97,40,71,.262,.315,.446,.761,hitter
+Salvador Perez,2024,Kansas City Royals,590,58,160,27,104,44,129,.271,.330,.456,.786,hitter
+Tommy Pham,2024,Chicago White Sox,271,33,72,5,19,25,63,.266,.330,.380,.710,hitter
+Hunter Renfroe,2024,Kansas City Royals,385,44,88,15,52,36,84,.229,.297,.392,.689,hitter
+Nelson Velázquez,2024,Kansas City Royals,205,31,41,8,27,19,61,.200,.274,.366,.640,hitter
+Drew Waters,2024,Kansas City Royals,16,2,3,0,1,2,6,.188,.316,.250,.566,hitter
+Bobby Witt Jr.,2024,Kansas City Royals,636,125,211,32,109,57,106,.332,.389,.588,.977,hitter
+Nick Ahmed,2024,San Francisco Giants,155,13,36,1,15,10,35,.232,.278,.303,.581,hitter
+Austin Barnes,2024,Los Angeles Dodgers,140,12,37,1,11,14,36,.264,.331,.307,.638,hitter
+Mookie Betts,2024,Los Angeles Dodgers,450,75,130,19,75,61,57,.289,.372,.491,.863,hitter
+Cavan Biggio,2024,Toronto Blue Jays,110,15,22,2,9,14,42,.200,.323,.291,.614,hitter
+Tommy Edman,2024,Los Angeles Dodgers,139,20,33,6,20,11,30,.237,.294,.417,.711,hitter
+Hunter Feduccia,2024,Los Angeles Dodgers,12,2,4,0,1,2,2,.333,.429,.333,.762,hitter
+Freddie Freeman,2024,Los Angeles Dodgers,542,81,153,22,89,78,100,.282,.378,.476,.854,hitter
+Enrique Hernández,2024,Los Angeles Dodgers,362,44,83,12,42,27,77,.229,.281,.373,.654,hitter
+Teoscar Hernández,2024,Los Angeles Dodgers,589,84,160,33,99,53,188,.272,.339,.501,.840,hitter
+Jason Heyward,2024,Los Angeles Dodgers,173,25,36,6,28,17,36,.208,.289,.393,.682,hitter
+Kevin Kiermaier,2024,Toronto Blue Jays,200,24,39,4,18,10,66,.195,.236,.310,.546,hitter
+Michael Kopech,2024,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Gavin Lux,2024,Los Angeles Dodgers,439,59,110,10,50,44,110,.251,.320,.383,.703,hitter
+Max Muncy,2024,Los Angeles Dodgers,237,47,55,15,48,45,77,.232,.358,.494,.852,hitter
+Shohei Ohtani,2024,Los Angeles Dodgers,636,134,197,54,130,81,162,.310,.390,.646,1.036,hitter
+James Outman,2024,Los Angeles Dodgers,136,12,20,4,11,16,55,.147,.256,.265,.521,hitter
+Andy Pages,2024,Los Angeles Dodgers,403,65,100,13,46,29,108,.248,.305,.407,.712,hitter
+Miguel Rojas,2024,Los Angeles Dodgers,307,41,87,6,36,23,34,.283,.337,.410,.747,hitter
+Amed Rosario,2024,Tampa Bay Rays,264,22,81,2,26,7,48,.307,.331,.417,.748,hitter
+Will Smith,2024,Los Angeles Dodgers,476,77,118,20,75,51,105,.248,.327,.433,.760,hitter
+Chris Taylor,2024,Los Angeles Dodgers,213,28,43,4,23,28,76,.202,.298,.300,.598,hitter
+Taylor Trammell,2024,Los Angeles Dodgers,6,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Miguel Vargas,2024,Los Angeles Dodgers,71,11,17,3,9,8,16,.239,.313,.423,.736,hitter
+CJ Abrams,2024,Washington Nationals,541,79,133,20,65,40,128,.246,.314,.433,.747,hitter
+Riley Adams,2024,Washington Nationals,116,10,26,2,8,10,35,.224,.292,.336,.628,hitter
+Darren Baker,2024,Washington Nationals,14,1,7,0,0,0,3,.500,.500,.643,1.143,hitter
+Travis Blankenhorn,2024,Washington Nationals,31,2,4,0,5,1,9,.129,.156,.161,.317,hitter
+Alex Call,2024,Washington Nationals,99,15,34,3,14,12,19,.343,.425,.525,.950,hitter
+Andrés Chaparro,2024,Washington Nationals,121,12,26,4,15,7,24,.215,.280,.413,.693,hitter
+Dylan Crews,2024,Washington Nationals,119,12,26,3,8,11,26,.218,.288,.353,.641,hitter
+Kyle Finnegan,2024,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Joey Gallo,2024,Washington Nationals,223,24,36,10,27,32,102,.161,.277,.336,.613,hitter
+Luis García Jr.,2024,Washington Nationals,500,58,141,18,70,27,86,.282,.318,.444,.762,hitter
+Stone Garrett,2024,Washington Nationals,5,2,3,1,3,1,0,.600,.667,1.400,2.067,hitter
+Hunter Harvey,2024,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Derek Law,2024,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Trey Lipscomb,2024,Washington Nationals,190,20,38,1,10,16,40,.200,.268,.232,.500,hitter
+Joey Meneses,2024,Washington Nationals,281,19,65,3,42,21,63,.231,.291,.302,.593,hitter
+Drew Millas,2024,Washington Nationals,57,7,14,1,1,5,16,.246,.306,.316,.622,hitter
+Nasim Nuñez,2024,Washington Nationals,61,14,15,0,1,12,15,.246,.370,.262,.632,hitter
+Harold Ramírez,2024,Tampa Bay Rays,164,21,44,1,13,3,33,.268,.284,.305,.589,hitter
+Victor Robles,2024,Washington Nationals,25,3,3,0,2,5,9,.120,.281,.120,.401,hitter
+Eddie Rosario,2024,Washington Nationals,219,26,40,7,26,13,54,.183,.226,.329,.555,hitter
+Keibert Ruiz,2024,Washington Nationals,459,46,105,13,57,16,54,.229,.260,.359,.619,hitter
+Nick Senzel,2024,Washington Nationals,206,25,43,7,18,27,53,.209,.303,.359,.662,hitter
+José Tena,2024,Cleveland Guardians,4,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Lane Thomas,2024,Washington Nationals,300,42,76,8,40,32,72,.253,.331,.407,.738,hitter
+Ildemaro Vargas,2024,Washington Nationals,272,21,67,1,30,19,31,.246,.295,.316,.611,hitter
+Jesse Winker,2024,Washington Nationals,315,51,81,11,45,53,84,.257,.374,.419,.793,hitter
+James Wood,2024,Washington Nationals,295,43,78,9,41,39,97,.264,.354,.427,.781,hitter
+Juan Yepez,2024,Washington Nationals,226,32,64,6,26,18,42,.283,.335,.429,.764,hitter
+Jacob Young,2024,Washington Nationals,468,75,120,3,36,30,102,.256,.316,.331,.647,hitter
+Luisangel Acuña,2024,New York Mets,39,6,12,3,6,1,6,.308,.325,.641,.966,hitter
+Pete Alonso,2024,New York Mets,608,91,146,34,88,70,172,.240,.329,.459,.788,hitter
+Eddy Alvarez,2024,New York Mets,9,2,0,0,0,1,2,.000,.182,.000,.182,hitter
+Francisco Alvarez,2024,New York Mets,308,39,73,11,47,30,86,.237,.307,.403,.710,hitter
+Harrison Bader,2024,New York Mets,402,57,95,12,51,21,95,.236,.284,.373,.657,hitter
+Brett Baty,2024,New York Mets,153,15,35,4,16,16,42,.229,.306,.327,.633,hitter
+Edwin Díaz,2024,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jake Diekman,2024,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ben Gamel,2024,New York Mets,23,9,5,0,0,7,7,.217,.400,.261,.661,hitter
+Joe Hudson,2024,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jose Iglesias,2024,New York Mets,270,39,91,4,26,12,39,.337,.381,.448,.829,hitter
+Francisco Lindor,2024,New York Mets,618,107,169,33,91,56,127,.273,.344,.500,.844,hitter
+Jorge López,2024,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Starling Marte,2024,New York Mets,335,46,90,7,40,27,81,.269,.327,.388,.715,hitter
+J.D. Martinez,2024,New York Mets,434,46,102,16,69,49,141,.235,.320,.406,.726,hitter
+Jeff McNeil,2024,New York Mets,424,57,101,12,44,35,68,.238,.308,.384,.692,hitter
+Omar Narváez,2024,New York Mets,65,4,10,0,5,3,12,.154,.191,.185,.376,hitter
+Tomás Nido,2024,New York Mets,83,9,19,3,8,4,20,.229,.261,.361,.622,hitter
+Brandon Nimmo,2024,New York Mets,571,88,128,23,90,77,158,.224,.327,.399,.726,hitter
+Pablo Reyes,2024,Boston Red Sox,60,4,11,0,5,3,19,.183,.234,.217,.451,hitter
+Zack Short,2024,New York Mets,9,2,1,0,0,2,4,.111,.273,.111,.384,hitter
+Ryne Stanek,2024,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+DJ Stewart,2024,New York Mets,158,16,28,5,19,31,48,.177,.325,.297,.622,hitter
+Tyrone Taylor,2024,New York Mets,319,47,79,7,35,19,80,.248,.299,.401,.700,hitter
+Luis Torrens,2024,New York Mets,118,14,27,3,15,9,28,.229,.292,.373,.665,hitter
+Mark Vientos,2024,New York Mets,413,58,110,27,71,33,135,.266,.322,.516,.838,hitter
+Joey Wendle,2024,New York Mets,36,3,8,0,1,1,9,.222,.243,.250,.493,hitter
+Jesse Winker,2024,Washington Nationals,315,51,81,11,45,53,84,.257,.374,.419,.793,hitter
+Alex Young,2024,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter

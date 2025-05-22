@@ -1,0 +1,899 @@
+name,year,team,AB,R,H,HR,RBI,BB,K,AVG,OBP,SLG,OPS,playerType
+Austin Allen,2022,Oakland Athletics,14,1,1,0,0,1,9,.071,.188,.071,.259,hitter
+Nick Allen,2022,Oakland Athletics,299,31,62,4,19,19,64,.207,.256,.291,.547,hitter
+Elvis Andrus,2022,Oakland Athletics,354,41,84,8,30,30,62,.237,.301,.373,.674,hitter
+Luis Barrera,2022,Oakland Athletics,77,3,18,1,7,6,17,.234,.294,.338,.632,hitter
+Christian Bethancourt,2022,Oakland Athletics,169,23,42,4,19,10,41,.249,.298,.385,.683,hitter
+Skye Bolt,2022,Oakland Athletics,106,10,21,4,13,7,30,.198,.259,.330,.589,hitter
+Jonah Bride,2022,Oakland Athletics,162,17,33,1,6,19,32,.204,.301,.247,.548,hitter
+Seth Brown,2022,Oakland Athletics,500,55,115,25,73,51,146,.230,.305,.444,.749,hitter
+Conner Capel,2022,St. Louis Cardinals,17,1,3,1,2,1,2,.176,.211,.353,.564,hitter
+Ernie Clement,2022,Cleveland Guardians,145,18,29,0,6,11,24,.200,.264,.221,.485,hitter
+Matt Davidson,2022,Arizona Diamondbacks,10,1,1,1,1,3,3,.100,.308,.400,.708,hitter
+Jordan Diaz,2022,Oakland Athletics,49,3,13,0,1,2,7,.265,.294,.327,.621,hitter
+Dérmis Garcia,2022,Oakland Athletics,116,13,24,5,20,8,55,.207,.264,.388,.652,hitter
+Justin Grimm,2022,Oakland Athletics,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Drew Jackson,2022,Oakland Athletics,3,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+James Kaprielian,2022,Oakland Athletics,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tony Kemp,2022,Oakland Athletics,497,61,117,7,46,45,69,.235,.307,.334,.641,hitter
+Shea Langeliers,2022,Oakland Athletics,142,14,31,6,22,9,53,.218,.261,.430,.691,hitter
+Ramón Laureano,2022,Oakland Athletics,346,49,73,13,34,25,104,.211,.287,.376,.663,hitter
+Christian Lopes,2022,Oakland Athletics,9,0,0,0,0,1,5,.000,.100,.000,.100,hitter
+Jed Lowrie,2022,Oakland Athletics,167,14,30,3,16,15,39,.180,.245,.263,.508,hitter
+David MacKinnon,2022,Los Angeles Angels,37,0,7,0,6,5,12,.189,.279,.189,.468,hitter
+Vimael Machín,2022,Oakland Athletics,223,26,49,1,13,25,47,.220,.300,.287,.587,hitter
+Mickey McDonald,2022,Oakland Athletics,4,0,0,0,0,2,3,.000,.333,.000,.333,hitter
+Billy McKinney,2022,Oakland Athletics,52,3,5,1,4,4,16,.096,.158,.173,.331,hitter
+Nate Mondou,2022,Oakland Athletics,2,0,0,0,0,1,1,.000,.333,.000,.333,hitter
+Sean Murphy,2022,Oakland Athletics,537,67,134,18,66,56,124,.250,.332,.426,.758,hitter
+Sheldon Neuse,2022,Oakland Athletics,271,25,58,4,26,20,80,.214,.273,.288,.561,hitter
+Cristian Pache,2022,Oakland Athletics,241,18,40,3,18,15,70,.166,.218,.241,.459,hitter
+Joel Payamps,2022,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chad Pinder,2022,Oakland Athletics,361,38,85,12,42,14,118,.235,.263,.385,.648,hitter
+Stephen Piscotty,2022,Oakland Athletics,126,12,24,5,14,9,48,.190,.252,.341,.593,hitter
+Kevin Smith,2022,Oakland Athletics,139,9,25,2,13,7,42,.180,.216,.302,.518,hitter
+Cal Stevenson,2022,Oakland Athletics,60,5,10,0,1,8,23,.167,.261,.217,.478,hitter
+Cody Thomas,2022,Oakland Athletics,30,1,8,0,0,2,12,.267,.313,.267,.580,hitter
+Stephen Vogt,2022,Oakland Athletics,168,18,27,7,23,17,46,.161,.241,.321,.562,hitter
+Anthony Alford,2022,Pittsburgh Pirates,4,0,1,0,0,0,2,.250,.250,.250,.500,hitter
+Greg Allen,2022,Pittsburgh Pirates,118,17,22,2,8,10,42,.186,.260,.271,.531,hitter
+Miguel Andujar,2022,New York Yankees,96,9,22,1,8,3,22,.229,.250,.281,.531,hitter
+David Bednar,2022,Pittsburgh Pirates,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Diego A. Castillo,2022,Pittsburgh Pirates,262,28,54,11,29,14,75,.206,.251,.382,.633,hitter
+Rodolfo Castro,2022,Pittsburgh Pirates,253,25,59,11,27,22,74,.233,.299,.427,.726,hitter
+Yu Chang,2022,Cleveland Guardians,10,0,0,0,0,0,7,.000,.000,.000,.000,hitter
+Michael Chavis,2022,Pittsburgh Pirates,401,39,92,14,49,19,126,.229,.265,.389,.654,hitter
+Zack Collins,2022,Toronto Blue Jays,72,7,14,4,10,6,31,.194,.266,.417,.683,hitter
+Oneil Cruz,2022,Pittsburgh Pirates,331,45,77,17,54,28,126,.233,.294,.450,.744,hitter
+Jason Delay,2022,Pittsburgh Pirates,155,17,33,1,11,9,50,.213,.265,.271,.536,hitter
+Ben Gamel,2022,Pittsburgh Pirates,371,42,86,9,46,48,98,.232,.324,.369,.693,hitter
+José Godoy,2022,Minnesota Twins,3,2,0,0,0,2,2,.000,.400,.000,.400,hitter
+Ke'Bryan Hayes,2022,Pittsburgh Pirates,505,55,123,7,41,48,122,.244,.314,.345,.659,hitter
+Tyler Heineman,2022,Toronto Blue Jays,15,2,4,0,1,0,4,.267,.267,.400,.667,hitter
+Andrew Knapp,2022,Pittsburgh Pirates,31,2,4,0,2,3,9,.129,.229,.161,.390,hitter
+Bligh Madris,2022,Pittsburgh Pirates,113,10,20,1,7,10,31,.177,.244,.265,.509,hitter
+Tucupita Marcano,2022,Pittsburgh Pirates,160,18,33,2,13,10,44,.206,.256,.306,.562,hitter
+Jake Marisnick,2022,Pittsburgh Pirates,77,9,18,2,6,4,24,.234,.272,.390,.662,hitter
+Cal Mitchell,2022,Pittsburgh Pirates,212,21,48,5,17,18,52,.226,.286,.349,.635,hitter
+Kevin Newman,2022,Pittsburgh Pirates,288,31,79,2,24,16,48,.274,.316,.372,.688,hitter
+Kevin Padlo,2022,San Francisco Giants,12,0,2,0,0,0,4,.167,.167,.167,.334,hitter
+Hoy Park,2022,Pittsburgh Pirates,51,7,11,2,6,4,15,.216,.276,.373,.649,hitter
+Liover Peguero,2022,Pittsburgh Pirates,3,0,1,0,0,1,2,.333,.500,.333,.833,hitter
+Michael Pérez,2022,Pittsburgh Pirates,107,8,16,6,11,8,26,.150,.209,.318,.527,hitter
+Roberto Pérez,2022,Pittsburgh Pirates,60,8,14,2,8,9,25,.233,.333,.367,.700,hitter
+Bryan Reynolds,2022,Pittsburgh Pirates,542,74,142,27,62,56,141,.262,.345,.461,.806,hitter
+Canaan Smith-Njigba,2022,Pittsburgh Pirates,5,1,1,0,0,1,0,.200,.429,.400,.829,hitter
+Jack Suwinski,2022,Pittsburgh Pirates,326,45,66,19,38,41,114,.202,.298,.411,.709,hitter
+Travis Swaggerty,2022,Pittsburgh Pirates,9,0,1,0,0,0,4,.111,.111,.111,.222,hitter
+Yoshi Tsutsugo,2022,Pittsburgh Pirates,170,11,29,2,19,19,50,.171,.249,.229,.478,hitter
+Cole Tucker,2022,Pittsburgh Pirates,63,3,11,0,2,0,25,.175,.175,.222,.397,hitter
+Josh VanMeter,2022,Pittsburgh Pirates,171,15,32,3,14,19,45,.187,.266,.292,.558,hitter
+Daniel Vogelbach,2022,Pittsburgh Pirates,237,29,54,12,34,40,67,.228,.338,.430,.768,hitter
+CJ Abrams,2022,San Diego Padres,125,16,29,2,11,4,27,.232,.285,.320,.605,hitter
+Sergio Alcántara,2022,San Diego Padres,35,3,4,0,3,2,12,.114,.158,.114,.272,hitter
+Jorge Alfaro,2022,San Diego Padres,256,25,63,7,40,11,98,.246,.285,.383,.668,hitter
+José Azocar,2022,San Diego Padres,202,24,52,0,10,12,44,.257,.298,.332,.630,hitter
+Matthew Batten,2022,San Diego Padres,19,0,2,0,1,2,6,.105,.227,.158,.385,hitter
+Matt Beaty,2022,San Diego Padres,43,6,4,0,1,2,8,.093,.170,.163,.333,hitter
+Josh Bell,2022,Washington Nationals,375,52,113,14,57,49,61,.301,.384,.493,.877,hitter
+Luis Campusano,2022,San Diego Padres,48,4,12,1,5,1,11,.250,.260,.333,.593,hitter
+Robinson Canó,2022,New York Mets,41,3,8,1,3,2,11,.195,.233,.268,.501,hitter
+Jake Cronenworth,2022,San Diego Padres,587,88,140,17,88,70,131,.239,.332,.390,.722,hitter
+Brandon Dixon,2022,San Diego Padres,14,1,3,0,1,0,5,.214,.214,.286,.500,hitter
+Brandon Drury,2022,Cincinnati Reds,350,62,96,20,59,29,84,.274,.335,.520,.855,hitter
+Trent Grisham,2022,San Diego Padres,451,58,83,17,53,57,150,.184,.284,.341,.625,hitter
+Eric Hosmer,2022,San Diego Padres,335,32,91,8,40,33,55,.272,.336,.391,.727,hitter
+Ha-Seong Kim,2022,San Diego Padres,517,58,130,11,59,51,100,.251,.325,.383,.708,hitter
+Luis Liberato,2022,San Diego Padres,5,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Manny Machado,2022,San Diego Padres,578,100,172,32,102,63,133,.298,.366,.531,.897,hitter
+Nomar Mazara,2022,San Diego Padres,159,16,42,2,18,10,40,.264,.316,.352,.668,hitter
+Wil Myers,2022,San Diego Padres,261,29,68,7,41,21,86,.261,.315,.398,.713,hitter
+Austin Nola,2022,San Diego Padres,347,40,87,4,40,34,60,.251,.321,.329,.650,hitter
+Jurickson Profar,2022,San Diego Padres,575,82,140,15,58,73,103,.243,.331,.391,.722,hitter
+Taylor Rogers,2022,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brent Rooker,2022,San Diego Padres,7,0,0,0,0,0,4,.000,.000,.000,.000,hitter
+Eguy Rosario,2022,San Diego Padres,5,0,1,0,0,1,2,.200,.333,.200,.533,hitter
+Esteury Ruiz,2022,San Diego Padres,27,1,6,0,2,0,5,.222,.222,.333,.555,hitter
+Blake Snell,2022,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Juan Soto,2022,Washington Nationals,342,62,84,21,46,91,62,.246,.408,.485,.893,hitter
+Trayce Thompson,2022,San Diego Padres,14,1,1,0,2,2,7,.071,.188,.071,.259,hitter
+Luke Voit,2022,San Diego Padres,298,38,67,13,48,39,110,.225,.317,.416,.733,hitter
+Matt Brash,2022,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Curt Casali,2022,San Francisco Giants,108,13,25,4,14,15,36,.231,.325,.370,.695,hitter
+Diego Castillo,2022,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+J.P. Crawford,2022,Seattle Mariners,518,57,126,6,42,68,80,.243,.339,.336,.675,hitter
+Drew Ellis,2022,Arizona Diamondbacks,13,2,2,0,1,1,6,.154,.214,.231,.445,hitter
+Stuart Fairchild,2022,Seattle Mariners,3,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Mike Ford,2022,San Francisco Giants,4,0,1,0,2,0,0,.250,.250,.250,.500,hitter
+Ty France,2022,Seattle Mariners,551,65,151,20,83,35,94,.274,.338,.436,.774,hitter
+Adam Frazier,2022,Seattle Mariners,541,61,129,3,42,46,73,.238,.301,.311,.612,hitter
+Sam Haggerty,2022,Seattle Mariners,176,29,45,5,23,18,53,.256,.335,.403,.738,hitter
+Mitch Haniger,2022,Seattle Mariners,224,31,55,11,34,20,65,.246,.308,.429,.737,hitter
+Travis Jankowski,2022,New York Mets,54,11,9,0,2,8,9,.167,.286,.167,.453,hitter
+Jarred Kelenic,2022,Seattle Mariners,163,20,23,7,17,16,61,.141,.221,.313,.534,hitter
+Andrew Knapp,2022,Pittsburgh Pirates,31,2,4,0,2,3,9,.129,.229,.161,.390,hitter
+Jake Lamb,2022,Los Angeles Dodgers,67,10,16,2,4,8,24,.239,.338,.433,.771,hitter
+Jack Larsen,2022,Seattle Mariners,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Kyle Lewis,2022,Seattle Mariners,56,6,8,3,5,5,19,.143,.226,.304,.530,hitter
+Wyatt Mills,2022,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Dylan Moore,2022,Seattle Mariners,205,41,46,6,24,34,75,.224,.368,.385,.753,hitter
+Penn Murfee,2022,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tom Murphy,2022,Seattle Mariners,33,9,10,1,1,8,13,.303,.439,.455,.894,hitter
+Brian O'Keefe,2022,Seattle Mariners,3,0,1,0,0,1,2,.333,.500,.333,.833,hitter
+Kevin Padlo,2022,San Francisco Giants,12,0,2,0,0,0,4,.167,.167,.167,.334,hitter
+Cal Raleigh,2022,Seattle Mariners,370,46,78,27,63,38,122,.211,.284,.489,.773,hitter
+Julio Rodríguez,2022,Seattle Mariners,511,84,145,28,75,40,145,.284,.345,.509,.854,hitter
+Carlos Santana,2022,Kansas City Royals,176,17,38,4,21,36,28,.216,.349,.341,.690,hitter
+Paul Sewald,2022,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Steven Souza Jr.,2022,Seattle Mariners,19,0,3,0,1,0,8,.158,.158,.158,.316,hitter
+Drew Steckenrider,2022,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Eugenio Suárez,2022,Seattle Mariners,543,76,128,31,87,73,196,.236,.332,.459,.791,hitter
+Abraham Toro,2022,Seattle Mariners,324,36,60,10,35,22,65,.185,.239,.324,.563,hitter
+Luis Torrens,2022,Seattle Mariners,151,13,34,3,15,12,50,.225,.283,.298,.581,hitter
+Taylor Trammell,2022,Seattle Mariners,102,15,20,4,10,13,33,.196,.284,.402,.686,hitter
+Justin Upton,2022,Seattle Mariners,48,2,6,1,3,6,23,.125,.263,.208,.471,hitter
+Donovan Walton,2022,Seattle Mariners,0,1,0,0,0,0,0,.000,.000,.000,.000,hitter
+Marcus Wilson,2022,Seattle Mariners,5,1,1,0,0,1,4,.200,.333,.200,.533,hitter
+Jesse Winker,2022,Seattle Mariners,456,51,100,14,53,84,103,.219,.344,.344,.688,hitter
+Scott Alexander,2022,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Joey Bart,2022,San Francisco Giants,261,34,56,11,25,26,112,.215,.296,.364,.660,hitter
+Brandon Belt,2022,San Francisco Giants,254,25,54,8,23,37,81,.213,.326,.350,.676,hitter
+Lewis Brinson,2022,San Francisco Giants,36,5,6,3,4,2,14,.167,.211,.472,.683,hitter
+Willie Calhoun,2022,Texas Rangers,44,7,6,1,2,8,6,.136,.283,.273,.556,hitter
+Curt Casali,2022,San Francisco Giants,108,13,25,4,14,15,36,.231,.325,.370,.695,hitter
+Brandon Crawford,2022,San Francisco Giants,407,50,94,9,52,39,98,.231,.308,.344,.652,hitter
+J.D. Davis,2022,New York Mets,181,26,43,4,21,20,66,.238,.324,.359,.683,hitter
+Austin Dean,2022,San Francisco Giants,8,1,3,0,0,1,0,.375,.444,.375,.819,hitter
+Mauricio Dubón,2022,San Francisco Giants,46,10,11,2,8,1,4,.239,.245,.391,.636,hitter
+Steven Duggar,2022,San Francisco Giants,36,2,7,0,4,2,16,.194,.231,.278,.509,hitter
+Thairo Estrada,2022,San Francisco Giants,488,71,127,14,62,33,89,.260,.322,.400,.722,hitter
+Stuart Fairchild,2022,Seattle Mariners,3,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Wilmer Flores,2022,San Francisco Giants,525,72,120,19,71,59,103,.229,.316,.394,.710,hitter
+Mike Ford,2022,San Francisco Giants,4,0,1,0,2,0,0,.250,.250,.250,.500,hitter
+Luis González,2022,San Francisco Giants,311,31,78,4,36,30,75,.251,.320,.357,.677,hitter
+Bryce Johnson,2022,San Francisco Giants,18,1,2,0,2,1,7,.111,.158,.111,.269,hitter
+Andrew Knapp,2022,Pittsburgh Pirates,31,2,4,0,2,3,9,.129,.229,.161,.390,hitter
+Jason Krizan,2022,San Francisco Giants,8,0,1,0,0,2,3,.125,.300,.125,.425,hitter
+Tommy La Stella,2022,San Francisco Giants,180,17,43,2,14,11,30,.239,.282,.350,.632,hitter
+Evan Longoria,2022,San Francisco Giants,266,31,65,14,42,27,83,.244,.315,.451,.766,hitter
+Dixon Machado,2022,San Francisco Giants,15,1,3,0,0,1,5,.200,.294,.200,.494,hitter
+Yermín Mercedes,2022,San Francisco Giants,73,9,17,1,8,9,17,.233,.325,.342,.667,hitter
+Kevin Padlo,2022,San Francisco Giants,12,0,2,0,0,0,4,.167,.167,.167,.334,hitter
+Michael Papierski,2022,San Francisco Giants,9,1,0,0,0,1,4,.000,.100,.000,.100,hitter
+Joc Pederson,2022,San Francisco Giants,380,57,104,23,70,42,100,.274,.353,.521,.874,hitter
+Ford Proctor,2022,San Francisco Giants,18,3,2,1,6,2,3,.111,.182,.278,.460,hitter
+Heliot Ramos,2022,San Francisco Giants,20,4,2,0,0,2,6,.100,.182,.100,.282,hitter
+Darin Ruf,2022,San Francisco Giants,268,46,58,11,38,40,85,.216,.328,.373,.701,hitter
+Austin Slater,2022,San Francisco Giants,277,49,73,7,34,40,89,.264,.366,.408,.774,hitter
+Ka'ai Tom,2022,San Francisco Giants,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+David Villar,2022,San Francisco Giants,156,21,36,9,24,18,58,.231,.331,.455,.786,hitter
+Jason Vosler,2022,San Francisco Giants,98,14,26,4,12,10,29,.265,.342,.469,.811,hitter
+LaMonte Wade Jr.,2022,San Francisco Giants,217,29,45,8,26,26,51,.207,.305,.359,.664,hitter
+Donovan Walton,2022,Seattle Mariners,0,1,0,0,0,0,0,.000,.000,.000,.000,hitter
+Luke Williams,2022,San Francisco Giants,12,1,3,0,3,0,4,.250,.250,.333,.583,hitter
+Austin Wynns,2022,San Francisco Giants,162,14,42,3,21,10,38,.259,.313,.358,.671,hitter
+Mike Yastrzemski,2022,San Francisco Giants,485,73,104,17,57,61,141,.214,.305,.392,.697,hitter
+Nolan Arenado,2022,St. Louis Cardinals,557,73,163,30,103,52,72,.293,.358,.533,.891,hitter
+Harrison Bader,2022,St. Louis Cardinals,246,35,63,5,21,13,47,.256,.303,.370,.673,hitter
+Alec Burleson,2022,St. Louis Cardinals,48,4,9,1,3,5,9,.188,.264,.271,.535,hitter
+Conner Capel,2022,St. Louis Cardinals,17,1,3,1,2,1,2,.176,.211,.353,.564,hitter
+Dylan Carlson,2022,St. Louis Cardinals,432,56,102,8,42,45,94,.236,.316,.380,.696,hitter
+Paul DeJong,2022,St. Louis Cardinals,210,19,33,6,25,21,79,.157,.245,.286,.531,hitter
+Ben DeLuzio,2022,St. Louis Cardinals,20,3,3,0,0,3,5,.150,.292,.200,.492,hitter
+Corey Dickerson,2022,St. Louis Cardinals,281,28,75,6,36,12,48,.267,.300,.399,.699,hitter
+Brendan Donovan,2022,St. Louis Cardinals,391,64,110,5,45,60,70,.281,.394,.379,.773,hitter
+Tommy Edman,2022,St. Louis Cardinals,577,95,153,13,57,46,111,.265,.324,.400,.724,hitter
+Paul Goldschmidt,2022,St. Louis Cardinals,561,106,178,35,115,79,141,.317,.404,.578,.982,hitter
+Nolan Gorman,2022,St. Louis Cardinals,283,44,64,14,35,28,103,.226,.300,.420,.720,hitter
+Iván Herrera,2022,St. Louis Cardinals,18,0,2,0,1,2,8,.111,.190,.111,.301,hitter
+Andrew Knizner,2022,St. Louis Cardinals,260,28,56,4,25,26,62,.215,.301,.300,.601,hitter
+Matthew Liberatore,2022,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Yadier Molina,2022,St. Louis Cardinals,262,19,56,5,24,5,40,.214,.233,.302,.535,hitter
+Lars Nootbaar,2022,St. Louis Cardinals,290,53,66,14,40,51,71,.228,.340,.448,.788,hitter
+Tyler O'Neill,2022,St. Louis Cardinals,334,56,76,14,58,38,103,.228,.308,.392,.700,hitter
+Albert Pujols,2022,St. Louis Cardinals,307,42,83,24,68,28,55,.270,.345,.550,.895,hitter
+Kramer Robertson,2022,St. Louis Cardinals,1,0,0,0,1,0,0,.000,.000,.000,.000,hitter
+JoJo Romero,2022,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Austin Romine,2022,Los Angeles Angels,8,0,2,0,0,0,3,.250,.250,.250,.500,hitter
+Edmundo Sosa,2022,St. Louis Cardinals,122,17,23,0,8,4,38,.189,.244,.270,.514,hitter
+Cory Spangenberg,2022,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Juan Yepez,2022,St. Louis Cardinals,253,27,64,12,30,16,61,.253,.296,.447,.743,hitter
+Jonathan Aranda,2022,Tampa Bay Rays,78,10,15,2,6,8,23,.192,.276,.321,.597,hitter
+Randy Arozarena,2022,Tampa Bay Rays,586,72,154,20,89,46,156,.263,.327,.445,.772,hitter
+Christian Bethancourt,2022,Oakland Athletics,169,23,42,4,19,10,41,.249,.298,.385,.683,hitter
+Vidal Bruján,2022,Tampa Bay Rays,147,13,24,3,16,12,37,.163,.228,.259,.487,hitter
+Yu Chang,2022,Cleveland Guardians,10,0,0,0,0,0,7,.000,.000,.000,.000,hitter
+Ji Man Choi,2022,Tampa Bay Rays,356,36,83,11,52,58,123,.233,.341,.388,.729,hitter
+Yandy Díaz,2022,Tampa Bay Rays,473,71,140,9,57,78,60,.296,.401,.423,.824,hitter
+Wander Franco,2022,Tampa Bay Rays,314,46,87,6,33,26,33,.277,.328,.417,.745,hitter
+Kevin Kiermaier,2022,Tampa Bay Rays,206,28,47,7,22,14,61,.228,.281,.369,.650,hitter
+Brandon Lowe,2022,Tampa Bay Rays,235,31,52,8,25,27,61,.221,.308,.383,.691,hitter
+Josh Lowe,2022,Tampa Bay Rays,181,24,40,2,13,15,66,.221,.284,.343,.627,hitter
+Manuel Margot,2022,Tampa Bay Rays,336,36,92,4,47,24,68,.274,.325,.375,.700,hitter
+Miles Mastrobuoni,2022,Tampa Bay Rays,16,1,3,0,0,1,6,.188,.235,.188,.423,hitter
+Shane McClanahan,2022,Tampa Bay Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Francisco Mejía,2022,Tampa Bay Rays,289,32,70,6,31,7,65,.242,.264,.381,.645,hitter
+Isaac Paredes,2022,Tampa Bay Rays,331,48,68,20,45,44,67,.205,.304,.435,.739,hitter
+David Peralta,2022,Arizona Diamondbacks,278,29,69,12,41,27,74,.248,.316,.460,.776,hitter
+Brett Phillips,2022,Tampa Bay Rays,184,21,27,5,14,16,85,.147,.225,.250,.475,hitter
+René Pinto,2022,Tampa Bay Rays,80,5,17,2,10,2,35,.213,.241,.325,.566,hitter
+Roman Quinn,2022,Philadelphia Phillies,37,8,6,0,3,3,15,.162,.225,.189,.414,hitter
+Luke Raley,2022,Tampa Bay Rays,61,7,12,1,4,7,24,.197,.306,.279,.585,hitter
+Harold Ramírez,2022,Tampa Bay Rays,403,46,121,6,58,19,72,.300,.343,.404,.747,hitter
+Jose Siri,2022,Houston Astros,135,18,24,3,10,9,48,.178,.238,.304,.542,hitter
+Taylor Walls,2022,Tampa Bay Rays,407,53,70,8,33,52,120,.172,.268,.285,.553,hitter
+Mike Zunino,2022,Tampa Bay Rays,115,7,17,5,16,6,46,.148,.195,.304,.499,hitter
+Albert Abreu,2022,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Joe Barlow,2022,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kole Calhoun,2022,Texas Rangers,388,36,76,12,49,27,136,.196,.257,.330,.587,hitter
+Willie Calhoun,2022,Texas Rangers,44,7,6,1,2,8,6,.136,.283,.273,.556,hitter
+Charlie Culberson,2022,Texas Rangers,115,19,29,2,12,5,31,.252,.283,.357,.640,hitter
+Steven Duggar,2022,San Francisco Giants,36,2,7,0,4,2,16,.194,.231,.278,.509,hitter
+Ezequiel Duran,2022,Texas Rangers,208,25,49,5,25,12,54,.236,.277,.365,.642,hitter
+Adolis García,2022,Texas Rangers,605,88,151,27,101,40,183,.250,.300,.456,.756,hitter
+Mitch Garver,2022,Texas Rangers,188,23,39,10,24,23,53,.207,.298,.404,.702,hitter
+Jonah Heim,2022,Texas Rangers,406,51,92,16,48,41,87,.227,.298,.399,.697,hitter
+Elier Hernandez,2022,Texas Rangers,33,4,6,0,3,1,15,.182,.200,.242,.442,hitter
+Sam Huff,2022,Texas Rangers,121,9,29,4,10,11,42,.240,.303,.372,.675,hitter
+Andy Ibáñez,2022,Texas Rangers,119,13,26,1,9,9,21,.218,.273,.277,.550,hitter
+Josh Jung,2022,Texas Rangers,98,9,20,5,14,4,39,.204,.235,.418,.653,hitter
+Nathaniel Lowe,2022,Texas Rangers,593,74,179,27,76,48,147,.302,.358,.492,.850,hitter
+Brett Martin,2022,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mark Mathias,2022,Milwaukee Brewers,16,2,2,1,4,0,4,.125,.118,.313,.431,hitter
+Brad Miller,2022,Texas Rangers,222,20,47,7,32,18,70,.212,.270,.320,.590,hitter
+Kevin Plawecki,2022,Boston Red Sox,157,15,34,1,12,14,28,.217,.287,.287,.574,hitter
+Zach Reks,2022,Texas Rangers,34,3,9,0,3,0,10,.265,.265,.294,.559,hitter
+Corey Seager,2022,Texas Rangers,593,91,145,33,83,58,103,.245,.317,.455,.772,hitter
+Marcus Semien,2022,Texas Rangers,657,101,163,26,83,53,120,.248,.304,.429,.733,hitter
+Josh Smith,2022,Texas Rangers,213,23,42,2,16,28,50,.197,.307,.249,.556,hitter
+Nick Solak,2022,Texas Rangers,82,14,17,3,4,7,19,.207,.309,.329,.638,hitter
+Leody Taveras,2022,Texas Rangers,314,39,82,5,34,21,88,.261,.309,.366,.675,hitter
+Bubba Thompson,2022,Texas Rangers,170,18,45,1,9,7,56,.265,.302,.312,.614,hitter
+Meibrys Viloria,2022,Texas Rangers,63,10,10,2,5,11,29,.159,.280,.270,.550,hitter
+Steele Walker,2022,Texas Rangers,14,1,1,1,1,2,4,.071,.188,.286,.474,hitter
+Eli White,2022,Texas Rangers,105,16,21,3,10,11,41,.200,.274,.305,.579,hitter
+Anthony Bass,2022,Miami Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Bo Bichette,2022,Toronto Blue Jays,652,91,189,24,93,41,155,.290,.333,.469,.802,hitter
+Cavan Biggio,2022,Toronto Blue Jays,257,43,52,6,24,38,85,.202,.318,.350,.668,hitter
+Jackie Bradley Jr.,2022,Boston Red Sox,271,21,57,3,29,17,58,.210,.257,.321,.578,hitter
+Vinny Capra,2022,Toronto Blue Jays,5,2,1,0,0,2,1,.200,.429,.200,.629,hitter
+Matt Chapman,2022,Toronto Blue Jays,538,83,123,27,76,68,170,.229,.324,.433,.757,hitter
+Zack Collins,2022,Toronto Blue Jays,72,7,14,4,10,6,31,.194,.266,.417,.683,hitter
+Santiago Espinal,2022,Toronto Blue Jays,449,51,120,7,51,36,68,.267,.322,.370,.692,hitter
+Vladimir Guerrero Jr.,2022,Toronto Blue Jays,638,90,175,32,97,58,116,.274,.339,.480,.819,hitter
+Lourdes Gurriel Jr.,2022,Toronto Blue Jays,453,52,132,5,52,31,83,.291,.343,.400,.743,hitter
+Tyler Heineman,2022,Toronto Blue Jays,15,2,4,0,1,0,4,.267,.267,.400,.667,hitter
+Teoscar Hernández,2022,Toronto Blue Jays,499,71,133,25,77,34,152,.267,.316,.491,.807,hitter
+Danny Jansen,2022,Toronto Blue Jays,215,34,56,15,44,25,44,.260,.339,.516,.855,hitter
+Gosuke Katoh,2022,Toronto Blue Jays,7,2,1,0,0,3,1,.143,.400,.286,.686,hitter
+Alejandro Kirk,2022,Toronto Blue Jays,470,59,134,14,63,63,58,.285,.372,.415,.787,hitter
+Otto Lopez,2022,Toronto Blue Jays,9,0,6,0,3,1,1,.667,.700,.667,1.367,hitter
+Whit Merrifield,2022,Kansas City Royals,383,51,92,6,42,30,61,.240,.290,.352,.642,hitter
+Gabriel Moreno,2022,Toronto Blue Jays,69,10,22,1,7,4,8,.319,.356,.377,.733,hitter
+Zach Pop,2022,Miami Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+George Springer,2022,Toronto Blue Jays,513,89,137,25,76,54,100,.267,.342,.472,.814,hitter
+Raimel Tapia,2022,Toronto Blue Jays,411,47,109,7,52,16,81,.265,.292,.380,.672,hitter
+Bradley Zimmer,2022,Philadelphia Phillies,16,4,4,0,0,0,4,.250,.250,.313,.563,hitter
+Luis Arraez,2022,Minnesota Twins,547,88,173,8,49,50,43,.316,.375,.420,.795,hitter
+Tim Beckham,2022,Minnesota Twins,25,1,2,0,1,0,9,.080,.080,.080,.160,hitter
+Byron Buxton,2022,Minnesota Twins,340,61,76,28,51,34,116,.224,.306,.526,.832,hitter
+Jake Cave,2022,Minnesota Twins,164,17,35,5,20,11,49,.213,.260,.384,.644,hitter
+Gilberto Celestino,2022,Minnesota Twins,311,30,74,2,24,32,77,.238,.313,.302,.615,hitter
+Mark Contreras,2022,Minnesota Twins,58,9,7,3,6,1,21,.121,.148,.293,.441,hitter
+Carlos Correa,2022,Minnesota Twins,522,70,152,22,64,61,121,.291,.366,.467,.833,hitter
+Tyler Duffey,2022,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jhoan Duran,2022,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Michael Fulmer,2022,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kyle Garlick,2022,Minnesota Twins,150,23,35,9,18,8,48,.233,.284,.433,.717,hitter
+José Godoy,2022,Minnesota Twins,3,2,0,0,0,2,2,.000,.400,.000,.400,hitter
+Nick Gordon,2022,Minnesota Twins,405,45,110,9,50,19,105,.272,.316,.427,.743,hitter
+Billy Hamilton,2022,Miami Marlins,13,9,1,0,0,1,8,.077,.143,.077,.220,hitter
+Caleb Hamilton,2022,Minnesota Twins,18,5,1,1,1,4,14,.056,.227,.222,.449,hitter
+Ryan Jeffers,2022,Minnesota Twins,212,25,44,7,27,23,62,.208,.285,.363,.648,hitter
+Max Kepler,2022,Minnesota Twins,388,54,88,9,43,49,66,.227,.318,.348,.666,hitter
+Alex Kirilloff,2022,Minnesota Twins,144,14,36,3,21,5,36,.250,.290,.361,.651,hitter
+Trevor Larnach,2022,Minnesota Twins,160,22,37,5,18,18,57,.231,.306,.406,.712,hitter
+Sandy León,2022,Cleveland Guardians,15,0,2,0,0,6,4,.133,.381,.133,.514,hitter
+Royce Lewis,2022,Minnesota Twins,40,5,12,2,5,1,5,.300,.317,.550,.867,hitter
+Jorge López,2022,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Trevor Megill,2022,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jose Miranda,2022,Minnesota Twins,444,45,119,15,66,28,91,.268,.325,.426,.751,hitter
+Jermaine Palacios,2022,Minnesota Twins,70,8,10,2,6,4,27,.143,.184,.229,.413,hitter
+Jorge Polanco,2022,Minnesota Twins,375,54,88,16,56,64,95,.235,.346,.405,.751,hitter
+Gary Sánchez,2022,Minnesota Twins,419,42,86,16,61,40,136,.205,.282,.377,.659,hitter
+Miguel Sanó,2022,Minnesota Twins,60,1,5,1,3,9,25,.083,.211,.133,.344,hitter
+Caleb Thielbar,2022,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Gio Urshela,2022,Minnesota Twins,501,61,143,13,64,41,96,.285,.338,.429,.767,hitter
+Matt Wallner,2022,Minnesota Twins,57,4,13,2,10,6,25,.228,.323,.386,.709,hitter
+José Alvarado,2022,Philadelphia Phillies,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Mark Appel,2022,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Andrew Bellatti,2022,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Alec Bohm,2022,Philadelphia Phillies,586,79,164,13,72,31,110,.280,.315,.398,.713,hitter
+Johan Camargo,2022,Philadelphia Phillies,152,8,36,3,15,13,37,.237,.297,.316,.613,hitter
+Nick Castellanos,2022,Philadelphia Phillies,524,56,138,13,62,29,130,.263,.305,.389,.694,hitter
+Jeurys Familia,2022,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Didi Gregorius,2022,Philadelphia Phillies,214,17,45,1,19,13,36,.210,.263,.304,.567,hitter
+Dalton Guthrie,2022,Philadelphia Phillies,21,3,7,1,5,6,7,.333,.500,.476,.976,hitter
+Darick Hall,2022,Philadelphia Phillies,136,19,34,9,16,5,44,.250,.282,.522,.804,hitter
+Bryce Harper,2022,Philadelphia Phillies,370,63,106,18,65,46,87,.286,.364,.514,.878,hitter
+Odúbel Herrera,2022,Philadelphia Phillies,185,23,44,5,21,11,42,.238,.279,.378,.657,hitter
+Rhys Hoskins,2022,Philadelphia Phillies,589,81,145,30,79,72,169,.246,.332,.462,.794,hitter
+Scott Kingery,2022,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brandon Marsh,2022,Los Angeles Angels,292,34,66,8,37,22,117,.226,.284,.353,.637,hitter
+Nick Maton,2022,Philadelphia Phillies,72,13,18,5,17,10,29,.250,.341,.514,.855,hitter
+Óscar Mercado,2022,Philadelphia Phillies,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Mickey Moniak,2022,Philadelphia Phillies,46,4,6,0,2,3,19,.130,.184,.152,.336,hitter
+Yairo Muñoz,2022,Philadelphia Phillies,57,7,12,3,7,3,10,.211,.250,.404,.654,hitter
+Símon Muzziotti,2022,Philadelphia Phillies,7,0,1,0,0,0,2,.143,.250,.143,.393,hitter
+Roman Quinn,2022,Philadelphia Phillies,37,8,6,0,3,3,15,.162,.225,.189,.414,hitter
+J.T. Realmuto,2022,Philadelphia Phillies,504,75,139,22,84,41,119,.276,.342,.478,.820,hitter
+David Robertson,2022,Chicago Cubs,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+JoJo Romero,2022,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Donny Sands,2022,Philadelphia Phillies,3,0,0,0,0,1,1,.000,.250,.000,.250,hitter
+Kyle Schwarber,2022,Philadelphia Phillies,577,100,126,46,94,86,200,.218,.323,.504,.827,hitter
+Jean Segura,2022,Philadelphia Phillies,354,45,98,10,33,25,58,.277,.336,.387,.723,hitter
+Edmundo Sosa,2022,St. Louis Cardinals,122,17,23,0,8,4,38,.189,.244,.270,.514,hitter
+Bryson Stott,2022,Philadelphia Phillies,427,58,100,10,49,36,89,.234,.295,.358,.653,hitter
+Garrett Stubbs,2022,Philadelphia Phillies,106,19,28,5,16,14,30,.264,.350,.462,.812,hitter
+Matt Vierling,2022,Philadelphia Phillies,325,41,80,6,32,23,70,.246,.297,.351,.648,hitter
+Bradley Zimmer,2022,Philadelphia Phillies,16,4,4,0,0,0,4,.250,.250,.313,.563,hitter
+Ronald Acuña Jr.,2022,Atlanta Braves,467,71,124,15,50,53,126,.266,.351,.413,.764,hitter
+Ehire Adrianza,2022,Washington Nationals,84,5,15,0,7,8,22,.179,.255,.202,.457,hitter
+Ozzie Albies,2022,Atlanta Braves,247,36,61,8,35,16,47,.247,.294,.409,.703,hitter
+Orlando Arcia,2022,Atlanta Braves,209,25,51,9,30,21,51,.244,.316,.416,.732,hitter
+Rylan Bannon,2022,Baltimore Orioles,14,0,2,0,0,0,5,.143,.200,.143,.343,hitter
+Robinson Canó,2022,New York Mets,41,3,8,1,3,2,11,.195,.233,.268,.501,hitter
+William Contreras,2022,Atlanta Braves,334,51,93,20,45,39,104,.278,.354,.506,.860,hitter
+Travis Demeritte,2022,Atlanta Braves,89,9,19,3,6,6,32,.213,.260,.337,.597,hitter
+Alex Dickerson,2022,Atlanta Braves,33,3,4,1,2,3,9,.121,.194,.212,.406,hitter
+Adam Duvall,2022,Atlanta Braves,287,39,61,12,36,21,101,.213,.276,.401,.677,hitter
+Mike Ford,2022,San Francisco Giants,4,0,1,0,2,0,0,.250,.250,.250,.500,hitter
+Phil Gosselin,2022,Atlanta Braves,23,4,6,0,0,1,6,.261,.292,.261,.553,hitter
+Vaughn Grissom,2022,Atlanta Braves,141,24,41,5,18,11,34,.291,.353,.440,.793,hitter
+Robbie Grossman,2022,Detroit Tigers,273,24,56,2,23,38,90,.205,.313,.282,.595,hitter
+Michael Harris II,2022,Atlanta Braves,414,75,123,19,64,21,107,.297,.339,.514,.853,hitter
+Guillermo Heredia,2022,Atlanta Braves,76,12,12,3,8,6,32,.158,.220,.342,.562,hitter
+Matt Olson,2022,Atlanta Braves,616,86,148,34,103,75,170,.240,.325,.477,.802,hitter
+Marcell Ozuna,2022,Atlanta Braves,470,56,106,23,56,31,122,.226,.274,.413,.687,hitter
+Manny Piña,2022,Atlanta Braves,14,1,2,0,2,1,1,.143,.235,.143,.378,hitter
+Austin Riley,2022,Atlanta Braves,615,90,168,38,93,57,168,.273,.349,.528,.877,hitter
+Eddie Rosario,2022,Atlanta Braves,250,27,53,5,24,17,68,.212,.259,.328,.587,hitter
+Jackson Stephens,2022,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Dansby Swanson,2022,Atlanta Braves,640,99,177,25,96,49,182,.277,.329,.447,.776,hitter
+Chadwick Tromp,2022,Atlanta Braves,4,0,3,0,3,0,0,.750,.750,1.250,2.000,hitter
+Travis d'Arnaud,2022,Atlanta Braves,396,61,106,18,60,19,90,.268,.319,.472,.791,hitter
+José Abreu,2022,Chicago White Sox,601,85,183,15,75,62,110,.304,.378,.446,.824,hitter
+Tim Anderson,2022,Chicago White Sox,332,50,100,6,25,14,55,.301,.339,.395,.734,hitter
+Elvis Andrus,2022,Oakland Athletics,354,41,84,8,30,30,62,.237,.301,.373,.674,hitter
+Aaron Bummer,2022,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jake Burger,2022,Chicago White Sox,168,20,42,8,26,10,56,.250,.302,.458,.760,hitter
+Adam Engel,2022,Chicago White Sox,245,32,55,2,17,11,76,.224,.269,.310,.579,hitter
+Matt Foster,2022,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Leury García,2022,Chicago White Sox,300,38,63,3,20,7,65,.210,.233,.267,.500,hitter
+Romy Gonzalez,2022,Chicago White Sox,105,15,25,2,11,2,39,.238,.257,.352,.609,hitter
+Yasmani Grandal,2022,Chicago White Sox,327,15,66,5,27,45,79,.202,.301,.269,.570,hitter
+Kendall Graveman,2022,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Adam Haseley,2022,Chicago White Sox,21,4,5,0,2,3,7,.238,.333,.238,.571,hitter
+Liam Hendriks,2022,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Eloy Jiménez,2022,Chicago White Sox,292,40,86,16,54,28,72,.295,.358,.500,.858,hitter
+Jimmy Lambert,2022,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Reynaldo López,2022,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Reese McGuire,2022,Chicago White Sox,151,12,34,0,10,6,33,.225,.261,.285,.546,hitter
+Danny Mendick,2022,Chicago White Sox,97,22,28,3,15,7,23,.289,.343,.443,.786,hitter
+Yoán Moncada,2022,Chicago White Sox,397,41,84,12,51,32,114,.212,.273,.353,.626,hitter
+Mark Payton,2022,Chicago White Sox,21,3,3,0,1,4,4,.143,.280,.143,.423,hitter
+Carlos Pérez,2022,Chicago White Sox,18,0,4,0,2,0,2,.222,.222,.333,.555,hitter
+AJ Pollock,2022,Chicago White Sox,489,61,120,14,56,32,98,.245,.292,.389,.681,hitter
+Luis Robert Jr.,2022,Chicago White Sox,380,54,108,12,56,17,77,.284,.319,.426,.745,hitter
+Anderson Severino,2022,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Gavin Sheets,2022,Chicago White Sox,377,34,91,15,53,27,86,.241,.295,.411,.706,hitter
+Lenyn Sosa,2022,Chicago White Sox,35,3,4,1,1,1,12,.114,.139,.229,.368,hitter
+Andrew Vaughn,2022,Chicago White Sox,510,60,138,17,76,31,96,.271,.321,.429,.750,hitter
+Seby Zavala,2022,Chicago White Sox,178,22,48,2,21,19,64,.270,.347,.382,.729,hitter
+Jesús Aguilar,2022,Miami Marlins,415,37,98,15,49,27,106,.236,.286,.388,.674,hitter
+Brian Anderson,2022,Miami Marlins,338,43,75,8,28,37,101,.222,.311,.346,.657,hitter
+Willians Astudillo,2022,Miami Marlins,54,5,13,1,4,1,3,.241,.255,.296,.551,hitter
+Anthony Bass,2022,Miami Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jon Berti,2022,Miami Marlins,358,47,86,4,28,42,89,.240,.324,.338,.662,hitter
+JJ Bleday,2022,Miami Marlins,204,21,34,5,16,30,67,.167,.277,.309,.586,hitter
+Richard Bleier,2022,Miami Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Peyton Burdick,2022,Miami Marlins,92,8,19,4,11,8,35,.207,.284,.380,.664,hitter
+Jazz Chisholm Jr.,2022,Miami Marlins,213,39,54,14,45,21,66,.254,.325,.535,.860,hitter
+Garrett Cooper,2022,Miami Marlins,414,37,108,9,50,40,119,.261,.337,.415,.752,hitter
+Bryan De La Cruz,2022,Miami Marlins,329,38,83,13,43,19,90,.252,.294,.432,.726,hitter
+Lewin Díaz,2022,Miami Marlins,160,12,27,5,11,11,54,.169,.224,.288,.512,hitter
+Joe Dunand,2022,Miami Marlins,10,2,3,1,1,0,3,.300,.364,.700,1.064,hitter
+Jerar Encarnacion,2022,Miami Marlins,77,7,14,3,14,3,32,.182,.210,.338,.548,hitter
+Dylan Floro,2022,Miami Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Nick Fortes,2022,Miami Marlins,217,41,50,9,24,18,45,.230,.304,.392,.696,hitter
+Avisaíl García,2022,Miami Marlins,357,31,80,8,35,17,109,.224,.266,.317,.583,hitter
+Erik González,2022,Miami Marlins,37,4,7,0,3,4,12,.189,.268,.216,.484,hitter
+Jordan Groshans,2022,Miami Marlins,61,9,16,1,2,4,13,.262,.308,.311,.619,hitter
+Billy Hamilton,2022,Miami Marlins,13,9,1,0,0,1,8,.077,.143,.077,.220,hitter
+Payton Henry,2022,Miami Marlins,28,2,4,0,4,5,8,.143,.314,.143,.457,hitter
+Charles Leblanc,2022,Miami Marlins,156,18,41,4,11,12,53,.263,.320,.404,.724,hitter
+Andrew Nardi,2022,Miami Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Steven Okert,2022,Miami Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Zach Pop,2022,Miami Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Miguel Rojas,2022,Miami Marlins,471,34,111,6,36,26,61,.236,.283,.323,.606,hitter
+Jesús Sánchez,2022,Miami Marlins,313,38,67,13,36,26,92,.214,.280,.403,.683,hitter
+Tanner Scott,2022,Miami Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jorge Soler,2022,Miami Marlins,270,32,56,13,34,31,90,.207,.295,.400,.695,hitter
+Jacob Stallings,2022,Miami Marlins,346,25,77,4,34,29,83,.223,.292,.292,.584,hitter
+Cole Sulser,2022,Miami Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Joey Wendle,2022,Miami Marlins,347,27,90,3,32,15,50,.259,.297,.360,.657,hitter
+Luke Williams,2022,San Francisco Giants,12,1,3,0,3,0,4,.250,.250,.333,.583,hitter
+Albert Abreu,2022,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Miguel Andujar,2022,New York Yankees,96,9,22,1,8,3,22,.229,.250,.281,.531,hitter
+Harrison Bader,2022,St. Louis Cardinals,246,35,63,5,21,13,47,.256,.303,.370,.673,hitter
+Andrew Benintendi,2022,Kansas City Royals,347,40,111,3,39,39,52,.320,.387,.398,.785,hitter
+Rob Brantly,2022,New York Yankees,3,0,1,0,0,0,0,.333,.333,.667,1.000,hitter
+Oswaldo Cabrera,2022,New York Yankees,154,21,38,6,19,15,44,.247,.312,.429,.741,hitter
+Matt Carpenter,2022,New York Yankees,128,28,39,15,37,19,35,.305,.412,.727,1.139,hitter
+Josh Donaldson,2022,New York Yankees,478,59,106,15,62,54,148,.222,.308,.374,.682,hitter
+Estevan Florial,2022,New York Yankees,31,4,3,0,1,3,13,.097,.200,.097,.297,hitter
+Joey Gallo,2022,New York Yankees,233,32,37,12,24,40,106,.159,.282,.339,.621,hitter
+Marwin Gonzalez,2022,New York Yankees,184,20,34,6,18,14,54,.185,.255,.321,.576,hitter
+Ronald Guzmán,2022,New York Yankees,6,0,0,0,0,0,5,.000,.000,.000,.000,hitter
+Aaron Hicks,2022,New York Yankees,384,54,83,8,40,62,109,.216,.330,.313,.643,hitter
+Kyle Higashioka,2022,New York Yankees,229,27,52,10,31,12,52,.227,.264,.389,.653,hitter
+Aaron Judge,2022,New York Yankees,570,133,177,62,131,111,175,.311,.425,.686,1.111,hitter
+Isiah Kiner-Falefa,2022,New York Yankees,483,66,126,4,48,35,72,.261,.314,.327,.641,hitter
+DJ LeMahieu,2022,New York Yankees,467,74,122,12,46,67,71,.261,.357,.377,.734,hitter
+Jonathan Loáisiga,2022,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tim Locastro,2022,New York Yankees,43,13,8,2,4,2,7,.186,.239,.349,.588,hitter
+Oswald Peraza,2022,New York Yankees,49,8,15,1,2,6,9,.306,.404,.429,.833,hitter
+Anthony Rizzo,2022,New York Yankees,465,77,104,32,75,58,101,.224,.338,.480,.818,hitter
+Clarke Schmidt,2022,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Giancarlo Stanton,2022,New York Yankees,398,53,84,31,78,50,137,.211,.297,.462,.759,hitter
+Gleyber Torres,2022,New York Yankees,526,73,135,24,76,39,129,.257,.310,.451,.761,hitter
+Jose Trevino,2022,New York Yankees,335,39,83,11,43,15,62,.248,.283,.388,.671,hitter
+Willy Adames,2022,Milwaukee Brewers,563,83,134,31,98,49,166,.238,.298,.458,.756,hitter
+Mike Brosseau,2022,Milwaukee Brewers,141,15,36,6,23,14,48,.255,.344,.418,.762,hitter
+Lorenzo Cain,2022,Milwaukee Brewers,145,17,26,1,9,8,36,.179,.231,.234,.465,hitter
+Victor Caratini,2022,Milwaukee Brewers,272,26,54,9,34,31,67,.199,.300,.342,.642,hitter
+Jonathan Davis,2022,Milwaukee Brewers,76,9,17,0,4,14,26,.224,.344,.237,.581,hitter
+Mario Feliciano,2022,Milwaukee Brewers,4,0,1,0,0,1,1,.250,.400,.250,.650,hitter
+Keston Hiura,2022,Milwaukee Brewers,234,34,53,14,32,23,111,.226,.316,.449,.765,hitter
+Alex Jackson,2022,Milwaukee Brewers,12,0,3,0,0,0,7,.250,.250,.250,.500,hitter
+Mark Mathias,2022,Milwaukee Brewers,16,2,2,1,4,0,4,.125,.118,.313,.431,hitter
+Andrew McCutchen,2022,Milwaukee Brewers,515,66,122,17,69,57,124,.237,.316,.384,.700,hitter
+Garrett Mitchell,2022,Milwaukee Brewers,61,9,19,2,9,6,28,.311,.373,.459,.832,hitter
+Omar Narváez,2022,Milwaukee Brewers,262,21,54,4,23,29,57,.206,.292,.305,.597,hitter
+Jace Peterson,2022,Milwaukee Brewers,288,44,68,8,34,33,85,.236,.316,.382,.698,hitter
+Hunter Renfroe,2022,Milwaukee Brewers,474,62,121,29,72,39,121,.255,.315,.492,.807,hitter
+Pablo Reyes,2022,Milwaukee Brewers,15,1,4,0,0,1,2,.267,.313,.267,.580,hitter
+Taylor Rogers,2022,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Esteury Ruiz,2022,San Diego Padres,27,1,6,0,2,0,5,.222,.222,.333,.555,hitter
+Pedro Severino,2022,Milwaukee Brewers,18,0,4,0,1,3,7,.222,.333,.333,.666,hitter
+Tyrone Taylor,2022,Milwaukee Brewers,373,49,87,17,51,22,102,.233,.286,.442,.728,hitter
+Rowdy Tellez,2022,Milwaukee Brewers,529,67,116,35,89,62,121,.219,.306,.461,.767,hitter
+Luis Urías,2022,Milwaukee Brewers,406,54,97,16,47,50,99,.239,.335,.404,.739,hitter
+Kolten Wong,2022,Milwaukee Brewers,430,65,108,15,47,46,88,.251,.339,.430,.769,hitter
+Christian Yelich,2022,Milwaukee Brewers,575,99,145,14,57,88,162,.252,.355,.383,.738,hitter
+Jo Adell,2022,Los Angeles Angels,268,22,60,8,27,11,107,.224,.264,.373,.637,hitter
+Ryan Aguilar,2022,Los Angeles Angels,22,2,3,0,2,2,14,.136,.231,.182,.413,hitter
+Matt Duffy,2022,Los Angeles Angels,228,14,57,2,16,17,50,.250,.308,.311,.619,hitter
+Steven Duggar,2022,San Francisco Giants,36,2,7,0,4,2,16,.194,.231,.278,.509,hitter
+David Fletcher,2022,Los Angeles Angels,216,20,55,2,17,7,16,.255,.288,.333,.621,hitter
+Mike Ford,2022,San Francisco Giants,4,0,1,0,2,0,0,.250,.250,.250,.500,hitter
+Phil Gosselin,2022,Atlanta Braves,23,4,6,0,0,1,6,.261,.292,.261,.553,hitter
+Monte Harrison,2022,Los Angeles Angels,11,5,2,1,3,2,8,.182,.357,.455,.812,hitter
+Juan Lagares,2022,Los Angeles Angels,60,4,11,0,0,2,15,.183,.210,.250,.460,hitter
+David MacKinnon,2022,Los Angeles Angels,37,0,7,0,6,5,12,.189,.279,.189,.468,hitter
+Brandon Marsh,2022,Los Angeles Angels,292,34,66,8,37,22,117,.226,.284,.353,.637,hitter
+Jack Mayfield,2022,Los Angeles Angels,70,8,13,1,6,3,17,.186,.230,.271,.501,hitter
+Mickey Moniak,2022,Philadelphia Phillies,46,4,6,0,2,3,19,.130,.184,.152,.336,hitter
+Logan O'Hoppe,2022,Los Angeles Angels,14,1,4,0,2,2,3,.286,.375,.286,.661,hitter
+Shohei Ohtani,2022,Los Angeles Angels,586,90,160,34,95,72,161,.273,.356,.519,.875,hitter
+Anthony Rendon,2022,Los Angeles Angels,166,15,38,5,24,23,35,.229,.326,.380,.706,hitter
+Luis Rengifo,2022,Los Angeles Angels,489,45,129,17,52,17,79,.264,.294,.429,.723,hitter
+Jose Rojas,2022,Los Angeles Angels,56,1,7,0,1,0,19,.125,.140,.161,.301,hitter
+Austin Romine,2022,Los Angeles Angels,8,0,2,0,0,0,3,.250,.250,.250,.500,hitter
+Magneuris Sierra,2022,Los Angeles Angels,91,7,15,0,5,4,25,.165,.200,.242,.442,hitter
+Livan Soto,2022,Los Angeles Angels,55,9,22,1,9,2,13,.400,.414,.582,.996,hitter
+Max Stassi,2022,Los Angeles Angels,333,32,60,9,30,38,112,.180,.267,.303,.570,hitter
+Michael Stefanic,2022,Los Angeles Angels,61,5,12,0,0,5,12,.197,.279,.230,.509,hitter
+Kurt Suzuki,2022,Los Angeles Angels,139,10,25,4,15,15,29,.180,.266,.295,.561,hitter
+Matt Thaiss,2022,Los Angeles Angels,69,9,15,2,8,11,24,.217,.321,.319,.640,hitter
+Dillon Thomas,2022,Los Angeles Angels,11,1,1,0,0,2,6,.091,.286,.091,.377,hitter
+Mike Trout,2022,Los Angeles Angels,438,85,124,40,80,54,139,.283,.369,.630,.999,hitter
+Andrew Velazquez,2022,Los Angeles Angels,322,37,63,9,28,15,119,.196,.236,.304,.540,hitter
+Jonathan Villar,2022,Chicago Cubs,153,19,34,2,15,11,42,.222,.271,.327,.598,hitter
+Tyler Wade,2022,Los Angeles Angels,147,22,32,1,8,10,33,.218,.272,.272,.544,hitter
+Chad Wallach,2022,Los Angeles Angels,35,3,5,1,4,4,9,.143,.231,.257,.488,hitter
+Jared Walsh,2022,Los Angeles Angels,423,41,91,15,44,27,138,.215,.269,.374,.643,hitter
+Taylor Ward,2022,Los Angeles Angels,495,73,139,23,65,60,120,.281,.360,.473,.833,hitter
+Aaron Whitefield,2022,Los Angeles Angels,11,0,0,0,0,0,5,.000,.000,.000,.000,hitter
+Nick Ahmed,2022,Arizona Diamondbacks,52,7,12,3,7,2,15,.231,.259,.442,.701,hitter
+Sergio Alcántara,2022,San Diego Padres,35,3,4,0,3,2,12,.114,.158,.114,.272,hitter
+Seth Beer,2022,Arizona Diamondbacks,111,4,21,1,9,11,31,.189,.278,.243,.521,hitter
+Corbin Carroll,2022,Arizona Diamondbacks,104,13,27,4,14,8,31,.260,.330,.500,.830,hitter
+Matt Davidson,2022,Arizona Diamondbacks,10,1,1,1,1,3,3,.100,.308,.400,.708,hitter
+Wilmer Difo,2022,Arizona Diamondbacks,6,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Drew Ellis,2022,Arizona Diamondbacks,13,2,2,0,1,1,6,.154,.214,.231,.445,hitter
+Stone Garrett,2022,Arizona Diamondbacks,76,13,21,4,10,3,27,.276,.309,.539,.848,hitter
+Kevin Ginkel,2022,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Grayson Greiner,2022,Arizona Diamondbacks,6,0,1,0,0,2,3,.167,.375,.167,.542,hitter
+Jake Hager,2022,Arizona Diamondbacks,50,4,12,0,3,8,17,.240,.345,.280,.625,hitter
+Yonny Hernández,2022,Arizona Diamondbacks,24,2,2,0,0,2,4,.083,.154,.083,.237,hitter
+Jose Herrera,2022,Arizona Diamondbacks,111,9,21,0,5,9,34,.189,.250,.207,.457,hitter
+Cooper Hummel,2022,Arizona Diamondbacks,176,20,31,3,17,23,64,.176,.274,.307,.581,hitter
+Carson Kelly,2022,Arizona Diamondbacks,317,40,67,7,35,29,71,.211,.282,.334,.616,hitter
+Buddy Kennedy,2022,Arizona Diamondbacks,83,10,18,1,12,8,23,.217,.287,.325,.612,hitter
+Ian Kennedy,2022,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jordan Luplow,2022,Arizona Diamondbacks,205,26,36,11,28,25,60,.176,.274,.361,.635,hitter
+Joe Mantiply,2022,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ketel Marte,2022,Arizona Diamondbacks,492,68,118,12,52,55,101,.240,.321,.407,.728,hitter
+Jake McCarthy,2022,Arizona Diamondbacks,321,53,91,8,43,23,76,.283,.342,.427,.769,hitter
+Mark Melancon,2022,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Keynan Middleton,2022,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Reyes Moronta,2022,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kyle Nelson,2022,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+David Peralta,2022,Arizona Diamondbacks,278,29,69,12,41,27,74,.248,.316,.460,.776,hitter
+Geraldo Perdomo,2022,Arizona Diamondbacks,431,58,84,5,40,50,103,.195,.285,.262,.547,hitter
+Sean Poppen,2022,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Noé Ramirez,2022,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Emmanuel Rivera,2022,Kansas City Royals,198,24,47,6,22,11,46,.237,.284,.399,.683,hitter
+Josh Rojas,2022,Arizona Diamondbacks,443,66,119,9,56,55,98,.269,.349,.391,.740,hitter
+Pavin Smith,2022,Arizona Diamondbacks,245,24,54,9,33,28,67,.220,.300,.367,.667,hitter
+Alek Thomas,2022,Arizona Diamondbacks,381,45,88,8,39,22,74,.231,.275,.344,.619,hitter
+Daulton Varsho,2022,Arizona Diamondbacks,531,79,125,27,74,46,145,.235,.302,.443,.745,hitter
+Christian Walker,2022,Arizona Diamondbacks,583,84,141,36,94,69,131,.242,.327,.477,.804,hitter
+Luke Weaver,2022,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+J.B. Wendelken,2022,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jesús Aguilar,2022,Miami Marlins,415,37,98,15,49,27,106,.236,.286,.388,.674,hitter
+Jonathan Araúz,2022,Boston Red Sox,10,1,0,0,1,0,3,.000,.000,.000,.000,hitter
+Rylan Bannon,2022,Baltimore Orioles,14,0,2,0,0,0,5,.143,.200,.143,.343,hitter
+Félix Bautista,2022,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Anthony Bemboom,2022,Baltimore Orioles,52,4,6,1,1,6,17,.115,.207,.212,.419,hitter
+Robinson Chirinos,2022,Baltimore Orioles,195,10,35,4,22,19,67,.179,.265,.287,.552,hitter
+Yusniel Díaz,2022,Baltimore Orioles,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Rico Garcia,2022,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kelvin Gutiérrez,2022,Baltimore Orioles,28,2,4,0,3,4,8,.143,.250,.179,.429,hitter
+Austin Hays,2022,Baltimore Orioles,535,66,134,16,60,34,114,.250,.306,.413,.719,hitter
+Gunnar Henderson,2022,Baltimore Orioles,116,12,30,4,18,16,34,.259,.348,.440,.788,hitter
+Joey Krehbiel,2022,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jorge López,2022,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Trey Mancini,2022,Baltimore Orioles,354,39,95,10,41,35,86,.268,.347,.404,.751,hitter
+Richie Martin,2022,Baltimore Orioles,30,4,5,0,3,3,10,.167,.242,.300,.542,hitter
+Jorge Mateo,2022,Baltimore Orioles,494,63,109,13,50,27,147,.221,.267,.379,.646,hitter
+Ryan McKenna,2022,Baltimore Orioles,156,23,37,2,11,11,55,.237,.294,.340,.634,hitter
+Ryan Mountcastle,2022,Baltimore Orioles,555,62,139,22,85,43,154,.250,.305,.423,.728,hitter
+Cedric Mullins,2022,Baltimore Orioles,608,89,157,16,64,47,126,.258,.318,.403,.721,hitter
+Tyler Nevin,2022,Baltimore Orioles,157,17,31,2,16,20,46,.197,.299,.261,.560,hitter
+Rougned Odor,2022,Baltimore Orioles,426,49,88,13,53,32,109,.207,.275,.357,.632,hitter
+Chris Owings,2022,Baltimore Orioles,56,6,6,0,0,10,24,.107,.254,.143,.397,hitter
+Cionel Pérez,2022,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brett Phillips,2022,Tampa Bay Rays,184,21,27,5,14,16,85,.147,.225,.250,.475,hitter
+Jake Reed,2022,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Adley Rutschman,2022,Baltimore Orioles,398,70,101,13,42,65,86,.254,.362,.445,.807,hitter
+Anthony Santander,2022,Baltimore Orioles,574,78,138,33,89,55,122,.240,.318,.455,.773,hitter
+DJ Stewart,2022,Baltimore Orioles,3,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Kyle Stowers,2022,Baltimore Orioles,91,11,23,3,11,5,29,.253,.306,.418,.724,hitter
+Dillon Tate,2022,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ramón Urías,2022,Baltimore Orioles,403,50,100,16,51,30,98,.248,.305,.414,.719,hitter
+Terrin Vavra,2022,Baltimore Orioles,89,14,23,1,12,12,19,.258,.340,.337,.677,hitter
+Abraham Almonte,2022,Boston Red Sox,35,7,9,1,2,1,12,.257,.297,.400,.697,hitter
+Jonathan Araúz,2022,Boston Red Sox,10,1,0,0,1,0,3,.000,.000,.000,.000,hitter
+Christian Arroyo,2022,Boston Red Sox,280,32,80,6,36,13,49,.286,.322,.414,.736,hitter
+Xander Bogaerts,2022,Boston Red Sox,557,84,171,15,73,57,118,.307,.377,.456,.833,hitter
+Jackie Bradley Jr.,2022,Boston Red Sox,271,21,57,3,29,17,58,.210,.257,.321,.578,hitter
+Triston Casas,2022,Boston Red Sox,76,11,15,5,12,19,23,.197,.358,.408,.766,hitter
+Yu Chang,2022,Cleveland Guardians,10,0,0,0,0,0,7,.000,.000,.000,.000,hitter
+Franchy Cordero,2022,Boston Red Sox,242,36,53,8,29,28,92,.219,.300,.397,.697,hitter
+Bobby Dalbec,2022,Boston Red Sox,317,40,68,12,39,29,118,.215,.283,.369,.652,hitter
+Jaylin Davis,2022,Boston Red Sox,24,4,8,0,2,3,11,.333,.407,.375,.782,hitter
+Rafael Devers,2022,Boston Red Sox,555,84,164,27,88,50,114,.295,.358,.521,.879,hitter
+Jeter Downs,2022,Boston Red Sox,39,4,6,1,4,1,21,.154,.171,.256,.427,hitter
+Jarren Duran,2022,Boston Red Sox,204,23,45,3,17,14,63,.221,.283,.363,.646,hitter
+Jeurys Familia,2022,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Enrique Hernández,2022,Boston Red Sox,361,48,80,6,45,34,71,.222,.291,.338,.629,hitter
+Eric Hosmer,2022,San Diego Padres,335,32,91,8,40,33,55,.272,.336,.391,.727,hitter
+J.D. Martinez,2022,Boston Red Sox,533,76,146,16,62,52,145,.274,.341,.448,.789,hitter
+Reese McGuire,2022,Chicago White Sox,151,12,34,0,10,6,33,.225,.261,.285,.546,hitter
+Tommy Pham,2022,Cincinnati Reds,340,57,81,11,39,42,100,.238,.320,.374,.694,hitter
+Kevin Plawecki,2022,Boston Red Sox,157,15,34,1,12,14,28,.217,.287,.287,.574,hitter
+Rob Refsnyder,2022,Boston Red Sox,153,25,47,6,21,15,46,.307,.384,.497,.881,hitter
+Yolmer Sánchez,2022,Boston Red Sox,37,1,4,0,2,5,13,.108,.214,.108,.322,hitter
+Travis Shaw,2022,Boston Red Sox,19,0,0,0,0,0,7,.000,.000,.000,.000,hitter
+Trevor Story,2022,Boston Red Sox,357,53,85,16,66,32,122,.238,.303,.434,.737,hitter
+Christian Vázquez,2022,Boston Red Sox,294,33,83,8,42,18,51,.282,.327,.432,.759,hitter
+Alex Verdugo,2022,Boston Red Sox,593,75,166,11,74,42,86,.280,.328,.405,.733,hitter
+Connor Wong,2022,Boston Red Sox,48,8,9,1,7,5,16,.188,.273,.313,.586,hitter
+David Bote,2022,Chicago Cubs,116,15,30,4,12,6,45,.259,.315,.431,.746,hitter
+Willson Contreras,2022,Chicago Cubs,416,65,101,22,55,45,103,.243,.349,.466,.815,hitter
+Narciso Crook,2022,Chicago Cubs,8,1,2,0,2,0,3,.250,.222,.375,.597,hitter
+Clint Frazier,2022,Chicago Cubs,37,4,8,0,1,7,11,.216,.356,.297,.653,hitter
+Mychal Givens,2022,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Yan Gomes,2022,Chicago Cubs,277,23,65,8,31,8,47,.235,.260,.365,.625,hitter
+Ian Happ,2022,Chicago Cubs,573,72,155,17,72,58,149,.271,.342,.440,.782,hitter
+Michael Hermosillo,2022,Chicago Cubs,61,7,7,0,4,7,27,.115,.250,.148,.398,hitter
+Jason Heyward,2022,Chicago Cubs,137,15,28,1,10,11,32,.204,.278,.277,.555,hitter
+P.J. Higgins,2022,Chicago Cubs,201,23,46,6,30,22,58,.229,.310,.383,.693,hitter
+Nico Hoerner,2022,Chicago Cubs,481,60,135,10,55,28,57,.281,.327,.410,.737,hitter
+Brandon Hughes,2022,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Nick Madrigal,2022,Chicago Cubs,209,19,52,0,7,14,27,.249,.305,.282,.587,hitter
+Chris Martin,2022,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Zach McKinstry,2022,Los Angeles Dodgers,11,4,1,1,2,3,4,.091,.286,.364,.650,hitter
+Alec Mills,2022,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Christopher Morel,2022,Chicago Cubs,379,55,89,16,47,38,137,.235,.308,.433,.741,hitter
+Daniel Norris,2022,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Rafael Ortega,2022,Chicago Cubs,316,35,76,7,35,44,74,.241,.331,.358,.689,hitter
+Esteban Quiroz,2022,Chicago Cubs,40,3,11,0,3,4,9,.275,.370,.275,.645,hitter
+Franmil Reyes,2022,Cleveland Guardians,263,24,56,9,28,14,104,.213,.254,.350,.604,hitter
+Alfonso Rivas III,2022,Chicago Cubs,251,27,59,3,25,29,87,.235,.322,.307,.629,hitter
+David Robertson,2022,Chicago Cubs,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Frank Schwindel,2022,Chicago Cubs,271,23,62,8,36,19,58,.229,.277,.358,.635,hitter
+Andrelton Simmons,2022,Chicago Cubs,75,8,13,0,7,7,13,.173,.244,.187,.431,hitter
+Seiya Suzuki,2022,Chicago Cubs,397,54,104,14,46,42,110,.262,.336,.433,.769,hitter
+Ildemaro Vargas,2022,Chicago Cubs,23,4,3,1,4,3,2,.130,.231,.348,.579,hitter
+Nelson Velázquez,2022,Chicago Cubs,185,20,38,6,26,19,65,.205,.286,.373,.659,hitter
+Jonathan Villar,2022,Chicago Cubs,153,19,34,2,15,11,42,.222,.271,.327,.598,hitter
+Patrick Wisdom,2022,Chicago Cubs,469,67,97,25,66,53,183,.207,.298,.426,.724,hitter
+Jared Young,2022,Chicago Cubs,19,2,5,0,0,3,7,.263,.364,.368,.732,hitter
+Albert Almora Jr.,2022,Cincinnati Reds,215,26,48,5,29,17,46,.223,.282,.349,.631,hitter
+Aristides Aquino,2022,Cincinnati Reds,259,24,51,10,30,17,101,.197,.246,.363,.609,hitter
+Jose Barrero,2022,Cincinnati Reds,165,13,25,2,10,9,76,.152,.195,.206,.401,hitter
+Ronnie Dawson,2022,Cincinnati Reds,3,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Brandon Drury,2022,Cincinnati Reds,350,62,96,20,59,29,84,.274,.335,.520,.855,hitter
+Stuart Fairchild,2022,Seattle Mariners,3,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Kyle Farmer,2022,Cincinnati Reds,526,58,134,14,78,33,99,.255,.315,.386,.701,hitter
+Jake Fraley,2022,Cincinnati Reds,216,33,56,12,28,26,54,.259,.344,.468,.812,hitter
+Aramis Garcia,2022,Cincinnati Reds,108,6,23,1,4,3,34,.213,.248,.259,.507,hitter
+Ryan Hendrix,2022,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jeff Hoffman,2022,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jonathan India,2022,Cincinnati Reds,386,48,96,10,41,31,94,.249,.327,.378,.705,hitter
+Mark Kolozsvary,2022,Cincinnati Reds,20,3,4,1,3,1,9,.200,.238,.450,.688,hitter
+Joel Kuhnel,2022,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Alejo Lopez,2022,Cincinnati Reds,145,15,38,1,10,9,21,.262,.314,.331,.645,hitter
+Colin Moran,2022,Cincinnati Reds,109,11,23,5,23,16,30,.211,.305,.376,.681,hitter
+Dauri Moreta,2022,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Taylor Motter,2022,Cincinnati Reds,6,0,1,0,0,0,3,.167,.167,.167,.334,hitter
+Mike Moustakas,2022,Cincinnati Reds,252,30,54,7,25,24,75,.214,.295,.345,.640,hitter
+Tyler Naquin,2022,Cincinnati Reds,187,29,46,7,33,13,53,.246,.305,.444,.749,hitter
+Chris Okey,2022,Cincinnati Reds,12,3,2,0,0,0,5,.167,.231,.167,.398,hitter
+Michael Papierski,2022,San Francisco Giants,9,1,0,0,0,1,4,.000,.100,.000,.100,hitter
+Tommy Pham,2022,Cincinnati Reds,340,57,81,11,39,42,100,.238,.320,.374,.694,hitter
+Matt Reynolds,2022,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+JT Riddle,2022,Cincinnati Reds,4,0,1,0,0,0,1,.250,.250,.250,.500,hitter
+Chuckie Robinson,2022,Cincinnati Reds,59,3,8,2,5,0,17,.136,.136,.271,.407,hitter
+Austin Romine,2022,Los Angeles Angels,8,0,2,0,0,0,3,.250,.250,.250,.500,hitter
+Reiver Sanmartin,2022,Cincinnati Reds,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Max Schrock,2022,Cincinnati Reds,26,1,4,0,1,1,6,.154,.185,.154,.339,hitter
+Nick Senzel,2022,Cincinnati Reds,373,45,86,5,25,30,76,.231,.296,.306,.602,hitter
+Michael Siani,2022,Cincinnati Reds,24,1,4,0,0,0,7,.167,.167,.167,.334,hitter
+Donovan Solano,2022,Cincinnati Reds,278,22,79,4,24,19,61,.284,.339,.385,.724,hitter
+Spencer Steer,2022,Cincinnati Reds,95,12,20,2,8,11,26,.211,.306,.326,.632,hitter
+Tyler Stephenson,2022,Cincinnati Reds,166,24,53,6,35,12,47,.319,.372,.482,.854,hitter
+Hunter Strickland,2022,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Joey Votto,2022,Cincinnati Reds,322,31,66,11,41,44,97,.205,.319,.370,.689,hitter
+Gabriel Arias,2022,Cleveland Guardians,47,9,9,1,5,8,16,.191,.321,.319,.640,hitter
+Will Benson,2022,Cleveland Guardians,55,8,10,0,3,3,19,.182,.250,.200,.450,hitter
+Bobby Bradley,2022,Cleveland Guardians,17,1,2,0,0,0,9,.118,.118,.118,.236,hitter
+Will Brennan,2022,Cleveland Guardians,42,6,15,1,8,2,4,.357,.400,.500,.900,hitter
+Alex Call,2022,Cleveland Guardians,12,2,2,0,0,4,4,.167,.375,.167,.542,hitter
+Yu Chang,2022,Cleveland Guardians,10,0,0,0,0,0,7,.000,.000,.000,.000,hitter
+Ernie Clement,2022,Cleveland Guardians,145,18,29,0,6,11,24,.200,.264,.221,.485,hitter
+Enyel De Los Santos,2022,Cleveland Guardians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tyler Freeman,2022,Cleveland Guardians,77,9,19,0,3,4,11,.247,.314,.286,.600,hitter
+Andrés Giménez,2022,Cleveland Guardians,491,66,146,17,69,34,112,.297,.371,.466,.837,hitter
+Oscar Gonzalez,2022,Cleveland Guardians,362,39,107,11,43,15,75,.296,.327,.461,.788,hitter
+Austin Hedges,2022,Cleveland Guardians,294,26,48,7,30,25,78,.163,.241,.248,.489,hitter
+Nolan Jones,2022,Cleveland Guardians,86,10,21,2,13,8,31,.244,.309,.372,.681,hitter
+Steven Kwan,2022,Cleveland Guardians,563,89,168,6,52,62,60,.298,.373,.400,.773,hitter
+Bryan Lavastida,2022,Cleveland Guardians,12,0,1,0,0,3,4,.083,.267,.083,.350,hitter
+Sandy León,2022,Cleveland Guardians,15,0,2,0,0,6,4,.133,.381,.133,.514,hitter
+Luke Maile,2022,Cleveland Guardians,181,19,40,3,17,19,54,.221,.301,.326,.627,hitter
+Óscar Mercado,2022,Philadelphia Phillies,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Owen Miller,2022,Cleveland Guardians,424,53,103,6,51,32,93,.243,.301,.351,.652,hitter
+Bo Naylor,2022,Cleveland Guardians,8,0,0,0,0,0,5,.000,.000,.000,.000,hitter
+Josh Naylor,2022,Cleveland Guardians,449,47,115,20,79,38,80,.256,.319,.452,.771,hitter
+Richie Palacios,2022,Cleveland Guardians,112,7,26,0,10,9,20,.232,.293,.286,.579,hitter
+José Ramírez,2022,Cleveland Guardians,601,90,168,29,126,69,82,.280,.355,.514,.869,hitter
+Franmil Reyes,2022,Cleveland Guardians,263,24,56,9,28,14,104,.213,.254,.350,.604,hitter
+Amed Rosario,2022,Cleveland Guardians,637,86,180,11,71,25,111,.283,.312,.403,.715,hitter
+Bryan Shaw,2022,Cleveland Guardians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Myles Straw,2022,Cleveland Guardians,535,72,118,0,32,54,87,.221,.291,.273,.564,hitter
+Daniel Bard,2022,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Wynton Bernard,2022,Colorado Rockies,42,9,12,0,3,0,8,.286,.286,.310,.596,hitter
+Charlie Blackmon,2022,Colorado Rockies,530,60,140,16,78,32,109,.264,.314,.419,.733,hitter
+Sean Bouchard,2022,Colorado Rockies,74,9,22,3,11,21,25,.297,.454,.500,.954,hitter
+Kris Bryant,2022,Colorado Rockies,160,28,49,5,14,17,27,.306,.376,.475,.851,hitter
+Alex Colomé,2022,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+C.J. Cron,2022,Colorado Rockies,575,79,148,29,102,43,164,.257,.315,.468,.783,hitter
+Yonathan Daza,2022,Colorado Rockies,372,56,112,2,34,26,58,.301,.349,.384,.733,hitter
+Elias Díaz,2022,Colorado Rockies,351,29,80,9,51,25,82,.228,.281,.368,.649,hitter
+Carlos Estévez,2022,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Lucas Gilbreath,2022,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Randal Grichuk,2022,Colorado Rockies,506,60,131,19,73,24,127,.259,.299,.425,.724,hitter
+Garrett Hampson,2022,Colorado Rockies,199,29,42,2,15,21,63,.211,.287,.307,.594,hitter
+Sam Hilliard,2022,Colorado Rockies,174,26,32,2,14,23,57,.184,.280,.264,.544,hitter
+Jose Iglesias,2022,Colorado Rockies,439,48,128,3,47,17,56,.292,.328,.380,.708,hitter
+Connor Joe,2022,Colorado Rockies,404,56,96,7,28,55,97,.238,.338,.359,.697,hitter
+Ryan McMahon,2022,Colorado Rockies,529,67,130,20,67,60,158,.246,.327,.414,.741,hitter
+Elehuris Montero,2022,Colorado Rockies,176,21,41,6,20,8,60,.233,.270,.432,.702,hitter
+Dom Nuñez,2022,Colorado Rockies,33,3,4,0,2,6,10,.121,.244,.152,.396,hitter
+Brendan Rodgers,2022,Colorado Rockies,527,72,140,13,63,46,101,.266,.325,.408,.733,hitter
+Brian Serven,2022,Colorado Rockies,187,19,38,6,16,13,44,.203,.261,.332,.593,hitter
+Michael Toglia,2022,Colorado Rockies,111,10,24,2,12,9,44,.216,.275,.378,.653,hitter
+Ezequiel Tovar,2022,Colorado Rockies,33,2,7,1,2,2,9,.212,.257,.333,.590,hitter
+Alan Trejo,2022,Colorado Rockies,118,15,32,4,17,5,31,.271,.312,.424,.736,hitter
+Akil Baddoo,2022,Detroit Tigers,201,30,41,2,9,24,64,.204,.289,.269,.558,hitter
+Javier Báez,2022,Detroit Tigers,555,64,132,17,67,26,147,.238,.278,.393,.671,hitter
+Tucker Barnhart,2022,Detroit Tigers,281,16,62,1,16,25,74,.221,.287,.267,.554,hitter
+Miguel Cabrera,2022,Detroit Tigers,397,25,101,5,43,28,101,.254,.305,.317,.622,hitter
+Daz Cameron,2022,Detroit Tigers,64,6,14,1,8,5,20,.219,.286,.344,.630,hitter
+Jeimer Candelario,2022,Detroit Tigers,429,49,93,13,50,28,109,.217,.272,.361,.633,hitter
+Kerry Carpenter,2022,Detroit Tigers,103,16,26,6,10,6,32,.252,.310,.485,.795,hitter
+Harold Castro,2022,Detroit Tigers,420,37,114,7,47,17,79,.271,.300,.381,.681,hitter
+Willi Castro,2022,Detroit Tigers,365,47,88,8,31,15,82,.241,.284,.367,.651,hitter
+Kody Clemens,2022,Detroit Tigers,117,13,17,5,17,8,33,.145,.197,.308,.505,hitter
+Brendon Davis,2022,Detroit Tigers,10,2,2,0,0,1,3,.200,.273,.200,.473,hitter
+Michael Fulmer,2022,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Dustin Garneau,2022,Detroit Tigers,10,1,3,0,1,1,4,.300,.364,.400,.764,hitter
+Riley Greene,2022,Detroit Tigers,376,46,95,5,42,36,120,.253,.321,.362,.683,hitter
+Robbie Grossman,2022,Detroit Tigers,273,24,56,2,23,38,90,.205,.313,.282,.595,hitter
+Eric Haase,2022,Detroit Tigers,323,41,82,14,44,24,97,.254,.305,.443,.748,hitter
+Derek Hill,2022,Detroit Tigers,83,8,19,1,3,5,28,.229,.270,.289,.559,hitter
+Ryan Kreidler,2022,Detroit Tigers,73,8,13,1,6,6,22,.178,.244,.233,.477,hitter
+Josh Lester,2022,Detroit Tigers,5,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Matt Manning,2022,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Austin Meadows,2022,Detroit Tigers,128,9,32,0,11,16,17,.250,.347,.328,.675,hitter
+Daniel Norris,2022,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Victor Reyes,2022,Detroit Tigers,315,27,80,3,34,13,77,.254,.289,.362,.651,hitter
+Jonathan Schoop,2022,Detroit Tigers,481,48,97,11,38,19,107,.202,.239,.322,.561,hitter
+Zack Short,2022,Detroit Tigers,9,2,0,0,2,2,5,.000,.154,.000,.154,hitter
+Spencer Torkelson,2022,Detroit Tigers,360,38,73,8,28,37,99,.203,.285,.319,.604,hitter
+Jose Altuve,2022,Houston Astros,527,103,158,28,57,66,87,.300,.387,.533,.920,hitter
+Yordan Alvarez,2022,Houston Astros,470,95,144,37,97,78,106,.306,.406,.613,1.019,hitter
+Michael Brantley,2022,Houston Astros,243,28,70,5,26,31,30,.288,.370,.416,.786,hitter
+Alex Bregman,2022,Houston Astros,548,93,142,23,93,87,77,.259,.366,.454,.820,hitter
+Jason Castro,2022,Houston Astros,78,6,9,1,3,8,40,.115,.205,.179,.384,hitter
+Aledmys Díaz,2022,Houston Astros,305,35,74,12,38,18,53,.243,.287,.403,.690,hitter
+Yainer Diaz,2022,Houston Astros,8,0,1,0,1,1,2,.125,.222,.250,.472,hitter
+Mauricio Dubón,2022,San Francisco Giants,46,10,11,2,8,1,4,.239,.245,.391,.636,hitter
+Niko Goodrum,2022,Houston Astros,43,2,5,0,1,2,23,.116,.156,.163,.319,hitter
+Yuli Gurriel,2022,Houston Astros,545,53,132,8,53,30,73,.242,.288,.360,.648,hitter
+David Hensley,2022,Houston Astros,29,7,10,1,5,5,6,.345,.441,.586,1.027,hitter
+Taylor Jones,2022,Houston Astros,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Korey Lee,2022,Houston Astros,25,1,4,0,4,1,9,.160,.192,.240,.432,hitter
+Martín Maldonado,2022,Houston Astros,344,40,64,15,45,22,116,.186,.248,.352,.600,hitter
+Trey Mancini,2022,Baltimore Orioles,354,39,95,10,41,35,86,.268,.347,.404,.751,hitter
+J.J. Matijevic,2022,Houston Astros,67,7,14,2,5,2,25,.209,.254,.328,.582,hitter
+Chas McCormick,2022,Houston Astros,359,47,88,14,44,46,106,.245,.332,.407,.739,hitter
+Jake Meyers,2022,Houston Astros,150,13,34,1,15,7,54,.227,.269,.313,.582,hitter
+Jeremy Peña,2022,Houston Astros,521,72,132,22,63,22,135,.253,.289,.426,.715,hitter
+Joe Perez,2022,Houston Astros,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Jose Siri,2022,Houston Astros,135,18,24,3,10,9,48,.178,.238,.304,.542,hitter
+Kyle Tucker,2022,Houston Astros,544,71,140,30,107,59,95,.257,.330,.478,.808,hitter
+Christian Vázquez,2022,Boston Red Sox,294,33,83,8,42,18,51,.282,.327,.432,.759,hitter
+Albert Abreu,2022,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Scott Barlow,2022,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Andrew Benintendi,2022,Kansas City Royals,347,40,111,3,39,39,52,.320,.387,.398,.785,hitter
+Dairon Blanco,2022,Kansas City Royals,7,1,2,0,2,0,4,.286,.286,.286,.572,hitter
+Ronald Bolaños,2022,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Taylor Clarke,2022,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Dylan Coleman,2022,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Hunter Dozier,2022,Kansas City Royals,462,51,109,12,41,34,125,.236,.292,.387,.679,hitter
+Nate Eaton,2022,Kansas City Royals,106,16,28,1,12,10,30,.264,.331,.387,.718,hitter
+Freddy Fermin,2022,Kansas City Royals,7,1,0,0,0,0,3,.000,.000,.000,.000,hitter
+Cam Gallagher,2022,Kansas City Royals,42,1,9,0,5,3,13,.214,.267,.333,.600,hitter
+Maikel Garcia,2022,Kansas City Royals,22,1,7,0,2,1,5,.318,.348,.364,.712,hitter
+Carlos Hernández,2022,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brewer Hicklen,2022,Kansas City Royals,4,1,0,0,0,0,4,.000,.000,.000,.000,hitter
+Kyle Isbel,2022,Kansas City Royals,256,32,54,5,28,16,75,.211,.264,.340,.604,hitter
+Nicky Lopez,2022,Kansas City Royals,436,51,99,0,20,29,63,.227,.281,.273,.554,hitter
+Daniel Lynch IV,2022,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Michael Massey,2022,Kansas City Royals,173,16,42,4,17,9,46,.243,.307,.376,.683,hitter
+MJ Melendez,2022,Kansas City Royals,460,57,100,18,62,66,131,.217,.313,.393,.706,hitter
+Whit Merrifield,2022,Kansas City Royals,383,51,92,6,42,30,61,.240,.290,.352,.642,hitter
+Wyatt Mills,2022,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Adalberto Mondesi,2022,Kansas City Royals,50,3,7,0,3,4,20,.140,.204,.140,.344,hitter
+Edward Olivares,2022,Kansas City Royals,161,24,46,4,15,10,36,.286,.333,.410,.743,hitter
+Vinnie Pasquantino,2022,Kansas City Royals,258,25,76,10,26,35,34,.295,.383,.450,.833,hitter
+Joel Payamps,2022,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Salvador Perez,2022,Kansas City Royals,445,48,113,23,76,18,109,.254,.292,.465,.757,hitter
+Nick Pratto,2022,Kansas City Royals,158,18,29,7,20,19,66,.184,.271,.386,.657,hitter
+Emmanuel Rivera,2022,Kansas City Royals,198,24,47,6,22,11,46,.237,.284,.399,.683,hitter
+Sebastián  Rivero,2022,Kansas City Royals,26,2,4,0,1,2,10,.154,.214,.154,.368,hitter
+Brent Rooker,2022,San Diego Padres,7,0,0,0,0,0,4,.000,.000,.000,.000,hitter
+Carlos Santana,2022,Kansas City Royals,176,17,38,4,21,36,28,.216,.349,.341,.690,hitter
+Collin Snider,2022,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Josh Staumont,2022,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Michael A. Taylor,2022,Kansas City Royals,414,49,105,9,43,35,109,.254,.313,.357,.670,hitter
+Drew Waters,2022,Kansas City Royals,96,14,23,5,18,12,40,.240,.324,.479,.803,hitter
+Luke Weaver,2022,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Bobby Witt Jr.,2022,Kansas City Royals,591,82,150,20,80,30,135,.254,.294,.428,.722,hitter
+Hanser Alberto,2022,Los Angeles Dodgers,156,13,38,2,15,3,25,.244,.258,.365,.623,hitter
+Eddy Alvarez,2022,Los Angeles Dodgers,25,1,4,0,3,0,9,.160,.154,.160,.314,hitter
+Tyler Anderson,2022,Los Angeles Dodgers,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Austin Barnes,2022,Los Angeles Dodgers,179,31,38,8,26,27,37,.212,.324,.380,.704,hitter
+Cody Bellinger,2022,Los Angeles Dodgers,504,70,106,19,68,38,150,.210,.265,.389,.654,hitter
+Mookie Betts,2022,Los Angeles Dodgers,572,117,154,35,82,55,104,.269,.340,.533,.873,hitter
+Phil Bickford,2022,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Justin Bruihl,2022,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Freddie Freeman,2022,Los Angeles Dodgers,612,117,199,21,100,84,102,.325,.407,.511,.918,hitter
+Joey Gallo,2022,New York Yankees,233,32,37,12,24,40,106,.159,.282,.339,.621,hitter
+Craig Kimbrel,2022,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jake Lamb,2022,Los Angeles Dodgers,67,10,16,2,4,8,24,.239,.338,.433,.771,hitter
+Gavin Lux,2022,Los Angeles Dodgers,421,66,116,6,42,47,95,.276,.346,.399,.745,hitter
+Chris Martin,2022,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Zach McKinstry,2022,Los Angeles Dodgers,11,4,1,1,2,3,4,.091,.286,.364,.650,hitter
+Reyes Moronta,2022,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Max Muncy,2022,Los Angeles Dodgers,464,69,91,21,69,90,141,.196,.329,.384,.713,hitter
+James Outman,2022,Los Angeles Dodgers,13,6,6,1,3,2,7,.462,.563,.846,1.409,hitter
+Evan Phillips,2022,Los Angeles Dodgers,0,0,0,0,0,1,0,.000,1.000,.000,1.000,hitter
+Kevin Pillar,2022,Los Angeles Dodgers,12,1,1,0,0,1,4,.083,.154,.167,.321,hitter
+David Price,2022,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jake Reed,2022,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Edwin Ríos,2022,Los Angeles Dodgers,86,12,21,7,17,5,36,.244,.293,.500,.793,hitter
+Will Smith,2022,Los Angeles Dodgers,508,68,132,24,87,56,96,.260,.343,.465,.808,hitter
+Chris Taylor,2022,Los Angeles Dodgers,402,45,89,10,43,44,160,.221,.304,.373,.677,hitter
+Trayce Thompson,2022,San Diego Padres,14,1,1,0,2,2,7,.071,.188,.071,.259,hitter
+Justin Turner,2022,Los Angeles Dodgers,468,61,130,13,81,50,89,.278,.350,.438,.788,hitter
+Trea Turner,2022,Los Angeles Dodgers,652,101,194,21,100,45,131,.298,.343,.466,.809,hitter
+Miguel Vargas,2022,Los Angeles Dodgers,47,4,8,1,8,2,13,.170,.200,.255,.455,hitter
+Tony Wolters,2022,Los Angeles Dodgers,4,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+CJ Abrams,2022,San Diego Padres,125,16,29,2,11,4,27,.232,.285,.320,.605,hitter
+Riley Adams,2022,Washington Nationals,142,14,25,5,10,12,46,.176,.245,.310,.555,hitter
+Ehire Adrianza,2022,Washington Nationals,84,5,15,0,7,8,22,.179,.255,.202,.457,hitter
+Tres Barrera,2022,Washington Nationals,50,2,9,0,4,2,16,.180,.212,.200,.412,hitter
+Josh Bell,2022,Washington Nationals,375,52,113,14,57,49,61,.301,.384,.493,.877,hitter
+Alex Call,2022,Cleveland Guardians,12,2,2,0,0,4,4,.167,.375,.167,.542,hitter
+Nelson Cruz,2022,Washington Nationals,448,50,105,10,64,49,119,.234,.313,.337,.650,hitter
+Alcides Escobar,2022,Washington Nationals,124,12,27,0,8,5,32,.218,.260,.282,.542,hitter
+Lucius Fox,2022,Washington Nationals,25,2,2,0,2,1,9,.080,.115,.080,.195,hitter
+Maikel Franco,2022,Washington Nationals,371,31,85,9,39,12,75,.229,.255,.342,.597,hitter
+Luis García Jr.,2022,Washington Nationals,360,29,99,7,45,11,84,.275,.295,.408,.703,hitter
+César Hernández,2022,Washington Nationals,560,64,139,1,34,45,114,.248,.311,.318,.629,hitter
+Yadiel Hernandez,2022,Washington Nationals,305,30,82,9,41,19,74,.269,.312,.410,.722,hitter
+Joey Meneses,2022,Washington Nationals,222,33,72,13,34,15,52,.324,.367,.563,.930,hitter
+Joshua Palacios,2022,Washington Nationals,47,8,10,0,2,1,15,.213,.245,.255,.500,hitter
+Israel Pineda,2022,Washington Nationals,13,1,1,0,0,1,7,.077,.143,.077,.220,hitter
+Victor Robles,2022,Washington Nationals,366,42,82,6,33,17,104,.224,.273,.311,.584,hitter
+Keibert Ruiz,2022,Washington Nationals,394,33,99,7,36,30,50,.251,.313,.360,.673,hitter
+Juan Soto,2022,Washington Nationals,342,62,84,21,46,91,62,.246,.408,.485,.893,hitter
+Dee Strange-Gordon,2022,Washington Nationals,59,6,18,0,2,0,8,.305,.305,.356,.661,hitter
+Lane Thomas,2022,Washington Nationals,498,62,120,17,52,41,132,.241,.301,.404,.705,hitter
+Ildemaro Vargas,2022,Chicago Cubs,23,4,3,1,4,3,2,.130,.231,.348,.579,hitter
+Luke Voit,2022,San Diego Padres,298,38,67,13,48,39,110,.225,.317,.416,.733,hitter
+Pete Alonso,2022,New York Mets,597,95,162,40,131,67,128,.271,.352,.518,.870,hitter
+Francisco Alvarez,2022,New York Mets,12,3,2,1,1,2,4,.167,.286,.500,.786,hitter
+Brett Baty,2022,New York Mets,38,4,7,2,5,2,8,.184,.244,.342,.586,hitter
+Travis Blankenhorn,2022,New York Mets,3,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Mark Canha,2022,New York Mets,462,71,123,13,61,48,97,.266,.367,.403,.770,hitter
+Robinson Canó,2022,New York Mets,41,3,8,1,3,2,11,.195,.233,.268,.501,hitter
+J.D. Davis,2022,New York Mets,181,26,43,4,21,20,66,.238,.324,.359,.683,hitter
+Edwin Díaz,2022,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Eduardo Escobar,2022,New York Mets,495,58,119,20,69,40,129,.240,.295,.430,.725,hitter
+Mychal Givens,2022,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Terrance Gore,2022,New York Mets,7,1,1,0,0,0,3,.143,.143,.143,.286,hitter
+Luis Guillorme,2022,New York Mets,297,33,81,2,17,34,46,.273,.351,.340,.691,hitter
+Tommy Hunter,2022,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ender Inciarte,2022,New York Mets,8,1,1,0,0,0,0,.125,.125,.125,.250,hitter
+Travis Jankowski,2022,New York Mets,54,11,9,0,2,8,9,.167,.286,.167,.453,hitter
+Khalil Lee,2022,New York Mets,2,1,1,1,3,0,0,.500,.500,2.000,2.500,hitter
+Francisco Lindor,2022,New York Mets,630,98,170,26,107,59,133,.270,.339,.449,.788,hitter
+Seth Lugo,2022,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Deven Marrero,2022,New York Mets,6,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Starling Marte,2022,New York Mets,466,76,136,16,63,26,97,.292,.347,.468,.815,hitter
+Patrick Mazeika,2022,New York Mets,68,4,13,1,6,2,9,.191,.214,.294,.508,hitter
+James McCann,2022,New York Mets,174,19,34,3,18,11,46,.195,.257,.282,.539,hitter
+Jeff McNeil,2022,New York Mets,533,73,174,9,62,40,61,.326,.382,.454,.836,hitter
+Adonis Medina,2022,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tyler Naquin,2022,Cincinnati Reds,187,29,46,7,33,13,53,.246,.305,.444,.749,hitter
+Tomás Nido,2022,New York Mets,284,31,68,3,28,14,76,.239,.276,.324,.600,hitter
+Brandon Nimmo,2022,New York Mets,580,102,159,16,64,71,116,.274,.367,.433,.800,hitter
+Michael Pérez,2022,Pittsburgh Pirates,107,8,16,6,11,8,26,.150,.209,.318,.527,hitter
+Nick Plummer,2022,New York Mets,29,4,4,2,6,1,12,.138,.194,.379,.573,hitter
+Jake Reed,2022,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Matt Reynolds,2022,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Joely Rodríguez,2022,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Darin Ruf,2022,San Francisco Giants,268,46,58,11,38,40,85,.216,.328,.373,.701,hitter
+Yolmer Sánchez,2022,Boston Red Sox,37,1,4,0,2,5,13,.108,.214,.108,.322,hitter
+Chasen Shreve,2022,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Dominic Smith,2022,New York Mets,134,11,26,0,17,12,37,.194,.276,.284,.560,hitter
+Mark Vientos,2022,New York Mets,36,3,6,1,3,5,12,.167,.268,.278,.546,hitter
+Daniel Vogelbach,2022,Pittsburgh Pirates,237,29,54,12,34,40,67,.228,.338,.430,.768,hitter
+Trevor Williams,2022,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter

@@ -1,146 +1,74 @@
 [
   {
-    "date": "2025-05-22T16:35Z",
-    "name": "Texas Rangers at New York Yankees",
-    "shortName": "TEX @ NYY",
-    "status": "Scheduled",
-    "competitors": [
-      {
-        "name": "New York Yankees",
-        "score": "0"
-      },
-      {
-        "name": "Texas Rangers",
-        "score": "0"
-      }
-    ]
+    "gamePk": 777818,
+    "gameDate": "2025-05-22T16:35:00Z",
+    "homeTeam": "New York Yankees",
+    "awayTeam": "Texas Rangers",
+    "status": "In Progress",
+    "venue": "Yankee Stadium"
   },
   {
-    "date": "2025-05-22T17:07Z",
-    "name": "San Diego Padres at Toronto Blue Jays",
-    "shortName": "SD @ TOR",
-    "status": "Scheduled",
-    "competitors": [
-      {
-        "name": "Toronto Blue Jays",
-        "score": "0"
-      },
-      {
-        "name": "San Diego Padres",
-        "score": "0"
-      }
-    ]
+    "gamePk": 777816,
+    "gameDate": "2025-05-22T17:07:00Z",
+    "homeTeam": "Toronto Blue Jays",
+    "awayTeam": "San Diego Padres",
+    "status": "In Progress",
+    "venue": "Rogers Centre"
   },
   {
-    "date": "2025-05-22T19:10Z",
-    "name": "Philadelphia Phillies at Colorado Rockies",
-    "shortName": "PHI @ COL",
-    "status": "Scheduled",
-    "competitors": [
-      {
-        "name": "Colorado Rockies",
-        "score": "0"
-      },
-      {
-        "name": "Philadelphia Phillies",
-        "score": "0"
-      }
-    ]
+    "gamePk": 777817,
+    "gameDate": "2025-05-22T19:10:00Z",
+    "homeTeam": "Colorado Rockies",
+    "awayTeam": "Philadelphia Phillies",
+    "status": "Warmup",
+    "venue": "Coors Field"
   },
   {
-    "date": "2025-05-22T19:35Z",
-    "name": "Los Angeles Angels at Athletics Athletics",
-    "shortName": "LAA @ ATH",
-    "status": "Scheduled",
-    "competitors": [
-      {
-        "name": "Athletics",
-        "score": "0"
-      },
-      {
-        "name": "Los Angeles Angels",
-        "score": "0"
-      }
-    ]
+    "gamePk": 777812,
+    "gameDate": "2025-05-22T19:35:00Z",
+    "homeTeam": "Athletics",
+    "awayTeam": "Los Angeles Angels",
+    "status": "Pre-Game",
+    "venue": "Sutter Health Park"
   },
   {
-    "date": "2025-05-22T22:40Z",
-    "name": "Cleveland Guardians at Detroit Tigers",
-    "shortName": "CLE @ DET",
-    "status": "Scheduled",
-    "competitors": [
-      {
-        "name": "Detroit Tigers",
-        "score": "0"
-      },
-      {
-        "name": "Cleveland Guardians",
-        "score": "0"
-      }
-    ]
+    "gamePk": 777821,
+    "gameDate": "2025-05-22T22:40:00Z",
+    "homeTeam": "Detroit Tigers",
+    "awayTeam": "Cleveland Guardians",
+    "status": "Pre-Game",
+    "venue": "Comerica Park"
   },
   {
-    "date": "2025-05-22T22:40Z",
-    "name": "Milwaukee Brewers at Pittsburgh Pirates",
-    "shortName": "MIL @ PIT",
+    "gamePk": 777814,
+    "gameDate": "2025-05-22T22:40:00Z",
+    "homeTeam": "Pittsburgh Pirates",
+    "awayTeam": "Milwaukee Brewers",
     "status": "Scheduled",
-    "competitors": [
-      {
-        "name": "Pittsburgh Pirates",
-        "score": "0"
-      },
-      {
-        "name": "Milwaukee Brewers",
-        "score": "0"
-      }
-    ]
+    "venue": "PNC Park"
   },
   {
-    "date": "2025-05-22T22:45Z",
-    "name": "Atlanta Braves at Washington Nationals",
-    "shortName": "ATL @ WSH",
+    "gamePk": 777820,
+    "gameDate": "2025-05-22T22:45:00Z",
+    "homeTeam": "Washington Nationals",
+    "awayTeam": "Atlanta Braves",
     "status": "Scheduled",
-    "competitors": [
-      {
-        "name": "Washington Nationals",
-        "score": "0"
-      },
-      {
-        "name": "Atlanta Braves",
-        "score": "0"
-      }
-    ]
+    "venue": "Nationals Park"
   },
   {
-    "date": "2025-05-22T22:45Z",
-    "name": "Baltimore Orioles at Boston Red Sox",
-    "shortName": "BAL @ BOS",
+    "gamePk": 777822,
+    "gameDate": "2025-05-23T00:10:00Z",
+    "homeTeam": "Houston Astros",
+    "awayTeam": "Seattle Mariners",
     "status": "Scheduled",
-    "competitors": [
-      {
-        "name": "Boston Red Sox",
-        "score": "0"
-      },
-      {
-        "name": "Baltimore Orioles",
-        "score": "0"
-      }
-    ]
+    "venue": "Daikin Park"
   },
   {
-    "date": "2025-05-23T00:10Z",
-    "name": "Seattle Mariners at Houston Astros",
-    "shortName": "SEA @ HOU",
-    "status": "Scheduled",
-    "competitors": [
-      {
-        "name": "Houston Astros",
-        "score": "0"
-      },
-      {
-        "name": "Seattle Mariners",
-        "score": "0"
-      }
-    ]
+    "gamePk": 777815,
+    "gameDate": "2025-05-22T22:45:00Z",
+    "homeTeam": "Boston Red Sox",
+    "awayTeam": "Baltimore Orioles",
+    "status": "Postponed",
+    "venue": "Fenway Park"
   }
 ]

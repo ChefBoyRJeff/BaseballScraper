@@ -1,0 +1,662 @@
+name,year,team,AB,R,H,HR,RBI,BB,K,AVG,OBP,SLG,OPS,playerType
+Austin Allen,2020,Oakland Athletics,31,1,6,1,3,1,14,.194,.219,.323,.542,hitter
+Franklin Barreto,2020,Oakland Athletics,10,5,0,0,0,0,7,.000,.000,.000,.000,hitter
+Seth Brown,2020,Oakland Athletics,5,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Mark Canha,2020,Oakland Athletics,191,32,47,5,33,37,54,.246,.387,.408,.795,hitter
+Matt Chapman,2020,Oakland Athletics,142,22,33,10,25,8,54,.232,.276,.535,.811,hitter
+Khris Davis,2020,Oakland Athletics,85,9,17,2,10,10,26,.200,.303,.329,.632,hitter
+Robbie Grossman,2020,Oakland Athletics,166,23,40,8,23,21,38,.241,.344,.482,.826,hitter
+Jonah Heim,2020,Oakland Athletics,38,5,8,0,5,3,3,.211,.268,.211,.479,hitter
+Tony Kemp,2020,Oakland Athletics,93,15,23,0,4,15,14,.247,.363,.301,.664,hitter
+Tommy La Stella,2020,Los Angeles Angels,99,15,27,4,14,15,7,.273,.371,.475,.846,hitter
+Jake Lamb,2020,Arizona Diamondbacks,43,2,5,0,1,6,17,.116,.240,.140,.380,hitter
+Ramón Laureano,2020,Oakland Athletics,183,27,39,6,25,24,58,.213,.338,.366,.704,hitter
+Vimael Machín,2020,Oakland Athletics,63,11,13,0,0,8,10,.206,.296,.238,.534,hitter
+Sean Murphy,2020,Oakland Athletics,116,21,27,7,14,24,37,.233,.364,.457,.821,hitter
+Matt Olson,2020,Oakland Athletics,210,28,41,14,42,34,77,.195,.310,.424,.734,hitter
+Nate Orf,2020,Oakland Athletics,7,1,0,0,0,0,1,.000,.000,.000,.000,hitter
+Chad Pinder,2020,Oakland Athletics,56,8,13,2,8,5,13,.232,.295,.393,.688,hitter
+Stephen Piscotty,2020,Oakland Athletics,159,17,36,5,29,9,53,.226,.271,.358,.629,hitter
+Marcus Semien,2020,Oakland Athletics,211,28,47,7,23,25,50,.223,.305,.374,.679,hitter
+Anthony Alford,2020,Toronto Blue Jays,16,3,3,1,3,0,7,.188,.188,.375,.563,hitter
+Josh Bell,2020,Pittsburgh Pirates,195,22,44,8,22,22,59,.226,.305,.364,.669,hitter
+Nick Burdi,2020,Pittsburgh Pirates,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Will Craig,2020,Pittsburgh Pirates,4,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Austin Davis,2020,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jarrod Dyson,2020,Pittsburgh Pirates,51,6,8,0,5,4,10,.157,.218,.157,.375,hitter
+Phillip Evans,2020,Pittsburgh Pirates,39,6,14,1,9,5,7,.359,.444,.487,.931,hitter
+Adam Frazier,2020,Pittsburgh Pirates,209,22,48,7,23,17,35,.230,.297,.364,.661,hitter
+Erik González,2020,Pittsburgh Pirates,181,14,41,3,20,8,51,.227,.255,.359,.614,hitter
+Ke'Bryan Hayes,2020,Pittsburgh Pirates,85,17,32,5,11,9,20,.376,.442,.682,1.124,hitter
+Guillermo Heredia,2020,Pittsburgh Pirates,16,2,3,0,2,2,4,.188,.278,.188,.466,hitter
+Jason Martin,2020,Pittsburgh Pirates,9,2,0,0,0,2,4,.000,.182,.000,.182,hitter
+Colin Moran,2020,Pittsburgh Pirates,178,28,44,10,23,19,52,.247,.325,.472,.797,hitter
+John Ryan Murphy,2020,Pittsburgh Pirates,58,6,10,0,2,4,28,.172,.226,.207,.433,hitter
+Kevin Newman,2020,Pittsburgh Pirates,156,12,35,1,10,12,21,.224,.281,.276,.557,hitter
+Jared Oliva,2020,Pittsburgh Pirates,16,0,3,0,0,0,6,.188,.188,.188,.376,hitter
+José Osuna,2020,Pittsburgh Pirates,78,6,16,4,11,4,16,.205,.244,.397,.641,hitter
+Gregory Polanco,2020,Pittsburgh Pirates,157,12,24,7,22,13,65,.153,.214,.325,.539,hitter
+Bryan Reynolds,2020,Pittsburgh Pirates,185,24,35,7,19,21,57,.189,.275,.357,.632,hitter
+JT Riddle,2020,Pittsburgh Pirates,67,8,10,1,1,2,13,.149,.174,.224,.398,hitter
+Jacob Stallings,2020,Pittsburgh Pirates,125,13,31,3,18,15,40,.248,.326,.376,.702,hitter
+Andrew Susac,2020,Pittsburgh Pirates,2,0,0,0,0,2,0,.000,.500,.000,.500,hitter
+Cole Tucker,2020,Pittsburgh Pirates,109,17,24,1,8,5,31,.220,.252,.275,.527,hitter
+Austin Adams,2020,San Diego Padres,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Greg Allen,2020,Cleveland Indians,25,3,4,1,4,1,9,.160,.214,.320,.534,hitter
+Abraham Almonte,2020,San Diego Padres,11,0,1,0,0,2,4,.091,.231,.091,.322,hitter
+Dan Altavilla,2020,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Luis Campusano,2020,San Diego Padres,3,2,1,1,1,0,2,.333,.500,1.333,1.833,hitter
+Jason Castro,2020,Los Angeles Angels,52,5,10,2,6,10,23,.192,.323,.385,.708,hitter
+Jake Cronenworth,2020,San Diego Padres,172,26,49,4,20,18,30,.285,.354,.477,.831,hitter
+Ty France,2020,San Diego Padres,55,9,17,2,10,5,15,.309,.377,.491,.868,hitter
+Greg Garcia,2020,San Diego Padres,60,6,12,0,11,7,18,.200,.279,.250,.529,hitter
+Trent Grisham,2020,San Diego Padres,215,42,54,10,26,31,64,.251,.352,.456,.808,hitter
+Austin Hedges,2020,San Diego Padres,57,7,9,3,6,6,18,.158,.258,.333,.591,hitter
+Tim Hill,2020,San Diego Padres,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Eric Hosmer,2020,San Diego Padres,143,23,41,9,36,9,28,.287,.333,.517,.850,hitter
+Manny Machado,2020,San Diego Padres,224,44,68,16,47,26,37,.304,.370,.580,.950,hitter
+Jorge Mateo,2020,San Diego Padres,26,4,4,0,2,1,11,.154,.185,.269,.454,hitter
+Francisco Mejía,2020,San Diego Padres,39,5,3,1,2,1,9,.077,.143,.179,.322,hitter
+Mitch Moreland,2020,Boston Red Sox,67,14,22,8,21,11,18,.328,.430,.746,1.176,hitter
+Wil Myers,2020,San Diego Padres,198,34,57,15,40,18,56,.288,.353,.606,.959,hitter
+Josh Naylor,2020,San Diego Padres,36,4,10,1,4,1,4,.278,.316,.417,.733,hitter
+Austin Nola,2020,Seattle Mariners,98,15,30,5,19,9,17,.306,.373,.531,.904,hitter
+Edward Olivares,2020,San Diego Padres,34,4,6,1,3,2,14,.176,.222,.294,.516,hitter
+Jorge Oña,2020,San Diego Padres,12,3,3,1,2,2,7,.250,.400,.583,.983,hitter
+Emilio Pagán,2020,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tommy Pham,2020,San Diego Padres,109,13,23,3,12,15,27,.211,.312,.312,.624,hitter
+Jurickson Profar,2020,San Diego Padres,180,28,50,7,25,15,28,.278,.343,.428,.771,hitter
+Trevor Rosenthal,2020,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Matt Strahm,2020,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Fernando Tatis Jr.,2020,San Diego Padres,224,50,62,17,45,27,61,.277,.366,.571,.937,hitter
+Luis Torrens,2020,San Diego Padres,11,0,3,0,0,1,2,.273,.333,.364,.697,hitter
+Taylor Williams,2020,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Dan Altavilla,2020,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Braden Bishop,2020,Seattle Mariners,30,2,5,0,4,2,10,.167,.242,.233,.475,hitter
+J.P. Crawford,2020,Seattle Mariners,204,33,52,2,24,23,39,.255,.336,.338,.674,hitter
+Phillip Ervin,2020,Cincinnati Reds,35,5,3,0,0,6,8,.086,.238,.086,.324,hitter
+Jake Fraley,2020,Seattle Mariners,26,3,4,0,0,2,11,.154,.241,.269,.510,hitter
+Ty France,2020,San Diego Padres,55,9,17,2,10,5,15,.309,.377,.491,.868,hitter
+Sam Haggerty,2020,Seattle Mariners,50,7,13,1,6,4,16,.260,.315,.400,.715,hitter
+Joe Hudson,2020,Seattle Mariners,17,0,3,0,0,2,5,.176,.263,.176,.439,hitter
+Kyle Lewis,2020,Seattle Mariners,206,37,54,11,28,34,71,.262,.364,.437,.801,hitter
+Shed Long Jr.,2020,Seattle Mariners,117,10,20,3,9,11,37,.171,.242,.291,.533,hitter
+Tim Lopes,2020,Seattle Mariners,143,16,34,2,15,6,34,.238,.278,.364,.642,hitter
+José Marmolejos,2020,Seattle Mariners,107,12,22,6,18,7,32,.206,.261,.411,.672,hitter
+Dylan Moore,2020,Seattle Mariners,137,26,35,8,17,14,43,.255,.358,.496,.854,hitter
+Austin Nola,2020,Seattle Mariners,98,15,30,5,19,9,17,.306,.373,.531,.904,hitter
+Joseph Odom,2020,Seattle Mariners,39,2,5,0,2,4,20,.128,.209,.128,.337,hitter
+Kyle Seager,2020,Seattle Mariners,203,35,49,9,40,32,33,.241,.355,.433,.788,hitter
+Mallex Smith,2020,Seattle Mariners,45,2,6,0,3,2,13,.133,.170,.178,.348,hitter
+Dee Strange-Gordon,2020,Seattle Mariners,75,12,15,0,3,5,13,.200,.268,.213,.481,hitter
+Luis Torrens,2020,San Diego Padres,11,0,3,0,0,1,2,.273,.333,.364,.697,hitter
+Daniel Vogelbach,2020,Seattle Mariners,53,3,5,2,4,11,13,.094,.250,.226,.476,hitter
+Donovan Walton,2020,Seattle Mariners,13,0,2,0,3,1,5,.154,.214,.231,.445,hitter
+Evan White,2020,Seattle Mariners,182,19,32,8,26,18,84,.176,.252,.346,.598,hitter
+Taylor Williams,2020,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Joey Bart,2020,San Francisco Giants,103,15,24,0,7,3,41,.233,.288,.320,.608,hitter
+Luis Alexander Basabe,2020,San Francisco Giants,14,5,2,0,1,4,5,.143,.333,.143,.476,hitter
+Brandon Belt,2020,San Francisco Giants,149,25,46,9,30,30,36,.309,.425,.591,1.016,hitter
+Rob Brantly,2020,San Francisco Giants,3,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brandon Crawford,2020,San Francisco Giants,172,26,44,8,28,15,47,.256,.326,.465,.791,hitter
+Jaylin Davis,2020,San Francisco Giants,12,2,2,1,1,0,6,.167,.167,.417,.584,hitter
+Alex Dickerson,2020,San Francisco Giants,151,28,45,10,27,16,30,.298,.371,.576,.947,hitter
+Mauricio Dubón,2020,San Francisco Giants,157,21,43,4,19,15,36,.274,.337,.389,.726,hitter
+Steven Duggar,2020,San Francisco Giants,34,3,6,0,3,1,11,.176,.222,.235,.457,hitter
+Wilmer Flores,2020,San Francisco Giants,198,30,53,12,32,13,36,.268,.315,.515,.830,hitter
+Tyler Heineman,2020,San Francisco Giants,42,3,8,0,1,4,6,.190,.292,.214,.506,hitter
+Evan Longoria,2020,San Francisco Giants,193,26,49,7,28,11,39,.254,.297,.425,.722,hitter
+Joe McCarthy,2020,San Francisco Giants,10,0,0,0,0,0,5,.000,.000,.000,.000,hitter
+Hunter Pence,2020,San Francisco Giants,52,4,5,2,6,3,15,.096,.161,.250,.411,hitter
+Joey Rickard,2020,San Francisco Giants,5,1,0,0,0,1,1,.000,.167,.000,.167,hitter
+Daniel Robertson,2020,San Francisco Giants,21,4,7,0,2,3,6,.333,.417,.333,.750,hitter
+Darin Ruf,2020,San Francisco Giants,87,11,24,5,18,13,23,.276,.370,.517,.887,hitter
+Pablo Sandoval,2020,San Francisco Giants,82,5,18,1,6,6,18,.220,.278,.268,.546,hitter
+Austin Slater,2020,San Francisco Giants,85,18,24,5,7,16,22,.282,.408,.506,.914,hitter
+Justin Smoak,2020,Milwaukee Brewers,113,14,21,5,15,10,40,.186,.262,.381,.643,hitter
+Donovan Solano,2020,San Francisco Giants,190,22,62,3,29,10,39,.326,.365,.463,.828,hitter
+Chadwick Tromp,2020,San Francisco Giants,61,11,13,4,10,1,20,.213,.219,.426,.645,hitter
+Mike Yastrzemski,2020,San Francisco Giants,192,39,57,10,35,30,55,.297,.400,.568,.968,hitter
+Harrison Bader,2020,St. Louis Cardinals,106,21,24,4,11,13,40,.226,.336,.443,.779,hitter
+Génesis Cabrera,2020,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Dylan Carlson,2020,St. Louis Cardinals,110,11,22,3,16,8,35,.200,.252,.364,.616,hitter
+Matt Carpenter,2020,St. Louis Cardinals,140,22,26,4,24,23,48,.186,.325,.314,.639,hitter
+Paul DeJong,2020,St. Louis Cardinals,152,17,38,3,25,17,50,.250,.322,.349,.671,hitter
+Austin Dean,2020,St. Louis Cardinals,4,1,1,0,0,3,2,.250,.571,.500,1.071,hitter
+Tommy Edman,2020,St. Louis Cardinals,204,29,51,5,26,16,48,.250,.317,.368,.685,hitter
+Seth Elledge,2020,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Dexter Fowler,2020,St. Louis Cardinals,90,14,21,4,15,10,28,.233,.317,.389,.706,hitter
+Paul Goldschmidt,2020,St. Louis Cardinals,191,31,58,6,21,37,43,.304,.417,.466,.883,hitter
+Andrew Knizner,2020,St. Louis Cardinals,16,1,4,0,4,0,5,.250,.235,.313,.548,hitter
+Brad Miller,2020,St. Louis Cardinals,142,21,33,7,25,25,46,.232,.357,.451,.808,hitter
+Yadier Molina,2020,St. Louis Cardinals,145,12,38,4,16,6,21,.262,.303,.359,.662,hitter
+John Nogowski,2020,St. Louis Cardinals,4,0,1,0,0,0,1,.250,.250,.250,.500,hitter
+Tyler O'Neill,2020,St. Louis Cardinals,139,20,24,7,19,15,43,.173,.261,.360,.621,hitter
+Rangel Ravelo,2020,St. Louis Cardinals,35,5,6,1,6,4,6,.171,.244,.286,.530,hitter
+Max Schrock,2020,St. Louis Cardinals,17,1,3,1,1,0,6,.176,.176,.353,.529,hitter
+Lane Thomas,2020,St. Louis Cardinals,36,5,4,1,2,4,13,.111,.200,.250,.450,hitter
+Matt Wieters,2020,St. Louis Cardinals,35,3,7,0,4,3,10,.200,.300,.229,.529,hitter
+Justin Williams,2020,St. Louis Cardinals,5,0,1,0,0,1,2,.200,.333,.200,.533,hitter
+Kolten Wong,2020,St. Louis Cardinals,181,26,48,1,16,20,30,.265,.350,.326,.676,hitter
+Jake Woodford,2020,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Willy Adames,2020,Tampa Bay Rays,185,29,48,8,23,20,74,.259,.332,.481,.813,hitter
+Randy Arozarena,2020,Tampa Bay Rays,64,15,18,7,11,6,22,.281,.382,.641,1.023,hitter
+Mike Brosseau,2020,Tampa Bay Rays,86,12,26,5,12,8,31,.302,.378,.558,.936,hitter
+Ji Man Choi,2020,Tampa Bay Rays,122,16,28,3,16,20,36,.230,.331,.410,.741,hitter
+Yandy Díaz,2020,Tampa Bay Rays,114,16,35,2,11,23,17,.307,.428,.386,.814,hitter
+Kevin Kiermaier,2020,Tampa Bay Rays,138,16,30,3,22,20,42,.217,.321,.362,.683,hitter
+Brandon Lowe,2020,Tampa Bay Rays,193,36,52,14,37,25,58,.269,.362,.554,.916,hitter
+Nathaniel Lowe,2020,Tampa Bay Rays,67,10,15,4,11,9,28,.224,.316,.433,.749,hitter
+Manuel Margot,2020,Tampa Bay Rays,145,19,39,1,11,13,25,.269,.327,.352,.679,hitter
+José A. Martínez,2020,Tampa Bay Rays,67,10,16,2,10,9,20,.239,.329,.388,.717,hitter
+Austin Meadows,2020,Tampa Bay Rays,132,19,27,4,13,17,50,.205,.296,.371,.667,hitter
+Brian O'Grady,2020,Tampa Bay Rays,5,2,2,0,0,0,1,.400,.400,.600,1.000,hitter
+Michael Pérez,2020,Tampa Bay Rays,84,7,14,1,13,7,27,.167,.237,.238,.475,hitter
+Brett Phillips,2020,Kansas City Royals,31,8,7,1,2,3,8,.226,.294,.387,.681,hitter
+Hunter Renfroe,2020,Tampa Bay Rays,122,18,19,8,22,14,37,.156,.252,.393,.645,hitter
+Kevan Smith,2020,Tampa Bay Rays,31,3,8,1,8,5,11,.258,.378,.452,.830,hitter
+Yoshi Tsutsugo,2020,Tampa Bay Rays,157,27,31,8,24,26,50,.197,.314,.395,.709,hitter
+Joey Wendle,2020,Tampa Bay Rays,168,24,48,4,17,10,35,.286,.342,.435,.777,hitter
+Mike Zunino,2020,Tampa Bay Rays,75,8,11,4,10,6,37,.147,.238,.360,.598,hitter
+Elvis Andrus,2020,Texas Rangers,103,11,20,3,7,8,15,.194,.252,.330,.582,hitter
+Sherten Apostel,2020,Texas Rangers,20,1,2,0,0,1,9,.100,.143,.150,.293,hitter
+Willie Calhoun,2020,Texas Rangers,100,3,19,1,13,5,17,.190,.231,.260,.491,hitter
+Robinson Chirinos,2020,Texas Rangers,42,3,5,0,2,5,12,.119,.224,.143,.367,hitter
+Shin-Soo Choo,2020,Texas Rangers,110,13,26,5,15,13,33,.236,.323,.400,.723,hitter
+Derek Dietrich,2020,Texas Rangers,61,9,12,5,8,9,21,.197,.347,.459,.806,hitter
+Todd Frazier,2020,Texas Rangers,108,11,26,2,7,10,26,.241,.322,.380,.702,hitter
+Joey Gallo,2020,Texas Rangers,193,23,35,10,26,29,79,.181,.301,.378,.679,hitter
+Adolis García,2020,Texas Rangers,6,0,0,0,0,1,4,.000,.143,.000,.143,hitter
+Ronald Guzmán,2020,Texas Rangers,78,10,19,4,9,7,24,.244,.314,.436,.750,hitter
+Scott Heineman,2020,Texas Rangers,52,6,8,1,7,2,11,.154,.185,.269,.454,hitter
+Sam Huff,2020,Texas Rangers,31,5,11,3,4,2,11,.355,.394,.742,1.136,hitter
+Isiah Kiner-Falefa,2020,Texas Rangers,211,28,59,3,10,14,32,.280,.329,.370,.699,hitter
+Jeff Mathis,2020,Texas Rangers,62,6,10,3,9,5,24,.161,.221,.355,.576,hitter
+Rougned Odor,2020,Texas Rangers,138,15,23,10,30,7,47,.167,.209,.413,.622,hitter
+Rob Refsnyder,2020,Texas Rangers,30,4,6,0,1,2,11,.200,.265,.233,.498,hitter
+Yadiel Rivera,2020,Texas Rangers,5,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Andrew Romine,2020,Texas Rangers,4,1,1,0,0,0,1,.250,.250,.500,.750,hitter
+Danny Santana,2020,Texas Rangers,55,6,8,1,7,7,24,.145,.238,.273,.511,hitter
+Nick Solak,2020,Texas Rangers,209,27,56,2,23,18,42,.268,.326,.344,.670,hitter
+Leody Taveras,2020,Texas Rangers,119,20,27,4,6,14,43,.227,.308,.395,.703,hitter
+Anderson Tejeda,2020,Texas Rangers,75,7,19,3,8,2,30,.253,.273,.453,.726,hitter
+Jose Trevino,2020,Texas Rangers,76,10,19,2,9,3,15,.250,.280,.434,.714,hitter
+Eli White,2020,Texas Rangers,48,5,9,0,3,3,16,.188,.231,.229,.460,hitter
+Anthony Alford,2020,Toronto Blue Jays,16,3,3,1,3,0,7,.188,.188,.375,.563,hitter
+Bo Bichette,2020,Toronto Blue Jays,123,18,37,5,23,5,27,.301,.328,.512,.840,hitter
+Cavan Biggio,2020,Toronto Blue Jays,220,41,55,8,28,41,61,.250,.375,.432,.807,hitter
+Jonathan Davis,2020,Toronto Blue Jays,27,4,7,1,6,3,11,.259,.364,.444,.808,hitter
+Brandon Drury,2020,Toronto Blue Jays,46,3,7,0,1,2,9,.152,.184,.174,.358,hitter
+Santiago Espinal,2020,Toronto Blue Jays,60,10,16,0,6,4,16,.267,.308,.333,.641,hitter
+Derek Fisher,2020,Toronto Blue Jays,31,5,7,1,7,7,11,.226,.359,.452,.811,hitter
+Randal Grichuk,2020,Toronto Blue Jays,216,38,59,12,35,13,49,.273,.312,.481,.793,hitter
+Vladimir Guerrero Jr.,2020,Toronto Blue Jays,221,34,58,9,33,20,38,.262,.329,.462,.791,hitter
+Lourdes Gurriel Jr.,2020,Toronto Blue Jays,208,28,64,11,33,14,48,.308,.348,.534,.882,hitter
+Teoscar Hernández,2020,Toronto Blue Jays,190,33,55,16,34,14,63,.289,.340,.579,.919,hitter
+Danny Jansen,2020,Toronto Blue Jays,120,18,22,6,20,21,31,.183,.313,.358,.671,hitter
+Caleb Joseph,2020,Toronto Blue Jays,8,2,1,1,2,1,1,.125,.222,.500,.722,hitter
+Alejandro Kirk,2020,Toronto Blue Jays,24,4,9,1,3,1,4,.375,.400,.583,.983,hitter
+Reese McGuire,2020,Toronto Blue Jays,41,2,3,1,1,0,11,.073,.073,.146,.219,hitter
+Billy McKinney,2020,Toronto Blue Jays,3,1,2,0,0,0,0,.667,.667,.667,1.334,hitter
+Joe Panik,2020,Toronto Blue Jays,120,18,27,1,7,20,27,.225,.340,.300,.640,hitter
+Travis Shaw,2020,Toronto Blue Jays,163,17,39,6,17,16,50,.239,.306,.411,.717,hitter
+Rowdy Tellez,2020,Toronto Blue Jays,113,20,32,8,23,11,20,.283,.346,.540,.886,hitter
+Jonathan Villar,2020,Miami Marlins,116,10,30,2,9,10,32,.259,.315,.345,.660,hitter
+Daniel Vogelbach,2020,Seattle Mariners,53,3,5,2,4,11,13,.094,.250,.226,.476,hitter
+Ehire Adrianza,2020,Minnesota Twins,89,10,17,0,3,11,23,.191,.287,.270,.557,hitter
+Luis Arraez,2020,Minnesota Twins,112,16,36,0,13,8,11,.321,.364,.402,.766,hitter
+Willians Astudillo,2020,Minnesota Twins,16,4,4,1,3,0,2,.250,.250,.500,.750,hitter
+Alex Avila,2020,Minnesota Twins,49,6,9,1,2,11,22,.184,.355,.286,.641,hitter
+Travis Blankenhorn,2020,Minnesota Twins,3,0,1,0,0,0,0,.333,.500,.667,1.167,hitter
+Byron Buxton,2020,Minnesota Twins,130,19,33,13,27,2,36,.254,.267,.577,.844,hitter
+Jake Cave,2020,Minnesota Twins,113,17,25,4,15,5,44,.221,.285,.389,.674,hitter
+Nelson Cruz,2020,Minnesota Twins,185,33,56,16,33,25,58,.303,.397,.595,.992,hitter
+Josh Donaldson,2020,Minnesota Twins,81,14,18,6,11,18,24,.222,.373,.469,.842,hitter
+Mitch Garver,2020,Minnesota Twins,72,8,12,2,5,7,37,.167,.247,.264,.511,hitter
+Marwin Gonzalez,2020,Minnesota Twins,175,15,37,5,22,17,41,.211,.286,.320,.606,hitter
+Ryan Jeffers,2020,Minnesota Twins,55,5,15,3,7,5,19,.273,.355,.436,.791,hitter
+Max Kepler,2020,Minnesota Twins,171,27,39,9,23,22,36,.228,.321,.439,.760,hitter
+Jorge Polanco,2020,Minnesota Twins,209,22,54,4,19,13,35,.258,.304,.354,.658,hitter
+Brent Rooker,2020,Minnesota Twins,19,4,6,1,5,0,5,.316,.381,.579,.960,hitter
+Eddie Rosario,2020,Minnesota Twins,210,31,54,13,42,19,34,.257,.316,.476,.792,hitter
+Miguel Sanó,2020,Minnesota Twins,186,31,38,13,25,18,90,.204,.278,.478,.756,hitter
+Ildemaro Vargas,2020,Arizona Diamondbacks,20,2,3,0,0,1,5,.150,.190,.150,.340,hitter
+LaMonte Wade Jr.,2020,Minnesota Twins,39,3,9,0,1,4,9,.231,.318,.308,.626,hitter
+Aaron Whitefield,2020,Minnesota Twins,1,1,0,0,0,0,0,.000,.000,.000,.000,hitter
+Alec Bohm,2020,Philadelphia Phillies,160,24,54,4,23,16,36,.338,.400,.481,.881,hitter
+Jay Bruce,2020,Philadelphia Phillies,96,11,19,6,14,7,24,.198,.252,.469,.721,hitter
+Austin Davis,2020,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kyle Garlick,2020,Philadelphia Phillies,22,0,3,0,3,0,7,.136,.174,.182,.356,hitter
+Phil Gosselin,2020,Philadelphia Phillies,92,14,23,3,12,10,27,.250,.324,.402,.726,hitter
+Didi Gregorius,2020,Philadelphia Phillies,215,34,61,10,40,15,28,.284,.339,.488,.827,hitter
+Bryce Harper,2020,Philadelphia Phillies,190,41,51,13,33,49,43,.268,.420,.542,.962,hitter
+Adam Haseley,2020,Philadelphia Phillies,79,7,22,0,13,7,17,.278,.348,.342,.690,hitter
+Rhys Hoskins,2020,Philadelphia Phillies,151,35,37,10,26,29,43,.245,.384,.503,.887,hitter
+Trevor Kelley,2020,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Scott Kingery,2020,Philadelphia Phillies,113,12,18,3,6,9,35,.159,.228,.283,.511,hitter
+Andrew Knapp,2020,Philadelphia Phillies,72,9,20,2,15,15,19,.278,.404,.444,.848,hitter
+Rafael Marchán,2020,Philadelphia Phillies,8,3,4,1,3,1,2,.500,.556,.875,1.431,hitter
+Andrew McCutchen,2020,Philadelphia Phillies,217,32,55,10,34,22,48,.253,.324,.433,.757,hitter
+Mickey Moniak,2020,Philadelphia Phillies,14,3,3,0,0,4,6,.214,.389,.214,.603,hitter
+Héctor Neris,2020,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Aaron Nola,2020,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Blake Parker,2020,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+David Phelps,2020,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Roman Quinn,2020,Philadelphia Phillies,108,14,23,2,7,5,39,.213,.261,.315,.576,hitter
+J.T. Realmuto,2020,Philadelphia Phillies,173,33,46,11,32,16,48,.266,.349,.491,.840,hitter
+Jean Segura,2020,Philadelphia Phillies,192,28,51,7,25,23,45,.266,.347,.422,.769,hitter
+Ronald Torreyes,2020,Philadelphia Phillies,7,1,1,0,0,0,0,.143,.143,.286,.429,hitter
+Neil Walker,2020,Philadelphia Phillies,39,5,9,0,3,1,13,.231,.244,.308,.552,hitter
+Ronald Acuña Jr.,2020,Atlanta Braves,160,46,40,14,29,38,60,.250,.406,.581,.987,hitter
+Matt Adams,2020,Atlanta Braves,49,4,9,2,9,2,18,.184,.216,.347,.563,hitter
+Ozzie Albies,2020,Atlanta Braves,118,21,32,6,19,5,30,.271,.306,.466,.772,hitter
+Johan Camargo,2020,Atlanta Braves,120,16,24,4,9,6,35,.200,.244,.367,.611,hitter
+William Contreras,2020,Atlanta Braves,10,0,4,0,1,0,4,.400,.400,.500,.900,hitter
+Charlie Culberson,2020,Atlanta Braves,7,2,1,0,1,0,4,.143,.143,.286,.429,hitter
+Adam Duvall,2020,Atlanta Braves,190,34,45,16,33,15,54,.237,.301,.532,.833,hitter
+Tyler Flowers,2020,Atlanta Braves,69,5,15,1,5,8,34,.217,.325,.348,.673,hitter
+Freddie Freeman,2020,Atlanta Braves,214,51,73,13,53,45,37,.341,.462,.640,1.102,hitter
+Adeiny Hechavarría,2020,Atlanta Braves,59,7,15,0,2,4,12,.254,.302,.305,.607,hitter
+Ender Inciarte,2020,Atlanta Braves,116,17,22,1,10,12,25,.190,.262,.250,.512,hitter
+Alex Jackson,2020,Atlanta Braves,7,0,2,0,0,0,4,.286,.286,.429,.715,hitter
+Nick Markakis,2020,Atlanta Braves,130,15,33,1,15,10,23,.254,.312,.392,.704,hitter
+Mark Melancon,2020,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Marcell Ozuna,2020,Atlanta Braves,228,38,77,18,56,38,60,.338,.431,.636,1.067,hitter
+Cristian Pache,2020,Atlanta Braves,4,0,1,0,0,0,2,.250,.250,.250,.500,hitter
+Austin Riley,2020,Atlanta Braves,188,24,45,8,27,16,49,.239,.301,.415,.716,hitter
+Pablo Sandoval,2020,San Francisco Giants,82,5,18,1,6,6,18,.220,.278,.268,.546,hitter
+Scott Schebler,2020,Atlanta Braves,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Dansby Swanson,2020,Atlanta Braves,237,49,65,10,35,22,71,.274,.345,.464,.809,hitter
+Travis d'Arnaud,2020,Atlanta Braves,165,19,53,9,34,16,50,.321,.386,.533,.919,hitter
+José Abreu,2020,Chicago White Sox,240,43,76,19,60,18,59,.317,.370,.617,.987,hitter
+Tim Anderson,2020,Chicago White Sox,208,45,67,10,21,10,50,.322,.357,.529,.886,hitter
+Zack Collins,2020,Chicago White Sox,16,1,1,0,0,2,5,.063,.167,.125,.292,hitter
+Cheslor Cuthbert,2020,Chicago White Sox,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Nicky Delmonico,2020,Chicago White Sox,20,0,3,0,3,2,2,.150,.227,.150,.377,hitter
+Jarrod Dyson,2020,Pittsburgh Pirates,51,6,8,0,5,4,10,.157,.218,.157,.375,hitter
+Edwin Encarnación,2020,Chicago White Sox,159,19,25,10,19,16,54,.157,.250,.377,.627,hitter
+Adam Engel,2020,Chicago White Sox,88,11,26,3,12,3,19,.295,.333,.477,.810,hitter
+Matt Foster,2020,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Leury García,2020,Chicago White Sox,59,6,16,3,8,4,9,.271,.317,.441,.758,hitter
+Ryan Goins,2020,Chicago White Sox,9,4,0,0,0,1,1,.000,.100,.000,.100,hitter
+Luis González,2020,Chicago White Sox,1,1,0,0,0,0,1,.000,.500,.000,.500,hitter
+Yasmani Grandal,2020,Chicago White Sox,161,27,37,8,27,30,58,.230,.351,.422,.773,hitter
+Eloy Jiménez,2020,Chicago White Sox,213,26,63,14,41,12,56,.296,.332,.559,.891,hitter
+Nick Madrigal,2020,Chicago White Sox,103,8,35,0,11,4,7,.340,.376,.369,.745,hitter
+Nomar Mazara,2020,Chicago White Sox,136,13,31,1,15,10,44,.228,.295,.294,.589,hitter
+James McCann,2020,Chicago White Sox,97,20,28,7,15,8,30,.289,.360,.536,.896,hitter
+Danny Mendick,2020,Chicago White Sox,107,11,26,3,6,6,25,.243,.281,.383,.664,hitter
+Yermín Mercedes,2020,Chicago White Sox,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Yoán Moncada,2020,Chicago White Sox,200,28,45,6,24,28,72,.225,.320,.385,.705,hitter
+Luis Robert Jr.,2020,Chicago White Sox,202,33,47,11,31,20,73,.233,.302,.436,.738,hitter
+José Ruiz,2020,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Yolmer Sánchez,2020,Chicago White Sox,16,7,5,1,1,5,5,.313,.476,.688,1.164,hitter
+Jesús Aguilar,2020,Miami Marlins,188,31,52,8,34,23,40,.277,.352,.457,.809,hitter
+Jorge Alfaro,2020,Miami Marlins,93,12,21,3,16,4,36,.226,.280,.344,.624,hitter
+Eddy Alvarez,2020,Miami Marlins,37,6,7,0,2,3,16,.189,.268,.216,.484,hitter
+Brian Anderson,2020,Miami Marlins,200,27,51,11,38,22,66,.255,.345,.465,.810,hitter
+Jon Berti,2020,Miami Marlins,120,21,31,2,14,23,37,.258,.388,.350,.738,hitter
+Lewis Brinson,2020,Miami Marlins,106,14,24,3,12,6,30,.226,.268,.368,.636,hitter
+Francisco Cervelli,2020,Miami Marlins,53,10,13,3,7,8,14,.245,.355,.453,.808,hitter
+Jazz Chisholm Jr.,2020,Miami Marlins,56,8,9,2,6,5,19,.161,.242,.321,.563,hitter
+Garrett Cooper,2020,Miami Marlins,120,20,34,6,20,11,31,.283,.353,.500,.853,hitter
+Isan Díaz,2020,Miami Marlins,22,3,4,0,1,0,7,.182,.182,.182,.364,hitter
+Lewin Díaz,2020,Miami Marlins,39,2,6,0,3,2,12,.154,.195,.205,.400,hitter
+Corey Dickerson,2020,Miami Marlins,194,25,50,7,17,15,35,.258,.311,.402,.713,hitter
+Logan Forsythe,2020,Miami Marlins,34,2,4,1,2,4,12,.118,.211,.235,.446,hitter
+Monte Harrison,2020,Miami Marlins,47,8,8,1,3,4,26,.170,.235,.255,.490,hitter
+Matt Joyce,2020,Miami Marlins,127,16,32,2,14,20,41,.252,.351,.331,.682,hitter
+Ryan Lavarnway,2020,Miami Marlins,11,0,4,0,0,0,2,.364,.364,.364,.728,hitter
+Starling Marte,2020,Arizona Diamondbacks,122,23,38,2,14,10,19,.311,.384,.443,.827,hitter
+Brian Navarreto,2020,Miami Marlins,5,0,2,0,0,0,1,.400,.400,.400,.800,hitter
+Harold Ramírez,2020,Miami Marlins,10,2,2,0,1,1,2,.200,.273,.200,.473,hitter
+Sean Rodríguez,2020,Miami Marlins,13,0,2,0,0,0,6,.154,.154,.154,.308,hitter
+Miguel Rojas,2020,Miami Marlins,125,20,38,4,20,16,18,.304,.392,.496,.888,hitter
+Jesús Sánchez,2020,Miami Marlins,25,1,1,0,2,4,11,.040,.172,.080,.252,hitter
+Magneuris Sierra,2020,Miami Marlins,44,8,11,0,7,5,9,.250,.333,.364,.697,hitter
+Jonathan Villar,2020,Miami Marlins,116,10,30,2,9,10,32,.259,.315,.345,.660,hitter
+Chad Wallach,2020,Miami Marlins,44,4,10,1,6,3,12,.227,.277,.364,.641,hitter
+Miguel Andujar,2020,New York Yankees,62,5,15,1,5,3,9,.242,.277,.355,.632,hitter
+Thairo Estrada,2020,New York Yankees,48,8,8,1,3,1,19,.167,.231,.229,.460,hitter
+Estevan Florial,2020,New York Yankees,3,0,1,0,0,0,2,.333,.333,.333,.666,hitter
+Mike Ford,2020,New York Yankees,74,5,10,2,11,7,16,.135,.226,.270,.496,hitter
+Clint Frazier,2020,New York Yankees,131,24,35,8,26,25,44,.267,.394,.511,.905,hitter
+Brett Gardner,2020,New York Yankees,130,20,29,5,15,26,35,.223,.354,.392,.746,hitter
+Chad Green,2020,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Aaron Hicks,2020,New York Yankees,169,28,38,6,21,41,38,.225,.379,.414,.793,hitter
+Kyle Higashioka,2020,New York Yankees,48,7,12,4,10,0,11,.250,.250,.521,.771,hitter
+Jonathan Holder,2020,New York Yankees,0,1,0,0,0,0,0,.000,.000,.000,.000,hitter
+Aaron Judge,2020,New York Yankees,101,23,26,9,22,10,32,.257,.336,.554,.890,hitter
+Erik Kratz,2020,New York Yankees,28,2,9,0,4,2,6,.321,.367,.393,.760,hitter
+DJ LeMahieu,2020,New York Yankees,195,41,71,10,27,18,21,.364,.421,.590,1.011,hitter
+Jordy Mercer,2020,Detroit Tigers,9,1,2,0,0,0,1,.222,.222,.222,.444,hitter
+Gary Sánchez,2020,New York Yankees,156,19,23,10,24,18,64,.147,.253,.365,.618,hitter
+Giancarlo Stanton,2020,New York Yankees,76,12,19,4,11,15,27,.250,.387,.500,.887,hitter
+Mike Tauchman,2020,New York Yankees,95,18,23,0,14,14,26,.242,.342,.305,.647,hitter
+Gleyber Torres,2020,New York Yankees,136,17,33,3,16,22,28,.243,.356,.368,.724,hitter
+Gio Urshela,2020,New York Yankees,151,24,45,6,30,18,25,.298,.368,.490,.858,hitter
+Luke Voit,2020,New York Yankees,213,41,59,22,52,17,54,.277,.338,.610,.948,hitter
+Tyler Wade,2020,New York Yankees,88,19,15,3,10,12,22,.170,.288,.307,.595,hitter
+Orlando Arcia,2020,Milwaukee Brewers,173,22,45,5,20,14,32,.260,.317,.416,.733,hitter
+Ryan Braun,2020,Milwaukee Brewers,129,14,30,8,26,7,27,.233,.281,.488,.769,hitter
+Lorenzo Cain,2020,Milwaukee Brewers,18,4,6,0,2,3,2,.333,.429,.389,.818,hitter
+Ben Gamel,2020,Milwaukee Brewers,114,13,27,3,10,13,39,.237,.315,.404,.719,hitter
+Avisaíl García,2020,Milwaukee Brewers,181,20,43,2,15,20,49,.238,.333,.326,.659,hitter
+Jedd Gyorko,2020,Milwaukee Brewers,117,19,29,9,17,15,38,.248,.333,.504,.837,hitter
+Josh Hader,2020,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ryon Healy,2020,Milwaukee Brewers,7,0,1,0,0,0,2,.143,.143,.143,.286,hitter
+Keston Hiura,2020,Milwaukee Brewers,217,30,46,13,32,16,85,.212,.297,.410,.707,hitter
+Brock Holt,2020,Milwaukee Brewers,30,1,3,0,1,4,9,.100,.222,.100,.322,hitter
+Mark Mathias,2020,Milwaukee Brewers,36,2,10,0,4,0,7,.278,.278,.361,.639,hitter
+Logan Morrison,2020,Milwaukee Brewers,25,3,3,1,2,3,8,.120,.214,.280,.494,hitter
+Omar Narváez,2020,Milwaukee Brewers,108,8,19,2,10,16,39,.176,.294,.269,.563,hitter
+Jacob Nottingham,2020,Milwaukee Brewers,48,8,9,4,13,5,20,.188,.278,.458,.736,hitter
+Jace Peterson,2020,Milwaukee Brewers,45,6,9,2,5,15,20,.200,.393,.356,.749,hitter
+David Phelps,2020,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Manny Piña,2020,Milwaukee Brewers,39,4,9,2,5,3,11,.231,.333,.410,.743,hitter
+Justin Smoak,2020,Milwaukee Brewers,113,14,21,5,15,10,40,.186,.262,.381,.643,hitter
+Eric Sogard,2020,Milwaukee Brewers,115,10,24,1,10,11,20,.209,.281,.278,.559,hitter
+Tyrone Taylor,2020,Milwaukee Brewers,38,6,9,2,6,2,8,.237,.293,.500,.793,hitter
+Luis Urías,2020,Milwaukee Brewers,109,11,26,0,11,10,32,.239,.308,.294,.602,hitter
+Daniel Vogelbach,2020,Seattle Mariners,53,3,5,2,4,11,13,.094,.250,.226,.476,hitter
+Christian Yelich,2020,Milwaukee Brewers,200,39,41,12,22,46,76,.205,.356,.430,.786,hitter
+Jo Adell,2020,Los Angeles Angels,124,9,20,3,7,7,55,.161,.212,.266,.478,hitter
+Franklin Barreto,2020,Oakland Athletics,10,5,0,0,0,0,7,.000,.000,.000,.000,hitter
+Cam Bedrosian,2020,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Anthony Bemboom,2020,Los Angeles Angels,48,9,10,3,5,7,13,.208,.328,.417,.745,hitter
+José Briceño,2020,Los Angeles Angels,5,0,1,0,0,1,1,.200,.333,.200,.533,hitter
+Jason Castro,2020,Los Angeles Angels,52,5,10,2,6,10,23,.192,.323,.385,.708,hitter
+David Fletcher,2020,Los Angeles Angels,207,31,66,3,18,20,25,.319,.376,.425,.801,hitter
+Brian Goodwin,2020,Los Angeles Angels,95,12,23,4,17,12,35,.242,.330,.463,.793,hitter
+Michael Hermosillo,2020,Los Angeles Angels,8,0,2,0,2,1,1,.250,.300,.250,.550,hitter
+Jahmai Jones,2020,Los Angeles Angels,7,2,3,0,1,0,2,.429,.429,.429,.858,hitter
+Tommy La Stella,2020,Los Angeles Angels,99,15,27,4,14,15,7,.273,.371,.475,.846,hitter
+Shohei Ohtani,2020,Los Angeles Angels,153,23,29,7,24,22,50,.190,.291,.366,.657,hitter
+Albert Pujols,2020,Los Angeles Angels,152,15,34,6,25,9,25,.224,.270,.395,.665,hitter
+Anthony Rendon,2020,Los Angeles Angels,189,29,54,9,31,38,31,.286,.418,.497,.915,hitter
+Luis Rengifo,2020,Los Angeles Angels,90,12,14,1,3,14,26,.156,.269,.200,.469,hitter
+Andrelton Simmons,2020,Los Angeles Angels,118,19,35,0,10,8,16,.297,.346,.356,.702,hitter
+Elliot Soto,2020,Los Angeles Angels,6,2,2,0,0,1,1,.333,.429,.500,.929,hitter
+Max Stassi,2020,Los Angeles Angels,90,12,25,7,20,11,21,.278,.352,.533,.885,hitter
+Matt Thaiss,2020,Los Angeles Angels,21,3,3,1,1,4,8,.143,.280,.286,.566,hitter
+Mike Trout,2020,Los Angeles Angels,199,41,56,17,46,35,56,.281,.390,.603,.993,hitter
+Justin Upton,2020,Los Angeles Angels,147,20,30,9,22,11,43,.204,.289,.422,.711,hitter
+Jared Walsh,2020,Los Angeles Angels,99,19,29,9,26,5,15,.293,.324,.646,.970,hitter
+Taylor Ward,2020,Los Angeles Angels,94,16,26,0,5,8,28,.277,.333,.383,.716,hitter
+Nick Ahmed,2020,Arizona Diamondbacks,199,29,53,5,29,18,46,.266,.327,.402,.729,hitter
+Kole Calhoun,2020,Arizona Diamondbacks,190,35,43,16,40,28,50,.226,.338,.526,.864,hitter
+Kevin Cron,2020,Arizona Diamondbacks,17,0,0,0,0,1,7,.000,.150,.000,.150,hitter
+Eduardo Escobar,2020,Arizona Diamondbacks,203,22,43,4,20,15,41,.212,.270,.335,.605,hitter
+Jon Jay,2020,Arizona Diamondbacks,50,5,8,1,4,3,12,.160,.211,.240,.451,hitter
+Carson Kelly,2020,Arizona Diamondbacks,122,11,27,5,19,6,29,.221,.264,.385,.649,hitter
+Jake Lamb,2020,Arizona Diamondbacks,43,2,5,0,1,6,17,.116,.240,.140,.380,hitter
+Tim Locastro,2020,Arizona Diamondbacks,69,15,20,2,7,8,14,.290,.395,.464,.859,hitter
+Ketel Marte,2020,Arizona Diamondbacks,181,19,52,2,17,7,21,.287,.323,.409,.732,hitter
+Starling Marte,2020,Arizona Diamondbacks,122,23,38,2,14,10,19,.311,.384,.443,.827,hitter
+Wyatt Mathisen,2020,Arizona Diamondbacks,27,5,6,2,5,5,12,.222,.364,.444,.808,hitter
+David Peralta,2020,Arizona Diamondbacks,203,19,61,5,34,13,45,.300,.339,.433,.772,hitter
+Josh Rojas,2020,Arizona Diamondbacks,61,9,11,0,2,7,16,.180,.257,.180,.437,hitter
+Pavin Smith,2020,Arizona Diamondbacks,37,7,10,1,4,5,8,.270,.341,.405,.746,hitter
+Josh VanMeter,2020,Cincinnati Reds,34,3,2,1,1,3,16,.059,.158,.176,.334,hitter
+Ildemaro Vargas,2020,Arizona Diamondbacks,20,2,3,0,0,1,5,.150,.190,.150,.340,hitter
+Daulton Varsho,2020,Arizona Diamondbacks,101,16,19,3,9,12,33,.188,.287,.366,.653,hitter
+Stephen Vogt,2020,Arizona Diamondbacks,72,6,12,1,7,8,18,.167,.247,.278,.525,hitter
+Christian Walker,2020,Arizona Diamondbacks,218,35,59,7,34,19,50,.271,.333,.459,.792,hitter
+Andrew Young,2020,Arizona Diamondbacks,26,3,5,1,4,5,10,.192,.382,.385,.767,hitter
+Hanser Alberto,2020,Baltimore Orioles,219,35,62,3,22,5,30,.283,.306,.393,.699,hitter
+Chris Davis,2020,Baltimore Orioles,52,3,6,0,1,3,17,.115,.164,.173,.337,hitter
+Austin Hays,2020,Baltimore Orioles,122,20,34,4,9,8,25,.279,.328,.393,.721,hitter
+Dilson Herrera,2020,Baltimore Orioles,5,0,0,0,0,0,4,.000,.167,.000,.167,hitter
+Bryan Holaday,2020,Baltimore Orioles,31,5,5,0,4,2,9,.161,.212,.194,.406,hitter
+Jose Iglesias,2020,Baltimore Orioles,142,16,53,3,24,3,17,.373,.400,.556,.956,hitter
+Travis Lakins Sr.,2020,Baltimore Orioles,0,1,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ryan Mountcastle,2020,Baltimore Orioles,126,12,42,5,23,11,30,.333,.386,.492,.878,hitter
+Cedric Mullins,2020,Baltimore Orioles,140,16,38,3,12,8,37,.271,.315,.407,.722,hitter
+Renato Núñez,2020,Baltimore Orioles,195,29,50,12,31,17,64,.256,.324,.492,.816,hitter
+Rio Ruiz,2020,Baltimore Orioles,185,25,41,9,32,17,46,.222,.286,.427,.713,hitter
+Anthony Santander,2020,Baltimore Orioles,153,24,40,11,32,10,25,.261,.315,.575,.890,hitter
+Pedro Severino,2020,Baltimore Orioles,160,17,40,5,21,16,40,.250,.322,.388,.710,hitter
+Chance Sisco,2020,Baltimore Orioles,98,11,21,4,10,17,41,.214,.364,.378,.742,hitter
+Dwight Smith Jr.,2020,Baltimore Orioles,63,9,14,2,6,7,19,.222,.306,.365,.671,hitter
+DJ Stewart,2020,Baltimore Orioles,88,13,17,7,15,20,38,.193,.355,.455,.810,hitter
+Ramón Urías,2020,Baltimore Orioles,25,3,9,1,3,2,6,.360,.407,.560,.967,hitter
+Pat Valaika,2020,Baltimore Orioles,141,24,39,8,16,8,34,.277,.315,.475,.790,hitter
+César Valdez,2020,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Andrew Velazquez,2020,Baltimore Orioles,63,11,10,0,3,10,23,.159,.274,.206,.480,hitter
+Mason Williams,2020,Baltimore Orioles,18,0,2,0,0,0,9,.111,.111,.222,.333,hitter
+Jonathan Araúz,2020,Boston Red Sox,72,8,18,1,9,8,21,.250,.325,.319,.644,hitter
+Christian Arroyo,2020,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Andrew Benintendi,2020,Boston Red Sox,39,4,4,0,1,11,17,.103,.314,.128,.442,hitter
+Xander Bogaerts,2020,Boston Red Sox,203,36,61,11,28,21,41,.300,.364,.502,.866,hitter
+Jackie Bradley Jr.,2020,Boston Red Sox,191,32,54,7,22,23,48,.283,.364,.450,.814,hitter
+Ryan Brasier,2020,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Michael Chavis,2020,Boston Red Sox,146,16,31,5,19,8,50,.212,.259,.377,.636,hitter
+Bobby Dalbec,2020,Boston Red Sox,80,13,21,8,16,10,39,.263,.359,.600,.959,hitter
+Rafael Devers,2020,Boston Red Sox,232,32,61,11,43,13,67,.263,.310,.483,.793,hitter
+Deivy Grullón,2020,Boston Red Sox,3,0,1,0,1,1,1,.333,.500,.333,.833,hitter
+Tzu-Wei Lin,2020,Boston Red Sox,52,2,8,0,3,2,17,.154,.182,.173,.355,hitter
+Jonathan Lucroy,2020,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+J.D. Martinez,2020,Boston Red Sox,211,22,45,7,27,22,59,.213,.291,.389,.680,hitter
+Mitch Moreland,2020,Boston Red Sox,67,14,22,8,21,11,18,.328,.430,.746,1.176,hitter
+Yairo Muñoz,2020,Boston Red Sox,45,6,15,1,4,0,11,.333,.333,.511,.844,hitter
+José Peraza,2020,Boston Red Sox,111,13,25,1,8,5,18,.225,.275,.342,.617,hitter
+Kevin Pillar,2020,Boston Red Sox,117,20,32,4,13,8,23,.274,.325,.470,.795,hitter
+Kevin Plawecki,2020,Boston Red Sox,82,8,28,1,17,5,14,.341,.393,.463,.856,hitter
+César Puello,2020,Boston Red Sox,8,1,3,0,0,2,2,.375,.500,.375,.875,hitter
+Christian Vázquez,2020,Boston Red Sox,173,22,49,7,23,16,43,.283,.344,.457,.801,hitter
+Alex Verdugo,2020,Boston Red Sox,201,36,62,6,15,17,45,.308,.367,.478,.845,hitter
+Marcus Walden,2020,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Albert Almora Jr.,2020,Chicago Cubs,30,4,5,0,1,3,9,.167,.265,.200,.465,hitter
+Javier Báez,2020,Chicago Cubs,222,27,45,8,24,7,75,.203,.238,.360,.598,hitter
+David Bote,2020,Chicago Cubs,125,15,25,7,29,17,40,.200,.303,.408,.711,hitter
+Kris Bryant,2020,Chicago Cubs,131,20,27,4,11,12,40,.206,.293,.351,.644,hitter
+Victor Caratini,2020,Chicago Cubs,116,10,28,1,16,12,31,.241,.333,.328,.661,hitter
+Willson Contreras,2020,Chicago Cubs,189,37,46,7,26,20,57,.243,.356,.407,.763,hitter
+Billy Hamilton,2020,New York Mets,22,4,1,0,1,1,3,.045,.083,.045,.128,hitter
+Ian Happ,2020,Chicago Cubs,198,27,51,12,28,30,63,.258,.361,.505,.866,hitter
+Kyle Hendricks,2020,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jason Heyward,2020,Chicago Cubs,147,20,39,6,22,30,37,.265,.392,.456,.848,hitter
+Nico Hoerner,2020,Chicago Cubs,108,19,24,0,13,12,24,.222,.312,.259,.571,hitter
+Jeremy Jeffress,2020,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Craig Kimbrel,2020,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jason Kipnis,2020,Chicago Cubs,114,13,27,3,16,18,41,.237,.341,.404,.745,hitter
+José A. Martínez,2020,Tampa Bay Rays,67,10,16,2,10,9,20,.239,.329,.388,.717,hitter
+Cameron Maybin,2020,Detroit Tigers,41,5,10,1,2,4,13,.244,.311,.415,.726,hitter
+Ian Miller,2020,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Alec Mills,2020,Chicago Cubs,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Hernán Pérez,2020,Chicago Cubs,6,0,1,0,0,0,2,.167,.167,.167,.334,hitter
+Josh Phegley,2020,Chicago Cubs,16,4,1,1,2,1,3,.063,.167,.250,.417,hitter
+Anthony Rizzo,2020,Chicago Cubs,203,26,45,11,24,28,38,.222,.342,.414,.756,hitter
+Kyle Schwarber,2020,Chicago Cubs,191,30,36,11,24,30,66,.188,.308,.393,.701,hitter
+Steven Souza Jr.,2020,Chicago Cubs,27,3,4,1,5,4,15,.148,.258,.333,.591,hitter
+Ildemaro Vargas,2020,Arizona Diamondbacks,20,2,3,0,0,1,5,.150,.190,.150,.340,hitter
+Rowan Wick,2020,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Dan Winkler,2020,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Patrick Wisdom,2020,Chicago Cubs,2,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Shogo Akiyama,2020,Cincinnati Reds,155,16,38,0,9,25,34,.245,.357,.297,.654,hitter
+Aristides Aquino,2020,Cincinnati Reds,47,7,8,2,8,6,18,.170,.304,.319,.623,hitter
+Tucker Barnhart,2020,Cincinnati Reds,98,10,20,5,13,12,28,.204,.291,.388,.679,hitter
+Jose Barrero,2020,Cincinnati Reds,67,4,13,0,2,1,26,.194,.206,.194,.400,hitter
+Curt Casali,2020,Cincinnati Reds,76,10,17,6,8,14,29,.224,.366,.500,.866,hitter
+Nick Castellanos,2020,Cincinnati Reds,218,37,49,14,34,19,69,.225,.298,.486,.784,hitter
+Christian Colón,2020,Cincinnati Reds,23,3,3,0,2,1,3,.130,.167,.174,.341,hitter
+Matt Davidson,2020,Cincinnati Reds,43,3,7,3,11,4,13,.163,.234,.395,.629,hitter
+Phillip Ervin,2020,Cincinnati Reds,35,5,3,0,0,6,8,.086,.238,.086,.324,hitter
+Kyle Farmer,2020,Cincinnati Reds,64,4,17,0,4,5,13,.266,.329,.313,.642,hitter
+Freddy Galvis,2020,Cincinnati Reds,141,18,31,7,16,13,30,.220,.308,.404,.712,hitter
+Brian Goodwin,2020,Los Angeles Angels,95,12,23,4,17,12,35,.242,.330,.463,.793,hitter
+Raisel Iglesias,2020,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Travis Jankowski,2020,Cincinnati Reds,15,3,1,0,0,2,7,.067,.176,.067,.243,hitter
+Michael Lorenzen,2020,Cincinnati Reds,0,2,0,0,0,0,0,.000,1.000,.000,1.000,hitter
+Mike Moustakas,2020,Cincinnati Reds,139,13,32,8,27,18,36,.230,.331,.468,.799,hitter
+Mark Payton,2020,Cincinnati Reds,18,0,3,0,0,2,5,.167,.250,.222,.472,hitter
+Nick Senzel,2020,Cincinnati Reds,70,8,13,2,8,6,15,.186,.247,.357,.604,hitter
+Tyler Stephenson,2020,Cincinnati Reds,17,4,5,2,6,2,9,.294,.400,.647,1.047,hitter
+Eugenio Suárez,2020,Cincinnati Reds,198,29,40,15,38,30,67,.202,.312,.470,.782,hitter
+Josh VanMeter,2020,Cincinnati Reds,34,3,2,1,1,3,16,.059,.158,.176,.334,hitter
+Joey Votto,2020,Cincinnati Reds,186,32,42,11,22,37,43,.226,.354,.446,.800,hitter
+Jesse Winker,2020,Cincinnati Reds,149,27,38,12,23,28,46,.255,.388,.544,.932,hitter
+Greg Allen,2020,Cleveland Indians,25,3,4,1,4,1,9,.160,.214,.320,.534,hitter
+Christian Arroyo,2020,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Yu Chang,2020,Cleveland Indians,11,1,2,0,1,2,4,.182,.308,.182,.490,hitter
+Delino DeShields,2020,Cleveland Indians,107,10,27,0,7,9,29,.252,.310,.318,.628,hitter
+Mike Freeman,2020,Cleveland Indians,38,5,9,0,3,3,11,.237,.302,.316,.618,hitter
+Austin Hedges,2020,San Diego Padres,57,7,9,3,6,6,18,.158,.258,.333,.591,hitter
+César Hernández,2020,Cleveland Indians,233,35,66,3,20,24,57,.283,.355,.408,.763,hitter
+Daniel Johnson,2020,Cleveland Indians,12,0,1,0,0,1,5,.083,.154,.083,.237,hitter
+Sandy León,2020,Cleveland Indians,66,4,9,2,4,14,21,.136,.296,.242,.538,hitter
+Francisco Lindor,2020,Cleveland Indians,236,30,61,8,27,24,41,.258,.335,.415,.750,hitter
+Jordan Luplow,2020,Cleveland Indians,78,8,15,2,8,12,19,.192,.304,.359,.663,hitter
+Óscar Mercado,2020,Cleveland Indians,86,6,11,1,6,5,27,.128,.174,.174,.348,hitter
+Tyler Naquin,2020,Cleveland Indians,133,15,29,4,20,5,40,.218,.248,.383,.631,hitter
+Josh Naylor,2020,San Diego Padres,36,4,10,1,4,1,4,.278,.316,.417,.733,hitter
+Roberto Pérez,2020,Cleveland Indians,97,6,16,1,5,11,38,.165,.264,.216,.480,hitter
+Adam Plutko,2020,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+José Ramírez,2020,Cleveland Indians,219,45,64,17,46,31,43,.292,.386,.607,.993,hitter
+Franmil Reyes,2020,Cleveland Indians,211,27,58,9,34,24,69,.275,.344,.450,.794,hitter
+Carlos Santana,2020,Cleveland Guardians,206,34,41,8,30,47,43,.199,.349,.350,.699,hitter
+Domingo Santana,2020,Cleveland Indians,70,6,11,2,12,13,25,.157,.298,.286,.584,hitter
+Beau Taylor,2020,Cleveland Indians,21,1,1,0,2,2,9,.048,.130,.048,.178,hitter
+Bradley Zimmer,2020,Cleveland Indians,37,3,6,1,3,7,14,.162,.360,.243,.603,hitter
+Nolan Arenado,2020,Colorado Rockies,182,23,46,8,26,15,20,.253,.303,.434,.737,hitter
+Charlie Blackmon,2020,Colorado Rockies,221,31,67,6,42,19,44,.303,.356,.448,.804,hitter
+Drew Butera,2020,Colorado Rockies,39,4,6,0,4,2,11,.154,.190,.205,.395,hitter
+David Dahl,2020,Colorado Rockies,93,9,17,0,9,4,28,.183,.222,.247,.469,hitter
+Elias Díaz,2020,Colorado Rockies,68,4,16,2,9,5,15,.235,.288,.353,.641,hitter
+Joshua Fuentes,2020,Colorado Rockies,98,14,30,2,17,2,29,.306,.320,.439,.759,hitter
+Garrett Hampson,2020,Colorado Rockies,167,25,39,5,11,13,60,.234,.287,.383,.670,hitter
+Sam Hilliard,2020,Colorado Rockies,105,13,22,6,10,9,42,.210,.272,.438,.710,hitter
+Matt Kemp,2020,Colorado Rockies,117,18,28,6,21,15,41,.239,.326,.419,.745,hitter
+Ryan McMahon,2020,Colorado Rockies,172,23,37,9,26,18,66,.215,.295,.419,.714,hitter
+Daniel Murphy,2020,Colorado Rockies,123,10,29,3,16,7,21,.236,.275,.333,.608,hitter
+Chris Owings,2020,Colorado Rockies,41,9,11,2,5,3,11,.268,.318,.439,.757,hitter
+Kevin Pillar,2020,Boston Red Sox,117,20,32,4,13,8,23,.274,.325,.470,.795,hitter
+Brendan Rodgers,2020,Colorado Rockies,21,1,2,0,2,0,6,.095,.095,.143,.238,hitter
+Trevor Story,2020,Colorado Rockies,235,41,68,11,28,24,63,.289,.355,.519,.874,hitter
+Raimel Tapia,2020,Colorado Rockies,184,26,59,1,17,14,38,.321,.369,.402,.771,hitter
+Tony Wolters,2020,Colorado Rockies,100,10,23,0,8,6,30,.230,.280,.270,.550,hitter
+Sergio Alcántara,2020,Detroit Tigers,21,2,3,1,1,2,4,.143,.217,.381,.598,hitter
+Jorge Bonifacio,2020,Detroit Tigers,86,8,19,2,17,5,26,.221,.277,.326,.603,hitter
+Miguel Cabrera,2020,Detroit Tigers,204,28,51,10,35,24,51,.250,.329,.417,.746,hitter
+Daz Cameron,2020,Detroit Tigers,57,4,11,0,3,2,19,.193,.220,.263,.483,hitter
+Jeimer Candelario,2020,Detroit Tigers,185,30,55,7,29,20,49,.297,.369,.503,.872,hitter
+Harold Castro,2020,Detroit Tigers,49,6,17,0,3,5,11,.347,.407,.429,.836,hitter
+Willi Castro,2020,Detroit Tigers,129,21,45,6,24,7,38,.349,.381,.550,.931,hitter
+C.J. Cron,2020,Detroit Tigers,42,9,8,4,8,9,16,.190,.346,.548,.894,hitter
+Travis Demeritte,2020,Detroit Tigers,29,5,5,0,4,3,14,.172,.273,.207,.480,hitter
+Brandon Dixon,2020,Detroit Tigers,13,0,1,0,2,1,4,.077,.143,.154,.297,hitter
+Niko Goodrum,2020,Detroit Tigers,158,15,29,5,20,18,69,.184,.263,.335,.598,hitter
+Grayson Greiner,2020,Detroit Tigers,51,8,6,3,8,3,20,.118,.182,.333,.515,hitter
+Eric Haase,2020,Detroit Tigers,17,1,3,0,2,1,6,.176,.211,.176,.387,hitter
+Derek Hill,2020,Detroit Tigers,11,3,1,0,0,1,6,.091,.167,.091,.258,hitter
+JaCoby Jones,2020,Detroit Tigers,97,19,26,5,14,7,34,.268,.333,.515,.848,hitter
+Dawel Lugo,2020,Detroit Tigers,10,3,2,0,1,1,1,.200,.273,.200,.473,hitter
+Cameron Maybin,2020,Detroit Tigers,41,5,10,1,2,4,13,.244,.311,.415,.726,hitter
+Jordy Mercer,2020,Detroit Tigers,9,1,2,0,0,0,1,.222,.222,.222,.444,hitter
+Isaac Paredes,2020,Detroit Tigers,100,7,22,1,6,8,24,.220,.278,.290,.568,hitter
+Victor Reyes,2020,Detroit Tigers,202,30,56,4,14,9,45,.277,.315,.391,.706,hitter
+Austin Romine,2020,Detroit Tigers,130,12,31,2,17,4,47,.238,.259,.323,.582,hitter
+Jonathan Schoop,2020,Detroit Tigers,162,26,45,8,23,8,39,.278,.324,.475,.799,hitter
+Christin Stewart,2020,Detroit Tigers,90,6,15,3,9,5,30,.167,.224,.300,.524,hitter
+Jose Altuve,2020,Houston Astros,192,32,42,5,18,17,39,.219,.286,.344,.630,hitter
+Yordan Alvarez,2020,Houston Astros,8,2,2,1,4,0,1,.250,.333,.625,.958,hitter
+Michael Brantley,2020,Houston Astros,170,24,51,5,22,17,28,.300,.364,.476,.840,hitter
+Alex Bregman,2020,Houston Astros,153,19,37,6,22,24,26,.242,.350,.451,.801,hitter
+Carlos Correa,2020,Houston Astros,201,22,53,5,25,16,49,.264,.326,.383,.709,hitter
+Aledmys Díaz,2020,Houston Astros,58,8,14,3,6,1,12,.241,.254,.483,.737,hitter
+Dustin Garneau,2020,Houston Astros,38,4,6,1,4,6,15,.158,.273,.289,.562,hitter
+Yuli Gurriel,2020,Houston Astros,211,27,49,6,22,12,27,.232,.274,.384,.658,hitter
+Taylor Jones,2020,Houston Astros,21,3,4,1,3,1,7,.190,.227,.381,.608,hitter
+Martín Maldonado,2020,Houston Astros,135,19,29,6,24,27,51,.215,.350,.378,.728,hitter
+Jack Mayfield,2020,Houston Astros,42,5,8,0,3,2,14,.190,.239,.214,.453,hitter
+Josh Reddick,2020,Houston Astros,188,22,46,4,23,20,42,.245,.316,.378,.694,hitter
+George Springer,2020,Houston Astros,189,37,50,14,32,24,38,.265,.359,.540,.899,hitter
+Myles Straw,2020,Houston Astros,82,8,17,0,8,4,22,.207,.244,.256,.500,hitter
+Garrett Stubbs,2020,Houston Astros,8,1,1,0,1,0,0,.125,.111,.125,.236,hitter
+Abraham Toro,2020,Houston Astros,87,13,13,3,9,3,23,.149,.237,.276,.513,hitter
+Kyle Tucker,2020,Houston Astros,209,33,56,9,42,18,46,.268,.325,.512,.837,hitter
+Franchy Cordero,2020,Kansas City Royals,38,7,8,2,7,4,4,.211,.286,.447,.733,hitter
+Hunter Dozier,2020,Kansas City Royals,158,29,36,6,12,27,48,.228,.344,.392,.736,hitter
+Maikel Franco,2020,Kansas City Royals,223,23,62,8,38,16,38,.278,.321,.457,.778,hitter
+Cam Gallagher,2020,Kansas City Royals,53,10,15,1,3,6,11,.283,.356,.434,.790,hitter
+Alex Gordon,2020,Kansas City Royals,163,15,34,4,11,18,37,.209,.299,.307,.606,hitter
+Kelvin Gutiérrez,2020,Kansas City Royals,9,0,1,0,0,3,6,.111,.333,.111,.444,hitter
+Nick Heath,2020,Kansas City Royals,13,2,2,0,3,2,6,.154,.313,.231,.544,hitter
+Óscar Hernández,2020,Kansas City Royals,4,1,2,0,0,0,1,.500,.500,.500,1.000,hitter
+Nicky Lopez,2020,Kansas City Royals,169,15,34,1,13,18,41,.201,.286,.266,.552,hitter
+Ryan McBroom,2020,Kansas City Royals,81,8,20,6,10,4,30,.247,.282,.506,.788,hitter
+Erick Mejia,2020,Kansas City Royals,14,1,1,0,0,0,7,.071,.071,.143,.214,hitter
+Whit Merrifield,2020,Kansas City Royals,248,38,70,9,30,12,33,.282,.325,.440,.765,hitter
+Adalberto Mondesi,2020,Kansas City Royals,219,33,56,6,22,11,70,.256,.294,.416,.710,hitter
+Ryan O'Hearn,2020,Kansas City Royals,113,7,22,2,18,18,37,.195,.303,.301,.604,hitter
+Edward Olivares,2020,San Diego Padres,34,4,6,1,3,2,14,.176,.222,.294,.516,hitter
+Salvador Perez,2020,Kansas City Royals,150,22,50,11,32,3,36,.333,.353,.633,.986,hitter
+Brett Phillips,2020,Kansas City Royals,31,8,7,1,2,3,8,.226,.294,.387,.681,hitter
+Matt Reynolds,2020,Kansas City Royals,11,1,0,0,0,0,7,.000,.000,.000,.000,hitter
+Trevor Rosenthal,2020,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jorge Soler,2020,Kansas City Royals,149,17,34,8,24,19,60,.228,.326,.443,.769,hitter
+Bubba Starling,2020,Kansas City Royals,59,5,10,1,5,4,27,.169,.219,.237,.456,hitter
+Meibrys Viloria,2020,Kansas City Royals,21,1,4,0,0,2,9,.190,.292,.238,.530,hitter
+Austin Barnes,2020,Los Angeles Dodgers,86,14,21,1,9,13,24,.244,.353,.314,.667,hitter
+Matt Beaty,2020,Los Angeles Dodgers,50,8,11,2,5,2,14,.220,.278,.360,.638,hitter
+Cody Bellinger,2020,Los Angeles Dodgers,213,33,51,12,30,30,42,.239,.333,.455,.788,hitter
+Mookie Betts,2020,Los Angeles Dodgers,219,47,64,16,39,24,38,.292,.366,.562,.928,hitter
+Tony Gonsolin,2020,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Terrance Gore,2020,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Enrique Hernández,2020,Los Angeles Dodgers,139,20,32,5,20,6,31,.230,.270,.410,.680,hitter
+Adam Kolarek,2020,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Gavin Lux,2020,Los Angeles Dodgers,63,8,11,3,8,6,19,.175,.246,.349,.595,hitter
+Zach McKinstry,2020,Los Angeles Dodgers,7,1,2,0,0,0,3,.286,.286,.429,.715,hitter
+Max Muncy,2020,Los Angeles Dodgers,203,36,39,12,27,39,60,.192,.331,.389,.720,hitter
+Joc Pederson,2020,Los Angeles Dodgers,121,21,23,7,16,11,34,.190,.285,.397,.682,hitter
+AJ Pollock,2020,Los Angeles Dodgers,196,30,54,16,34,12,45,.276,.314,.566,.880,hitter
+Edwin Ríos,2020,Los Angeles Dodgers,76,13,19,8,17,4,18,.250,.301,.645,.946,hitter
+Keibert Ruiz,2020,Los Angeles Dodgers,8,1,2,1,1,0,3,.250,.250,.625,.875,hitter
+Corey Seager,2020,Los Angeles Dodgers,212,38,65,15,41,17,37,.307,.358,.585,.943,hitter
+Will Smith,2020,Los Angeles Dodgers,114,23,33,8,25,20,22,.289,.401,.579,.980,hitter
+Chris Taylor,2020,Los Angeles Dodgers,185,30,50,8,32,26,55,.270,.366,.476,.842,hitter
+Justin Turner,2020,Los Angeles Dodgers,150,26,46,4,23,18,26,.307,.400,.460,.860,hitter
+Emilio Bonifácio,2020,Washington Nationals,3,1,0,0,0,0,2,.000,.000,.000,.000,hitter
+Asdrúbal Cabrera,2020,Washington Nationals,190,23,46,8,31,19,40,.242,.305,.447,.752,hitter
+Starlin Castro,2020,Washington Nationals,60,9,16,2,4,3,13,.267,.302,.450,.752,hitter
+Wilmer Difo,2020,Washington Nationals,14,1,1,0,1,3,4,.071,.222,.071,.293,hitter
+Adam Eaton,2020,Washington Nationals,159,22,36,4,17,12,32,.226,.285,.384,.669,hitter
+Luis García Jr.,2020,Washington Nationals,134,18,37,2,16,5,29,.276,.302,.366,.668,hitter
+Yan Gomes,2020,Washington Nationals,109,14,31,4,13,6,22,.284,.319,.468,.787,hitter
+Josh Harrison,2020,Washington Nationals,79,11,22,3,14,6,12,.278,.352,.418,.770,hitter
+Yadiel Hernandez,2020,Washington Nationals,26,3,5,1,6,1,12,.192,.214,.423,.637,hitter
+Brock Holt,2020,Milwaukee Brewers,30,1,3,0,1,4,9,.100,.222,.100,.322,hitter
+Howie Kendrick,2020,Washington Nationals,91,11,25,2,14,7,17,.275,.320,.385,.705,hitter
+Carter Kieboom,2020,Washington Nationals,99,15,20,0,9,17,33,.202,.344,.212,.556,hitter
+Jake Noll,2020,Washington Nationals,17,2,6,0,0,0,4,.353,.353,.412,.765,hitter
+Victor Robles,2020,Washington Nationals,168,20,37,3,15,9,53,.220,.293,.315,.608,hitter
+Juan Soto,2020,Washington Nationals,154,39,54,13,37,41,28,.351,.490,.695,1.185,hitter
+Andrew Stevenson,2020,Washington Nationals,41,11,15,2,12,5,11,.366,.447,.732,1.179,hitter
+Kurt Suzuki,2020,Washington Nationals,111,15,30,2,17,11,19,.270,.349,.396,.745,hitter
+Michael A. Taylor,2020,Washington Nationals,92,11,18,5,16,6,27,.196,.253,.424,.677,hitter
+Eric Thames,2020,Washington Nationals,123,10,25,3,12,14,42,.203,.300,.317,.617,hitter
+Trea Turner,2020,Washington Nationals,233,46,78,12,41,22,36,.335,.394,.588,.982,hitter
+Pete Alonso,2020,New York Mets,208,31,48,16,35,24,61,.231,.326,.490,.816,hitter
+Robinson Canó,2020,New York Mets,171,23,54,10,30,9,24,.316,.352,.544,.896,hitter
+Yoenis Cespedes,2020,New York Mets,31,3,5,2,4,2,15,.161,.235,.387,.622,hitter
+Robinson Chirinos,2020,Texas Rangers,42,3,5,0,2,5,12,.119,.224,.143,.367,hitter
+Michael Conforto,2020,New York Mets,202,40,65,9,31,24,57,.322,.412,.515,.927,hitter
+Ryan Cordell,2020,New York Mets,8,0,1,0,0,0,3,.125,.125,.125,.250,hitter
+J.D. Davis,2020,New York Mets,190,26,47,6,19,31,56,.247,.371,.389,.760,hitter
+Brian Dozier,2020,New York Mets,15,1,2,0,0,1,5,.133,.188,.133,.321,hitter
+Todd Frazier,2020,Texas Rangers,108,11,26,2,7,10,26,.241,.322,.380,.702,hitter
+Andrés Giménez,2020,New York Mets,118,22,31,3,12,7,28,.263,.333,.398,.731,hitter
+Luis Guillorme,2020,New York Mets,57,6,19,0,9,10,17,.333,.426,.439,.865,hitter
+Billy Hamilton,2020,New York Mets,22,4,1,0,1,1,3,.045,.083,.045,.128,hitter
+Guillermo Heredia,2020,Pittsburgh Pirates,16,2,3,0,2,2,4,.188,.278,.188,.466,hitter
+Juan Lagares,2020,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jake Marisnick,2020,New York Mets,33,4,11,2,5,1,10,.333,.353,.606,.959,hitter
+Jeff McNeil,2020,New York Mets,183,19,57,4,23,20,24,.311,.383,.454,.837,hitter
+Tomás Nido,2020,New York Mets,24,4,7,2,6,2,6,.292,.346,.583,.929,hitter
+Brandon Nimmo,2020,New York Mets,186,33,52,8,18,33,43,.280,.404,.484,.888,hitter
+Eduardo Núñez,2020,New York Mets,2,0,1,0,0,0,0,.500,.500,.500,1.000,hitter
+Wilson Ramos,2020,New York Mets,142,13,34,5,15,10,31,.239,.297,.387,.684,hitter
+René Rivera,2020,New York Mets,4,0,1,0,0,0,3,.250,.250,.250,.500,hitter
+Amed Rosario,2020,New York Mets,143,20,36,4,15,4,34,.252,.272,.371,.643,hitter
+Ali Sánchez,2020,New York Mets,9,0,1,0,0,1,3,.111,.200,.111,.311,hitter
+Dominic Smith,2020,New York Mets,177,27,56,10,42,14,45,.316,.377,.616,.993,hitter

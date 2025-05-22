@@ -1,0 +1,1361 @@
+name,year,team,AB,R,H,HR,RBI,BB,K,AVG,OBP,SLG,OPS,playerType
+Yonder Alonso,2017,Oakland Athletics,319,52,85,22,49,50,88,.266,.369,.527,.896,hitter
+John Axford,2017,Oakland Athletics,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Franklin Barreto,2017,Oakland Athletics,71,10,14,2,6,5,33,.197,.250,.352,.602,hitter
+Paul Blackburn,2017,Oakland Athletics,3,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Jaycob Brugman,2017,Oakland Athletics,143,12,38,3,12,18,38,.266,.346,.343,.689,hitter
+Mark Canha,2017,Oakland Athletics,173,16,36,5,14,7,56,.208,.262,.382,.644,hitter
+Santiago Casilla,2017,Oakland Athletics,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Simon Castro,2017,Oakland Athletics,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Matt Chapman,2017,Oakland Athletics,290,39,68,14,40,32,92,.234,.313,.472,.785,hitter
+Jharel Cotton,2017,Oakland Athletics,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Danny Coulombe,2017,Oakland Athletics,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Khris Davis,2017,Oakland Athletics,566,91,140,43,110,73,195,.247,.336,.528,.864,hitter
+Rajai Davis,2017,Oakland Athletics,300,49,70,5,18,26,70,.233,.294,.353,.647,hitter
+Jaff Decker,2017,Oakland Athletics,50,4,10,0,1,8,17,.200,.322,.260,.582,hitter
+Sean Doolittle,2017,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ryan Dull,2017,Oakland Athletics,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Dustin Garneau,2017,Colorado Rockies,68,5,14,1,6,4,24,.206,.260,.353,.613,hitter
+Daniel Gossett,2017,Oakland Athletics,5,1,1,0,0,0,4,.200,.200,.200,.400,hitter
+Kendall Graveman,2017,Oakland Athletics,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Chris Hatcher,2017,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ryon Healy,2017,Oakland Athletics,576,66,156,25,78,23,142,.271,.302,.451,.753,hitter
+Liam Hendriks,2017,Oakland Athletics,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Matt Joyce,2017,Oakland Athletics,469,78,114,25,68,66,113,.243,.335,.473,.808,hitter
+Ryan LaMarre,2017,Oakland Athletics,7,0,0,0,0,1,3,.000,.125,.000,.125,hitter
+Ryan Lavarnway,2017,Oakland Athletics,11,0,3,0,2,1,3,.273,.385,.364,.749,hitter
+Jed Lowrie,2017,Oakland Athletics,567,86,157,14,69,73,100,.277,.360,.448,.808,hitter
+Ryan Madson,2017,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Sean Manaea,2017,Oakland Athletics,3,0,0,0,0,1,2,.000,.250,.000,.250,hitter
+Bruce Maxwell,2017,Oakland Athletics,219,21,52,3,22,31,63,.237,.329,.333,.662,hitter
+Daniel Mengden,2017,Oakland Athletics,2,1,1,0,0,1,0,.500,.667,.500,1.167,hitter
+Frankie Montas,2017,Oakland Athletics,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Zach Neal,2017,Oakland Athletics,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Renato Núñez,2017,Oakland Athletics,15,1,3,1,3,1,8,.200,.250,.400,.650,hitter
+Matt Olson,2017,Oakland Athletics,189,33,49,24,45,22,60,.259,.352,.651,1.003,hitter
+Josh Phegley,2017,Oakland Athletics,149,14,30,3,10,9,26,.201,.255,.336,.591,hitter
+Chad Pinder,2017,Oakland Athletics,282,36,67,15,42,18,92,.238,.292,.457,.749,hitter
+Trevor Plouffe,2017,Oakland Athletics,182,22,39,7,14,16,58,.214,.276,.357,.633,hitter
+Boog Powell,2017,Seattle Mariners,36,6,7,0,2,6,9,.194,.310,.194,.504,hitter
+Adam Rosales,2017,Oakland Athletics,205,15,48,4,27,10,66,.234,.273,.346,.619,hitter
+Marcus Semien,2017,Oakland Athletics,342,53,85,10,40,38,85,.249,.325,.398,.723,hitter
+Chris Smith,2017,Oakland Athletics,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Josh A. Smith,2017,Oakland Athletics,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jake Smolinski,2017,Oakland Athletics,27,1,7,0,0,1,6,.259,.310,.296,.606,hitter
+Blake Treinen,2017,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Stephen Vogt,2017,Oakland Athletics,157,12,34,4,20,16,31,.217,.287,.357,.644,hitter
+Joey Wendle,2017,Oakland Athletics,13,3,4,1,5,1,3,.308,.357,.615,.972,hitter
+Johnny Barbato,2017,Pittsburgh Pirates,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Antonio Bastardo,2017,Pittsburgh Pirates,0,0,0,0,0,1,0,.000,1.000,.000,1.000,hitter
+Josh Bell,2017,Pittsburgh Pirates,549,75,140,26,90,66,117,.255,.334,.466,.800,hitter
+Joaquín Benoit,2017,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+John Bormann,2017,Pittsburgh Pirates,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Christopher Bostick,2017,Pittsburgh Pirates,27,6,8,0,1,4,9,.296,.406,.370,.776,hitter
+Steven Brault,2017,Pittsburgh Pirates,13,2,3,0,2,0,0,.231,.231,.308,.539,hitter
+Francisco Cervelli,2017,Pittsburgh Pirates,265,31,66,5,31,32,65,.249,.342,.370,.712,hitter
+Gerrit Cole,2017,Pittsburgh Pirates,55,3,9,1,3,1,21,.164,.179,.236,.415,hitter
+Elias Díaz,2017,Pittsburgh Pirates,188,18,42,1,19,11,38,.223,.265,.314,.579,hitter
+Adam Frazier,2017,Pittsburgh Pirates,406,55,112,6,53,36,57,.276,.344,.399,.743,hitter
+David Freese,2017,Pittsburgh Pirates,426,44,112,10,52,58,116,.263,.368,.371,.739,hitter
+Tyler Glasnow,2017,Pittsburgh Pirates,17,1,5,0,3,4,7,.294,.455,.294,.749,hitter
+Phil Gosselin,2017,Pittsburgh Pirates,40,3,6,0,2,2,9,.150,.190,.175,.365,hitter
+Alen Hanson,2017,Pittsburgh Pirates,57,8,11,0,1,2,9,.193,.220,.263,.483,hitter
+Josh Harrison,2017,Pittsburgh Pirates,486,66,132,16,47,28,90,.272,.339,.432,.771,hitter
+Daniel Hudson,2017,Pittsburgh Pirates,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+John Jaso,2017,Pittsburgh Pirates,256,28,54,10,35,40,66,.211,.328,.402,.730,hitter
+George Kontos,2017,San Francisco Giants,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Chad Kuhl,2017,Pittsburgh Pirates,48,2,5,0,3,1,16,.104,.122,.146,.268,hitter
+Wade LeBlanc,2017,Pittsburgh Pirates,5,0,1,0,1,0,3,.200,.200,.200,.400,hitter
+Jack Leathersich,2017,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Josh Lindblom,2017,Pittsburgh Pirates,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Jordan Luplow,2017,Pittsburgh Pirates,78,6,16,3,11,6,22,.205,.276,.385,.661,hitter
+Jhan Mariñez,2017,Milwaukee Brewers,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Starling Marte,2017,Pittsburgh Pirates,309,48,85,7,31,20,63,.275,.333,.379,.712,hitter
+Andrew McCutchen,2017,Pittsburgh Pirates,570,94,159,28,88,73,116,.279,.363,.486,.849,hitter
+Jordy Mercer,2017,Pittsburgh Pirates,502,52,128,14,58,51,88,.255,.326,.406,.732,hitter
+Max Moroff,2017,Pittsburgh Pirates,120,19,24,3,21,16,43,.200,.302,.325,.627,hitter
+Dovydas Neverauskas,2017,Pittsburgh Pirates,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Gift Ngoepe,2017,Pittsburgh Pirates,54,10,12,0,6,8,26,.222,.323,.296,.619,hitter
+Juan Nicasio,2017,Pittsburgh Pirates,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Iván Nova,2017,Pittsburgh Pirates,51,0,1,0,0,0,31,.020,.020,.020,.040,hitter
+Danny Ortiz,2017,Pittsburgh Pirates,12,1,1,0,0,1,1,.083,.154,.083,.237,hitter
+José Osuna,2017,Pittsburgh Pirates,215,31,50,7,30,9,40,.233,.269,.428,.697,hitter
+Gregory Polanco,2017,Pittsburgh Pirates,379,39,95,11,35,27,60,.251,.305,.391,.696,hitter
+Sean Rodríguez,2017,Atlanta Braves,37,6,6,2,3,8,19,.162,.326,.351,.677,hitter
+Dan Runzler,2017,Pittsburgh Pirates,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Angel Sánchez,2017,Pittsburgh Pirates,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Edgar Santana,2017,Pittsburgh Pirates,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+A.J. Schugel,2017,Pittsburgh Pirates,1,0,0,0,0,1,0,.000,.500,.000,.500,hitter
+Jacob Stallings,2017,Pittsburgh Pirates,14,3,5,0,3,2,2,.357,.438,.500,.938,hitter
+Chris Stewart,2017,Pittsburgh Pirates,131,8,24,0,4,9,22,.183,.241,.221,.462,hitter
+Jameson Taillon,2017,Pittsburgh Pirates,38,2,6,0,0,0,15,.158,.158,.158,.316,hitter
+Felipe Vázquez,2017,Pittsburgh Pirates,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tony Watson,2017,Pittsburgh Pirates,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Trevor Williams,2017,Pittsburgh Pirates,41,1,2,0,0,2,17,.049,.093,.049,.142,hitter
+Carlos Asuaje,2017,San Diego Padres,307,28,83,4,21,28,76,.270,.334,.362,.696,hitter
+Erick Aybar,2017,San Diego Padres,333,37,78,7,22,28,57,.234,.300,.348,.648,hitter
+Buddy Baumann,2017,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Christian Bethancourt,2017,San Diego Padres,7,0,1,0,0,0,3,.143,.143,.143,.286,hitter
+Jabari Blash,2017,San Diego Padres,164,24,35,5,16,28,66,.213,.333,.341,.674,hitter
+Ryan Buchter,2017,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Trevor Cahill,2017,San Diego Padres,13,1,4,0,2,1,3,.308,.357,.385,.742,hitter
+Carter Capps,2017,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jhoulys Chacín,2017,San Diego Padres,54,0,12,0,4,0,11,.222,.222,.259,.481,hitter
+Dusty Coleman,2017,San Diego Padres,66,6,15,4,9,2,33,.227,.268,.455,.723,hitter
+Franchy Cordero,2017,San Diego Padres,92,15,21,3,9,6,44,.228,.276,.424,.700,hitter
+Allen Córdoba,2017,San Diego Padres,202,17,42,4,15,18,54,.208,.282,.297,.579,hitter
+Jarred Cosart,2017,San Diego Padres,4,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Miguel Díaz,2017,San Diego Padres,3,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jake Esch,2017,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Rocky Gale,2017,San Diego Padres,10,1,1,1,2,0,2,.100,.100,.400,.500,hitter
+Brad Hand,2017,San Diego Padres,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Austin Hedges,2017,San Diego Padres,387,36,83,18,55,23,122,.214,.262,.398,.660,hitter
+Travis Jankowski,2017,San Diego Padres,75,10,14,0,1,9,28,.187,.282,.213,.495,hitter
+Dinelson Lamet,2017,San Diego Padres,35,0,3,0,0,0,22,.086,.086,.086,.172,hitter
+Zach Lee,2017,San Diego Padres,3,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kyle Lloyd,2017,San Diego Padres,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jordan Lyles,2017,Colorado Rockies,5,0,1,0,0,0,3,.200,.200,.200,.400,hitter
+Manuel Margot,2017,San Diego Padres,487,53,128,13,39,35,106,.263,.313,.409,.722,hitter
+Phil Maton,2017,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brandon Maurer,2017,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Cory Mazzoni,2017,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kyle McGrath,2017,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tim Melville,2017,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Wil Myers,2017,San Diego Padres,567,80,138,30,74,70,180,.243,.328,.464,.792,hitter
+Dillon Overton,2017,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Luis Perdomo,2017,San Diego Padres,46,3,5,0,3,1,20,.109,.128,.304,.432,hitter
+José Pirela,2017,San Diego Padres,312,43,90,10,40,27,71,.288,.347,.490,.837,hitter
+Kevin Quackenbush,2017,San Diego Padres,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Hunter Renfroe,2017,San Diego Padres,445,51,103,26,58,27,140,.231,.284,.467,.751,hitter
+Clayton Richard,2017,San Diego Padres,57,2,7,1,4,1,31,.123,.167,.193,.360,hitter
+José Ruiz,2017,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Héctor Sánchez,2017,San Diego Padres,137,14,30,8,25,5,41,.219,.245,.423,.668,hitter
+Luis Sardinas,2017,San Diego Padres,49,3,8,0,1,4,11,.163,.226,.163,.389,hitter
+Ryan Schimpf,2017,San Diego Padres,165,24,26,14,25,27,70,.158,.284,.424,.708,hitter
+Yangervis Solarte,2017,San Diego Padres,466,49,119,18,64,37,61,.255,.314,.416,.730,hitter
+Cory Spangenberg,2017,San Diego Padres,444,57,117,13,46,34,128,.264,.322,.401,.723,hitter
+Craig Stammen,2017,San Diego Padres,6,2,3,0,0,2,2,.500,.625,.667,1.292,hitter
+Matt Szczur,2017,Chicago Cubs,19,2,4,0,3,2,4,.211,.273,.263,.536,hitter
+Luis Torrens,2017,San Diego Padres,123,7,20,0,7,12,30,.163,.243,.203,.446,hitter
+José Torres,2017,San Diego Padres,1,1,1,0,0,0,0,1.000,1.000,1.000,2.000,hitter
+José A. Váldez,2017,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Christian Villanueva,2017,San Diego Padres,32,5,11,4,7,0,10,.344,.344,.750,1.094,hitter
+Jered Weaver,2017,San Diego Padres,10,0,0,0,0,0,6,.000,.000,.000,.000,hitter
+Travis Wood,2017,Kansas City Royals,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kirby Yates,2017,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chase d'Arnaud,2017,Atlanta Braves,8,5,3,0,0,2,3,.375,.500,.375,.875,hitter
+Andrew Albers,2017,Seattle Mariners,1,0,1,0,1,0,0,1.000,1.000,1.000,2.000,hitter
+Yonder Alonso,2017,Oakland Athletics,319,52,85,22,49,50,88,.266,.369,.527,.896,hitter
+Dan Altavilla,2017,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Gordon Beckham,2017,Seattle Mariners,17,2,3,0,0,1,2,.176,.222,.176,.398,hitter
+Christian Bergman,2017,Seattle Mariners,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Robinson Canó,2017,Seattle Mariners,592,79,166,23,97,49,85,.280,.338,.453,.791,hitter
+Steve Cishek,2017,Tampa Bay Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Nelson Cruz,2017,Seattle Mariners,556,91,160,39,119,70,140,.288,.375,.549,.924,hitter
+Zac Curtis,2017,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Edwin Díaz,2017,Seattle Mariners,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Jarrod Dyson,2017,Seattle Mariners,346,56,87,5,30,28,55,.251,.324,.350,.674,hitter
+Danny Espinosa,2017,Los Angeles Angels,228,27,37,6,29,19,91,.162,.237,.276,.513,hitter
+Casey Fien,2017,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mike Freeman,2017,Seattle Mariners,30,3,2,1,1,4,9,.067,.176,.167,.343,hitter
+Yovani Gallardo,2017,Seattle Mariners,2,0,1,0,0,0,0,.500,.500,.500,1.000,hitter
+Ben Gamel,2017,Seattle Mariners,509,68,140,11,59,36,122,.275,.322,.413,.735,hitter
+Sam Gaviglio,2017,Seattle Mariners,5,1,1,0,0,0,2,.200,.200,.200,.400,hitter
+Marco Gonzales,2017,St. Louis Cardinals,1,0,1,0,0,0,0,1.000,1.000,1.000,2.000,hitter
+Tuffy Gosewisch,2017,Seattle Mariners,28,1,2,0,0,1,14,.071,.103,.071,.174,hitter
+Mitch Haniger,2017,Seattle Mariners,369,58,104,16,47,31,93,.282,.352,.491,.843,hitter
+Jacob Hannemann,2017,Seattle Mariners,20,3,3,1,1,0,4,.150,.150,.300,.450,hitter
+Guillermo Heredia,2017,Seattle Mariners,386,43,96,6,24,27,64,.249,.315,.337,.652,hitter
+Chris Heston,2017,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Casey Lawrence,2017,Toronto Blue Jays,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mike Leake,2017,St. Louis Cardinals,47,2,8,0,4,3,15,.170,.220,.191,.411,hitter
+Jean Machi,2017,Seattle Mariners,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Mike Marjama,2017,Seattle Mariners,9,1,3,1,1,0,1,.333,.333,.778,1.111,hitter
+Leonys Martin,2017,Seattle Mariners,115,12,20,3,8,5,29,.174,.221,.287,.508,hitter
+Aríel Miranda,2017,Seattle Mariners,6,1,0,0,0,0,3,.000,.000,.000,.000,hitter
+Taylor Motter,2017,Seattle Mariners,258,29,51,7,26,21,62,.198,.257,.326,.583,hitter
+Dillon Overton,2017,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Emilio Pagán,2017,Seattle Mariners,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+James Pazos,2017,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+David Phelps,2017,Miami Marlins,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Boog Powell,2017,Seattle Mariners,36,6,7,0,2,6,9,.194,.310,.194,.504,hitter
+Erasmo Ramírez,2017,Tampa Bay Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Carlos Ruiz,2017,Seattle Mariners,125,14,27,3,11,14,38,.216,.313,.352,.665,hitter
+Marc Rzepczynski,2017,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kyle Seager,2017,Seattle Mariners,578,72,144,27,88,58,110,.249,.323,.450,.773,hitter
+Jean Segura,2017,Seattle Mariners,524,80,157,11,45,34,83,.300,.349,.427,.776,hitter
+Tyler Smith,2017,Seattle Mariners,16,2,3,0,1,1,8,.188,.263,.250,.513,hitter
+Danny Valencia,2017,Seattle Mariners,450,54,115,15,66,40,122,.256,.314,.411,.725,hitter
+Nick Vincent,2017,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Daniel Vogelbach,2017,Seattle Mariners,28,0,6,0,2,3,9,.214,.290,.250,.540,hitter
+Mike Zunino,2017,Seattle Mariners,387,52,97,25,64,39,160,.251,.331,.509,.840,hitter
+Tony Zych,2017,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Christian Arroyo,2017,San Francisco Giants,125,9,24,3,14,8,32,.192,.244,.304,.548,hitter
+Brandon Belt,2017,San Francisco Giants,382,63,92,18,51,66,104,.241,.355,.469,.824,hitter
+Ty Blach,2017,San Francisco Giants,44,5,10,1,7,4,21,.227,.286,.341,.627,hitter
+Madison Bumgarner,2017,San Francisco Giants,34,4,7,3,5,2,11,.206,.250,.471,.721,hitter
+Matt Cain,2017,San Francisco Giants,32,1,5,0,2,0,20,.156,.156,.219,.375,hitter
+Orlando Calixte,2017,San Francisco Giants,49,5,7,0,6,3,16,.143,.185,.163,.348,hitter
+Brandon Crawford,2017,San Francisco Giants,518,58,131,14,77,42,113,.253,.305,.403,.708,hitter
+Kyle Crick,2017,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Johnny Cueto,2017,San Francisco Giants,46,3,4,0,3,1,15,.087,.104,.087,.191,hitter
+Sam Dyson,2017,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tim Federowicz,2017,San Francisco Giants,13,3,3,2,3,1,4,.231,.286,.692,.978,hitter
+Cory Gearrin,2017,San Francisco Giants,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Conor Gillaspie,2017,San Francisco Giants,80,8,13,2,8,5,10,.163,.218,.288,.506,hitter
+Miguel Gómez,2017,San Francisco Giants,33,3,8,0,2,0,6,.242,.235,.303,.538,hitter
+Roberto Gómez,2017,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Gorkys Hernández,2017,San Francisco Giants,310,40,79,0,22,31,73,.255,.327,.326,.653,hitter
+Aaron Hill,2017,San Francisco Giants,68,7,9,1,7,11,13,.132,.250,.235,.485,hitter
+Nick Hundley,2017,San Francisco Giants,287,27,70,9,35,12,81,.244,.272,.418,.690,hitter
+Jae-Gyun Hwang,2017,San Francisco Giants,52,2,8,1,5,5,15,.154,.228,.231,.459,hitter
+Ryder Jones,2017,San Francisco Giants,150,12,26,2,5,10,52,.173,.244,.273,.517,hitter
+George Kontos,2017,San Francisco Giants,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Derek Law,2017,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chris Marrero,2017,San Francisco Giants,38,2,5,1,5,2,9,.132,.171,.211,.382,hitter
+Mark Melancon,2017,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Carlos Moncrief,2017,San Francisco Giants,38,4,8,0,5,3,15,.211,.256,.237,.493,hitter
+Matt Moore,2017,San Francisco Giants,47,3,6,0,4,2,19,.128,.163,.128,.291,hitter
+Reyes Moronta,2017,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Bryan Morris,2017,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Michael Morse,2017,San Francisco Giants,36,1,7,1,3,3,14,.194,.250,.306,.556,hitter
+Eduardo Núñez,2017,San Francisco Giants,302,37,93,4,31,12,29,.308,.334,.417,.751,hitter
+Steven Okert,2017,San Francisco Giants,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Josh Osich,2017,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Joe Panik,2017,San Francisco Giants,511,60,147,10,53,46,54,.288,.347,.421,.768,hitter
+Jarrett Parker,2017,San Francisco Giants,166,14,41,4,23,10,54,.247,.294,.416,.710,hitter
+Hunter Pence,2017,San Francisco Giants,493,55,128,13,67,40,102,.260,.315,.385,.700,hitter
+Buster Posey,2017,San Francisco Giants,494,62,158,12,67,61,66,.320,.400,.462,.862,hitter
+Neil Ramírez,2017,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Justin Ruggiano,2017,San Francisco Giants,60,2,13,2,4,1,17,.217,.238,.333,.571,hitter
+Jeff Samardzija,2017,San Francisco Giants,64,3,6,1,2,0,25,.094,.094,.172,.266,hitter
+Pablo Sandoval,2017,Boston Red Sox,99,10,21,4,12,8,24,.212,.269,.354,.623,hitter
+Dan Slania,2017,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Austin Slater,2017,San Francisco Giants,117,15,33,3,16,8,29,.282,.339,.402,.741,hitter
+Denard Span,2017,San Francisco Giants,497,73,135,12,43,40,69,.272,.329,.427,.756,hitter
+Chris Stratton,2017,San Francisco Giants,14,1,2,0,0,0,3,.143,.143,.143,.286,hitter
+Hunter Strickland,2017,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Drew Stubbs,2017,San Francisco Giants,22,0,2,0,0,2,9,.091,.167,.091,.258,hitter
+Albert Suárez,2017,San Francisco Giants,2,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kelby Tomlinson,2017,San Francisco Giants,194,32,50,1,11,23,46,.258,.332,.314,.646,hitter
+Mac Williamson,2017,San Francisco Giants,68,8,16,3,6,5,25,.235,.288,.397,.685,hitter
+Matt Adams,2017,St. Louis Cardinals,48,4,14,1,7,4,17,.292,.340,.396,.736,hitter
+Sandy Alcantara,2017,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Harrison Bader,2017,St. Louis Cardinals,85,10,20,3,10,5,24,.235,.283,.376,.659,hitter
+Matt Bowman,2017,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+John Brebbia,2017,St. Louis Cardinals,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jonathan Broxton,2017,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Matt Carpenter,2017,St. Louis Cardinals,497,91,120,23,69,109,125,.241,.384,.451,.835,hitter
+Brett Cecil,2017,St. Louis Cardinals,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Paul DeJong,2017,St. Louis Cardinals,417,55,119,25,65,21,124,.285,.325,.532,.857,hitter
+Aledmys Díaz,2017,St. Louis Cardinals,286,31,74,7,20,13,42,.259,.290,.392,.682,hitter
+Zach Duke,2017,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jack Flaherty,2017,St. Louis Cardinals,6,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Dexter Fowler,2017,St. Louis Cardinals,420,68,111,18,64,63,101,.264,.363,.488,.851,hitter
+Eric Fryer,2017,St. Louis Cardinals,71,7,11,0,3,11,18,.155,.277,.197,.474,hitter
+John Gant,2017,St. Louis Cardinals,3,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Greg Garcia,2017,St. Louis Cardinals,241,27,61,2,20,37,64,.253,.365,.332,.697,hitter
+Marco Gonzales,2017,St. Louis Cardinals,1,0,1,0,0,0,0,1.000,1.000,1.000,2.000,hitter
+Randal Grichuk,2017,St. Louis Cardinals,412,53,98,22,59,26,133,.238,.285,.473,.758,hitter
+Jedd Gyorko,2017,St. Louis Cardinals,426,52,116,20,67,47,105,.272,.341,.472,.813,hitter
+Chad Huffman,2017,St. Louis Cardinals,14,3,4,0,0,1,6,.286,.333,.429,.762,hitter
+Carson Kelly,2017,St. Louis Cardinals,69,5,12,0,6,5,11,.174,.240,.217,.457,hitter
+Mike Leake,2017,St. Louis Cardinals,47,2,8,0,4,3,15,.170,.220,.191,.411,hitter
+Josh Lucas,2017,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Lance Lynn,2017,St. Louis Cardinals,54,2,4,0,0,1,25,.074,.107,.111,.218,hitter
+Tyler Lyons,2017,St. Louis Cardinals,1,0,0,0,0,1,1,.000,.500,.000,.500,hitter
+Carlos Martinez,2017,St. Louis Cardinals,62,5,11,0,11,1,19,.177,.203,.226,.429,hitter
+José A. Martínez,2017,St. Louis Cardinals,272,47,84,14,46,32,60,.309,.379,.518,.897,hitter
+Mike Mayers,2017,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Alex D. Mejia,2017,St. Louis Cardinals,46,6,5,1,3,2,13,.109,.146,.174,.320,hitter
+Yadier Molina,2017,St. Louis Cardinals,501,60,137,18,82,28,74,.273,.312,.439,.751,hitter
+Juan Nicasio,2017,Pittsburgh Pirates,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Seunghwan Oh,2017,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jhonny Peralta,2017,St. Louis Cardinals,54,3,11,0,0,4,13,.204,.259,.204,.463,hitter
+Tommy Pham,2017,St. Louis Cardinals,444,95,136,23,73,71,117,.306,.411,.520,.931,hitter
+Stephen Piscotty,2017,St. Louis Cardinals,341,40,80,9,39,52,87,.235,.342,.367,.709,hitter
+Alberto Rosario,2017,St. Louis Cardinals,3,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Trevor Rosenthal,2017,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ryan Sherriff,2017,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kevin Siegrist,2017,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Magneuris Sierra,2017,St. Louis Cardinals,60,10,19,0,5,4,14,.317,.359,.317,.676,hitter
+Miguel Socolovich,2017,St. Louis Cardinals,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Sam Tuivailala,2017,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Breyvic Valera,2017,St. Louis Cardinals,10,0,1,0,0,1,0,.100,.182,.100,.282,hitter
+Luke Voit,2017,St. Louis Cardinals,114,18,28,4,18,7,31,.246,.306,.430,.736,hitter
+Michael Wacha,2017,St. Louis Cardinals,46,3,2,0,3,1,22,.043,.063,.043,.106,hitter
+Adam Wainwright,2017,St. Louis Cardinals,42,7,11,2,11,1,15,.262,.279,.452,.731,hitter
+Luke Weaver,2017,St. Louis Cardinals,19,2,3,0,1,1,9,.158,.200,.158,.358,hitter
+Kolten Wong,2017,St. Louis Cardinals,354,55,101,4,42,41,60,.285,.376,.412,.788,hitter
+Chris Archer,2017,Tampa Bay Rays,8,1,2,0,1,0,3,.250,.250,.250,.500,hitter
+Tim Beckham,2017,Tampa Bay Rays,317,31,82,12,36,24,110,.259,.314,.407,.721,hitter
+Peter Bourjos,2017,Tampa Bay Rays,188,27,42,5,15,12,53,.223,.272,.383,.655,hitter
+Brad Boxberger,2017,Tampa Bay Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Curt Casali,2017,Tampa Bay Rays,9,2,3,1,3,3,3,.333,.462,.667,1.129,hitter
+Steve Cishek,2017,Tampa Bay Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Alex Cobb,2017,Tampa Bay Rays,6,0,0,0,0,0,4,.000,.000,.000,.000,hitter
+Alex Colomé,2017,Tampa Bay Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jumbo Díaz,2017,Tampa Bay Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Corey Dickerson,2017,Tampa Bay Rays,588,84,166,27,62,35,152,.282,.325,.490,.815,hitter
+Lucas Duda,2017,New York Mets,252,30,62,17,37,37,73,.246,.347,.532,.879,hitter
+Danny Espinosa,2017,Los Angeles Angels,228,27,37,6,29,19,91,.162,.237,.276,.513,hitter
+Danny Farquhar,2017,Tampa Bay Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Taylor Featherston,2017,Tampa Bay Rays,39,6,7,2,6,5,15,.179,.277,.359,.636,hitter
+Adeiny Hechavarría,2017,Miami Marlins,65,8,18,1,6,1,9,.277,.288,.385,.673,hitter
+Tommy Hunter,2017,Tampa Bay Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Dan Jennings,2017,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kevin Kiermaier,2017,Tampa Bay Rays,380,56,105,15,39,31,99,.276,.338,.450,.788,hitter
+Adam Kolarek,2017,Tampa Bay Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Evan Longoria,2017,Tampa Bay Rays,613,71,160,20,86,46,109,.261,.313,.424,.737,hitter
+Michael Martinez,2017,Cleveland Indians,11,1,4,0,0,2,5,.364,.462,.455,.917,hitter
+Brad Miller,2017,Tampa Bay Rays,338,43,68,9,40,63,110,.201,.327,.337,.664,hitter
+Logan Morrison,2017,Tampa Bay Rays,512,75,126,38,85,81,149,.246,.353,.516,.869,hitter
+Derek Norris,2017,Tampa Bay Rays,179,21,36,9,24,12,48,.201,.258,.380,.638,hitter
+Jake Odorizzi,2017,Tampa Bay Rays,3,0,1,0,1,0,0,.333,.333,.333,.666,hitter
+Shane Peterson,2017,Tampa Bay Rays,79,9,20,2,11,5,21,.253,.310,.392,.702,hitter
+Trevor Plouffe,2017,Oakland Athletics,182,22,39,7,14,16,58,.214,.276,.357,.633,hitter
+Austin Pruitt,2017,Tampa Bay Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+César Puello,2017,Los Angeles Angels,4,0,1,0,1,0,1,.250,.250,.250,.500,hitter
+Erasmo Ramírez,2017,Tampa Bay Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Wilson Ramos,2017,Tampa Bay Rays,208,19,54,11,35,10,36,.260,.290,.447,.737,hitter
+Colby Rasmus,2017,Tampa Bay Rays,121,17,34,9,23,7,45,.281,.318,.579,.897,hitter
+Daniel Robertson,2017,Tampa Bay Rays,218,22,45,5,19,29,73,.206,.308,.326,.634,hitter
+Chaz Roe,2017,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Sergio Romo,2017,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mallex Smith,2017,Tampa Bay Rays,256,33,69,2,12,23,62,.270,.329,.355,.684,hitter
+Blake Snell,2017,Tampa Bay Rays,5,0,0,0,0,1,1,.000,.167,.000,.167,hitter
+Steven Souza Jr.,2017,Tampa Bay Rays,523,78,125,30,78,84,179,.239,.351,.459,.810,hitter
+Jesús Sucre,2017,Tampa Bay Rays,176,20,45,7,29,7,35,.256,.289,.409,.698,hitter
+Rickie Weeks Jr.,2017,Tampa Bay Rays,97,13,21,2,8,12,49,.216,.321,.340,.661,hitter
+Chase Whitley,2017,Tampa Bay Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Elvis Andrus,2017,Texas Rangers,643,100,191,20,88,38,101,.297,.337,.471,.808,hitter
+Tony Barnette,2017,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Adrian Beltré,2017,Texas Rangers,340,47,106,17,71,39,52,.312,.383,.532,.915,hitter
+Austin Bibens-Dirkx,2017,Texas Rangers,3,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Matt Bush,2017,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Willie Calhoun,2017,Texas Rangers,34,3,9,1,4,2,7,.265,.324,.353,.677,hitter
+Andrew Cashner,2017,Texas Rangers,5,0,1,0,1,0,2,.200,.167,.200,.367,hitter
+Robinson Chirinos,2017,Texas Rangers,263,46,67,17,38,34,79,.255,.360,.506,.866,hitter
+Shin-Soo Choo,2017,Texas Rangers,544,96,142,22,78,77,134,.261,.357,.423,.780,hitter
+Alex Claudio,2017,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Yu Darvish,2017,Los Angeles Dodgers,17,0,1,0,0,1,14,.059,.111,.059,.170,hitter
+Delino DeShields,2017,Texas Rangers,376,75,101,6,22,44,109,.269,.347,.367,.714,hitter
+Jake Diekman,2017,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Sam Dyson,2017,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Paolo Espino,2017,Milwaukee Brewers,4,0,1,0,0,0,1,.250,.250,.250,.500,hitter
+Joey Gallo,2017,Texas Rangers,449,85,94,41,80,75,196,.209,.333,.537,.870,hitter
+Nick Gardewine,2017,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Carlos Gómez,2017,Texas Rangers,368,51,94,17,51,31,127,.255,.340,.462,.802,hitter
+Miguel González,2017,Chicago White Sox,6,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Phil Gosselin,2017,Pittsburgh Pirates,40,3,6,0,2,2,9,.150,.190,.175,.365,hitter
+A.J. Griffin,2017,Texas Rangers,5,0,0,0,0,1,5,.000,.167,.000,.167,hitter
+Jason Grilli,2017,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Cole Hamels,2017,Texas Rangers,3,0,0,0,1,0,1,.000,.000,.000,.000,hitter
+Jared Hoying,2017,Texas Rangers,72,13,16,1,7,4,23,.222,.260,.306,.566,hitter
+Jeremy Jeffress,2017,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+A.J. Jimenez,2017,Texas Rangers,12,0,1,0,0,0,7,.083,.083,.083,.166,hitter
+Keone Kela,2017,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Pete Kozma,2017,New York Yankees,9,2,1,0,0,1,2,.111,.200,.111,.311,hitter
+José Leclerc,2017,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jonathan Lucroy,2017,Texas Rangers,281,27,68,4,27,19,32,.242,.297,.338,.635,hitter
+Jhan Mariñez,2017,Milwaukee Brewers,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Nick Martinez,2017,Texas Rangers,1,0,0,0,0,1,1,.000,.500,.000,.500,hitter
+Nomar Mazara,2017,Texas Rangers,554,64,140,20,101,55,127,.253,.323,.422,.745,hitter
+Will Middlebrooks,2017,Texas Rangers,38,5,8,0,3,1,14,.211,.231,.368,.599,hitter
+Mike Napoli,2017,Texas Rangers,425,60,82,29,66,49,163,.193,.285,.428,.713,hitter
+Brett Nicholas,2017,Texas Rangers,63,7,15,2,11,2,13,.238,.262,.397,.659,hitter
+Rougned Odor,2017,Texas Rangers,607,79,124,30,75,32,162,.204,.252,.397,.649,hitter
+Martín Pérez,2017,Texas Rangers,6,0,0,0,0,0,6,.000,.000,.000,.000,hitter
+Jurickson Profar,2017,Texas Rangers,58,8,10,0,5,9,14,.172,.294,.207,.501,hitter
+Drew Robinson,2017,Texas Rangers,107,11,24,6,13,14,42,.224,.314,.439,.753,hitter
+Tyson Ross,2017,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ryan Rua,2017,Texas Rangers,129,17,28,3,12,14,52,.217,.294,.333,.627,hitter
+Anthony Alford,2017,Toronto Blue Jays,8,0,1,0,0,0,3,.125,.125,.250,.375,hitter
+Brett Anderson,2017,Chicago Cubs,7,0,1,0,1,1,3,.143,.250,.143,.393,hitter
+Norichika Aoki,2017,Houston Astros,202,28,55,2,19,15,29,.272,.323,.371,.694,hitter
+Danny Barnes,2017,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Darwin Barney,2017,Toronto Blue Jays,336,34,78,6,25,18,64,.232,.275,.327,.602,hitter
+José Bautista,2017,Toronto Blue Jays,587,92,119,23,65,84,170,.203,.308,.366,.674,hitter
+Joe Biagini,2017,Toronto Blue Jays,2,0,0,0,1,0,0,.000,.000,.000,.000,hitter
+Ezequiel Carrera,2017,Toronto Blue Jays,287,38,81,8,20,30,75,.282,.356,.408,.764,hitter
+Darrell Ceciliani,2017,Toronto Blue Jays,5,2,2,1,3,0,0,.400,.400,1.200,1.600,hitter
+Chris Coghlan,2017,Toronto Blue Jays,75,7,15,1,5,9,22,.200,.299,.267,.566,hitter
+Matt Dermody,2017,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Josh Donaldson,2017,Toronto Blue Jays,415,65,112,33,78,76,111,.270,.385,.559,.944,hitter
+Marco Estrada,2017,Toronto Blue Jays,4,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Ryan Goins,2017,Toronto Blue Jays,418,37,99,9,62,31,96,.237,.286,.356,.642,hitter
+Jason Grilli,2017,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+J.A. Happ,2017,Toronto Blue Jays,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Teoscar Hernández,2017,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+J.P. Howell,2017,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tom Koehler,2017,Miami Marlins,21,0,1,0,0,0,15,.048,.048,.048,.096,hitter
+Mat Latos,2017,Toronto Blue Jays,3,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Casey Lawrence,2017,Toronto Blue Jays,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Dominic Leone,2017,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Francisco Liriano,2017,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Raffy Lopez,2017,Toronto Blue Jays,54,9,12,4,12,7,21,.222,.306,.463,.769,hitter
+Aaron Loup,2017,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Luke Maile,2017,Toronto Blue Jays,130,10,19,2,7,3,35,.146,.176,.231,.407,hitter
+Russell Martin,2017,Toronto Blue Jays,307,49,68,13,35,50,83,.221,.343,.388,.731,hitter
+Tim Mayza,2017,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Miguel Montero,2017,Chicago Cubs,98,12,28,4,8,11,24,.286,.366,.439,.805,hitter
+Kendrys Morales,2017,Toronto Blue Jays,557,67,139,28,85,43,132,.250,.308,.445,.753,hitter
+Mike Ohlman,2017,Toronto Blue Jays,13,1,3,0,1,0,3,.231,.231,.231,.462,hitter
+Roberto Osuna,2017,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ian Parmley,2017,Toronto Blue Jays,3,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Steve Pearce,2017,Toronto Blue Jays,313,38,79,13,37,27,68,.252,.319,.438,.757,hitter
+Kevin Pillar,2017,Toronto Blue Jays,587,72,150,16,42,33,95,.256,.300,.404,.704,hitter
+Rob Refsnyder,2017,New York Yankees,37,3,5,0,0,3,8,.135,.200,.216,.416,hitter
+Jarrod Saltalamacchia,2017,Toronto Blue Jays,25,1,1,0,0,1,16,.040,.077,.040,.117,hitter
+Michael Saunders,2017,Philadelphia Phillies,200,25,41,6,20,13,51,.205,.257,.360,.617,hitter
+Dwight Smith Jr.,2017,Toronto Blue Jays,27,2,10,0,1,1,10,.370,.414,.444,.858,hitter
+Joe Smith,2017,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Justin Smoak,2017,Toronto Blue Jays,560,85,151,38,90,73,128,.270,.355,.529,.884,hitter
+Marcus Stroman,2017,Toronto Blue Jays,7,2,2,1,1,0,4,.286,.286,.857,1.143,hitter
+Ryan Tepera,2017,Toronto Blue Jays,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Nick Tepesch,2017,Toronto Blue Jays,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Devon Travis,2017,Toronto Blue Jays,185,22,48,5,24,7,38,.259,.291,.438,.729,hitter
+Troy Tulowitzki,2017,Toronto Blue Jays,241,16,60,7,26,17,40,.249,.300,.378,.678,hitter
+Richard Urena,2017,Toronto Blue Jays,68,6,14,1,4,6,28,.206,.270,.309,.579,hitter
+Ehire Adrianza,2017,Minnesota Twins,162,30,43,2,24,16,25,.265,.324,.383,.707,hitter
+Matt Belisle,2017,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+José Berríos,2017,Minnesota Twins,5,0,1,0,0,0,2,.200,.200,.200,.400,hitter
+Buddy Boshers,2017,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Craig Breslow,2017,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Alan Busenitz,2017,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Byron Buxton,2017,Minnesota Twins,462,69,117,16,51,38,150,.253,.314,.413,.727,hitter
+Jason Castro,2017,Minnesota Twins,356,49,86,10,47,45,108,.242,.333,.388,.721,hitter
+Bartolo Colon,2017,Atlanta Braves,15,1,0,0,0,0,8,.000,.000,.000,.000,hitter
+Brian Dozier,2017,Minnesota Twins,617,106,167,34,93,78,141,.271,.359,.498,.857,hitter
+Tyler Duffey,2017,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Dietrich Enns,2017,Minnesota Twins,2,0,1,0,0,0,1,.500,.500,.500,1.000,hitter
+Eduardo Escobar,2017,Minnesota Twins,457,62,116,21,73,33,98,.254,.309,.449,.758,hitter
+Jaime García,2017,Atlanta Braves,31,2,5,1,7,1,7,.161,.188,.290,.478,hitter
+Mitch Garver,2017,Minnesota Twins,46,5,9,0,3,6,15,.196,.288,.348,.636,hitter
+Chris Gimenez,2017,Minnesota Twins,186,28,41,7,16,33,60,.220,.350,.382,.732,hitter
+Niko Goodrum,2017,Minnesota Twins,17,1,1,0,0,1,10,.059,.111,.059,.170,hitter
+Zack Granite,2017,Minnesota Twins,93,14,22,1,13,12,9,.237,.321,.290,.611,hitter
+Robbie Grossman,2017,Minnesota Twins,382,62,94,9,45,67,79,.246,.361,.380,.741,hitter
+Justin Haley,2017,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chris Heston,2017,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Trevor Hildenberger,2017,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Max Kepler,2017,Minnesota Twins,511,67,124,19,69,47,114,.243,.312,.425,.737,hitter
+Brandon Kintzler,2017,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Joe Mauer,2017,Minnesota Twins,525,69,160,7,71,66,83,.305,.384,.417,.801,hitter
+Tim Melville,2017,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jorge Polanco,2017,Minnesota Twins,488,60,125,13,74,41,78,.256,.313,.410,.723,hitter
+Ryan Pressly,2017,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Taylor Rogers,2017,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Eddie Rosario,2017,Minnesota Twins,542,79,157,27,78,35,106,.290,.328,.507,.835,hitter
+Miguel Sanó,2017,Minnesota Twins,424,75,112,28,77,54,173,.264,.352,.507,.859,hitter
+Danny Santana,2017,Minnesota Twins,25,3,5,1,1,1,8,.200,.231,.360,.591,hitter
+Ervin Santana,2017,Minnesota Twins,10,3,2,0,5,0,3,.200,.200,.300,.500,hitter
+Nick Tepesch,2017,Toronto Blue Jays,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Nik Turley,2017,Minnesota Twins,2,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kennys Vargas,2017,Minnesota Twins,241,33,61,11,41,20,77,.253,.314,.444,.758,hitter
+Adam Wilk,2017,New York Mets,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Alex Wimmers,2017,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jorge Alfaro,2017,Philadelphia Phillies,107,12,34,5,14,3,33,.318,.360,.514,.874,hitter
+Aaron Altherr,2017,Philadelphia Phillies,372,58,101,19,65,32,104,.272,.340,.516,.856,hitter
+Henderson Alvarez III,2017,Philadelphia Phillies,6,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Drew Anderson,2017,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Víctor Arano,2017,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Pedro Beato,2017,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Joaquín Benoit,2017,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Andrés Blanco,2017,Philadelphia Phillies,130,10,25,3,13,12,34,.192,.257,.292,.549,hitter
+Clay Buchholz,2017,Philadelphia Phillies,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+J.P. Crawford,2017,Philadelphia Phillies,70,8,15,0,6,16,22,.214,.356,.300,.656,hitter
+Zac Curtis,2017,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Zach Eflin,2017,Philadelphia Phillies,21,1,3,0,2,0,13,.143,.143,.143,.286,hitter
+Jerad Eickhoff,2017,Philadelphia Phillies,31,3,5,0,0,0,13,.161,.161,.194,.355,hitter
+Casey Fien,2017,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Pedro Florimón,2017,Philadelphia Phillies,46,6,16,0,6,3,16,.348,.388,.478,.866,hitter
+Maikel Franco,2017,Philadelphia Phillies,575,66,132,24,76,41,95,.230,.281,.409,.690,hitter
+Freddy Galvis,2017,Philadelphia Phillies,608,71,155,12,61,45,111,.255,.309,.382,.691,hitter
+Luis García,2017,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jeanmar Gómez,2017,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jeremy Hellickson,2017,Philadelphia Phillies,33,1,3,0,2,3,9,.091,.167,.182,.349,hitter
+César Hernández,2017,Philadelphia Phillies,511,85,150,9,34,61,104,.294,.373,.421,.794,hitter
+Odúbel Herrera,2017,Philadelphia Phillies,526,67,148,14,56,31,126,.281,.325,.452,.777,hitter
+Rhys Hoskins,2017,Philadelphia Phillies,170,37,44,18,48,37,46,.259,.396,.618,1.014,hitter
+Tommy Joseph,2017,Philadelphia Phillies,495,51,119,22,69,33,129,.240,.289,.432,.721,hitter
+Ty Kelly,2017,New York Mets,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Howie Kendrick,2017,Philadelphia Phillies,141,16,48,2,16,11,30,.340,.397,.454,.851,hitter
+Hyun Soo Kim,2017,Baltimore Orioles,125,11,29,1,10,12,27,.232,.305,.288,.593,hitter
+Andrew Knapp,2017,Philadelphia Phillies,171,26,44,3,13,31,56,.257,.368,.368,.736,hitter
+Mark Leiter Jr.,2017,Philadelphia Phillies,25,0,2,0,0,0,12,.080,.080,.080,.160,hitter
+Ben Lively,2017,Philadelphia Phillies,26,2,6,2,8,0,9,.231,.231,.462,.693,hitter
+Hoby Milner,2017,Philadelphia Phillies,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Adam Morgan,2017,Philadelphia Phillies,2,0,1,0,0,1,1,.500,.667,.500,1.167,hitter
+Daniel Nava,2017,Philadelphia Phillies,183,21,55,4,21,26,38,.301,.393,.421,.814,hitter
+Héctor Neris,2017,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Pat Neshek,2017,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Juan Nicasio,2017,Pittsburgh Pirates,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Aaron Nola,2017,Philadelphia Phillies,48,3,4,0,1,4,25,.083,.154,.083,.237,hitter
+Cameron Perkins,2017,Philadelphia Phillies,88,9,16,1,8,5,23,.182,.237,.273,.510,hitter
+Ricardo Pinto,2017,Philadelphia Phillies,1,1,0,0,0,0,1,.000,.000,.000,.000,hitter
+Nick Pivetta,2017,Philadelphia Phillies,44,3,3,0,0,0,21,.068,.068,.068,.136,hitter
+Edubray Ramos,2017,Philadelphia Phillies,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Yacksel Ríos,2017,Philadelphia Phillies,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Joely Rodríguez,2017,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Cameron Rupp,2017,Philadelphia Phillies,295,35,64,14,34,34,114,.217,.299,.417,.716,hitter
+Michael Saunders,2017,Philadelphia Phillies,200,25,41,6,20,13,51,.205,.257,.360,.617,hitter
+Kevin Siegrist,2017,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brock Stassi,2017,Philadelphia Phillies,78,6,13,2,7,12,22,.167,.278,.295,.573,hitter
+Jesen Therrien,2017,Philadelphia Phillies,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Jake Thompson,2017,Philadelphia Phillies,12,1,2,0,0,1,5,.167,.231,.250,.481,hitter
+Vince Velasquez,2017,Philadelphia Phillies,24,1,6,0,1,1,4,.250,.280,.250,.530,hitter
+Nick Williams,2017,Philadelphia Phillies,313,45,90,12,55,20,97,.288,.338,.473,.811,hitter
+Lane Adams,2017,Atlanta Braves,109,19,30,5,20,10,37,.275,.339,.468,.807,hitter
+Matt Adams,2017,St. Louis Cardinals,48,4,14,1,7,4,17,.292,.340,.396,.736,hitter
+Ozzie Albies,2017,Atlanta Braves,217,34,62,6,28,21,36,.286,.354,.456,.810,hitter
+Aaron Blair,2017,Atlanta Braves,1,0,1,0,0,1,0,1.000,1.000,1.000,2.000,hitter
+Emilio Bonifácio,2017,Atlanta Braves,38,2,5,0,3,1,9,.132,.150,.211,.361,hitter
+Rex Brothers,2017,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Johan Camargo,2017,Atlanta Braves,241,30,72,4,27,12,51,.299,.331,.452,.783,hitter
+Josh Collmenter,2017,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Bartolo Colon,2017,Atlanta Braves,15,1,0,0,0,0,8,.000,.000,.000,.000,hitter
+R.A. Dickey,2017,Atlanta Braves,61,0,9,0,5,0,12,.148,.148,.148,.296,hitter
+Tyler Flowers,2017,Atlanta Braves,317,41,89,12,49,31,82,.281,.378,.445,.823,hitter
+Mike Foltynewicz,2017,Atlanta Braves,42,1,2,0,0,0,27,.048,.048,.048,.096,hitter
+Freddie Freeman,2017,Atlanta Braves,440,84,135,28,71,65,95,.307,.403,.586,.989,hitter
+Sam Freeman,2017,Atlanta Braves,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+David Freitas,2017,Atlanta Braves,17,2,4,0,2,0,4,.235,.235,.353,.588,hitter
+Max Fried,2017,Atlanta Braves,7,1,0,0,0,1,3,.000,.125,.000,.125,hitter
+Adonis García,2017,Atlanta Braves,173,19,41,5,19,7,23,.237,.273,.347,.620,hitter
+Jaime García,2017,Atlanta Braves,31,2,5,1,7,1,7,.161,.188,.290,.478,hitter
+Luiz Gohara,2017,Atlanta Braves,9,0,0,0,0,0,7,.000,.000,.000,.000,hitter
+Jason Hursh,2017,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ender Inciarte,2017,Atlanta Braves,662,93,201,11,57,49,94,.304,.350,.409,.759,hitter
+Luke Jackson,2017,Atlanta Braves,2,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jim Johnson,2017,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Micah Johnson,2017,Atlanta Braves,10,2,2,0,0,0,4,.200,.200,.200,.400,hitter
+Matt Kemp,2017,Atlanta Braves,438,47,121,19,64,27,99,.276,.318,.463,.781,hitter
+Ian Krol,2017,Atlanta Braves,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Nick Markakis,2017,Atlanta Braves,593,76,163,8,76,68,110,.275,.354,.384,.738,hitter
+A.J. Minter,2017,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Akeel Morris,2017,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jason Motte,2017,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Sean Newcomb,2017,Atlanta Braves,27,1,1,0,0,2,17,.037,.103,.037,.140,hitter
+Eric O'Flaherty,2017,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jace Peterson,2017,Atlanta Braves,186,15,40,2,17,27,48,.215,.318,.317,.635,hitter
+Brandon Phillips,2017,Atlanta Braves,470,68,137,11,52,19,57,.291,.329,.423,.752,hitter
+José Ramirez,2017,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Anthony Recker,2017,Atlanta Braves,7,1,1,0,0,0,1,.143,.143,.143,.286,hitter
+Sean Rodríguez,2017,Atlanta Braves,37,6,6,2,3,8,19,.162,.326,.351,.677,hitter
+Chaz Roe,2017,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Rio Ruiz,2017,Atlanta Braves,150,22,29,4,19,19,41,.193,.283,.307,.590,hitter
+Tony Sanchez,2017,Atlanta Braves,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Danny Santana,2017,Minnesota Twins,25,3,5,1,1,1,8,.200,.231,.360,.591,hitter
+Lucas Sims,2017,Atlanta Braves,15,1,1,0,0,0,8,.067,.067,.067,.134,hitter
+Kurt Suzuki,2017,Atlanta Braves,276,38,78,19,50,17,39,.283,.351,.536,.887,hitter
+Dansby Swanson,2017,Atlanta Braves,488,59,113,6,51,59,120,.232,.312,.324,.636,hitter
+Julio Teheran,2017,Atlanta Braves,57,4,8,0,6,1,17,.140,.167,.140,.307,hitter
+Arodys Vizcaíno,2017,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Dan Winkler,2017,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Matt Wisler,2017,Atlanta Braves,2,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chase d'Arnaud,2017,Atlanta Braves,8,5,3,0,0,2,3,.375,.500,.375,.875,hitter
+José Abreu,2017,Chicago White Sox,621,95,189,33,102,35,119,.304,.354,.552,.906,hitter
+Al Alburquerque,2017,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tim Anderson,2017,Chicago White Sox,587,72,151,17,56,13,162,.257,.276,.402,.678,hitter
+Cody Asche,2017,Chicago White Sox,57,5,6,1,4,3,21,.105,.177,.175,.352,hitter
+Chris Beck,2017,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Rob Brantly,2017,Chicago White Sox,31,4,9,2,5,3,14,.290,.389,.516,.905,hitter
+Aaron Bummer,2017,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Melky Cabrera,2017,Chicago White Sox,397,54,117,13,56,25,52,.295,.336,.436,.772,hitter
+Tyler Clippard,2017,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Dylan Covey,2017,Chicago White Sox,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Matt Davidson,2017,Chicago White Sox,414,43,91,26,68,19,165,.220,.260,.452,.712,hitter
+Nicky Delmonico,2017,Chicago White Sox,141,25,37,9,23,23,31,.262,.373,.482,.855,hitter
+Adam Engel,2017,Chicago White Sox,301,34,50,6,21,19,117,.166,.235,.282,.517,hitter
+Danny Farquhar,2017,Tampa Bay Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Todd Frazier,2017,Chicago White Sox,280,41,58,16,44,48,71,.207,.328,.432,.760,hitter
+Avisaíl García,2017,Chicago White Sox,518,75,171,18,80,33,111,.330,.380,.506,.886,hitter
+Leury García,2017,Chicago White Sox,300,41,81,9,33,13,69,.270,.316,.423,.739,hitter
+Willy García,2017,Chicago White Sox,105,15,25,2,12,11,31,.238,.305,.400,.705,hitter
+Miguel González,2017,Chicago White Sox,6,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Alen Hanson,2017,Pittsburgh Pirates,57,8,11,0,1,2,9,.193,.220,.263,.483,hitter
+Derek Holland,2017,Chicago White Sox,1,0,1,0,0,0,0,1.000,1.000,1.000,2.000,hitter
+David Holmberg,2017,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Gregory Infante,2017,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Dan Jennings,2017,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tommy Kahnle,2017,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Rymer Liriano,2017,Chicago White Sox,41,4,9,1,6,5,14,.220,.304,.341,.645,hitter
+Jacob May,2017,Chicago White Sox,36,2,2,0,3,3,17,.056,.150,.056,.206,hitter
+Juan Minaya,2017,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Yoán Moncada,2017,Chicago White Sox,199,31,46,8,22,29,74,.231,.338,.412,.750,hitter
+Omar Narváez,2017,Chicago White Sox,253,23,70,2,14,38,45,.277,.373,.340,.713,hitter
+Mike Pelfrey,2017,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jake Petricka,2017,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jose Quintana,2017,Chicago White Sox,3,0,0,0,1,0,2,.000,.000,.000,.000,hitter
+David Robertson,2017,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Carlos Rodón,2017,Chicago White Sox,6,0,2,0,2,0,2,.333,.333,.500,.833,hitter
+Tyler Saladino,2017,Chicago White Sox,253,23,45,0,10,23,67,.178,.254,.229,.483,hitter
+Yolmer Sánchez,2017,Chicago White Sox,484,63,129,12,59,35,111,.267,.319,.413,.732,hitter
+Kevan Smith,2017,Chicago White Sox,276,23,78,4,30,9,46,.283,.309,.388,.697,hitter
+Geovany Soto,2017,Chicago White Sox,42,5,8,3,9,4,10,.190,.271,.405,.676,hitter
+Anthony Swarzak,2017,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Michael Ynoa,2017,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brian Anderson,2017,Miami Marlins,84,11,22,0,8,10,28,.262,.337,.369,.706,hitter
+Mike Aviles,2017,Miami Marlins,86,5,20,1,8,6,15,.233,.298,.291,.589,hitter
+Kyle Barraclough,2017,Miami Marlins,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Justin Bour,2017,Miami Marlins,377,52,109,25,83,47,95,.289,.366,.536,.902,hitter
+Hunter Cervenka,2017,Miami Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Wei-Yin Chen,2017,Miami Marlins,8,0,1,0,0,0,3,.125,.125,.125,.250,hitter
+Christian Colón,2017,Kansas City Royals,17,1,3,0,0,1,3,.176,.222,.176,.398,hitter
+Adam Conley,2017,Miami Marlins,24,3,3,0,0,2,14,.125,.192,.125,.317,hitter
+Odrisamer Despaigne,2017,Miami Marlins,19,0,2,0,1,0,5,.105,.105,.105,.210,hitter
+Derek Dietrich,2017,Miami Marlins,406,56,101,13,53,36,98,.249,.334,.424,.758,hitter
+Brian Ellington,2017,Miami Marlins,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+A.J. Ellis,2017,Miami Marlins,143,17,30,6,14,12,29,.210,.298,.371,.669,hitter
+Jarlín García,2017,Miami Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Javy Guerra,2017,Miami Marlins,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Adeiny Hechavarría,2017,Miami Marlins,65,8,18,1,6,1,9,.277,.288,.385,.673,hitter
+Tom Koehler,2017,Miami Marlins,21,0,1,0,0,0,15,.048,.048,.048,.096,hitter
+Jeff Locke,2017,Miami Marlins,10,0,0,0,0,1,9,.000,.091,.000,.091,hitter
+Steve Lombardozzi,2017,Miami Marlins,8,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Dustin McGowan,2017,Miami Marlins,6,0,0,0,0,0,6,.000,.000,.000,.000,hitter
+Tyler Moore,2017,Miami Marlins,187,17,43,6,30,10,56,.230,.267,.401,.668,hitter
+Justin Nicolino,2017,Miami Marlins,11,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Chris O'Grady,2017,Miami Marlins,8,0,0,0,0,0,5,.000,.000,.000,.000,hitter
+Marcell Ozuna,2017,Miami Marlins,613,93,191,37,124,64,144,.312,.376,.548,.924,hitter
+Dillon Peters,2017,Miami Marlins,9,1,0,0,0,0,8,.000,.000,.000,.000,hitter
+David Phelps,2017,Miami Marlins,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Martín Prado,2017,Miami Marlins,140,13,35,2,12,6,22,.250,.279,.357,.636,hitter
+AJ Ramos,2017,Miami Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+J.T. Realmuto,2017,Miami Marlins,532,68,148,17,65,36,106,.278,.332,.451,.783,hitter
+JT Riddle,2017,Miami Marlins,228,20,57,3,31,12,50,.250,.282,.355,.637,hitter
+Miguel Rojas,2017,Miami Marlins,272,37,79,1,26,27,32,.290,.361,.375,.736,hitter
+Giancarlo Stanton,2017,Miami Marlins,597,123,168,59,132,85,163,.281,.376,.631,1.007,hitter
+Drew Steckenrider,2017,Miami Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Dan Straily,2017,Miami Marlins,55,2,4,0,1,1,33,.073,.089,.091,.180,hitter
+Dee Strange-Gordon,2017,Miami Marlins,653,114,201,2,33,25,93,.308,.341,.375,.716,hitter
+Ichiro Suzuki,2017,Miami Marlins,196,19,50,3,20,17,35,.255,.318,.332,.650,hitter
+Junichi Tazawa,2017,Miami Marlins,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tomás Telis,2017,Miami Marlins,104,13,25,0,9,3,10,.240,.279,.346,.625,hitter
+José Ureña,2017,Miami Marlins,48,3,5,0,2,0,28,.104,.104,.125,.229,hitter
+Edinson Volquez,2017,Miami Marlins,26,0,5,0,1,1,11,.192,.214,.192,.406,hitter
+Nick Wittgren,2017,Miami Marlins,4,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Vance Worley,2017,Miami Marlins,22,0,4,0,3,0,8,.182,.182,.182,.364,hitter
+Christian Yelich,2017,Miami Marlins,602,100,170,18,81,80,137,.282,.369,.439,.808,hitter
+Brad Ziegler,2017,Miami Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Miguel Andujar,2017,New York Yankees,7,0,4,0,4,1,0,.571,.625,.857,1.482,hitter
+Tyler Austin,2017,New York Yankees,40,4,9,2,8,4,17,.225,.283,.425,.708,hitter
+Dellin Betances,2017,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Greg Bird,2017,New York Yankees,147,20,28,9,28,19,42,.190,.288,.422,.710,hitter
+Chris Carter,2017,New York Yankees,184,20,37,8,26,20,76,.201,.284,.370,.654,hitter
+Starlin Castro,2017,New York Yankees,443,66,133,16,63,23,93,.300,.338,.454,.792,hitter
+Aroldis Chapman,2017,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ji Man Choi,2017,New York Yankees,15,2,4,2,5,2,5,.267,.333,.733,1.066,hitter
+Tyler Clippard,2017,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Garrett Cooper,2017,New York Yankees,43,3,14,0,6,1,12,.326,.333,.488,.821,hitter
+Jacoby Ellsbury,2017,New York Yankees,356,65,94,7,39,41,63,.264,.348,.402,.750,hitter
+Dustin Fowler,2017,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Clint Frazier,2017,New York Yankees,134,16,31,4,17,7,43,.231,.268,.448,.716,hitter
+Todd Frazier,2017,Chicago White Sox,280,41,58,16,44,48,71,.207,.328,.432,.760,hitter
+Jaime García,2017,Atlanta Braves,31,2,5,1,7,1,7,.161,.188,.290,.478,hitter
+Brett Gardner,2017,New York Yankees,594,96,157,21,63,72,122,.264,.350,.428,.778,hitter
+Chad Green,2017,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Didi Gregorius,2017,New York Yankees,534,73,153,25,87,25,70,.287,.318,.478,.796,hitter
+Chase Headley,2017,New York Yankees,512,77,140,12,61,60,132,.273,.352,.406,.758,hitter
+Aaron Hicks,2017,New York Yankees,301,54,80,15,52,51,67,.266,.372,.475,.847,hitter
+Kyle Higashioka,2017,New York Yankees,18,2,0,0,0,2,6,.000,.100,.000,.100,hitter
+Jonathan Holder,2017,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Matt Holliday,2017,New York Yankees,373,50,86,19,64,46,114,.231,.316,.432,.748,hitter
+Aaron Judge,2017,New York Yankees,542,128,154,52,114,127,208,.284,.422,.627,1.049,hitter
+Tommy Kahnle,2017,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Pete Kozma,2017,New York Yankees,9,2,1,0,0,1,2,.111,.200,.111,.311,hitter
+Erik Kratz,2017,New York Yankees,2,0,2,0,2,0,0,1.000,1.000,1.500,2.500,hitter
+Tommy Layne,2017,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Bryan Mitchell,2017,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jordan Montgomery,2017,New York Yankees,3,0,0,0,0,2,2,.000,.400,.000,.400,hitter
+Michael Pineda,2017,New York Yankees,3,0,1,0,0,0,2,.333,.333,.333,.666,hitter
+Rob Refsnyder,2017,New York Yankees,37,3,5,0,0,3,8,.135,.200,.216,.416,hitter
+David Robertson,2017,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Austin Romine,2017,New York Yankees,229,19,50,2,21,16,57,.218,.272,.293,.565,hitter
+CC Sabathia,2017,New York Yankees,3,0,0,0,0,1,2,.000,.250,.000,.250,hitter
+Gary Sánchez,2017,New York Yankees,471,79,131,33,90,40,120,.278,.345,.531,.876,hitter
+Luis Severino,2017,New York Yankees,5,1,1,0,0,0,1,.200,.200,.200,.400,hitter
+Chasen Shreve,2017,New York Yankees,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Caleb Smith,2017,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Masahiro Tanaka,2017,New York Yankees,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Ronald Torreyes,2017,New York Yankees,315,35,92,3,36,11,43,.292,.314,.375,.689,hitter
+Tyler Wade,2017,New York Yankees,58,7,9,0,2,5,19,.155,.222,.224,.446,hitter
+Adam Warren,2017,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tyler Webb,2017,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mason Williams,2017,New York Yankees,16,3,4,0,1,1,2,.250,.294,.250,.544,hitter
+Jesús Aguilar,2017,Milwaukee Brewers,279,40,74,16,52,25,94,.265,.331,.505,.836,hitter
+Chase Anderson,2017,Milwaukee Brewers,52,1,7,0,3,0,29,.135,.135,.154,.289,hitter
+Orlando Arcia,2017,Milwaukee Brewers,506,56,140,15,53,36,100,.277,.324,.407,.731,hitter
+Jett Bandy,2017,Milwaukee Brewers,169,14,35,6,18,15,51,.207,.287,.349,.636,hitter
+Jacob Barnes,2017,Milwaukee Brewers,0,0,0,0,0,1,0,.000,1.000,.000,1.000,hitter
+Quintin Berry,2017,Milwaukee Brewers,3,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Michael Blazek,2017,Milwaukee Brewers,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Ryan Braun,2017,Milwaukee Brewers,380,58,102,17,52,38,76,.268,.336,.487,.823,hitter
+Lewis Brinson,2017,Milwaukee Brewers,47,2,5,2,3,7,17,.106,.236,.277,.513,hitter
+Keon Broxton,2017,Milwaukee Brewers,414,66,91,20,49,40,175,.220,.299,.420,.719,hitter
+Zach Davies,2017,Milwaukee Brewers,48,7,6,0,3,7,15,.125,.236,.167,.403,hitter
+Oliver Drake,2017,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Paolo Espino,2017,Milwaukee Brewers,4,0,1,0,0,0,1,.250,.250,.250,.500,hitter
+Neftalí Feliz,2017,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Nick Franklin,2017,Milwaukee Brewers,82,7,16,2,10,5,19,.195,.258,.317,.575,hitter
+Matt Garza,2017,Milwaukee Brewers,35,1,3,0,1,0,13,.086,.111,.086,.197,hitter
+David Goforth,2017,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Junior Guerra,2017,Milwaukee Brewers,16,0,0,0,0,0,4,.000,.000,.000,.000,hitter
+Josh Hader,2017,Milwaukee Brewers,4,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Jared Hughes,2017,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jeremy Jeffress,2017,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Taylor Jungmann,2017,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Corey Knebel,2017,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jorge López,2017,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jhan Mariñez,2017,Milwaukee Brewers,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Tommy Milone,2017,Milwaukee Brewers,4,0,0,0,0,1,1,.000,.200,.000,.200,hitter
+Jimmy Nelson,2017,Milwaukee Brewers,57,0,6,0,2,1,35,.105,.121,.105,.226,hitter
+Kirk Nieuwenhuis,2017,Milwaukee Brewers,26,3,3,1,1,4,15,.115,.258,.269,.527,hitter
+Wily Peralta,2017,Milwaukee Brewers,13,0,3,0,1,1,4,.231,.286,.231,.517,hitter
+Hernán Pérez,2017,Milwaukee Brewers,432,47,112,14,51,20,79,.259,.289,.414,.703,hitter
+Brett Phillips,2017,Milwaukee Brewers,87,9,24,4,12,9,34,.276,.351,.448,.799,hitter
+Manny Piña,2017,Milwaukee Brewers,330,45,92,9,43,20,79,.279,.327,.424,.751,hitter
+Yadiel Rivera,2017,Milwaukee Brewers,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Domingo Santana,2017,Milwaukee Brewers,525,88,146,30,85,73,178,.278,.371,.505,.876,hitter
+Rob Scahill,2017,Milwaukee Brewers,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Travis Shaw,2017,Milwaukee Brewers,538,84,147,31,101,60,138,.273,.349,.513,.862,hitter
+Eric Sogard,2017,Milwaukee Brewers,249,37,68,3,18,45,37,.273,.393,.378,.771,hitter
+Andrew Susac,2017,Milwaukee Brewers,12,0,1,0,0,0,6,.083,.083,.083,.166,hitter
+Brent Suter,2017,Milwaukee Brewers,18,1,3,0,1,0,8,.167,.211,.167,.378,hitter
+Anthony Swarzak,2017,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Eric Thames,2017,Milwaukee Brewers,469,83,116,31,63,75,163,.247,.359,.518,.877,hitter
+Carlos Torres,2017,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jonathan Villar,2017,Milwaukee Brewers,403,49,97,11,40,30,132,.241,.293,.372,.665,hitter
+Stephen Vogt,2017,Oakland Athletics,157,12,34,4,20,16,31,.217,.287,.357,.644,hitter
+Neil Walker,2017,New York Mets,265,40,70,10,36,27,47,.264,.339,.442,.781,hitter
+Wei-Chung Wang,2017,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tyler Webb,2017,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Aaron Wilkerson,2017,Milwaukee Brewers,4,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Taylor Williams,2017,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brandon Woodruff,2017,Milwaukee Brewers,10,2,2,0,0,1,2,.200,.273,.200,.473,hitter
+Jose Alvarez,2017,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Andrew Bailey,2017,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Cam Bedrosian,2017,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kole Calhoun,2017,Los Angeles Angels,569,77,139,19,71,71,134,.244,.333,.392,.725,hitter
+Jesse Chavez,2017,Los Angeles Angels,5,0,0,0,0,0,5,.000,.000,.000,.000,hitter
+Kaleb Cowart,2017,Los Angeles Angels,102,18,23,3,11,10,28,.225,.313,.382,.695,hitter
+C.J. Cron,2017,Los Angeles Angels,339,39,84,16,56,22,96,.248,.305,.437,.742,hitter
+Yunel Escobar,2017,Los Angeles Angels,350,43,96,7,31,29,51,.274,.333,.397,.730,hitter
+Danny Espinosa,2017,Los Angeles Angels,228,27,37,6,29,19,91,.162,.237,.276,.513,hitter
+Ramón Flores,2017,Los Angeles Angels,8,0,1,0,1,0,1,.125,.111,.125,.236,hitter
+Nolan Fontana,2017,Los Angeles Angels,20,1,1,1,1,3,8,.050,.174,.200,.374,hitter
+Nick Franklin,2017,Milwaukee Brewers,82,7,16,2,10,5,19,.195,.258,.317,.575,hitter
+Juan Graterol,2017,Los Angeles Angels,84,5,17,0,10,1,13,.202,.207,.250,.457,hitter
+Deolis Guerra,2017,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+David Hernandez,2017,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Martín Maldonado,2017,Los Angeles Angels,429,43,95,14,38,15,119,.221,.276,.368,.644,hitter
+Jefry Marte,2017,Los Angeles Angels,127,10,22,4,14,13,34,.173,.269,.307,.576,hitter
+Cameron Maybin,2017,Los Angeles Angels,336,57,79,6,22,48,78,.235,.333,.351,.684,hitter
+Alex Meyer,2017,Los Angeles Angels,2,0,1,0,0,0,1,.500,.500,.500,1.000,hitter
+Keynan Middleton,2017,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mike Morin,2017,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ricky Nolasco,2017,Los Angeles Angels,5,0,0,0,0,2,2,.000,.286,.000,.286,hitter
+Bud Norris,2017,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Eduardo Paredes,2017,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Blake Parker,2017,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Cliff Pennington,2017,Los Angeles Angels,194,23,49,3,21,16,58,.253,.306,.330,.636,hitter
+Carlos Pérez,2017,Los Angeles Angels,20,1,2,1,3,1,6,.100,.143,.250,.393,hitter
+Yusmeiro Petit,2017,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brandon Phillips,2017,Atlanta Braves,470,68,137,11,52,19,57,.291,.329,.423,.752,hitter
+César Puello,2017,Los Angeles Angels,4,0,1,0,1,0,1,.250,.250,.250,.500,hitter
+Albert Pujols,2017,Los Angeles Angels,593,53,143,23,101,37,93,.241,.286,.386,.672,hitter
+JC Ramírez,2017,Los Angeles Angels,3,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Ben Revere,2017,Los Angeles Angels,291,37,80,1,20,15,25,.275,.308,.344,.652,hitter
+Shane Robinson,2017,Los Angeles Angels,31,7,6,0,1,3,5,.194,.257,.194,.451,hitter
+Fernando Salas,2017,New York Mets,2,0,1,0,0,0,1,.500,.500,.500,1.000,hitter
+Matt Shoemaker,2017,Los Angeles Angels,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Andrelton Simmons,2017,Los Angeles Angels,589,77,164,14,69,47,67,.278,.331,.421,.752,hitter
+Tyler Skaggs,2017,Los Angeles Angels,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Huston Street,2017,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mike Trout,2017,Los Angeles Angels,402,92,123,33,72,94,90,.306,.442,.629,1.071,hitter
+Justin Upton,2017,Detroit Tigers,459,81,128,28,94,57,147,.279,.362,.542,.904,hitter
+Luis Valbuena,2017,Los Angeles Angels,347,42,69,22,65,48,106,.199,.294,.432,.726,hitter
+José A. Váldez,2017,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Blake Wood,2017,Cincinnati Reds,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Kirby Yates,2017,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Eric Young Jr.,2017,Los Angeles Angels,110,24,29,4,16,5,31,.264,.336,.418,.754,hitter
+Nick Ahmed,2017,Arizona Diamondbacks,167,24,42,6,21,10,39,.251,.298,.419,.717,hitter
+Anthony Banda,2017,Arizona Diamondbacks,5,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Jake Barrett,2017,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Grégor Blanco,2017,Arizona Diamondbacks,224,43,55,3,13,31,59,.246,.337,.357,.694,hitter
+Silvino Bracho,2017,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Archie Bradley,2017,Arizona Diamondbacks,4,0,1,0,1,0,2,.250,.250,.250,.500,hitter
+Andrew Chafin,2017,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Patrick Corbin,2017,Arizona Diamondbacks,56,6,7,0,0,6,28,.125,.210,.161,.371,hitter
+Jorge De La Rosa,2017,Arizona Diamondbacks,0,1,0,0,0,0,0,.000,.000,.000,.000,hitter
+Rubby De La Rosa,2017,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Randall Delgado,2017,Arizona Diamondbacks,8,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Daniel Descalso,2017,Arizona Diamondbacks,344,47,80,10,51,48,89,.233,.332,.395,.727,hitter
+Brandon Drury,2017,Arizona Diamondbacks,445,41,119,13,63,28,103,.267,.317,.447,.764,hitter
+Rey Fuentes,2017,Arizona Diamondbacks,136,19,32,3,9,8,35,.235,.278,.338,.616,hitter
+Zack Godley,2017,Arizona Diamondbacks,42,1,2,0,2,2,26,.048,.091,.048,.139,hitter
+Paul Goldschmidt,2017,Arizona Diamondbacks,558,117,166,36,120,94,147,.297,.404,.563,.967,hitter
+Zack Greinke,2017,Arizona Diamondbacks,62,4,13,0,4,2,18,.210,.246,.274,.520,hitter
+Jeremy Hazelbaker,2017,Arizona Diamondbacks,52,10,18,2,10,9,20,.346,.443,.577,1.020,hitter
+David Hernandez,2017,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chris Herrmann,2017,Arizona Diamondbacks,226,35,41,10,27,29,67,.181,.273,.345,.618,hitter
+J.J. Hoover,2017,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chris Iannetta,2017,Arizona Diamondbacks,272,38,69,17,43,37,87,.254,.354,.511,.865,hitter
+Matt Koch,2017,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jake Lamb,2017,Arizona Diamondbacks,536,89,133,30,105,87,152,.248,.357,.487,.844,hitter
+Ketel Marte,2017,Arizona Diamondbacks,223,30,58,5,18,29,37,.260,.345,.395,.740,hitter
+J.D. Martinez,2017,Detroit Tigers,200,38,61,16,39,29,54,.305,.388,.630,1.018,hitter
+Jeff Mathis,2017,Arizona Diamondbacks,186,13,40,2,11,14,61,.215,.277,.323,.600,hitter
+T.J. McFarland,2017,Arizona Diamondbacks,5,0,1,0,0,0,3,.200,.200,.200,.400,hitter
+Shelby Miller,2017,Arizona Diamondbacks,6,2,0,0,0,2,3,.000,.333,.000,.333,hitter
+John Ryan Murphy,2017,Arizona Diamondbacks,7,0,1,0,1,0,1,.143,.143,.286,.429,hitter
+Kristopher Negrón,2017,Arizona Diamondbacks,25,3,4,0,1,4,7,.160,.300,.200,.500,hitter
+Chris Owings,2017,Arizona Diamondbacks,362,41,97,12,51,17,87,.268,.299,.442,.741,hitter
+David Peralta,2017,Arizona Diamondbacks,525,82,154,14,57,43,94,.293,.352,.444,.796,hitter
+AJ Pollock,2017,Arizona Diamondbacks,425,73,113,14,49,35,71,.266,.330,.471,.801,hitter
+Robbie Ray,2017,Arizona Diamondbacks,53,5,13,0,2,3,23,.245,.286,.283,.569,hitter
+Jack Reinheimer,2017,Arizona Diamondbacks,5,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Fernando Rodney,2017,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Adam Rosales,2017,Oakland Athletics,205,15,48,4,27,10,66,.234,.273,.346,.619,hitter
+Jimmie Sherfy,2017,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Braden Shipley,2017,Arizona Diamondbacks,6,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Yasmany Tomás,2017,Arizona Diamondbacks,166,19,40,8,32,13,50,.241,.294,.464,.758,hitter
+Ildemaro Vargas,2017,Arizona Diamondbacks,13,4,4,0,4,0,3,.308,.308,.385,.693,hitter
+Christian Walker,2017,Arizona Diamondbacks,12,2,3,2,2,1,5,.250,.400,.833,1.233,hitter
+Taijuan Walker,2017,Arizona Diamondbacks,52,6,12,1,5,1,19,.231,.245,.308,.553,hitter
+Tom Wilhelmsen,2017,Arizona Diamondbacks,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Pedro Alvarez,2017,Baltimore Orioles,32,4,10,1,4,2,10,.313,.353,.438,.791,hitter
+Jayson Aquino,2017,Baltimore Orioles,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Alec Asher,2017,Baltimore Orioles,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tim Beckham,2017,Tampa Bay Rays,317,31,82,12,36,24,110,.259,.314,.407,.721,hitter
+Richard Bleier,2017,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brad Brach,2017,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Zack Britton,2017,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Welington Castillo,2017,Baltimore Orioles,341,44,96,20,53,22,97,.282,.323,.490,.813,hitter
+Miguel Castro,2017,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chris Davis,2017,Baltimore Orioles,456,65,98,26,61,61,195,.215,.309,.423,.732,hitter
+Oliver Drake,2017,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ryan Flaherty,2017,Baltimore Orioles,38,5,8,0,4,4,10,.211,.302,.237,.539,hitter
+Kevin Gausman,2017,Baltimore Orioles,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Craig Gentry,2017,Baltimore Orioles,101,17,26,2,11,11,24,.257,.333,.386,.719,hitter
+Johnny Giavotella,2017,Baltimore Orioles,10,0,1,0,0,0,4,.100,.100,.100,.200,hitter
+Mychal Givens,2017,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+J.J. Hardy,2017,Baltimore Orioles,254,24,55,4,24,12,48,.217,.255,.323,.578,hitter
+Donnie Hart,2017,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Austin Hays,2017,Baltimore Orioles,60,4,13,1,8,2,16,.217,.238,.317,.555,hitter
+Jeremy Hellickson,2017,Philadelphia Phillies,33,1,3,0,2,3,9,.091,.167,.182,.349,hitter
+Edwin Jackson,2017,Washington Nationals,21,3,2,0,0,0,15,.095,.095,.095,.190,hitter
+Paul Janish,2017,Baltimore Orioles,26,0,2,0,3,1,6,.077,.111,.077,.188,hitter
+Ubaldo Jiménez,2017,Baltimore Orioles,5,0,1,0,0,0,3,.200,.200,.200,.400,hitter
+Adam Jones,2017,Baltimore Orioles,597,82,170,26,73,27,113,.285,.322,.466,.788,hitter
+Caleb Joseph,2017,Baltimore Orioles,254,31,65,8,28,10,72,.256,.287,.413,.700,hitter
+Hyun Soo Kim,2017,Baltimore Orioles,125,11,29,1,10,12,27,.232,.305,.288,.593,hitter
+Manny Machado,2017,Baltimore Orioles,630,81,163,33,95,50,115,.259,.310,.471,.781,hitter
+Trey Mancini,2017,Baltimore Orioles,543,65,159,24,78,33,139,.293,.338,.488,.826,hitter
+Wade Miley,2017,Baltimore Orioles,4,0,1,0,0,0,1,.250,.250,.250,.500,hitter
+Vidal Nuño,2017,Baltimore Orioles,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Darren O'Day,2017,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Francisco Peña,2017,Baltimore Orioles,10,3,5,2,2,0,3,.500,.500,1.100,1.600,hitter
+Joey Rickard,2017,Baltimore Orioles,261,29,63,4,19,9,63,.241,.276,.345,.621,hitter
+Anthony Santander,2017,Baltimore Orioles,30,1,8,0,2,0,8,.267,.258,.367,.625,hitter
+Jonathan Schoop,2017,Baltimore Orioles,622,92,182,32,105,35,142,.293,.338,.503,.841,hitter
+Chance Sisco,2017,Baltimore Orioles,18,3,6,2,4,3,7,.333,.455,.778,1.233,hitter
+Seth Smith,2017,Baltimore Orioles,330,50,85,13,32,36,79,.258,.340,.433,.773,hitter
+Rubén Tejada,2017,Baltimore Orioles,113,17,26,0,5,8,15,.230,.293,.283,.576,hitter
+Mark Trumbo,2017,Baltimore Orioles,559,79,131,23,65,42,149,.234,.289,.397,.686,hitter
+David Washington,2017,Baltimore Orioles,6,0,0,0,0,0,5,.000,.000,.000,.000,hitter
+Tyler Wilson,2017,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mike Wright Jr.,2017,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jimmy Yacabonis,2017,Baltimore Orioles,2,0,0,0,1,0,1,.000,.000,.000,.000,hitter
+Gabriel Ynoa,2017,Baltimore Orioles,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Fernando Abad,2017,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Matt Barnes,2017,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Andrew Benintendi,2017,Boston Red Sox,573,84,155,20,90,70,112,.271,.352,.424,.776,hitter
+Mookie Betts,2017,Boston Red Sox,628,101,166,24,102,77,79,.264,.344,.459,.803,hitter
+Xander Bogaerts,2017,Boston Red Sox,571,94,156,10,62,56,116,.273,.343,.403,.746,hitter
+Jackie Bradley Jr.,2017,Boston Red Sox,482,58,118,17,63,48,124,.245,.323,.402,.725,hitter
+Rajai Davis,2017,Oakland Athletics,300,49,70,5,18,26,70,.233,.294,.353,.647,hitter
+Rafael Devers,2017,Boston Red Sox,222,34,63,10,30,18,57,.284,.338,.482,.820,hitter
+Doug Fister,2017,Boston Red Sox,2,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Heath Hembree,2017,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Marco Hernández,2017,Boston Red Sox,58,7,16,0,2,1,15,.276,.300,.328,.628,hitter
+Brock Holt,2017,Boston Red Sox,140,20,28,0,7,19,34,.200,.305,.243,.548,hitter
+Brian Johnson,2017,Boston Red Sox,2,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Joe Kelly,2017,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kyle Kendrick,2017,Boston Red Sox,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Craig Kimbrel,2017,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Sandy León,2017,Boston Red Sox,271,32,61,7,39,25,74,.225,.290,.354,.644,hitter
+Tzu-Wei Lin,2017,Boston Red Sox,56,7,15,0,2,9,17,.268,.369,.339,.708,hitter
+Deven Marrero,2017,Boston Red Sox,171,32,36,4,27,12,61,.211,.259,.333,.592,hitter
+Mitch Moreland,2017,Boston Red Sox,508,73,125,22,79,57,120,.246,.326,.443,.769,hitter
+Eduardo Núñez,2017,San Francisco Giants,302,37,93,4,31,12,29,.308,.334,.417,.751,hitter
+Dustin Pedroia,2017,Boston Red Sox,406,46,119,7,62,49,48,.293,.369,.392,.761,hitter
+Drew Pomeranz,2017,Boston Red Sox,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Rick Porcello,2017,Boston Red Sox,4,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+David Price,2017,Boston Red Sox,1,0,1,0,0,0,0,1.000,1.000,1.000,2.000,hitter
+Hanley Ramirez,2017,Boston Red Sox,496,58,120,23,62,51,116,.242,.320,.429,.749,hitter
+Addison Reed,2017,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Eduardo Rodriguez,2017,Boston Red Sox,7,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Robbie Ross Jr.,2017,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Josh Rutledge,2017,Boston Red Sox,107,10,24,0,9,9,31,.224,.297,.262,.559,hitter
+Chris Sale,2017,Boston Red Sox,3,0,1,0,0,0,1,.333,.333,.667,1.000,hitter
+Pablo Sandoval,2017,Boston Red Sox,99,10,21,4,12,8,24,.212,.269,.354,.623,hitter
+Robby Scott,2017,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Steve Selsky,2017,Boston Red Sox,9,0,1,0,0,0,5,.111,.111,.222,.333,hitter
+Carson Smith,2017,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Blake Swihart,2017,Boston Red Sox,5,1,1,0,0,2,3,.200,.429,.200,.629,hitter
+Ben Taylor,2017,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Sam Travis,2017,Boston Red Sox,76,13,20,0,1,6,23,.263,.325,.342,.667,hitter
+Christian Vázquez,2017,Boston Red Sox,324,43,94,5,32,17,64,.290,.330,.404,.734,hitter
+Hector Velázquez,2017,Boston Red Sox,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brandon Workman,2017,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chris Young,2017,Boston Red Sox,243,30,57,7,25,30,55,.235,.322,.387,.709,hitter
+Chase d'Arnaud,2017,Atlanta Braves,8,5,3,0,0,2,3,.375,.500,.375,.875,hitter
+Albert Almora Jr.,2017,Chicago Cubs,299,39,89,8,46,19,53,.298,.338,.445,.783,hitter
+Brett Anderson,2017,Chicago Cubs,7,0,1,0,1,1,3,.143,.250,.143,.393,hitter
+Jake Arrieta,2017,Chicago Cubs,61,2,8,1,5,1,32,.131,.145,.213,.358,hitter
+Alex Avila,2017,Detroit Tigers,219,30,60,11,32,43,80,.274,.394,.475,.869,hitter
+Javier Báez,2017,Chicago Cubs,469,75,128,23,75,30,144,.273,.317,.480,.797,hitter
+Kris Bryant,2017,Chicago Cubs,549,111,162,29,73,95,128,.295,.409,.537,.946,hitter
+Eddie Butler,2017,Chicago Cubs,15,0,1,0,0,1,6,.067,.125,.067,.192,hitter
+Jeimer Candelario,2017,Chicago Cubs,33,2,5,1,3,1,12,.152,.222,.303,.525,hitter
+Victor Caratini,2017,Chicago Cubs,59,6,15,1,2,4,13,.254,.333,.356,.689,hitter
+Willson Contreras,2017,Chicago Cubs,377,50,104,21,74,45,98,.276,.356,.499,.855,hitter
+Taylor Davis,2017,Chicago Cubs,13,1,3,0,1,0,4,.231,.231,.308,.539,hitter
+Wade Davis,2017,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brian Duensing,2017,Chicago Cubs,4,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Carl Edwards Jr.,2017,Chicago Cubs,1,1,0,0,0,0,1,.000,.000,.000,.000,hitter
+Dylan Floro,2017,Chicago Cubs,4,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Seth Frankoff,2017,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mike Freeman,2017,Seattle Mariners,30,3,2,1,1,4,9,.067,.176,.167,.343,hitter
+Justin Grimm,2017,Chicago Cubs,3,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Ian Happ,2017,Chicago Cubs,364,62,92,24,68,39,129,.253,.328,.514,.842,hitter
+Kyle Hendricks,2017,Chicago Cubs,50,3,5,0,5,0,28,.100,.100,.120,.220,hitter
+Jason Heyward,2017,Chicago Cubs,432,59,112,11,59,41,67,.259,.326,.389,.715,hitter
+Jon Jay,2017,Chicago Cubs,379,65,112,2,34,37,80,.296,.374,.375,.749,hitter
+Pierce Johnson,2017,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tommy La Stella,2017,Chicago Cubs,125,18,36,5,22,20,18,.288,.389,.472,.861,hitter
+John Lackey,2017,Chicago Cubs,53,2,7,0,1,3,23,.132,.179,.151,.330,hitter
+Jack Leathersich,2017,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jon Lester,2017,Chicago Cubs,54,5,8,1,6,4,26,.148,.203,.259,.462,hitter
+Dillon Maples,2017,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Leonys Martin,2017,Seattle Mariners,115,12,20,3,8,5,29,.174,.221,.287,.508,hitter
+Miguel Montero,2017,Chicago Cubs,98,12,28,4,8,11,24,.286,.366,.439,.805,hitter
+Mike Montgomery,2017,Chicago Cubs,27,5,5,1,3,0,10,.185,.185,.333,.518,hitter
+Félix Peña,2017,Chicago Cubs,3,0,0,0,0,1,1,.000,.250,.000,.250,hitter
+Jose Quintana,2017,Chicago White Sox,3,0,0,0,1,0,2,.000,.000,.000,.000,hitter
+René Rivera,2017,New York Mets,174,15,40,8,23,9,54,.230,.278,.391,.669,hitter
+Anthony Rizzo,2017,Chicago Cubs,572,99,156,32,109,91,90,.273,.392,.507,.899,hitter
+Héctor Rondón,2017,Chicago Cubs,2,0,1,0,0,0,0,.500,.500,.500,1.000,hitter
+Zac Rosscup,2017,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Addison Russell,2017,Chicago Cubs,352,52,84,12,43,29,91,.239,.304,.418,.722,hitter
+Kyle Schwarber,2017,Chicago Cubs,422,67,89,30,59,59,150,.211,.315,.467,.782,hitter
+Pedro Strop,2017,Chicago Cubs,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Matt Szczur,2017,Chicago Cubs,19,2,4,0,3,2,4,.211,.273,.263,.536,hitter
+Jen-Ho Tseng,2017,Chicago Cubs,1,0,0,0,1,0,0,.000,.000,.000,.000,hitter
+Koji Uehara,2017,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Justin Wilson,2017,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mark Zagunis,2017,Chicago Cubs,14,0,0,0,1,4,6,.000,.222,.000,.222,hitter
+Rob Zastryzny,2017,Chicago Cubs,3,0,1,0,0,0,0,.333,.333,.333,.666,hitter
+Ben Zobrist,2017,Chicago Cubs,435,58,101,12,50,54,71,.232,.318,.375,.693,hitter
+Tim Adleman,2017,Cincinnati Reds,29,0,3,0,2,0,10,.103,.103,.138,.241,hitter
+Arismendy Alcántara,2017,Cincinnati Reds,105,13,18,1,7,2,38,.171,.187,.248,.435,hitter
+Bronson Arroyo,2017,Cincinnati Reds,26,0,4,0,0,0,10,.154,.154,.154,.308,hitter
+Barrett Astin,2017,Cincinnati Reds,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Homer Bailey,2017,Cincinnati Reds,28,4,7,0,0,0,11,.250,.250,.321,.571,hitter
+Tucker Barnhart,2017,Cincinnati Reds,370,26,100,7,44,42,68,.270,.347,.403,.750,hitter
+Lisalverto Bonilla,2017,Cincinnati Reds,6,0,1,0,0,1,3,.167,.375,.167,.542,hitter
+Austin Brice,2017,Cincinnati Reds,4,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Jake Buchanan,2017,Cincinnati Reds,2,1,1,0,1,1,1,.500,.667,.500,1.167,hitter
+Luis Castillo,2017,Cincinnati Reds,29,0,2,0,1,1,11,.069,.100,.069,.169,hitter
+Alejandro Chacin,2017,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tony Cingrani,2017,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Zack Cozart,2017,Cincinnati Reds,438,80,130,24,63,62,78,.297,.385,.548,.933,hitter
+Rookie Davis,2017,Cincinnati Reds,6,0,1,0,0,0,5,.167,.286,.333,.619,hitter
+Adam Duvall,2017,Cincinnati Reds,587,78,146,31,99,39,170,.249,.301,.480,.781,hitter
+Phillip Ervin,2017,Cincinnati Reds,58,8,15,3,10,4,15,.259,.317,.448,.765,hitter
+Luke Farrell,2017,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Scott Feldman,2017,Cincinnati Reds,34,0,1,0,0,0,16,.029,.029,.029,.058,hitter
+Brandon Finnegan,2017,Cincinnati Reds,5,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Amir Garrett,2017,Cincinnati Reds,19,1,1,0,1,0,6,.053,.053,.105,.158,hitter
+Scooter Gennett,2017,Cincinnati Reds,461,80,136,27,97,30,114,.295,.342,.531,.873,hitter
+Billy Hamilton,2017,Cincinnati Reds,582,85,144,4,38,44,133,.247,.299,.335,.634,hitter
+Ariel Hernández,2017,Cincinnati Reds,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Raisel Iglesias,2017,Cincinnati Reds,1,0,1,0,0,0,0,1.000,1.000,2.000,3.000,hitter
+Patrick Kivlehan,2017,Cincinnati Reds,178,23,37,9,26,22,61,.208,.304,.399,.703,hitter
+Michael Lorenzen,2017,Cincinnati Reds,12,1,2,1,1,0,5,.167,.167,.417,.584,hitter
+Tyler Mahle,2017,Cincinnati Reds,7,1,1,0,0,0,2,.143,.250,.143,.393,hitter
+Deck McGuire,2017,Cincinnati Reds,3,0,0,0,1,0,1,.000,.000,.000,.000,hitter
+Keury Mella,2017,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Devin Mesoraco,2017,Cincinnati Reds,141,17,30,6,14,18,38,.213,.321,.390,.711,hitter
+Wandy Peralta,2017,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+José Peraza,2017,Cincinnati Reds,487,50,126,5,37,20,70,.259,.297,.324,.621,hitter
+Cody Reed,2017,Cincinnati Reds,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Sal Romano,2017,Cincinnati Reds,24,0,1,0,0,1,15,.042,.080,.083,.163,hitter
+Scott Schebler,2017,Cincinnati Reds,473,63,110,30,67,39,125,.233,.307,.484,.791,hitter
+Kevin Shackelford,2017,Cincinnati Reds,3,0,1,0,0,0,1,.333,.333,.333,.666,hitter
+Jackson Stephens,2017,Cincinnati Reds,6,1,2,0,2,0,2,.333,.333,.333,.666,hitter
+Robert Stephenson,2017,Cincinnati Reds,23,1,1,0,0,0,15,.043,.043,.043,.086,hitter
+Drew Storen,2017,Cincinnati Reds,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Eugenio Suárez,2017,Cincinnati Reds,534,87,139,26,82,84,147,.260,.367,.461,.828,hitter
+Stuart Turner,2017,Cincinnati Reds,82,4,11,2,7,5,22,.134,.182,.244,.426,hitter
+Zach Vincej,2017,Cincinnati Reds,9,2,1,0,0,1,5,.111,.333,.111,.444,hitter
+Joey Votto,2017,Cincinnati Reds,559,106,179,36,100,134,83,.320,.454,.578,1.032,hitter
+Chad Wallach,2017,Cincinnati Reds,11,0,1,0,0,0,5,.091,.091,.091,.182,hitter
+Jesse Winker,2017,Cincinnati Reds,121,21,36,7,15,15,24,.298,.375,.529,.904,hitter
+Asher Wojciechowski,2017,Cincinnati Reds,14,0,1,0,0,0,11,.071,.071,.071,.142,hitter
+Blake Wood,2017,Cincinnati Reds,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Cody Allen,2017,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Greg Allen,2017,Cleveland Indians,35,7,8,1,6,2,8,.229,.282,.343,.625,hitter
+Abraham Almonte,2017,Cleveland Indians,172,26,40,3,14,20,46,.233,.314,.366,.680,hitter
+Shawn Armstrong,2017,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Trevor Bauer,2017,Cleveland Indians,3,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Michael Brantley,2017,Cleveland Indians,338,47,101,9,52,31,50,.299,.357,.444,.801,hitter
+Craig Breslow,2017,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jay Bruce,2017,New York Mets,406,61,104,29,75,39,102,.256,.321,.520,.841,hitter
+Carlos Carrasco,2017,Cleveland Indians,4,1,0,0,0,1,1,.000,.200,.000,.200,hitter
+Lonnie Chisenhall,2017,Cleveland Indians,236,34,68,12,53,25,55,.288,.360,.521,.881,hitter
+Mike Clevinger,2017,Cleveland Indians,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Kyle Crockett,2017,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Yandy Díaz,2017,Cleveland Indians,156,25,41,0,13,21,35,.263,.352,.327,.679,hitter
+Edwin Encarnación,2017,Cleveland Indians,554,96,143,38,107,104,133,.258,.377,.504,.881,hitter
+Yan Gomes,2017,Cleveland Indians,341,43,79,14,56,31,99,.232,.309,.399,.708,hitter
+Erik González,2017,Cleveland Indians,110,18,28,4,11,3,37,.255,.272,.418,.690,hitter
+Nick Goody,2017,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brandon Guyer,2017,Cleveland Indians,165,23,39,2,20,15,43,.236,.326,.327,.653,hitter
+Austin Jackson,2017,Cleveland Indians,280,46,89,7,35,33,64,.318,.387,.482,.869,hitter
+Jason Kipnis,2017,Cleveland Indians,336,43,78,12,35,28,71,.232,.291,.414,.705,hitter
+Corey Kluber,2017,Cleveland Indians,2,0,1,0,0,0,0,.500,.500,.500,1.000,hitter
+Francisco Lindor,2017,Cleveland Indians,651,99,178,33,89,60,93,.273,.337,.505,.842,hitter
+Boone Logan,2017,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Michael Martinez,2017,Cleveland Indians,11,1,4,0,0,2,5,.364,.462,.455,.917,hitter
+Zach McAllister,2017,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Francisco Mejía,2017,Cleveland Indians,13,1,2,0,1,1,3,.154,.214,.154,.368,hitter
+Andrew Miller,2017,Cleveland Indians,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Tyler Naquin,2017,Cleveland Indians,37,4,8,0,1,2,9,.216,.250,.270,.520,hitter
+Dan Otero,2017,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Roberto Pérez,2017,Cleveland Indians,217,22,45,8,38,26,71,.207,.291,.373,.664,hitter
+José Ramírez,2017,Cleveland Guardians,585,107,186,29,83,52,69,.318,.374,.583,.957,hitter
+Daniel Robertson,2017,Cleveland Indians,80,9,18,1,7,7,3,.225,.287,.338,.625,hitter
+Carlos Santana,2017,Cleveland Guardians,571,90,148,23,79,88,94,.259,.363,.455,.818,hitter
+Bryan Shaw,2017,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Joe Smith,2017,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Josh Tomlin,2017,Cleveland Indians,7,0,1,0,0,0,3,.143,.143,.143,.286,hitter
+Gio Urshela,2017,Cleveland Indians,156,14,35,1,15,8,22,.224,.262,.288,.550,hitter
+Bradley Zimmer,2017,Cleveland Indians,299,41,72,8,39,26,99,.241,.307,.385,.692,hitter
+Cristhian Adames,2017,Colorado Rockies,13,1,0,0,0,1,6,.000,.071,.000,.071,hitter
+Alexi Amarista,2017,Colorado Rockies,168,22,40,3,19,7,38,.238,.269,.351,.620,hitter
+Tyler Anderson,2017,Colorado Rockies,26,1,1,0,0,1,17,.038,.074,.038,.112,hitter
+Nolan Arenado,2017,Colorado Rockies,606,100,187,37,130,62,106,.309,.373,.586,.959,hitter
+Chad Bettis,2017,Colorado Rockies,11,1,1,0,1,1,6,.091,.167,.091,.258,hitter
+Charlie Blackmon,2017,Colorado Rockies,644,137,213,37,104,65,135,.331,.399,.601,1.000,hitter
+Stephen Cardullo,2017,Colorado Rockies,28,2,4,0,3,3,7,.143,.250,.143,.393,hitter
+Shane Carle,2017,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tyler Chatwood,2017,Colorado Rockies,39,5,6,0,2,1,9,.154,.175,.179,.354,hitter
+Ian Desmond,2017,Colorado Rockies,339,47,93,7,40,24,87,.274,.326,.375,.701,hitter
+Jairo Díaz,2017,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mike Dunn,2017,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Carlos Estévez,2017,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kyle Freeland,2017,Colorado Rockies,52,3,8,1,2,1,30,.154,.170,.231,.401,hitter
+Dustin Garneau,2017,Colorado Rockies,68,5,14,1,6,4,24,.206,.260,.353,.613,hitter
+Carlos González,2017,Colorado Rockies,470,72,123,14,57,56,119,.262,.339,.423,.762,hitter
+Jon Gray,2017,Colorado Rockies,38,3,3,1,3,1,27,.079,.103,.158,.261,hitter
+Ryan Hanigan,2017,Colorado Rockies,101,9,27,2,12,8,26,.267,.324,.347,.671,hitter
+Jeff Hoffman,2017,Colorado Rockies,33,1,3,0,1,0,17,.091,.091,.121,.212,hitter
+Greg Holland,2017,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+DJ LeMahieu,2017,Colorado Rockies,609,95,189,8,64,59,90,.310,.374,.409,.783,hitter
+Jonathan Lucroy,2017,Texas Rangers,281,27,68,4,27,19,32,.242,.297,.338,.635,hitter
+Jordan Lyles,2017,Colorado Rockies,5,0,1,0,0,0,3,.200,.200,.200,.400,hitter
+Germán Márquez,2017,Colorado Rockies,45,4,8,0,5,0,18,.178,.178,.222,.400,hitter
+Jake McGee,2017,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ryan McMahon,2017,Colorado Rockies,19,2,3,0,1,5,5,.158,.333,.211,.544,hitter
+Tom Murphy,2017,Colorado Rockies,24,1,1,0,1,2,9,.042,.115,.083,.198,hitter
+Pat Neshek,2017,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Scott Oberg,2017,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Adam Ottavino,2017,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Gerardo Parra,2017,Colorado Rockies,392,56,121,10,71,20,67,.309,.341,.452,.793,hitter
+Chad Qualls,2017,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mark Reynolds,2017,Colorado Rockies,520,82,139,30,97,69,175,.267,.352,.487,.839,hitter
+Zac Rosscup,2017,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chris Rusin,2017,Colorado Rockies,9,1,3,0,0,0,3,.333,.333,.333,.666,hitter
+Antonio Senzatela,2017,Colorado Rockies,32,1,4,0,5,0,20,.125,.125,.156,.281,hitter
+Trevor Story,2017,Colorado Rockies,503,68,120,24,82,49,191,.239,.308,.457,.765,hitter
+Raimel Tapia,2017,Colorado Rockies,160,27,46,2,16,8,36,.288,.329,.425,.754,hitter
+Mike Tauchman,2017,Colorado Rockies,27,2,6,0,2,5,10,.222,.344,.296,.640,hitter
+Pat Valaika,2017,Colorado Rockies,182,28,47,13,40,7,53,.258,.284,.533,.817,hitter
+Tony Wolters,2017,Colorado Rockies,229,30,55,0,16,33,55,.240,.341,.284,.625,hitter
+James Adduci,2017,Detroit Tigers,83,14,20,1,10,10,27,.241,.323,.398,.721,hitter
+Alex Avila,2017,Detroit Tigers,219,30,60,11,32,43,80,.274,.394,.475,.869,hitter
+Chad Bell,2017,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Matthew Boyd,2017,Detroit Tigers,3,0,1,0,0,0,0,.333,.333,.333,.666,hitter
+Miguel Cabrera,2017,Detroit Tigers,469,50,117,16,60,54,110,.249,.329,.399,.728,hitter
+Jeimer Candelario,2017,Chicago Cubs,33,2,5,1,3,1,12,.152,.222,.303,.525,hitter
+Nick Castellanos,2017,Detroit Tigers,614,73,167,26,101,41,142,.272,.320,.490,.810,hitter
+Tyler Collins,2017,Detroit Tigers,150,18,29,5,14,18,55,.193,.278,.333,.611,hitter
+Jeff Ferrell,2017,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Michael Fulmer,2017,Detroit Tigers,5,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Shane Greene,2017,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Blaine Hardy,2017,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+John Hicks,2017,Detroit Tigers,173,25,46,6,22,13,51,.266,.326,.439,.765,hitter
+Bryan Holaday,2017,Detroit Tigers,29,1,7,0,2,0,1,.241,.241,.310,.551,hitter
+Jose Iglesias,2017,Detroit Tigers,463,56,118,6,54,21,65,.255,.288,.369,.657,hitter
+JaCoby Jones,2017,Detroit Tigers,141,14,24,3,13,9,65,.170,.240,.270,.510,hitter
+Ian Kinsler,2017,Detroit Tigers,551,90,130,22,52,55,86,.236,.313,.412,.725,hitter
+Dixon Machado,2017,Detroit Tigers,166,17,43,1,11,10,32,.259,.302,.319,.621,hitter
+Mikie Mahtook,2017,Detroit Tigers,348,50,96,12,38,23,79,.276,.330,.457,.787,hitter
+J.D. Martinez,2017,Detroit Tigers,200,38,61,16,39,29,54,.305,.388,.630,1.018,hitter
+Victor Martinez,2017,Detroit Tigers,392,38,100,10,47,36,63,.255,.324,.372,.696,hitter
+James McCann,2017,Detroit Tigers,352,39,89,13,49,26,89,.253,.318,.415,.733,hitter
+Edward Mujica,2017,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Efren Navarro,2017,Detroit Tigers,61,9,14,2,2,8,21,.230,.319,.377,.696,hitter
+Alex Presley,2017,Detroit Tigers,245,30,77,3,20,15,49,.314,.354,.416,.770,hitter
+Andrew Romine,2017,Detroit Tigers,318,45,74,4,25,22,67,.233,.289,.336,.625,hitter
+Bruce Rondón,2017,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Aníbal Sánchez,2017,Detroit Tigers,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Warwick Saupold,2017,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Daniel Stumpf,2017,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Justin Upton,2017,Detroit Tigers,459,81,128,28,94,57,147,.279,.362,.542,.904,hitter
+Drew VerHagen,2017,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Justin Verlander,2017,Detroit Tigers,6,0,1,0,1,0,4,.167,.167,.167,.334,hitter
+Alex Wilson,2017,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Justin Wilson,2017,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jordan Zimmermann,2017,Detroit Tigers,6,0,1,0,0,0,1,.167,.167,.167,.334,hitter
+Matthew den Dekker,2017,Detroit Tigers,7,1,1,0,0,1,4,.143,.250,.143,.393,hitter
+Jose Altuve,2017,Houston Astros,590,112,204,24,81,58,84,.346,.410,.547,.957,hitter
+Norichika Aoki,2017,Houston Astros,202,28,55,2,19,15,29,.272,.323,.371,.694,hitter
+Carlos Beltrán,2017,Houston Astros,467,60,108,14,51,33,102,.231,.283,.383,.666,hitter
+Alex Bregman,2017,Houston Astros,556,88,158,19,71,55,97,.284,.352,.475,.827,hitter
+Juan Centeno,2017,Houston Astros,52,5,12,2,4,4,12,.231,.286,.346,.632,hitter
+Tyler Clippard,2017,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Carlos Correa,2017,Houston Astros,422,82,133,24,84,53,92,.315,.391,.550,.941,hitter
+J.D. Davis,2017,Houston Astros,62,8,14,4,7,4,20,.226,.279,.484,.763,hitter
+Chris Devenski,2017,Houston Astros,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Michael Feliz,2017,Houston Astros,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Mike Fiers,2017,Houston Astros,1,1,0,0,0,0,1,.000,.000,.000,.000,hitter
+Derek Fisher,2017,Houston Astros,146,21,31,5,17,17,54,.212,.307,.356,.663,hitter
+Evan Gattis,2017,Houston Astros,300,41,79,12,55,18,50,.263,.311,.457,.768,hitter
+Ken Giles,2017,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Marwin Gonzalez,2017,Houston Astros,455,67,138,23,90,49,99,.303,.377,.530,.907,hitter
+Luke Gregerson,2017,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Yuli Gurriel,2017,Houston Astros,529,69,158,18,75,22,62,.299,.332,.486,.818,hitter
+Will Harris,2017,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Teoscar Hernández,2017,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+James Hoyt,2017,Houston Astros,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Tony Kemp,2017,Houston Astros,37,6,8,0,4,1,5,.216,.256,.243,.499,hitter
+Dallas Keuchel,2017,Houston Astros,3,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Francisco Liriano,2017,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jake Marisnick,2017,Houston Astros,230,50,56,16,35,20,90,.243,.319,.496,.815,hitter
+Francis Martes,2017,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Cameron Maybin,2017,Los Angeles Angels,336,57,79,6,22,48,78,.235,.333,.351,.684,hitter
+Brian McCann,2017,Houston Astros,349,47,84,18,62,38,58,.241,.323,.436,.759,hitter
+Lance McCullers Jr.,2017,Houston Astros,3,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Collin McHugh,2017,Houston Astros,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Colin Moran,2017,Houston Astros,11,3,4,1,3,1,1,.364,.417,.818,1.235,hitter
+Charlie Morton,2017,Houston Astros,3,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Joe Musgrove,2017,Houston Astros,5,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Brad Peacock,2017,Houston Astros,7,1,2,0,2,1,3,.286,.375,.429,.804,hitter
+Josh Reddick,2017,Houston Astros,477,77,150,13,82,43,72,.314,.363,.484,.847,hitter
+AJ Reed,2017,Houston Astros,6,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Tony Sipp,2017,Houston Astros,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+George Springer,2017,Houston Astros,548,112,155,34,85,64,111,.283,.367,.522,.889,hitter
+Max Stassi,2017,Houston Astros,24,5,4,2,4,6,4,.167,.323,.458,.781,hitter
+Ashur Tolliver,2017,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Justin Verlander,2017,Detroit Tigers,6,0,1,0,1,0,4,.167,.167,.167,.334,hitter
+Tyler White,2017,Houston Astros,61,7,17,3,10,4,16,.279,.328,.525,.853,hitter
+Al Alburquerque,2017,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Scott Alexander,2017,Kansas City Royals,3,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Jorge Bonifacio,2017,Kansas City Royals,384,55,98,17,40,35,118,.255,.320,.432,.752,hitter
+Ryan Buchter,2017,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Billy Burns,2017,Kansas City Royals,6,1,1,0,0,0,1,.167,.167,.167,.334,hitter
+Drew Butera,2017,Kansas City Royals,163,18,37,3,14,12,41,.227,.284,.319,.603,hitter
+Melky Cabrera,2017,Chicago White Sox,397,54,117,13,56,25,52,.295,.336,.436,.772,hitter
+Trevor Cahill,2017,San Diego Padres,13,1,4,0,2,1,3,.308,.357,.385,.742,hitter
+Lorenzo Cain,2017,Kansas City Royals,584,86,175,15,49,54,100,.300,.363,.440,.803,hitter
+Christian Colón,2017,Kansas City Royals,17,1,3,0,0,1,3,.176,.222,.176,.398,hitter
+Cheslor Cuthbert,2017,Kansas City Royals,143,10,33,2,18,9,39,.231,.275,.322,.597,hitter
+Danny Duffy,2017,Kansas City Royals,2,0,1,0,0,0,1,.500,.500,.500,1.000,hitter
+Alcides Escobar,2017,Kansas City Royals,599,71,150,6,54,15,102,.250,.272,.357,.629,hitter
+Luke Farrell,2017,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Neftalí Feliz,2017,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Cam Gallagher,2017,Kansas City Royals,24,2,6,1,5,3,4,.250,.333,.417,.750,hitter
+Sam Gaviglio,2017,Seattle Mariners,5,1,1,0,0,0,2,.200,.200,.200,.400,hitter
+Alex Gordon,2017,Kansas City Royals,476,52,99,9,45,45,126,.208,.293,.315,.608,hitter
+Terrance Gore,2017,Kansas City Royals,4,2,0,0,0,1,2,.000,.200,.000,.200,hitter
+Jason Hammel,2017,Kansas City Royals,8,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Kelvin Herrera,2017,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Eric Hosmer,2017,Kansas City Royals,603,98,192,25,94,66,104,.318,.385,.498,.883,hitter
+Jakob Junis,2017,Kansas City Royals,3,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Ian Kennedy,2017,Kansas City Royals,3,0,1,0,0,1,0,.333,.500,.333,.833,hitter
+Brandon Maurer,2017,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kevin McCarthy,2017,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Whit Merrifield,2017,Kansas City Royals,587,80,169,19,78,29,88,.288,.324,.460,.784,hitter
+Mike Minor,2017,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Adalberto Mondesi,2017,Kansas City Royals,53,4,9,1,3,3,22,.170,.214,.245,.459,hitter
+Mike Morin,2017,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brandon Moss,2017,Kansas City Royals,362,41,75,22,50,37,128,.207,.279,.428,.707,hitter
+Mike Moustakas,2017,Kansas City Royals,555,75,151,38,85,34,94,.272,.314,.521,.835,hitter
+Peter Moylan,2017,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Paulo Orlando,2017,Kansas City Royals,86,9,17,2,6,1,20,.198,.225,.302,.527,hitter
+Salvador Perez,2017,Kansas City Royals,471,57,126,27,80,17,95,.268,.297,.495,.792,hitter
+Eric Skoglund,2017,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jorge Soler,2017,Kansas City Royals,97,7,14,2,6,12,36,.144,.245,.258,.503,hitter
+Joakim Soria,2017,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Matt Strahm,2017,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ramón Torres,2017,Kansas City Royals,74,9,18,0,4,4,12,.243,.291,.284,.575,hitter
+Jason Vargas,2017,Kansas City Royals,4,0,1,0,0,0,1,.250,.250,.250,.500,hitter
+Travis Wood,2017,Kansas City Royals,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chris Young,2017,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Luis Avilán,2017,Los Angeles Dodgers,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Pedro Báez,2017,Los Angeles Dodgers,1,0,0,0,1,1,1,.000,.500,.000,.500,hitter
+Austin Barnes,2017,Los Angeles Dodgers,218,35,63,8,38,39,43,.289,.408,.486,.894,hitter
+Cody Bellinger,2017,Los Angeles Dodgers,480,87,128,39,97,64,146,.267,.352,.581,.933,hitter
+Walker Buehler,2017,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Fabio Castillo,2017,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tony Cingrani,2017,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Charlie Culberson,2017,Los Angeles Dodgers,13,0,2,0,1,2,4,.154,.267,.231,.498,hitter
+Yu Darvish,2017,Los Angeles Dodgers,17,0,1,0,0,1,14,.059,.111,.059,.170,hitter
+Grant Dayton,2017,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+O'Koyea Dickson,2017,Los Angeles Dodgers,7,0,1,0,0,2,2,.143,.333,.143,.476,hitter
+Brett Eibner,2017,Los Angeles Dodgers,33,3,6,2,6,2,17,.182,.250,.364,.614,hitter
+Andre Ethier,2017,Los Angeles Dodgers,34,3,8,2,3,4,10,.235,.316,.441,.757,hitter
+Kyle Farmer,2017,Los Angeles Dodgers,20,1,6,0,2,0,3,.300,.300,.350,.650,hitter
+Josh Fields,2017,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Wilmer Font,2017,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Logan Forsythe,2017,Los Angeles Dodgers,361,56,81,6,36,69,109,.224,.351,.327,.678,hitter
+Mike Freeman,2017,Seattle Mariners,30,3,2,1,1,4,9,.067,.176,.167,.343,hitter
+Adrián González,2017,Los Angeles Dodgers,231,14,56,3,30,16,43,.242,.287,.355,.642,hitter
+Yasmani Grandal,2017,Los Angeles Dodgers,438,50,108,22,58,40,130,.247,.308,.459,.767,hitter
+Curtis Granderson,2017,New York Mets,337,58,77,19,52,53,90,.228,.334,.481,.815,hitter
+Franklin Gutierrez,2017,Los Angeles Dodgers,56,8,13,1,8,7,16,.232,.317,.339,.656,hitter
+Chris Hatcher,2017,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Enrique Hernández,2017,Los Angeles Dodgers,297,46,64,11,37,41,80,.215,.308,.421,.729,hitter
+Rich Hill,2017,Los Angeles Dodgers,45,1,5,0,4,0,18,.111,.146,.133,.279,hitter
+Kenley Jansen,2017,Los Angeles Dodgers,4,0,2,0,1,0,0,.500,.500,.750,1.250,hitter
+Clayton Kershaw,2017,Los Angeles Dodgers,49,6,9,0,2,4,13,.184,.245,.204,.449,hitter
+Adam Liberatore,2017,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tim Locastro,2017,Los Angeles Dodgers,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kenta Maeda,2017,Los Angeles Dodgers,39,2,5,0,4,0,3,.128,.128,.154,.282,hitter
+Brandon McCarthy,2017,Los Angeles Dodgers,23,2,1,0,0,3,16,.043,.154,.043,.197,hitter
+Brandon Morrow,2017,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Edward Paredes,2017,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Joc Pederson,2017,Los Angeles Dodgers,273,44,58,11,35,39,68,.212,.331,.407,.738,hitter
+Yasiel Puig,2017,Los Angeles Dodgers,499,72,131,28,74,64,100,.263,.346,.487,.833,hitter
+Josh Ravin,2017,Los Angeles Dodgers,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Sergio Romo,2017,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Hyun Jin Ryu,2017,Los Angeles Dodgers,30,3,4,0,0,3,18,.133,.235,.167,.402,hitter
+Corey Seager,2017,Los Angeles Dodgers,539,85,159,22,77,67,131,.295,.375,.479,.854,hitter
+Rob Segedin,2017,Los Angeles Dodgers,20,3,4,0,1,0,7,.200,.200,.300,.500,hitter
+Brock Stewart,2017,Los Angeles Dodgers,4,0,1,0,1,0,2,.250,.250,.250,.500,hitter
+Ross Stripling,2017,Los Angeles Dodgers,9,2,0,0,0,0,4,.000,.000,.000,.000,hitter
+Chris Taylor,2017,Los Angeles Dodgers,514,85,148,21,72,50,142,.288,.354,.496,.850,hitter
+Trayce Thompson,2017,Los Angeles Dodgers,49,6,6,1,2,6,23,.122,.218,.265,.483,hitter
+Andrew Toles,2017,Los Angeles Dodgers,96,17,26,5,15,5,16,.271,.314,.458,.772,hitter
+Justin Turner,2017,Los Angeles Dodgers,457,72,147,21,71,59,56,.322,.415,.530,.945,hitter
+Julio Urías,2017,Los Angeles Dodgers,6,0,1,0,0,0,4,.167,.167,.167,.334,hitter
+Chase Utley,2017,Los Angeles Dodgers,309,43,73,8,34,32,57,.236,.324,.405,.729,hitter
+Scott Van Slyke,2017,Los Angeles Dodgers,41,6,5,2,3,7,15,.122,.250,.293,.543,hitter
+Alex Verdugo,2017,Los Angeles Dodgers,23,1,4,1,1,2,4,.174,.240,.304,.544,hitter
+Tony Watson,2017,Pittsburgh Pirates,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Alex Wood,2017,Los Angeles Dodgers,52,1,3,0,4,2,29,.058,.093,.058,.151,hitter
+Austin Adams,2017,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Matt Albers,2017,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Rafael Bautista,2017,Washington Nationals,25,2,4,0,0,2,5,.160,.222,.160,.382,hitter
+Joe Blanton,2017,Washington Nationals,0,0,0,0,0,1,0,.000,1.000,.000,1.000,hitter
+A.J. Cole,2017,Washington Nationals,14,0,2,0,0,2,5,.143,.250,.143,.393,hitter
+Alejandro De Aza,2017,Washington Nationals,62,8,12,0,9,3,16,.194,.224,.323,.547,hitter
+Wilmer Difo,2017,Washington Nationals,332,47,90,5,21,24,74,.271,.319,.370,.689,hitter
+Sean Doolittle,2017,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Stephen Drew,2017,Washington Nationals,95,9,24,1,17,8,21,.253,.302,.358,.660,hitter
+Adam Eaton,2017,Washington Nationals,91,24,27,2,13,14,18,.297,.393,.462,.855,hitter
+Erick Fedde,2017,Washington Nationals,4,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Koda Glover,2017,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Gio González,2017,Washington Nationals,66,3,6,0,5,4,29,.091,.143,.091,.234,hitter
+Brian Goodwin,2017,Washington Nationals,251,41,63,13,30,23,69,.251,.313,.498,.811,hitter
+Trevor Gott,2017,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Matt Grace,2017,Washington Nationals,5,0,0,0,0,0,4,.000,.000,.000,.000,hitter
+Grant Green,2017,Washington Nationals,3,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Jeremy Guthrie,2017,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Bryce Harper,2017,Washington Nationals,420,95,134,29,87,68,99,.319,.413,.595,1.008,hitter
+Chris Heisey,2017,Washington Nationals,74,8,12,1,5,5,22,.162,.215,.270,.485,hitter
+Edwin Jackson,2017,Washington Nationals,21,3,2,0,0,0,15,.095,.095,.095,.190,hitter
+Shawn Kelley,2017,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Howie Kendrick,2017,Philadelphia Phillies,141,16,48,2,16,11,30,.340,.397,.454,.851,hitter
+Brandon Kintzler,2017,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Adam Lind,2017,Washington Nationals,267,39,81,14,59,28,47,.303,.362,.513,.875,hitter
+Jose Lobaton,2017,Washington Nationals,141,11,24,4,11,14,35,.170,.248,.277,.525,hitter
+Ryan Madson,2017,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Daniel Murphy,2017,Washington Nationals,534,94,172,23,93,52,77,.322,.384,.543,.927,hitter
+Oliver Pérez,2017,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ryan Raburn,2017,Washington Nationals,65,7,17,2,6,4,25,.262,.304,.431,.735,hitter
+Raudy Read,2017,Washington Nationals,11,1,3,0,0,0,3,.273,.273,.273,.546,hitter
+Anthony Rendon,2017,Washington Nationals,508,81,153,25,100,84,82,.301,.403,.533,.936,hitter
+Tanner Roark,2017,Washington Nationals,55,1,5,0,0,1,22,.091,.107,.109,.216,hitter
+Victor Robles,2017,Washington Nationals,24,2,6,0,4,0,6,.250,.308,.458,.766,hitter
+Enny Romero,2017,Washington Nationals,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Joe Ross,2017,Washington Nationals,33,1,6,0,1,1,16,.182,.206,.242,.448,hitter
+Adrián Sanchez,2017,Washington Nationals,71,6,19,0,11,1,25,.268,.288,.366,.654,hitter
+Max Scherzer,2017,Washington Nationals,62,4,10,1,5,4,16,.161,.212,.210,.422,hitter
+Pedro Severino,2017,Washington Nationals,29,0,5,0,3,2,10,.172,.226,.207,.433,hitter
+Sammy Solís,2017,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Andrew Stevenson,2017,Washington Nationals,57,5,9,0,1,7,20,.158,.250,.193,.443,hitter
+Stephen Strasburg,2017,Washington Nationals,54,5,7,2,3,2,14,.130,.161,.241,.402,hitter
+Michael A. Taylor,2017,Washington Nationals,399,55,108,19,53,29,137,.271,.320,.486,.806,hitter
+Blake Treinen,2017,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jacob Turner,2017,Washington Nationals,5,0,0,0,0,1,2,.000,.167,.000,.167,hitter
+Trea Turner,2017,Washington Nationals,412,75,117,11,45,30,80,.284,.338,.451,.789,hitter
+Jayson Werth,2017,Washington Nationals,252,35,57,10,29,35,69,.226,.322,.393,.715,hitter
+Matt Wieters,2017,Washington Nationals,422,43,95,10,52,38,94,.225,.288,.344,.632,hitter
+Ryan Zimmerman,2017,Washington Nationals,524,90,159,36,108,44,126,.303,.358,.573,.931,hitter
+Norichika Aoki,2017,Houston Astros,202,28,55,2,19,15,29,.272,.323,.371,.694,hitter
+Jerry Blevins,2017,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chasen Bradford,2017,New York Mets,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Jay Bruce,2017,New York Mets,406,61,104,29,75,39,102,.256,.321,.520,.841,hitter
+Asdrúbal Cabrera,2017,New York Mets,479,66,134,14,59,50,83,.280,.351,.434,.785,hitter
+Jamie Callahan,2017,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Gavin Cecchini,2017,New York Mets,77,4,16,1,7,4,19,.208,.256,.273,.529,hitter
+Yoenis Cespedes,2017,New York Mets,291,46,85,17,42,26,61,.292,.352,.540,.892,hitter
+Michael Conforto,2017,New York Mets,373,72,104,27,68,57,113,.279,.384,.555,.939,hitter
+Lucas Duda,2017,New York Mets,252,30,62,17,37,37,73,.246,.347,.532,.879,hitter
+Josh Edgin,2017,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Phillip Evans,2017,New York Mets,33,4,10,0,1,4,8,.303,.395,.364,.759,hitter
+Jeurys Familia,2017,New York Mets,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Chris Flexen,2017,New York Mets,13,0,2,0,0,0,7,.154,.154,.231,.385,hitter
+Wilmer Flores,2017,New York Mets,336,42,91,18,52,17,54,.271,.307,.488,.795,hitter
+Sean Gilmartin,2017,New York Mets,1,1,1,0,1,0,0,1.000,1.000,2.000,3.000,hitter
+Erik Goeddel,2017,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Curtis Granderson,2017,New York Mets,337,58,77,19,52,53,90,.228,.334,.481,.815,hitter
+Robert Gsellman,2017,New York Mets,34,2,5,0,4,6,14,.147,.268,.147,.415,hitter
+Matt Harvey,2017,New York Mets,34,2,2,0,1,1,13,.059,.086,.059,.145,hitter
+Ty Kelly,2017,New York Mets,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Juan Lagares,2017,New York Mets,252,37,63,3,15,14,56,.250,.296,.365,.661,hitter
+Seth Lugo,2017,New York Mets,29,4,4,1,2,0,10,.138,.138,.310,.448,hitter
+Steven Matz,2017,New York Mets,21,1,3,0,1,0,7,.143,.143,.143,.286,hitter
+Kevin McGowan,2017,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tommy Milone,2017,Milwaukee Brewers,4,0,0,0,0,1,1,.000,.200,.000,.200,hitter
+Rafael Montero,2017,New York Mets,25,1,2,0,1,0,10,.080,.080,.080,.160,hitter
+Tomás Nido,2017,New York Mets,10,0,3,0,3,0,2,.300,.300,.400,.700,hitter
+Brandon Nimmo,2017,New York Mets,177,26,46,5,21,33,60,.260,.379,.418,.797,hitter
+Tyler Pill,2017,New York Mets,5,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Kevin Plawecki,2017,New York Mets,100,11,26,3,13,14,17,.260,.364,.400,.764,hitter
+Neil Ramírez,2017,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+AJ Ramos,2017,Miami Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Addison Reed,2017,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+José Reyes,2017,New York Mets,501,75,123,15,58,50,79,.246,.315,.413,.728,hitter
+Matt Reynolds,2017,New York Mets,113,12,26,1,5,14,37,.230,.326,.301,.627,hitter
+Jacob Rhame,2017,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+René Rivera,2017,New York Mets,174,15,40,8,23,9,54,.230,.278,.391,.669,hitter
+T.J. Rivera,2017,New York Mets,214,27,62,5,27,9,32,.290,.330,.430,.760,hitter
+Hansel Robles,2017,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Amed Rosario,2017,New York Mets,165,16,41,4,10,3,49,.248,.271,.394,.665,hitter
+Fernando Salas,2017,New York Mets,2,0,1,0,0,0,1,.500,.500,.500,1.000,hitter
+Paul Sewald,2017,New York Mets,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Dominic Smith,2017,New York Mets,167,17,33,9,26,14,49,.198,.262,.395,.657,hitter
+Josh Smoker,2017,New York Mets,3,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Noah Syndergaard,2017,New York Mets,9,0,2,0,0,3,5,.222,.417,.222,.639,hitter
+Travis Taijeron,2017,New York Mets,52,3,9,1,3,5,24,.173,.271,.269,.540,hitter
+Neil Walker,2017,New York Mets,265,40,70,10,36,27,47,.264,.339,.442,.781,hitter
+Zack Wheeler,2017,New York Mets,27,1,2,0,0,1,12,.074,.107,.111,.218,hitter
+Adam Wilk,2017,New York Mets,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Travis d'Arnaud,2017,New York Mets,348,39,85,16,57,23,59,.244,.293,.443,.736,hitter
+Jacob deGrom,2017,New York Mets,71,6,15,1,4,2,22,.211,.233,.268,.501,hitter

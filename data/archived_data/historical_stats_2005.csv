@@ -1,0 +1,1234 @@
+name,year,team,AB,R,H,HR,RBI,BB,K,AVG,OBP,SLG,OPS,playerType
+Joe Blanton,2005,Oakland Athletics,3,0,1,0,0,0,0,.333,.333,.333,.666,hitter
+Hiram Bocachica,2005,Oakland Athletics,19,2,2,0,0,0,7,.105,.105,.105,.210,hitter
+Freddie Bynum,2005,Oakland Athletics,7,0,2,0,1,0,3,.286,.286,.429,.715,hitter
+Eric Byrnes,2005,Oakland Athletics,192,30,51,7,24,14,27,.266,.336,.474,.810,hitter
+Kiko Calero,2005,Oakland Athletics,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Alberto Castillo,2005,Kansas City Royals,100,13,21,1,14,12,21,.210,.292,.310,.602,hitter
+Eric Chavez,2005,Oakland Athletics,625,92,168,27,101,58,129,.269,.329,.466,.795,hitter
+Jermaine Clark,2005,Oakland Athletics,0,2,0,0,0,1,0,.000,1.000,.000,1.000,hitter
+Bobby Crosby,2005,Oakland Athletics,333,66,92,9,38,35,54,.276,.346,.456,.802,hitter
+Juan Cruz,2005,Oakland Athletics,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Justin Duchscherer,2005,Oakland Athletics,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Erubiel Durazo,2005,Oakland Athletics,152,15,36,4,16,14,24,.237,.305,.368,.673,hitter
+Mark Ellis,2005,Oakland Athletics,434,76,137,13,52,44,51,.316,.384,.477,.861,hitter
+Keith Ginter,2005,Oakland Athletics,137,12,22,3,25,13,25,.161,.234,.263,.497,hitter
+Ryan Glynn,2005,Oakland Athletics,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Dan Haren,2005,Oakland Athletics,5,0,2,0,2,0,0,.400,.400,.600,1.000,hitter
+Tim Harikkala,2005,Oakland Athletics,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Scott Hatteberg,2005,Oakland Athletics,464,52,119,7,59,51,54,.256,.334,.343,.677,hitter
+Dan Johnson,2005,Oakland Athletics,375,54,103,15,58,50,52,.275,.355,.451,.806,hitter
+Jason Kendall,2005,Oakland Athletics,601,70,163,0,53,50,39,.271,.345,.321,.666,hitter
+Joe Kennedy,2005,Colorado Rockies,29,1,5,0,1,1,8,.172,.200,.172,.372,hitter
+Bobby Kielty,2005,Oakland Athletics,377,55,99,10,57,50,67,.263,.350,.395,.745,hitter
+Mark Kotsay,2005,Oakland Athletics,582,75,163,15,82,40,51,.280,.325,.421,.746,hitter
+Adam Melhuse,2005,Oakland Athletics,97,11,24,2,12,5,28,.247,.284,.381,.665,hitter
+Jay Payton,2005,Boston Red Sox,133,24,35,5,21,10,14,.263,.313,.429,.742,hitter
+Ricardo Rincon,2005,Oakland Athletics,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kirk Saarloos,2005,Oakland Athletics,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Marco Scutaro,2005,Oakland Athletics,381,48,94,9,37,36,48,.247,.310,.391,.701,hitter
+Huston Street,2005,Oakland Athletics,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Nick Swisher,2005,Oakland Athletics,462,66,109,21,74,55,110,.236,.322,.446,.768,hitter
+Charles Thomas,2005,Oakland Athletics,46,4,5,0,1,5,8,.109,.255,.109,.364,hitter
+Matt Watson,2005,Oakland Athletics,48,4,9,0,5,2,4,.188,.220,.250,.470,hitter
+Jay Witasick,2005,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Keiichi Yabu,2005,Oakland Athletics,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Barry Zito,2005,Oakland Athletics,7,0,1,0,0,0,2,.143,.143,.143,.286,hitter
+Alfredo Amezaga,2005,Colorado Rockies,3,1,1,0,0,0,0,.333,.333,.333,.666,hitter
+José Bautista,2005,Pittsburgh Pirates,28,3,4,0,1,3,7,.143,.226,.179,.405,hitter
+Jason Bay,2005,Pittsburgh Pirates,599,110,183,32,101,95,142,.306,.402,.559,.961,hitter
+Bryan Bullington,2005,Pittsburgh Pirates,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Matt Capps,2005,Pittsburgh Pirates,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jose Castillo,2005,Pittsburgh Pirates,370,49,99,11,53,23,59,.268,.307,.416,.723,hitter
+Humberto Cota,2005,Pittsburgh Pirates,297,29,72,7,43,17,80,.242,.285,.387,.672,hitter
+Ryan Doumit,2005,Pittsburgh Pirates,231,25,59,6,35,11,48,.255,.324,.398,.722,hitter
+Chris Duffy,2005,Pittsburgh Pirates,126,22,43,1,9,7,22,.341,.385,.429,.814,hitter
+Zach Duke,2005,Pittsburgh Pirates,28,1,4,0,1,2,10,.143,.194,.143,.337,hitter
+Brad Eldred,2005,Pittsburgh Pirates,190,23,42,12,27,13,77,.221,.279,.458,.737,hitter
+Josh Fogg,2005,Pittsburgh Pirates,47,3,5,0,3,3,14,.106,.160,.128,.288,hitter
+J.J. Furmaniak,2005,Pittsburgh Pirates,26,3,5,0,1,4,4,.192,.300,.308,.608,hitter
+Jody Gerut,2005,Cleveland Indians,138,12,38,1,12,18,14,.275,.357,.377,.734,hitter
+Michael Gonzalez,2005,Pittsburgh Pirates,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tom Gorzelanny,2005,Pittsburgh Pirates,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+John Grabow,2005,Pittsburgh Pirates,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Bobby Hill,2005,Pittsburgh Pirates,93,12,25,0,11,9,17,.269,.343,.333,.676,hitter
+Mike Johnston,2005,Pittsburgh Pirates,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Matt Lawton,2005,Pittsburgh Pirates,374,53,102,10,44,58,61,.273,.380,.433,.813,hitter
+Rob Mackowiak,2005,Pittsburgh Pirates,463,57,126,9,58,43,100,.272,.337,.389,.726,hitter
+Paul Maholm,2005,Pittsburgh Pirates,15,1,2,0,0,1,6,.133,.188,.133,.321,hitter
+Nate McLouth,2005,Pittsburgh Pirates,109,20,28,5,12,3,20,.257,.305,.450,.755,hitter
+Brian Meadows,2005,Pittsburgh Pirates,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jose Mesa,2005,Pittsburgh Pirates,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Ronny Paulino,2005,Pittsburgh Pirates,4,1,2,0,0,1,0,.500,.600,.500,1.100,hitter
+Oliver Pérez,2005,Pittsburgh Pirates,33,1,6,0,3,1,11,.182,.200,.182,.382,hitter
+Mark Redman,2005,Pittsburgh Pirates,53,1,6,0,2,3,21,.113,.161,.113,.274,hitter
+Tike Redman,2005,Pittsburgh Pirates,319,33,80,2,26,19,27,.251,.292,.332,.624,hitter
+Michael Restovich,2005,Colorado Rockies,31,5,9,1,3,3,5,.290,.353,.452,.805,hitter
+David Ross,2005,Pittsburgh Pirates,108,9,24,3,15,6,24,.222,.263,.380,.643,hitter
+Ray Sadler,2005,Pittsburgh Pirates,8,1,2,1,1,0,1,.250,.250,.625,.875,hitter
+Freddy Sanchez,2005,Pittsburgh Pirates,453,54,132,5,35,27,36,.291,.336,.400,.736,hitter
+Benito Santiago,2005,Pittsburgh Pirates,23,1,6,0,0,0,3,.261,.261,.391,.652,hitter
+Ian Snell,2005,Pittsburgh Pirates,8,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Salomon Torres,2005,Pittsburgh Pirates,4,0,2,0,0,0,2,.500,.500,.500,1.000,hitter
+Ryan Vogelsong,2005,Pittsburgh Pirates,9,0,1,0,0,0,4,.111,.200,.222,.422,hitter
+Daryle Ward,2005,Pittsburgh Pirates,407,46,106,12,63,37,60,.260,.318,.405,.723,hitter
+Kip Wells,2005,Pittsburgh Pirates,57,4,9,1,2,0,26,.158,.172,.228,.400,hitter
+Rick White,2005,Pittsburgh Pirates,2,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ty Wigginton,2005,Pittsburgh Pirates,155,20,40,7,25,14,30,.258,.324,.465,.789,hitter
+Dave Williams,2005,Pittsburgh Pirates,42,2,5,0,4,1,21,.119,.136,.143,.279,hitter
+Craig Wilson,2005,Pittsburgh Pirates,197,23,52,5,22,30,69,.264,.387,.421,.808,hitter
+Jack Wilson,2005,Pittsburgh Pirates,587,60,151,8,52,31,58,.257,.299,.363,.662,hitter
+Manny Alexander,2005,San Diego Padres,18,0,2,0,0,2,5,.111,.238,.167,.405,hitter
+Pedro Astacio,2005,Texas Rangers,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Geoff Blum,2005,San Diego Padres,224,26,54,5,22,24,28,.241,.321,.375,.696,hitter
+Craig Breslow,2005,San Diego Padres,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Sean Burroughs,2005,San Diego Padres,284,20,71,1,17,24,41,.250,.318,.299,.617,hitter
+Scott Cassidy,2005,San Diego Padres,1,0,0,0,0,1,1,.000,.500,.000,.500,hitter
+Adam Eaton,2005,San Diego Padres,46,2,8,0,2,3,18,.174,.224,.217,.441,hitter
+Brian Falkenborg,2005,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Robert Fick,2005,San Diego Padres,230,25,61,3,30,26,33,.265,.340,.365,.705,hitter
+Jesse Garcia,2005,San Diego Padres,36,4,6,2,4,3,11,.167,.231,.333,.564,hitter
+Brian Giles,2005,San Diego Padres,545,92,164,15,83,119,64,.301,.423,.483,.906,hitter
+Khalil Greene,2005,San Diego Padres,436,51,109,15,70,25,93,.250,.296,.431,.727,hitter
+Chris Hammond,2005,San Diego Padres,3,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Clay Hensley,2005,San Diego Padres,6,0,1,0,0,0,3,.167,.167,.333,.500,hitter
+Ramon Hernandez,2005,San Diego Padres,369,36,107,12,58,18,40,.290,.322,.450,.772,hitter
+Trevor Hoffman,2005,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Adam Hyzdu,2005,San Diego Padres,20,1,3,0,4,3,4,.150,.250,.200,.450,hitter
+Damian Jackson,2005,San Diego Padres,275,44,70,5,23,30,45,.255,.335,.342,.677,hitter
+Ben Johnson,2005,San Diego Padres,75,10,16,3,13,11,23,.213,.310,.467,.777,hitter
+Ryan Klesko,2005,San Diego Padres,443,61,110,18,58,75,80,.248,.358,.418,.776,hitter
+Brian Lawrence,2005,San Diego Padres,59,2,5,0,1,2,29,.085,.113,.085,.198,hitter
+Scott Linebrink,2005,San Diego Padres,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mark Loretta,2005,San Diego Padres,404,54,113,3,38,45,34,.280,.360,.347,.707,hitter
+Darrell May,2005,San Diego Padres,9,0,1,0,0,0,5,.111,.111,.111,.222,hitter
+Paul McAnulty,2005,San Diego Padres,24,4,5,0,0,3,7,.208,.321,.208,.529,hitter
+Xavier Nady,2005,San Diego Padres,326,40,85,13,43,22,67,.261,.321,.439,.760,hitter
+Phil Nevin,2005,San Diego Padres,281,31,72,9,47,19,67,.256,.301,.399,.700,hitter
+Miguel Ojeda,2005,San Diego Padres,73,6,10,0,6,9,21,.137,.232,.205,.437,hitter
+Miguel Olivo,2005,Seattle Mariners,152,14,23,5,18,4,49,.151,.172,.276,.448,hitter
+Akinori Otsuka,2005,San Diego Padres,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Chris Oxspring,2005,San Diego Padres,2,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chan Ho Park,2005,Texas Rangers,5,0,2,0,0,0,2,.400,.400,.400,.800,hitter
+Jake Peavy,2005,San Diego Padres,53,5,10,0,2,4,16,.189,.259,.208,.467,hitter
+Paul Quantrill,2005,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Joe Randa,2005,Cincinnati Reds,332,44,96,13,48,33,52,.289,.356,.491,.847,hitter
+Tim Redding,2005,San Diego Padres,8,0,0,0,0,0,5,.000,.000,.000,.000,hitter
+Dennys Reyes,2005,San Diego Padres,5,0,1,0,0,0,2,.200,.200,.200,.400,hitter
+Dave Roberts,2005,San Diego Padres,411,65,113,8,38,53,59,.275,.356,.428,.784,hitter
+David Ross,2005,Pittsburgh Pirates,108,9,24,3,15,6,24,.222,.263,.380,.643,hitter
+Rudy Seanez,2005,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tim Stauffer,2005,San Diego Padres,24,1,3,0,1,0,10,.125,.125,.167,.292,hitter
+Mark Sweeney,2005,San Diego Padres,221,31,65,8,40,40,58,.294,.395,.466,.861,hitter
+Wilson Valdez,2005,Seattle Mariners,126,9,25,0,8,6,25,.198,.235,.254,.489,hitter
+Randy Williams,2005,San Diego Padres,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Woody Williams,2005,San Diego Padres,46,3,7,0,3,0,19,.152,.149,.152,.301,hitter
+Eric Young Sr.,2005,San Diego Padres,142,22,39,2,12,18,12,.275,.356,.380,.736,hitter
+Adrian Beltré,2005,Seattle Mariners,603,69,154,19,87,38,108,.255,.303,.413,.716,hitter
+Yuniesky Betancourt,2005,Seattle Mariners,211,24,54,1,15,11,24,.256,.296,.370,.666,hitter
+Willie Bloomquist,2005,Seattle Mariners,249,27,64,0,22,11,38,.257,.289,.333,.622,hitter
+Bret Boone,2005,Seattle Mariners,273,30,63,7,34,24,52,.231,.299,.385,.684,hitter
+Pat Borders,2005,Seattle Mariners,117,12,23,1,7,4,22,.197,.228,.265,.493,hitter
+Jaime Bubela,2005,Seattle Mariners,19,3,2,0,0,1,4,.105,.150,.105,.255,hitter
+Shin-Soo Choo,2005,Seattle Mariners,18,1,1,0,1,3,4,.056,.190,.056,.246,hitter
+Greg Dobbs,2005,Seattle Mariners,142,8,35,1,20,9,25,.246,.288,.331,.619,hitter
+Ryan Franklin,2005,Seattle Mariners,4,0,0,0,0,1,0,.000,.200,.000,.200,hitter
+Wiki Gonzalez,2005,Seattle Mariners,45,7,12,0,2,2,3,.267,.298,.378,.676,hitter
+Eddie Guardado,2005,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Dave Hansen,2005,Seattle Mariners,75,5,13,2,11,9,19,.173,.256,.253,.509,hitter
+Shigetoshi Hasegawa,2005,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Raul Ibanez,2005,Seattle Mariners,614,92,172,20,89,71,99,.280,.355,.436,.791,hitter
+Jose Lopez,2005,Seattle Mariners,190,18,47,2,25,6,25,.247,.282,.379,.661,hitter
+Julio Mateo,2005,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Gil Meche,2005,Seattle Mariners,4,0,1,0,1,0,1,.250,.250,.250,.500,hitter
+Michael Morse,2005,Seattle Mariners,230,27,64,3,23,18,50,.278,.349,.370,.719,hitter
+Jamie Moyer,2005,Seattle Mariners,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jeff Nelson,2005,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Miguel Ojeda,2005,San Diego Padres,73,6,10,0,6,9,21,.137,.232,.205,.437,hitter
+Miguel Olivo,2005,Seattle Mariners,152,14,23,5,18,4,49,.151,.172,.276,.448,hitter
+Joel Pineiro,2005,Seattle Mariners,4,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+J.J. Putz,2005,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jeremy Reed,2005,Seattle Mariners,488,61,124,3,45,48,74,.254,.322,.352,.674,hitter
+René Rivera,2005,Seattle Mariners,48,3,19,1,6,1,11,.396,.408,.521,.929,hitter
+Ramon Santiago,2005,Seattle Mariners,8,2,1,0,0,1,2,.125,.417,.125,.542,hitter
+Aaron Sele,2005,Seattle Mariners,3,1,0,0,0,0,0,.000,.000,.000,.000,hitter
+Richie Sexson,2005,Seattle Mariners,558,99,147,39,121,89,167,.263,.369,.541,.910,hitter
+Chris Snelling,2005,Seattle Mariners,29,4,8,1,1,5,2,.276,.382,.448,.830,hitter
+Scott Spiezio,2005,Seattle Mariners,47,2,3,1,1,4,18,.064,.137,.149,.286,hitter
+Jamal Strong,2005,Seattle Mariners,20,6,5,0,2,2,6,.250,.333,.350,.683,hitter
+Ichiro Suzuki,2005,Seattle Mariners,679,111,206,15,68,48,66,.303,.350,.436,.786,hitter
+Matt Thornton,2005,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Yorvit Torrealba,2005,San Francisco Giants,93,18,21,1,7,9,25,.226,.301,.344,.645,hitter
+Wilson Valdez,2005,Seattle Mariners,126,9,25,0,8,6,25,.198,.235,.254,.489,hitter
+Ron Villone,2005,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Dan Wilson,2005,Seattle Mariners,27,2,5,0,2,0,10,.185,.214,.185,.399,hitter
+Randy Winn,2005,Seattle Mariners,386,46,106,6,37,37,53,.275,.342,.391,.733,hitter
+Jeremy Accardo,2005,San Francisco Giants,2,0,1,0,0,0,0,.500,.500,.500,1.000,hitter
+Edgardo Alfonzo,2005,San Francisco Giants,368,36,102,2,43,27,34,.277,.327,.345,.672,hitter
+Moises Alou,2005,San Francisco Giants,427,67,137,19,63,56,43,.321,.400,.518,.918,hitter
+Armando Benitez,2005,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Barry Bonds,2005,San Francisco Giants,42,8,12,5,10,9,6,.286,.404,.667,1.071,hitter
+Jim Brower,2005,San Francisco Giants,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Matt Cain,2005,San Francisco Giants,15,1,1,0,0,0,6,.067,.067,.133,.200,hitter
+Angel Chavez,2005,San Francisco Giants,19,1,5,0,1,0,3,.263,.263,.316,.579,hitter
+Jason Christiansen,2005,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Doug Clark,2005,San Francisco Giants,5,2,0,0,0,1,2,.000,.167,.000,.167,hitter
+Brian Cooper,2005,San Francisco Giants,2,0,1,0,0,0,0,.500,.500,.500,1.000,hitter
+Kevin Correia,2005,San Francisco Giants,14,0,1,0,0,3,5,.071,.235,.071,.306,hitter
+Deivi Cruz,2005,San Francisco Giants,209,26,56,5,19,10,31,.268,.301,.397,.698,hitter
+Brian Dallimore,2005,San Francisco Giants,7,1,1,0,0,0,0,.143,.143,.286,.429,hitter
+Ray Durham,2005,San Francisco Giants,497,67,144,12,62,48,59,.290,.356,.429,.785,hitter
+Jason Ellison,2005,San Francisco Giants,352,49,93,4,24,24,44,.264,.316,.361,.677,hitter
+Scott Eyre,2005,San Francisco Giants,2,0,0,0,0,1,2,.000,.333,.000,.333,hitter
+Jeff Fassero,2005,San Francisco Giants,13,0,0,0,0,0,6,.000,.000,.000,.000,hitter
+Pedro Feliz,2005,San Francisco Giants,569,69,142,20,81,38,102,.250,.295,.422,.717,hitter
+Marquis Grissom,2005,San Francisco Giants,137,8,29,2,15,7,18,.212,.248,.285,.533,hitter
+Yamid Haad,2005,San Francisco Giants,28,0,2,0,1,3,7,.071,.156,.107,.263,hitter
+LaTroy Hawkins,2005,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brad Hennessey,2005,San Francisco Giants,39,3,9,2,5,0,12,.231,.231,.410,.641,hitter
+Matt Herges,2005,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Matt Kinney,2005,San Francisco Giants,3,0,1,0,0,0,1,.333,.333,.333,.666,hitter
+Justin Knoedler,2005,San Francisco Giants,10,0,1,0,0,0,1,.100,.182,.100,.282,hitter
+Al Levine,2005,San Francisco Giants,2,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Todd Linden,2005,San Francisco Giants,171,20,37,4,13,10,54,.216,.280,.333,.613,hitter
+Noah Lowry,2005,San Francisco Giants,59,6,16,0,7,3,12,.271,.302,.373,.675,hitter
+Mike Matheny,2005,San Francisco Giants,443,42,107,13,59,29,91,.242,.295,.406,.701,hitter
+Scott Munter,2005,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Lance Niekro,2005,San Francisco Giants,278,32,70,12,46,17,53,.252,.295,.460,.755,hitter
+Daniel Ortmeier,2005,San Francisco Giants,22,1,3,0,1,3,5,.136,.269,.136,.405,hitter
+Brandon Puffer,2005,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Julio Ramirez,2005,San Francisco Giants,4,3,1,0,1,0,1,.250,.250,.250,.500,hitter
+Kirk Rueter,2005,San Francisco Giants,30,1,5,0,1,1,2,.167,.194,.200,.394,hitter
+Alex Sanchez,2005,Tampa Bay Devil Rays,133,28,46,2,13,7,25,.346,.373,.466,.839,hitter
+Jason Schmidt,2005,San Francisco Giants,53,2,5,1,2,0,32,.094,.111,.151,.262,hitter
+Adam Shabala,2005,San Francisco Giants,15,1,3,0,4,1,5,.200,.235,.200,.435,hitter
+J.T. Snow,2005,San Francisco Giants,367,40,101,4,40,32,61,.275,.343,.365,.708,hitter
+Jack Taschner,2005,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brett Tomko,2005,San Francisco Giants,55,3,9,0,5,2,22,.164,.193,.182,.375,hitter
+Tony Torcato,2005,San Francisco Giants,11,1,3,0,0,1,2,.273,.333,.273,.606,hitter
+Yorvit Torrealba,2005,San Francisco Giants,93,18,21,1,7,9,25,.226,.301,.344,.645,hitter
+Michael Tucker,2005,San Francisco Giants,250,32,60,5,33,28,48,.240,.317,.372,.689,hitter
+Omar Vizquel,2005,San Francisco Giants,568,66,154,3,45,56,58,.271,.341,.350,.691,hitter
+Tyler Walker,2005,San Francisco Giants,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jerome Williams,2005,San Francisco Giants,4,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Randy Winn,2005,Seattle Mariners,386,46,106,6,37,37,53,.275,.342,.391,.733,hitter
+Carmen Cali,2005,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chris Carpenter,2005,St. Louis Cardinals,77,7,5,0,2,5,23,.065,.120,.091,.211,hitter
+Roger Cedeno,2005,St. Louis Cardinals,57,4,9,0,8,2,6,.158,.197,.175,.372,hitter
+Einar Díaz,2005,St. Louis Cardinals,130,14,27,1,17,5,12,.208,.248,.277,.525,hitter
+Chris Duncan,2005,St. Louis Cardinals,10,2,2,1,3,0,5,.200,.200,.600,.800,hitter
+David Eckstein,2005,St. Louis Cardinals,630,90,185,8,61,58,44,.294,.363,.395,.758,hitter
+Jim Edmonds,2005,St. Louis Cardinals,467,88,123,29,89,91,139,.263,.385,.533,.918,hitter
+Cal Eldred,2005,St. Louis Cardinals,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Randy Flores,2005,St. Louis Cardinals,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+John Gall,2005,St. Louis Cardinals,37,5,10,2,10,1,8,.270,.282,.514,.796,hitter
+Mark Grudzielanek,2005,St. Louis Cardinals,528,64,155,8,59,26,81,.294,.334,.407,.741,hitter
+Jason Isringhausen,2005,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kevin Jarvis,2005,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tyler Johnson,2005,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jimmy Journell,2005,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ray King,2005,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Hector Luna,2005,St. Louis Cardinals,137,26,39,1,18,9,25,.285,.344,.409,.753,hitter
+John Mabry,2005,St. Louis Cardinals,246,26,59,8,32,20,63,.240,.295,.407,.702,hitter
+Mike Mahoney,2005,St. Louis Cardinals,64,5,10,1,6,4,10,.156,.217,.219,.436,hitter
+Jason Marquis,2005,St. Louis Cardinals,87,10,27,1,10,2,11,.310,.326,.460,.786,hitter
+Yadier Molina,2005,St. Louis Cardinals,385,36,97,8,49,23,30,.252,.295,.358,.653,hitter
+Matt Morris,2005,St. Louis Cardinals,57,4,5,0,2,4,23,.088,.148,.088,.236,hitter
+Mark Mulder,2005,St. Louis Cardinals,62,3,9,0,3,3,25,.145,.182,.145,.327,hitter
+Abraham O. Nunez,2005,St. Louis Cardinals,421,64,120,5,44,37,63,.285,.343,.361,.704,hitter
+Albert Pujols,2005,St. Louis Cardinals,591,129,195,41,117,97,65,.330,.430,.609,1.039,hitter
+Bill Pulsipher,2005,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Al Reyes,2005,St. Louis Cardinals,1,0,0,0,0,1,1,.000,.500,.000,.500,hitter
+Anthony Reyes,2005,St. Louis Cardinals,4,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+John Rodriguez,2005,St. Louis Cardinals,149,15,44,5,24,19,45,.295,.382,.436,.818,hitter
+Scott Rolen,2005,St. Louis Cardinals,196,28,46,5,28,25,28,.235,.323,.383,.706,hitter
+Reggie Sanders,2005,St. Louis Cardinals,295,49,80,21,54,28,75,.271,.340,.546,.886,hitter
+Skip Schumaker,2005,St. Louis Cardinals,24,9,6,0,1,2,2,.250,.308,.292,.600,hitter
+Scott Seabol,2005,St. Louis Cardinals,105,11,23,1,10,8,23,.219,.272,.295,.567,hitter
+Jeff Suppan,2005,St. Louis Cardinals,58,5,12,1,5,3,9,.207,.246,.293,.539,hitter
+So Taguchi,2005,St. Louis Cardinals,396,45,114,8,53,20,62,.288,.322,.412,.734,hitter
+Julian Tavarez,2005,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brad Thompson,2005,St. Louis Cardinals,6,0,1,0,0,0,2,.167,.167,.167,.334,hitter
+Adam Wainwright,2005,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Larry Walker,2005,St. Louis Cardinals,315,66,91,15,52,41,64,.289,.384,.502,.886,hitter
+Gabe White,2005,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Danys Baez,2005,Tampa Bay Devil Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Joe Borowski,2005,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jorge Cantu,2005,Tampa Bay Devil Rays,598,73,171,28,117,19,83,.286,.311,.497,.808,hitter
+Lance Carter,2005,Tampa Bay Devil Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kevin Cash,2005,Tampa Bay Devil Rays,31,4,5,2,2,1,13,.161,.212,.387,.599,hitter
+Jesus Colome,2005,Tampa Bay Devil Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Fernando Cortez,2005,Tampa Bay Devil Rays,13,0,1,0,1,1,3,.077,.143,.077,.220,hitter
+Carl Crawford,2005,Tampa Bay Devil Rays,644,101,194,15,81,27,84,.301,.331,.469,.800,hitter
+Casey Fossum,2005,Tampa Bay Devil Rays,2,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Lee Gardner,2005,Tampa Bay Devil Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Joey Gathright,2005,Tampa Bay Devil Rays,203,29,56,0,13,10,39,.276,.316,.340,.656,hitter
+Jonny Gomes,2005,Tampa Bay Devil Rays,348,61,98,21,54,39,113,.282,.372,.534,.906,hitter
+Alex Gonzalez,2005,Tampa Bay Devil Rays,349,47,94,9,38,26,74,.269,.323,.410,.733,hitter
+Nick Green,2005,Tampa Bay Devil Rays,318,53,76,5,29,33,86,.239,.329,.346,.675,hitter
+Toby Hall,2005,Tampa Bay Devil Rays,432,28,124,5,48,16,39,.287,.315,.368,.683,hitter
+Travis Harper,2005,Tampa Bay Devil Rays,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Mark Hendrickson,2005,Tampa Bay Devil Rays,7,1,1,0,0,0,3,.143,.143,.143,.286,hitter
+Damon Hollins,2005,Tampa Bay Devil Rays,342,44,85,13,46,23,63,.249,.296,.418,.714,hitter
+Aubrey Huff,2005,Tampa Bay Devil Rays,575,70,150,22,92,49,88,.261,.321,.428,.749,hitter
+Charles Johnson,2005,Tampa Bay Devil Rays,46,5,9,0,5,9,11,.196,.327,.283,.610,hitter
+Scott Kazmir,2005,Tampa Bay Devil Rays,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Pete Laforest,2005,Tampa Bay Devil Rays,64,5,11,1,4,6,23,.172,.243,.266,.509,hitter
+Tim Laker,2005,Tampa Bay Devil Rays,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Travis Lee,2005,Tampa Bay Devil Rays,404,54,110,12,49,35,66,.272,.331,.426,.757,hitter
+Julio Lugo,2005,Tampa Bay Devil Rays,616,89,182,6,57,61,72,.295,.362,.403,.765,hitter
+Seth McClung,2005,Tampa Bay Devil Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Trever Miller,2005,Tampa Bay Devil Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Eric Munson,2005,Tampa Bay Devil Rays,18,2,3,0,2,4,3,.167,.333,.222,.555,hitter
+Hideo Nomo,2005,Tampa Bay Devil Rays,4,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Franklin Nunez,2005,Tampa Bay Devil Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chad Orvella,2005,Tampa Bay Devil Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Eduardo Perez,2005,Tampa Bay Devil Rays,161,23,41,11,28,26,30,.255,.368,.497,.865,hitter
+Josh Phelps,2005,Tampa Bay Devil Rays,158,21,42,5,26,12,48,.266,.328,.424,.752,hitter
+Alex Sanchez,2005,Tampa Bay Devil Rays,133,28,46,2,13,7,25,.346,.373,.466,.839,hitter
+Chris Singleton,2005,Tampa Bay Devil Rays,59,9,16,0,11,6,14,.271,.348,.356,.704,hitter
+Reggie Taylor,2005,Tampa Bay Devil Rays,22,2,4,0,1,2,7,.182,.250,.273,.523,hitter
+Doug Waechter,2005,Tampa Bay Devil Rays,2,1,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chad Allen,2005,Texas Rangers,53,5,15,0,5,2,13,.283,.309,.340,.649,hitter
+Sandy Alomar Jr.,2005,Texas Rangers,128,11,35,0,14,5,12,.273,.306,.328,.634,hitter
+Pedro Astacio,2005,Texas Rangers,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+James Baldwin,2005,Baltimore Orioles,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Rod Barajas,2005,Texas Rangers,410,53,104,21,60,26,70,.254,.306,.466,.772,hitter
+Joaquín Benoit,2005,Texas Rangers,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Hank Blalock,2005,Texas Rangers,647,80,170,25,92,51,132,.263,.318,.431,.749,hitter
+Jason Botts,2005,Texas Rangers,27,4,8,0,3,3,13,.296,.367,.296,.663,hitter
+Doug Brocail,2005,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Francisco Cordero,2005,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mark DeRosa,2005,Texas Rangers,148,26,36,8,20,16,35,.243,.325,.439,.764,hitter
+David Dellucci,2005,Texas Rangers,435,97,109,29,65,76,121,.251,.367,.513,.880,hitter
+Juan Dominguez,2005,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ryan Drese,2005,Texas Rangers,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Esteban German,2005,Texas Rangers,4,3,3,0,1,0,1,.750,.750,1.000,1.750,hitter
+Adrián González,2005,Texas Rangers,150,17,34,6,17,10,37,.227,.272,.407,.679,hitter
+Kevin Gryboski,2005,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Richard Hidalgo,2005,Texas Rangers,308,43,68,16,43,26,74,.221,.289,.416,.705,hitter
+Steve Karsay,2005,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Gerald Laird,2005,Texas Rangers,40,7,9,1,4,2,7,.225,.262,.350,.612,hitter
+Kameron Loe,2005,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ron Mahay,2005,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Gary Matthews,2005,Texas Rangers,475,72,121,17,55,47,90,.255,.320,.436,.756,hitter
+Marshall McDougall,2005,Texas Rangers,18,3,3,0,0,0,10,.167,.167,.222,.389,hitter
+Kevin Mench,2005,Texas Rangers,557,71,147,25,73,50,68,.264,.328,.469,.797,hitter
+Phil Nevin,2005,San Diego Padres,281,31,72,9,47,19,67,.256,.301,.399,.700,hitter
+Laynce Nix,2005,Texas Rangers,229,28,55,6,32,9,45,.240,.267,.397,.664,hitter
+Chan Ho Park,2005,Texas Rangers,5,0,2,0,0,0,2,.400,.400,.400,.800,hitter
+Nick Regilio,2005,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ricardo Rodriguez,2005,Texas Rangers,3,0,1,0,1,0,1,.333,.333,.333,.666,hitter
+Kenny Rogers,2005,Texas Rangers,3,0,1,0,1,0,1,.333,.333,1.000,1.333,hitter
+Brian Shouse,2005,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Alfonso Soriano,2005,Texas Rangers,637,102,171,36,104,33,125,.268,.309,.512,.821,hitter
+Jason Standridge,2005,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mark Teixeira,2005,Texas Rangers,644,112,194,43,144,72,124,.301,.379,.575,.954,hitter
+Michael Tejera,2005,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Andres Torres,2005,Texas Rangers,19,2,3,0,1,1,6,.158,.190,.211,.401,hitter
+John Wasdin,2005,Texas Rangers,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+C.J. Wilson,2005,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chris Young,2005,Texas Rangers,5,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Michael Young,2005,Texas Rangers,668,114,221,24,91,58,91,.331,.385,.513,.898,hitter
+Russ Adams,2005,Toronto Blue Jays,481,68,123,8,63,50,57,.256,.325,.383,.708,hitter
+Miguel Batista,2005,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Frank Catalanotto,2005,Toronto Blue Jays,419,56,126,8,59,37,53,.301,.367,.451,.818,hitter
+Gustavo Chacin,2005,Toronto Blue Jays,7,1,0,0,0,0,2,.000,.000,.000,.000,hitter
+Vinnie Chulk,2005,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Andy Dominique,2005,Toronto Blue Jays,2,0,0,0,0,0,0,.000,.333,.000,.333,hitter
+Scott Downs,2005,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jason Frasor,2005,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+John-Ford Griffin,2005,Toronto Blue Jays,13,3,4,1,6,0,4,.308,.308,.692,1.000,hitter
+Gabe Gross,2005,Toronto Blue Jays,92,11,23,1,7,10,21,.250,.324,.348,.672,hitter
+Roy Halladay,2005,Toronto Blue Jays,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Aaron Hill,2005,Toronto Blue Jays,361,49,99,3,40,34,41,.274,.342,.385,.727,hitter
+Shea Hillenbrand,2005,Toronto Blue Jays,594,91,173,18,82,26,79,.291,.343,.449,.792,hitter
+Eric Hinske,2005,Toronto Blue Jays,477,79,125,15,68,46,121,.262,.333,.430,.763,hitter
+Ken Huckaby,2005,Toronto Blue Jays,87,8,18,0,6,5,19,.207,.250,.253,.503,hitter
+Orlando Hudson,2005,Toronto Blue Jays,461,62,125,10,63,30,65,.271,.315,.412,.727,hitter
+Reed Johnson,2005,Toronto Blue Jays,398,55,107,8,58,22,82,.269,.332,.412,.744,hitter
+Corey Koskie,2005,Toronto Blue Jays,354,49,88,11,36,44,90,.249,.337,.398,.735,hitter
+Ted Lilly,2005,Toronto Blue Jays,3,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+John McDonald,2005,Toronto Blue Jays,93,8,27,0,12,6,12,.290,.340,.323,.663,hitter
+Frank Menechino,2005,Toronto Blue Jays,148,22,32,4,13,25,33,.216,.352,.345,.697,hitter
+Greg Myers,2005,Toronto Blue Jays,12,0,1,0,1,1,1,.083,.154,.083,.237,hitter
+Guillermo Quiroz,2005,Toronto Blue Jays,36,3,7,0,4,2,13,.194,.256,.250,.506,hitter
+Alex Rios,2005,Toronto Blue Jays,481,71,126,10,59,28,101,.262,.306,.397,.703,hitter
+Scott Schoeneweis,2005,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Justin Speier,2005,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Josh Towers,2005,Toronto Blue Jays,6,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Pete Walker,2005,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Vernon Wells,2005,Toronto Blue Jays,620,78,167,28,97,47,86,.269,.320,.463,.783,hitter
+Gregg Zaun,2005,Toronto Blue Jays,434,61,109,11,61,73,70,.251,.355,.373,.728,hitter
+Brent Abernathy,2005,Minnesota Twins,67,5,16,1,6,7,9,.239,.316,.299,.615,hitter
+Jason Bartlett,2005,Minnesota Twins,224,33,54,3,16,21,37,.241,.316,.335,.651,hitter
+Bret Boone,2005,Seattle Mariners,273,30,63,7,34,24,52,.231,.299,.385,.684,hitter
+Juan Castro,2005,Minnesota Twins,272,27,70,5,33,9,39,.257,.279,.386,.665,hitter
+Jesse Crain,2005,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Michael Cuddyer,2005,Minnesota Twins,422,55,111,12,42,41,93,.263,.330,.422,.752,hitter
+Lew Ford,2005,Minnesota Twins,522,70,138,7,53,45,85,.264,.338,.377,.715,hitter
+Matt Guerrier,2005,Minnesota Twins,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chris Heintz,2005,Minnesota Twins,25,1,5,0,2,1,6,.200,.231,.320,.551,hitter
+Torii Hunter,2005,Minnesota Twins,372,63,100,14,56,34,65,.269,.337,.452,.789,hitter
+Jacque Jones,2005,Minnesota Twins,523,74,130,23,73,51,120,.249,.319,.438,.757,hitter
+Matthew LeCroy,2005,Minnesota Twins,304,33,79,17,50,41,85,.260,.354,.444,.798,hitter
+Kyle Lohse,2005,Minnesota Twins,5,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Joe Mauer,2005,Minnesota Twins,489,61,144,9,55,61,64,.294,.372,.411,.783,hitter
+Joe Mays,2005,Minnesota Twins,3,0,1,0,0,0,0,.333,.333,.333,.666,hitter
+Corky Miller,2005,Minnesota Twins,12,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Justin Morneau,2005,Minnesota Twins,490,62,117,22,79,44,94,.239,.304,.437,.741,hitter
+Terry Mulholland,2005,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Joe Nathan,2005,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Nick Punto,2005,Minnesota Twins,394,45,94,4,26,36,86,.239,.301,.335,.636,hitter
+Brad Radke,2005,Minnesota Twins,5,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Mike Redmond,2005,Minnesota Twins,148,17,46,1,26,6,14,.311,.350,.392,.742,hitter
+Juan Rincon,2005,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Luis Rivas,2005,Minnesota Twins,136,21,35,1,12,9,17,.257,.311,.316,.627,hitter
+Luis Antonio Rodriguez,2005,Minnesota Twins,175,21,47,2,20,18,23,.269,.335,.383,.718,hitter
+J.C. Romero,2005,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Michael Ryan,2005,Minnesota Twins,117,7,27,2,13,9,22,.231,.283,.325,.608,hitter
+Johan Santana,2005,Minnesota Twins,6,1,1,0,0,0,0,.167,.167,.167,.334,hitter
+Carlos Silva,2005,Minnesota Twins,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Shannon Stewart,2005,Minnesota Twins,551,69,151,10,56,34,73,.274,.323,.388,.711,hitter
+Terry Tiffee,2005,Minnesota Twins,150,9,31,1,15,8,15,.207,.245,.293,.538,hitter
+Jason Tyner,2005,Minnesota Twins,56,8,18,0,5,4,4,.321,.367,.375,.742,hitter
+Glenn Williams,2005,Minnesota Twins,40,3,17,0,3,2,7,.425,.452,.450,.902,hitter
+Bobby Abreu,2005,Philadelphia Phillies,588,104,168,24,102,117,134,.286,.405,.474,.879,hitter
+Terry Adams,2005,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+David Bell,2005,Philadelphia Phillies,557,53,138,10,61,47,69,.248,.310,.361,.671,hitter
+Eude Brito,2005,Philadelphia Phillies,7,1,1,0,0,0,2,.143,.143,.143,.286,hitter
+Pat Burrell,2005,Philadelphia Phillies,562,78,158,32,117,99,160,.281,.389,.504,.893,hitter
+Marlon Byrd,2005,Philadelphia Phillies,13,0,4,0,0,1,3,.308,.400,.308,.708,hitter
+Endy Chavez,2005,Washington Nationals,9,2,2,0,1,3,1,.222,.417,.333,.750,hitter
+Rheal Cormier,2005,Philadelphia Phillies,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Gavin Floyd,2005,Philadelphia Phillies,9,0,1,0,0,0,5,.111,.111,.111,.222,hitter
+Aaron Fultz,2005,Philadelphia Phillies,3,1,1,0,0,0,2,.333,.333,.333,.666,hitter
+Geoff Geary,2005,Philadelphia Phillies,6,0,1,0,0,0,4,.167,.167,.167,.334,hitter
+Ryan Howard,2005,Philadelphia Phillies,312,52,90,22,63,33,100,.288,.356,.567,.923,hitter
+Matt Kata,2005,Arizona Diamondbacks,31,6,6,0,0,5,4,.194,.306,.323,.629,hitter
+Cory Lidle,2005,Philadelphia Phillies,58,2,8,0,2,1,30,.138,.153,.138,.291,hitter
+Jon Lieber,2005,Philadelphia Phillies,73,7,7,0,4,1,29,.096,.107,.123,.230,hitter
+Mike Lieberthal,2005,Philadelphia Phillies,392,48,103,12,47,35,35,.263,.336,.418,.754,hitter
+Pedro Liriano,2005,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kenny Lofton,2005,Philadelphia Phillies,367,67,123,2,36,32,41,.335,.392,.420,.812,hitter
+Aquilino Lopez,2005,Colorado Rockies,1,1,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ryan Madson,2005,Philadelphia Phillies,6,0,0,0,0,1,0,.000,.143,.000,.143,hitter
+Ramon Martinez,2005,Detroit Tigers,56,4,15,0,5,3,4,.268,.300,.286,.586,hitter
+Jason Michaels,2005,Philadelphia Phillies,289,54,88,4,31,44,45,.304,.399,.415,.814,hitter
+Brett Myers,2005,Philadelphia Phillies,65,1,10,0,5,4,19,.154,.203,.169,.372,hitter
+Jose Offerman,2005,Philadelphia Phillies,33,6,6,1,3,5,6,.182,.289,.364,.653,hitter
+Vicente Padilla,2005,Philadelphia Phillies,41,2,6,0,4,5,24,.146,.239,.220,.459,hitter
+Tomas Perez,2005,Philadelphia Phillies,159,17,37,0,22,11,27,.233,.289,.277,.566,hitter
+Placido Polanco,2005,Philadelphia Phillies,158,26,50,3,20,12,9,.316,.376,.418,.794,hitter
+Todd Pratt,2005,Philadelphia Phillies,175,17,44,7,23,19,50,.251,.332,.394,.726,hitter
+Jimmy Rollins,2005,Philadelphia Phillies,677,115,196,12,54,47,71,.290,.338,.431,.769,hitter
+Danny Sandoval,2005,Philadelphia Phillies,2,1,0,0,0,0,1,.000,.000,.000,.000,hitter
+Robinson Tejeda,2005,Philadelphia Phillies,20,1,2,0,0,0,9,.100,.100,.200,.300,hitter
+Amaury Telemaco,2005,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jim Thome,2005,Philadelphia Phillies,193,26,40,7,30,45,59,.207,.360,.352,.712,hitter
+Michael Tucker,2005,San Francisco Giants,250,32,60,5,33,28,48,.240,.317,.372,.689,hitter
+Ugueth Urbina,2005,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chase Utley,2005,Philadelphia Phillies,543,93,158,28,105,69,109,.291,.376,.540,.916,hitter
+Shane Victorino,2005,Philadelphia Phillies,17,5,5,2,8,0,3,.294,.263,.647,.910,hitter
+Billy Wagner,2005,Philadelphia Phillies,3,0,1,0,0,0,2,.333,.333,.333,.666,hitter
+Randy Wolf,2005,Philadelphia Phillies,26,2,4,0,1,1,8,.154,.185,.231,.416,hitter
+Tim Worrell,2005,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Adam Bernero,2005,Atlanta Braves,1,0,1,0,0,0,0,1.000,1.000,1.000,2.000,hitter
+Wilson Betemit,2005,Atlanta Braves,246,36,75,4,20,22,55,.305,.359,.435,.794,hitter
+Blaine Boyer,2005,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Frank Brooks,2005,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jim Brower,2005,San Francisco Giants,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Matt Childers,2005,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Roman Colon,2005,Atlanta Braves,7,0,0,0,0,0,5,.000,.000,.000,.000,hitter
+Kyle Davies,2005,Atlanta Braves,15,0,3,0,4,2,3,.200,.278,.200,.478,hitter
+Joey Devine,2005,Atlanta Braves,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Johnny Estrada,2005,Atlanta Braves,357,31,93,4,39,20,38,.261,.303,.367,.670,hitter
+Kyle Farnsworth,2005,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+John Foster,2005,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Julio Franco,2005,Atlanta Braves,233,30,64,9,42,27,57,.275,.348,.451,.799,hitter
+Jeff Francoeur,2005,Atlanta Braves,257,41,77,14,45,11,58,.300,.336,.549,.885,hitter
+Rafael Furcal,2005,Atlanta Braves,616,100,175,12,58,62,78,.284,.348,.429,.777,hitter
+Marcus Giles,2005,Atlanta Braves,577,104,168,15,63,64,108,.291,.365,.461,.826,hitter
+Seth Greisinger,2005,Atlanta Braves,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Kevin Gryboski,2005,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mike Hampton,2005,Atlanta Braves,25,4,8,1,1,0,9,.320,.346,.480,.826,hitter
+Todd Hollandsworth,2005,Chicago Cubs,268,23,68,5,35,18,53,.254,.301,.388,.689,hitter
+Tim Hudson,2005,Atlanta Braves,65,2,9,0,6,3,26,.138,.176,.200,.376,hitter
+Chuck James,2005,Atlanta Braves,1,0,1,0,1,0,0,1.000,1.000,1.000,2.000,hitter
+Kelly Johnson,2005,Atlanta Braves,290,46,70,9,40,40,75,.241,.334,.397,.731,hitter
+Andruw Jones,2005,Atlanta Braves,586,95,154,51,128,64,112,.263,.347,.575,.922,hitter
+Chipper Jones,2005,Atlanta Braves,358,66,106,21,72,72,56,.296,.412,.556,.968,hitter
+Brian Jordan,2005,Atlanta Braves,231,25,57,3,24,14,46,.247,.295,.338,.633,hitter
+Dan Kolb,2005,Atlanta Braves,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Adam LaRoche,2005,Atlanta Braves,451,53,117,20,78,39,87,.259,.320,.455,.775,hitter
+Ryan Langerhans,2005,Atlanta Braves,326,48,87,8,42,37,75,.267,.348,.426,.774,hitter
+Anthony Lerew,2005,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Andy Marte,2005,Atlanta Braves,57,3,8,0,4,7,13,.140,.227,.211,.438,hitter
+Tom Martin,2005,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Macay McBride,2005,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brian McCann,2005,Atlanta Braves,180,20,50,5,23,18,26,.278,.345,.400,.745,hitter
+Raul Mondesi,2005,Atlanta Braves,142,17,30,4,17,12,35,.211,.271,.359,.630,hitter
+Pete Orr,2005,Atlanta Braves,150,32,45,1,8,6,23,.300,.331,.387,.718,hitter
+Brayan Peña,2005,Atlanta Braves,39,2,7,0,4,1,7,.179,.200,.231,.431,hitter
+Eddie Pérez,2005,Atlanta Braves,38,3,8,2,6,1,5,.211,.231,.421,.652,hitter
+Jay Powell,2005,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Horacio Ramirez,2005,Atlanta Braves,73,4,16,0,2,1,17,.219,.230,.260,.490,hitter
+Chris Reitsma,2005,Atlanta Braves,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+John Smoltz,2005,Atlanta Braves,68,1,10,0,3,3,26,.147,.183,.206,.389,hitter
+Jorge Sosa,2005,Atlanta Braves,31,1,3,0,0,1,15,.097,.125,.097,.222,hitter
+John Thomson,2005,Atlanta Braves,25,2,5,0,2,2,12,.200,.259,.280,.539,hitter
+Jorge Vasquez,2005,Atlanta Braves,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Brian Anderson,2005,Chicago White Sox,34,3,6,2,3,0,12,.176,.176,.382,.558,hitter
+Geoff Blum,2005,San Diego Padres,224,26,54,5,22,24,28,.241,.321,.375,.696,hitter
+Joe Borchard,2005,Chicago White Sox,12,0,5,0,0,0,4,.417,.417,.583,1.000,hitter
+Mark Buehrle,2005,Chicago White Sox,3,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Jamie Burke,2005,Chicago White Sox,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Raul Casanova,2005,Chicago White Sox,5,0,1,0,0,0,1,.200,.200,.200,.400,hitter
+Jose Contreras,2005,Chicago White Sox,3,0,0,0,0,1,2,.000,.250,.000,.250,hitter
+Neal Cotts,2005,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Joe Crede,2005,Chicago White Sox,432,54,109,22,62,25,66,.252,.303,.454,.757,hitter
+Jermaine Dye,2005,Chicago White Sox,529,74,145,31,86,39,99,.274,.333,.512,.845,hitter
+Carl Everett,2005,Chicago White Sox,490,58,123,23,87,42,99,.251,.311,.435,.746,hitter
+Freddy Garcia,2005,Chicago White Sox,7,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Jon Garland,2005,Chicago White Sox,2,0,1,0,1,0,1,.500,.500,.500,1.000,hitter
+Ross Gload,2005,Chicago White Sox,42,2,7,0,5,2,9,.167,.205,.214,.419,hitter
+Willie Harris,2005,Chicago White Sox,121,17,31,1,8,13,25,.256,.333,.314,.647,hitter
+Dustin Hermanson,2005,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Orlando Hernandez,2005,Chicago White Sox,3,0,1,0,0,0,1,.333,.333,.333,.666,hitter
+Tadahito Iguchi,2005,Chicago White Sox,511,74,142,15,71,47,114,.278,.342,.438,.780,hitter
+Paul Konerko,2005,Chicago White Sox,575,98,163,40,100,81,109,.283,.375,.534,.909,hitter
+Pedro Lopez,2005,Chicago White Sox,7,1,2,0,2,0,1,.286,.286,.286,.572,hitter
+Damaso Marte,2005,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brandon McCarthy,2005,Chicago White Sox,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Pablo Ozuna,2005,Chicago White Sox,203,27,56,0,11,7,26,.276,.313,.330,.643,hitter
+Timo Perez,2005,Chicago White Sox,179,13,39,2,15,12,25,.218,.266,.296,.562,hitter
+A.J. Pierzynski,2005,Chicago White Sox,460,61,118,18,56,23,68,.257,.308,.420,.728,hitter
+Scott Podsednik,2005,Chicago White Sox,507,80,147,0,25,47,75,.290,.351,.349,.700,hitter
+Cliff Politte,2005,Chicago White Sox,1,1,1,0,1,0,0,1.000,1.000,1.000,2.000,hitter
+Aaron Rowand,2005,Chicago White Sox,578,77,156,13,69,32,116,.270,.329,.407,.736,hitter
+Shingo Takatsu,2005,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Frank Thomas,2005,Chicago White Sox,105,19,23,12,26,16,31,.219,.315,.590,.905,hitter
+Juan Uribe,2005,Chicago White Sox,481,58,121,16,71,34,77,.252,.301,.412,.713,hitter
+Luis Vizcaino,2005,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chris Widger,2005,Chicago White Sox,141,18,34,4,11,10,22,.241,.296,.383,.679,hitter
+Chris Aguila,2005,Florida Marlins,78,11,19,0,4,3,19,.244,.272,.282,.554,hitter
+Antonio Alfonseca,2005,Florida Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Robert Andino,2005,Florida Marlins,44,4,7,0,1,5,8,.159,.245,.250,.495,hitter
+Yorman Bazardo,2005,Florida Marlins,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Josh Beckett,2005,Florida Marlins,59,5,9,1,6,7,17,.153,.239,.254,.493,hitter
+Chad Bentz,2005,Florida Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Nate Bump,2005,Florida Marlins,5,1,1,0,0,0,4,.200,.200,.200,.400,hitter
+A.J. Burnett,2005,Florida Marlins,68,3,10,1,2,1,34,.147,.171,.279,.450,hitter
+Miguel Cabrera,2005,Florida Marlins,613,106,198,33,116,64,125,.323,.385,.561,.946,hitter
+Frank Castillo,2005,Florida Marlins,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Luis Castillo,2005,Florida Marlins,439,72,132,4,30,65,32,.301,.391,.374,.765,hitter
+Jeff Conine,2005,Florida Marlins,335,42,102,3,33,38,58,.304,.374,.403,.777,hitter
+Jim Crowell,2005,Florida Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Valerio De Los Santos,2005,Florida Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Carlos Delgado,2005,Florida Marlins,521,81,157,33,115,72,121,.301,.399,.582,.981,hitter
+Joe Dillon,2005,Florida Marlins,36,6,6,1,1,1,8,.167,.211,.278,.489,hitter
+Damion Easley,2005,Florida Marlins,267,37,64,9,30,26,47,.240,.312,.419,.731,hitter
+Juan Encarnacion,2005,Florida Marlins,506,59,145,16,76,41,104,.287,.349,.447,.796,hitter
+Alex Gonzalez,2005,Florida Marlins,435,45,115,5,45,31,81,.264,.319,.368,.687,hitter
+Lenny Harris,2005,Florida Marlins,70,5,22,1,13,7,11,.314,.385,.414,.799,hitter
+Jeremy Hermida,2005,Florida Marlins,41,9,12,4,11,6,12,.293,.383,.634,1.017,hitter
+Josh Johnson,2005,Florida Marlins,4,1,1,0,0,0,2,.250,.250,.250,.500,hitter
+Todd Jones,2005,Florida Marlins,3,0,1,0,0,0,2,.333,.333,.333,.666,hitter
+Ryan Jorgensen,2005,Florida Marlins,4,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Logan Kensing,2005,Florida Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Al Leiter,2005,Florida Marlins,18,0,0,0,0,0,12,.000,.000,.000,.000,hitter
+Paul Lo Duca,2005,Florida Marlins,445,45,126,6,57,34,31,.283,.334,.380,.714,hitter
+Mike Lowell,2005,Florida Marlins,500,56,118,8,58,46,58,.236,.298,.360,.658,hitter
+Jim Mecir,2005,Florida Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Randy Messenger,2005,Florida Marlins,3,0,1,0,0,1,1,.333,.500,.333,.833,hitter
+Brian Moehler,2005,Florida Marlins,40,1,3,0,3,1,15,.075,.119,.100,.219,hitter
+Mike Mordecai,2005,Florida Marlins,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Guillermo Mota,2005,Florida Marlins,3,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Scott Olsen,2005,Florida Marlins,3,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Matt Perisho,2005,Florida Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Juan Pierre,2005,Florida Marlins,656,96,181,2,47,41,45,.276,.326,.354,.680,hitter
+Paul Quantrill,2005,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chris Resop,2005,Florida Marlins,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+John Riedling,2005,Florida Marlins,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Travis Smith,2005,Florida Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Matt Treanor,2005,Florida Marlins,134,10,27,0,13,16,28,.201,.301,.261,.562,hitter
+Ismael Valdez,2005,Florida Marlins,13,0,2,0,0,0,2,.154,.154,.154,.308,hitter
+Jason Vargas,2005,Florida Marlins,26,3,8,0,2,1,7,.308,.333,.385,.718,hitter
+Ron Villone,2005,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Josh Willingham,2005,Florida Marlins,23,3,7,0,4,2,5,.304,.407,.348,.755,hitter
+Dontrelle Willis,2005,Florida Marlins,92,14,24,1,11,3,13,.261,.289,.337,.626,hitter
+Josh Wilson,2005,Florida Marlins,10,2,1,0,0,0,4,.100,.182,.200,.382,hitter
+Mark Bellhorn,2005,Boston Red Sox,283,41,61,7,28,49,109,.216,.328,.360,.688,hitter
+Kevin Brown,2005,New York Yankees,2,0,1,0,0,0,1,.500,.500,1.000,1.500,hitter
+Melky Cabrera,2005,New York Yankees,19,1,4,0,0,0,2,.211,.211,.211,.422,hitter
+Robinson Canó,2005,New York Yankees,522,78,155,14,62,16,68,.297,.320,.458,.778,hitter
+Shawn Chacon,2005,Colorado Rockies,20,0,3,0,1,2,8,.150,.227,.150,.377,hitter
+Bubba Crosby,2005,New York Yankees,98,15,27,1,6,4,14,.276,.304,.327,.631,hitter
+Alan Embree,2005,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Felix Escalona,2005,New York Yankees,14,0,4,0,2,1,4,.286,.375,.357,.732,hitter
+John Flaherty,2005,New York Yankees,127,10,21,2,11,6,26,.165,.206,.252,.458,hitter
+Wayne Franklin,2005,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jason Giambi,2005,New York Yankees,417,74,113,32,87,108,109,.271,.440,.535,.975,hitter
+Tom Gordon,2005,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Buddy Groom,2005,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Derek Jeter,2005,New York Yankees,654,122,202,19,70,77,117,.309,.389,.450,.839,hitter
+Randy Johnson,2005,New York Yankees,8,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Russ Johnson,2005,New York Yankees,18,5,4,0,0,1,4,.222,.300,.333,.633,hitter
+Steve Karsay,2005,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Matt Lawton,2005,Pittsburgh Pirates,374,53,102,10,44,58,61,.273,.380,.433,.813,hitter
+Al Leiter,2005,Florida Marlins,18,0,0,0,0,0,12,.000,.000,.000,.000,hitter
+Tino Martinez,2005,New York Yankees,303,43,73,17,49,38,54,.241,.328,.439,.767,hitter
+Hideki Matsui,2005,New York Yankees,629,108,192,23,116,63,78,.305,.367,.496,.863,hitter
+Darrell May,2005,San Diego Padres,9,0,1,0,0,0,5,.111,.111,.111,.222,hitter
+Mike Mussina,2005,New York Yankees,3,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Wil Nieves,2005,New York Yankees,4,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Carl Pavano,2005,New York Yankees,7,0,0,0,0,0,4,.000,.000,.000,.000,hitter
+Andy Phillips,2005,New York Yankees,40,7,6,1,4,1,13,.150,.171,.325,.496,hitter
+Jorge Posada,2005,New York Yankees,474,67,124,19,71,66,94,.262,.352,.430,.782,hitter
+Paul Quantrill,2005,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tim Redding,2005,San Diego Padres,8,0,0,0,0,0,5,.000,.000,.000,.000,hitter
+Kevin Reese,2005,New York Yankees,1,0,0,0,0,1,1,.000,.500,.000,.500,hitter
+Mariano Rivera,2005,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Alex Rodriguez,2005,New York Yankees,605,124,194,48,130,91,139,.321,.421,.610,1.031,hitter
+Felix Rodriguez,2005,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Rey Sanchez,2005,New York Yankees,43,7,12,0,2,2,3,.279,.326,.302,.628,hitter
+Gary Sheffield,2005,New York Yankees,584,104,170,34,123,78,76,.291,.379,.512,.891,hitter
+Ruben Sierra,2005,New York Yankees,170,14,39,4,29,9,41,.229,.265,.371,.636,hitter
+Mike Stanton,2005,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tanyon Sturtze,2005,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mike Vento,2005,New York Yankees,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Chien-Ming Wang,2005,New York Yankees,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Bernie Williams,2005,New York Yankees,485,53,121,12,64,53,75,.249,.321,.367,.688,hitter
+Tony Womack,2005,New York Yankees,329,46,82,0,15,12,49,.249,.276,.280,.556,hitter
+Mike Adams,2005,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ricky Bottalico,2005,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Russell Branyan,2005,Milwaukee Brewers,202,23,52,12,31,39,80,.257,.378,.490,.868,hitter
+Jose Capellan,2005,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chris Capuano,2005,Milwaukee Brewers,71,5,12,0,9,2,33,.169,.189,.211,.400,hitter
+Jeff Cirillo,2005,Milwaukee Brewers,185,29,52,4,23,23,22,.281,.373,.427,.800,hitter
+Brady Clark,2005,Milwaukee Brewers,599,94,183,13,53,47,55,.306,.372,.426,.798,hitter
+Nelson Cruz,2005,Milwaukee Brewers,5,1,1,0,0,2,0,.200,.429,.400,.829,hitter
+Doug Davis,2005,Milwaukee Brewers,73,2,10,0,3,1,34,.137,.149,.205,.354,hitter
+Kane Davis,2005,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jorge De La Rosa,2005,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Trent Durrington,2005,Milwaukee Brewers,14,3,3,0,2,1,3,.214,.267,.286,.553,hitter
+Dana Eveland,2005,Milwaukee Brewers,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Prince Fielder,2005,Milwaukee Brewers,59,2,17,2,10,2,17,.288,.306,.458,.764,hitter
+Gary Glover,2005,Milwaukee Brewers,20,3,2,0,1,2,9,.100,.217,.100,.317,hitter
+Bill Hall,2005,Milwaukee Brewers,501,69,146,17,62,39,103,.291,.342,.495,.837,hitter
+J.J. Hardy,2005,Milwaukee Brewers,372,46,92,9,50,44,48,.247,.327,.384,.711,hitter
+Corey Hart,2005,Milwaukee Brewers,57,9,11,2,7,6,11,.193,.270,.368,.638,hitter
+Rick Helling,2005,Milwaukee Brewers,13,0,0,0,0,0,9,.000,.000,.000,.000,hitter
+Wes Helms,2005,Milwaukee Brewers,168,18,50,4,24,14,30,.298,.356,.458,.814,hitter
+Geoff Jenkins,2005,Milwaukee Brewers,538,87,157,25,86,56,138,.292,.375,.513,.888,hitter
+Dave Krynzel,2005,Milwaukee Brewers,7,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Carlos Lee,2005,Milwaukee Brewers,618,85,164,32,114,57,87,.265,.324,.487,.811,hitter
+Justin Lehr,2005,Milwaukee Brewers,3,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Chris Magruder,2005,Milwaukee Brewers,138,16,28,2,13,7,33,.203,.265,.312,.577,hitter
+Damian Miller,2005,Milwaukee Brewers,385,50,105,9,43,37,94,.273,.340,.413,.753,hitter
+Chad Moeller,2005,Milwaukee Brewers,199,23,41,7,23,13,48,.206,.257,.367,.624,hitter
+Julio Mosquera,2005,Milwaukee Brewers,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Wes Obermueller,2005,Milwaukee Brewers,15,1,3,0,0,0,2,.200,.200,.400,.600,hitter
+Tomo Ohka,2005,Washington Nationals,16,1,4,0,0,0,5,.250,.250,.250,.500,hitter
+Lyle Overbay,2005,Milwaukee Brewers,537,80,148,19,72,78,98,.276,.367,.449,.816,hitter
+Tommy Phelps,2005,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Julio Santana,2005,Milwaukee Brewers,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Victor Santos,2005,Milwaukee Brewers,40,1,3,0,0,0,13,.075,.075,.075,.150,hitter
+Ben Sheets,2005,Milwaukee Brewers,45,0,1,0,0,1,17,.022,.043,.022,.065,hitter
+Junior Spivey,2005,Milwaukee Brewers,182,22,43,5,17,18,57,.236,.308,.374,.682,hitter
+Derrick Turnbow,2005,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Rickie Weeks Jr.,2005,Milwaukee Brewers,360,56,86,13,42,40,96,.239,.333,.394,.727,hitter
+Matt Wise,2005,Milwaukee Brewers,1,0,1,0,1,0,0,1.000,1.000,1.000,2.000,hitter
+Garret Anderson,2005,Los Angeles Angels,575,68,163,17,96,23,84,.283,.308,.435,.743,hitter
+Paul Byrd,2005,Los Angeles Angels,4,0,1,0,0,0,0,.250,.250,.250,.500,hitter
+Orlando Cabrera,2005,Los Angeles Angels,540,70,139,8,57,38,50,.257,.309,.365,.674,hitter
+Jason Christiansen,2005,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Bartolo Colon,2005,Los Angeles Angels,3,0,1,0,1,0,2,.333,.333,.333,.666,hitter
+Jeff DaVanon,2005,Los Angeles Angels,225,42,52,2,15,39,44,.231,.347,.311,.658,hitter
+Brendan Donnelly,2005,Los Angeles Angels,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Darin Erstad,2005,Los Angeles Angels,609,86,166,7,66,47,109,.273,.325,.371,.696,hitter
+Kelvim Escobar,2005,Los Angeles Angels,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chone Figgins,2005,Los Angeles Angels,642,113,186,8,57,64,101,.290,.352,.397,.749,hitter
+Steve Finley,2005,Los Angeles Angels,406,41,90,12,54,26,71,.222,.271,.374,.645,hitter
+Kevin Gregg,2005,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Vladimir Guerrero,2005,Los Angeles Angels,520,95,165,32,108,61,48,.317,.394,.565,.959,hitter
+Maicer Izturis,2005,Los Angeles Angels,191,18,47,1,15,17,21,.246,.306,.346,.652,hitter
+Greg Jones,2005,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Adam Kennedy,2005,Los Angeles Angels,416,49,125,2,37,29,64,.300,.354,.370,.724,hitter
+Casey Kotchman,2005,Los Angeles Angels,126,16,35,7,22,15,18,.278,.352,.484,.836,hitter
+John Lackey,2005,Los Angeles Angels,6,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Jeff Mathis,2005,Los Angeles Angels,3,1,1,0,0,0,1,.333,.333,.333,.666,hitter
+David Matranga,2005,Los Angeles Angels,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Dallas McPherson,2005,Los Angeles Angels,205,29,50,8,26,14,64,.244,.295,.449,.744,hitter
+Lou Merloni,2005,Los Angeles Angels,5,1,0,0,1,1,2,.000,.143,.000,.143,hitter
+Bengie Molina,2005,Los Angeles Angels,410,45,121,15,69,27,41,.295,.336,.446,.782,hitter
+José Molina,2005,Los Angeles Angels,184,14,42,6,25,13,41,.228,.286,.348,.634,hitter
+Josh Paul,2005,Los Angeles Angels,37,4,7,2,4,2,9,.189,.231,.378,.609,hitter
+Joel Peralta,2005,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Curtis Pride,2005,Los Angeles Angels,11,2,1,0,0,0,4,.091,.091,.182,.273,hitter
+Chris Prieto,2005,Los Angeles Angels,2,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Robb Quinlan,2005,Los Angeles Angels,134,17,31,5,14,7,26,.231,.273,.403,.676,hitter
+Juan Rivera,2005,Los Angeles Angels,350,46,95,15,59,23,44,.271,.316,.454,.770,hitter
+Francisco Rodríguez,2005,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Scot Shields,2005,Los Angeles Angels,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Zach Sorensen,2005,Los Angeles Angels,12,3,2,0,0,0,2,.167,.167,.250,.417,hitter
+Jarrod Washburn,2005,Los Angeles Angels,4,1,0,0,0,1,0,.000,.200,.000,.200,hitter
+Jake Woods,2005,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Esteban Yan,2005,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Armando Almanza,2005,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Greg Aquino,2005,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brian Bruney,2005,Arizona Diamondbacks,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jason Bulger,2005,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Randy Choate,2005,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Alex Cintron,2005,Arizona Diamondbacks,330,36,90,8,48,12,33,.273,.298,.415,.713,hitter
+Tony Clark,2005,Arizona Diamondbacks,349,47,106,30,87,37,88,.304,.366,.636,1.002,hitter
+Royce Clayton,2005,Arizona Diamondbacks,522,59,141,2,44,38,105,.270,.320,.351,.671,hitter
+Lance Cormier,2005,Arizona Diamondbacks,6,0,2,0,1,0,1,.333,.333,.333,.666,hitter
+Craig Counsell,2005,Arizona Diamondbacks,578,85,148,9,42,78,69,.256,.350,.375,.725,hitter
+José Cruz Jr.,2005,Arizona Diamondbacks,202,23,43,12,28,42,54,.213,.347,.436,.783,hitter
+Shawn Estes,2005,Arizona Diamondbacks,29,2,2,0,0,0,7,.069,.069,.138,.207,hitter
+Troy Glaus,2005,Arizona Diamondbacks,538,78,139,37,97,84,145,.258,.363,.522,.885,hitter
+Edgar Gonzalez,2005,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Luis Gonzalez,2005,Arizona Diamondbacks,579,90,157,24,79,78,90,.271,.366,.459,.825,hitter
+Mike Gosling,2005,Arizona Diamondbacks,6,0,0,0,0,0,4,.000,.000,.000,.000,hitter
+Andy Green,2005,Arizona Diamondbacks,31,5,7,0,2,7,3,.226,.359,.258,.617,hitter
+Shawn Green,2005,Arizona Diamondbacks,581,87,166,22,73,62,95,.286,.355,.477,.832,hitter
+Buddy Groom,2005,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Scott Hairston,2005,Arizona Diamondbacks,20,0,2,0,0,0,6,.100,.100,.150,.250,hitter
+Brad Halsey,2005,Arizona Diamondbacks,48,2,3,0,2,6,18,.063,.167,.063,.230,hitter
+Matt Herges,2005,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Koyie Hill,2005,Arizona Diamondbacks,78,6,17,0,6,11,27,.218,.308,.282,.590,hitter
+Conor Jackson,2005,Arizona Diamondbacks,85,8,17,2,8,12,11,.200,.303,.306,.609,hitter
+Matt Kata,2005,Arizona Diamondbacks,31,6,6,0,0,5,4,.194,.306,.323,.629,hitter
+Mike Koplove,2005,Arizona Diamondbacks,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Kerry Ligtenberg,2005,Arizona Diamondbacks,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Javier López,2005,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brandon Lyon,2005,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Quinton McCracken,2005,Arizona Diamondbacks,215,23,51,1,13,23,35,.237,.313,.298,.611,hitter
+Brandon Medders,2005,Arizona Diamondbacks,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Dustin Nippert,2005,Arizona Diamondbacks,4,0,1,0,0,1,3,.250,.400,.250,.650,hitter
+Russ Ortiz,2005,Arizona Diamondbacks,34,1,7,0,1,3,9,.206,.270,.235,.505,hitter
+Chris Snyder,2005,Arizona Diamondbacks,326,24,66,6,28,40,87,.202,.297,.301,.598,hitter
+Kelly Stinnett,2005,Arizona Diamondbacks,129,15,32,6,12,12,32,.248,.317,.419,.736,hitter
+Luis Terrero,2005,Arizona Diamondbacks,161,23,37,4,20,14,40,.230,.313,.354,.667,hitter
+Chad Tracy,2005,Arizona Diamondbacks,503,73,155,27,72,35,78,.308,.359,.553,.912,hitter
+Jose Valverde,2005,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Claudio Vargas,2005,Washington Nationals,2,0,1,0,0,0,0,.500,.500,.500,1.000,hitter
+Javier Vazquez,2005,Arizona Diamondbacks,63,2,15,1,2,3,10,.238,.273,.302,.575,hitter
+Oscar Villarreal,2005,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brandon Webb,2005,Arizona Diamondbacks,62,0,6,0,2,1,30,.097,.111,.097,.208,hitter
+Tim Worrell,2005,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+James Baldwin,2005,Baltimore Orioles,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Larry Bigbie,2005,Baltimore Orioles,206,22,51,5,21,21,49,.248,.314,.374,.688,hitter
+Eric Byrnes,2005,Oakland Athletics,192,30,51,7,24,14,27,.266,.336,.474,.810,hitter
+Daniel Cabrera,2005,Baltimore Orioles,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Napoleon Calzado,2005,Baltimore Orioles,5,0,1,0,0,0,1,.200,.200,.200,.400,hitter
+Bernie Castro,2005,Baltimore Orioles,80,14,23,0,7,9,10,.288,.360,.350,.710,hitter
+Bruce Chen,2005,Baltimore Orioles,3,0,1,0,0,1,0,.333,.500,.333,.833,hitter
+Midre Cummings,2005,Baltimore Orioles,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Sal Fasano,2005,Baltimore Orioles,160,25,40,11,20,9,41,.250,.310,.475,.785,hitter
+Jeff Fiorentino,2005,Baltimore Orioles,44,7,11,1,5,2,10,.250,.277,.364,.641,hitter
+Alejandro Freire,2005,Baltimore Orioles,65,7,16,1,4,6,17,.246,.319,.338,.657,hitter
+Jay Gibbons,2005,Baltimore Orioles,488,72,135,26,79,28,56,.277,.317,.516,.833,hitter
+Geronimo Gil,2005,Baltimore Orioles,125,7,24,4,17,5,23,.192,.220,.312,.532,hitter
+Chris Gomez,2005,Baltimore Orioles,219,27,61,1,18,27,17,.279,.359,.342,.701,hitter
+Jorge Julio,2005,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Steve Kline,2005,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Javy Lopez,2005,Baltimore Orioles,395,47,110,15,49,19,68,.278,.322,.458,.780,hitter
+Rodrigo Lopez,2005,Baltimore Orioles,4,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Eli Marrero,2005,Kansas City Royals,88,11,14,4,9,7,18,.159,.222,.341,.563,hitter
+Luis Matos,2005,Baltimore Orioles,389,53,109,4,32,27,58,.280,.340,.373,.713,hitter
+Melvin Mora,2005,Baltimore Orioles,593,86,168,27,88,50,112,.283,.348,.474,.822,hitter
+David Newhan,2005,Baltimore Orioles,218,31,44,5,21,22,45,.202,.279,.312,.591,hitter
+Ramon Nivar,2005,Baltimore Orioles,13,1,4,0,1,0,2,.308,.357,.308,.665,hitter
+Rafael Palmeiro,2005,Baltimore Orioles,369,47,98,18,60,43,43,.266,.339,.447,.786,hitter
+John Parrish,2005,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Hayden Penn,2005,Baltimore Orioles,1,0,0,0,0,1,0,.000,.500,.000,.500,hitter
+Sidney Ponson,2005,Baltimore Orioles,4,0,1,0,0,0,0,.250,.250,.500,.750,hitter
+Chris Ray,2005,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Keith Reed,2005,Baltimore Orioles,5,1,1,0,1,1,2,.200,.333,.200,.533,hitter
+Steve Reed,2005,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brian Roberts,2005,Baltimore Orioles,561,92,176,18,73,67,83,.314,.387,.515,.902,hitter
+Ed Rogers,2005,Baltimore Orioles,1,4,1,1,2,0,0,1.000,1.000,4.000,5.000,hitter
+B.J. Ryan,2005,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Sammy Sosa,2005,Baltimore Orioles,380,39,84,14,45,39,84,.221,.295,.376,.671,hitter
+B.J. Surhoff,2005,Baltimore Orioles,303,30,78,5,34,11,32,.257,.282,.356,.638,hitter
+Miguel Tejada,2005,Baltimore Orioles,654,89,199,26,98,40,83,.304,.349,.515,.864,hitter
+Eli Whiteside,2005,Baltimore Orioles,12,1,3,0,1,0,2,.250,.250,.250,.500,hitter
+Todd Williams,2005,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Walter Young,2005,Baltimore Orioles,33,2,10,1,3,4,7,.303,.378,.424,.802,hitter
+Bronson Arroyo,2005,Boston Red Sox,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Mark Bellhorn,2005,Boston Red Sox,283,41,61,7,28,49,109,.216,.328,.360,.688,hitter
+Scott Cassidy,2005,San Diego Padres,1,0,0,0,0,1,1,.000,.500,.000,.500,hitter
+Matt Clement,2005,Boston Red Sox,3,0,0,0,0,1,2,.000,.250,.000,.250,hitter
+Alex Cora,2005,Cleveland Indians,146,11,30,1,8,5,18,.205,.250,.288,.538,hitter
+José Cruz Jr.,2005,Arizona Diamondbacks,202,23,43,12,28,42,54,.213,.347,.436,.783,hitter
+Johnny Damon,2005,Boston Red Sox,624,117,197,10,75,53,69,.316,.366,.439,.805,hitter
+Alan Embree,2005,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Keith Foulke,2005,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tony Graffanino,2005,Kansas City Royals,191,29,57,3,18,22,28,.298,.377,.393,.770,hitter
+John Halama,2005,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chad Harville,2005,Houston Astros,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Adam Hyzdu,2005,San Diego Padres,20,1,3,0,4,3,4,.150,.250,.200,.450,hitter
+Gabe Kapler,2005,Boston Red Sox,97,15,24,1,9,3,15,.247,.282,.351,.633,hitter
+Alejandro Machado,2005,Boston Red Sox,5,4,1,0,0,1,1,.200,.333,.400,.733,hitter
+Matt Mantei,2005,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Dave McCarty,2005,Boston Red Sox,4,2,2,0,2,2,0,.500,.667,.500,1.167,hitter
+Kevin Millar,2005,Boston Red Sox,449,57,122,9,50,54,74,.272,.355,.399,.754,hitter
+Wade Miller,2005,Boston Red Sox,3,0,2,0,0,0,1,.667,.667,.667,1.334,hitter
+Doug Mirabelli,2005,Boston Red Sox,136,16,31,6,18,14,48,.228,.309,.412,.721,hitter
+Bill Mueller,2005,Boston Red Sox,519,69,153,10,62,59,74,.295,.369,.430,.799,hitter
+Mike Myers,2005,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Blaine Neal,2005,Colorado Rockies,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Trot Nixon,2005,Boston Red Sox,408,64,112,13,67,53,59,.275,.357,.446,.803,hitter
+John Olerud,2005,Boston Red Sox,173,18,50,7,37,16,20,.289,.344,.451,.795,hitter
+David Ortiz,2005,Boston Red Sox,601,119,180,47,148,102,124,.300,.397,.604,1.001,hitter
+Jay Payton,2005,Boston Red Sox,133,24,35,5,21,10,14,.263,.313,.429,.742,hitter
+Matt Perisho,2005,Florida Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Roberto Petagine,2005,Boston Red Sox,32,4,9,1,9,4,5,.281,.361,.438,.799,hitter
+Hanley Ramirez,2005,Boston Red Sox,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Manny Ramirez,2005,Boston Red Sox,554,112,162,45,144,80,119,.292,.388,.594,.982,hitter
+Mike Remlinger,2005,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Edgar Renteria,2005,Boston Red Sox,623,100,172,8,70,55,100,.276,.335,.385,.720,hitter
+Kelly Shoppach,2005,Boston Red Sox,15,1,0,0,0,0,7,.000,.063,.000,.063,hitter
+Mike Stanton,2005,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Adam Stern,2005,Boston Red Sox,15,4,2,1,2,0,4,.133,.188,.333,.521,hitter
+Mike Timlin,2005,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jason Varitek,2005,Boston Red Sox,470,70,132,22,70,62,117,.281,.366,.489,.855,hitter
+Ramón Vázquez,2005,Boston Red Sox,61,6,12,0,4,3,14,.197,.234,.230,.464,hitter
+Tim Wakefield,2005,Boston Red Sox,8,1,2,0,1,0,2,.250,.250,.250,.500,hitter
+David Wells,2005,Boston Red Sox,7,1,1,0,1,0,2,.143,.143,.143,.286,hitter
+Shawn Wooten,2005,Boston Red Sox,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kevin Youkilis,2005,Boston Red Sox,79,11,22,1,9,14,19,.278,.400,.405,.805,hitter
+Michael Barrett,2005,Chicago Cubs,424,48,117,16,61,40,61,.276,.345,.479,.824,hitter
+Cliff Bartosh,2005,Chicago Cubs,1,0,1,0,0,0,0,1.000,1.000,1.000,2.000,hitter
+Henry Blanco,2005,Chicago Cubs,161,16,39,6,25,11,24,.242,.287,.391,.678,hitter
+Joe Borowski,2005,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jeromy Burnitz,2005,Chicago Cubs,605,84,156,24,87,57,109,.258,.322,.435,.757,hitter
+Ronny Cedeno,2005,Chicago Cubs,80,13,24,1,6,5,11,.300,.356,.375,.731,hitter
+Ryan Dempster,2005,Chicago Cubs,14,0,1,0,0,0,5,.071,.071,.071,.142,hitter
+Jason Dubois,2005,Chicago Cubs,142,15,34,7,22,7,49,.239,.289,.472,.761,hitter
+Mike Fontenot,2005,Chicago Cubs,2,4,0,0,0,2,0,.000,.600,.000,.600,hitter
+Chad Fox,2005,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Nomar Garciaparra,2005,Chicago Cubs,230,28,65,9,30,12,24,.283,.320,.452,.772,hitter
+Jody Gerut,2005,Cleveland Indians,138,12,38,1,12,18,14,.275,.357,.377,.734,hitter
+Adam Greenberg,2005,Chicago Cubs,0,0,0,0,0,0,0,.000,1.000,.000,1.000,hitter
+Ben Grieve,2005,Chicago Cubs,20,1,5,0,1,5,7,.250,.400,.250,.650,hitter
+Jerry Hairston,2005,Chicago Cubs,380,51,99,4,30,31,46,.261,.336,.368,.704,hitter
+LaTroy Hawkins,2005,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Rich Hill,2005,Chicago Cubs,6,1,2,0,0,0,2,.333,.333,.333,.666,hitter
+Todd Hollandsworth,2005,Chicago Cubs,268,23,68,5,35,18,53,.254,.301,.388,.689,hitter
+John Koronka,2005,Chicago Cubs,4,0,0,0,0,1,3,.000,.200,.000,.200,hitter
+Matt Lawton,2005,Pittsburgh Pirates,374,53,102,10,44,58,61,.273,.380,.433,.813,hitter
+Derrek Lee,2005,Chicago Cubs,594,120,199,46,107,85,109,.335,.418,.662,1.080,hitter
+Jon Leicester,2005,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jose Macias,2005,Chicago Cubs,177,15,45,1,13,6,24,.254,.274,.316,.590,hitter
+Greg Maddux,2005,Chicago Cubs,76,4,13,1,5,0,15,.171,.171,.211,.382,hitter
+Scott McClain,2005,Chicago Cubs,14,1,2,0,1,2,2,.143,.250,.214,.464,hitter
+Sergio Mitre,2005,Chicago Cubs,11,2,4,0,1,0,1,.364,.364,.455,.819,hitter
+Matt Murton,2005,Chicago Cubs,140,19,45,7,14,16,22,.321,.386,.521,.907,hitter
+Roberto Novoa,2005,Chicago Cubs,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Will Ohman,2005,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Corey Patterson,2005,Chicago Cubs,451,47,97,13,34,23,118,.215,.254,.348,.602,hitter
+Neifi Perez,2005,Chicago Cubs,572,59,157,9,54,18,47,.274,.298,.383,.681,hitter
+Mark Prior,2005,Chicago Cubs,48,5,11,0,3,2,14,.229,.260,.271,.531,hitter
+Aramis Ramirez,2005,Chicago Cubs,463,72,140,31,92,35,60,.302,.358,.568,.926,hitter
+Mike Remlinger,2005,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Glendon Rusch,2005,Chicago Cubs,41,2,6,0,0,1,9,.146,.186,.195,.381,hitter
+Geovany Soto,2005,Chicago Cubs,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ryan Theriot,2005,Chicago Cubs,13,3,2,0,0,1,2,.154,.214,.231,.445,hitter
+Jermaine Van Buren,2005,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Todd Walker,2005,Chicago Cubs,397,50,121,12,40,31,40,.305,.355,.474,.829,hitter
+Todd Wellemeyer,2005,Chicago Cubs,4,1,1,0,0,0,2,.250,.250,.250,.500,hitter
+Jerome Williams,2005,San Francisco Giants,4,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Scott Williamson,2005,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Enrique Wilson,2005,Chicago Cubs,22,1,3,0,0,3,1,.136,.240,.227,.467,hitter
+Kerry Wood,2005,Chicago Cubs,18,0,2,0,2,1,6,.111,.158,.222,.380,hitter
+Michael Wuertz,2005,Chicago Cubs,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Carlos Zambrano,2005,Chicago Cubs,80,8,24,1,6,0,25,.300,.300,.463,.763,hitter
+Rich Aurilia,2005,Cincinnati Reds,426,61,120,14,68,37,67,.282,.338,.444,.782,hitter
+Matt Belisle,2005,Cincinnati Reds,7,0,1,0,0,0,3,.143,.143,.143,.286,hitter
+William Bergolla,2005,Cincinnati Reds,38,3,5,0,1,0,10,.132,.132,.132,.264,hitter
+Chris Booker,2005,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Sean Casey,2005,Cincinnati Reds,529,75,165,9,58,48,48,.312,.371,.423,.794,hitter
+Brandon Claussen,2005,Cincinnati Reds,55,3,5,0,0,3,22,.091,.138,.091,.229,hitter
+Todd Coffey,2005,Cincinnati Reds,3,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Jacob Cruz,2005,Cincinnati Reds,127,12,30,4,18,16,46,.236,.324,.409,.733,hitter
+Chris Denorfia,2005,Cincinnati Reds,38,8,10,1,2,6,9,.263,.364,.421,.785,hitter
+Adam Dunn,2005,Cincinnati Reds,543,107,134,40,101,114,168,.247,.387,.540,.927,hitter
+Edwin Encarnación,2005,Cincinnati Reds,211,25,49,9,31,20,60,.232,.308,.436,.744,hitter
+Ryan Freel,2005,Cincinnati Reds,369,69,100,4,21,51,59,.271,.371,.371,.742,hitter
+Danny Graves,2005,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ken Griffey Jr.,2005,Cincinnati Reds,491,85,148,35,92,54,93,.301,.369,.576,.945,hitter
+Josh Hancock,2005,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Aaron Harang,2005,Cincinnati Reds,74,1,2,0,3,0,39,.027,.027,.027,.054,hitter
+Aaron Holbert,2005,Cincinnati Reds,27,3,6,0,2,3,8,.222,.290,.333,.623,hitter
+Luke Hudson,2005,Cincinnati Reds,25,7,8,0,3,2,9,.320,.370,.400,.770,hitter
+D'Angelo Jimenez,2005,Cincinnati Reds,105,14,24,0,5,14,23,.229,.319,.295,.614,hitter
+Austin Kearns,2005,Cincinnati Reds,387,62,93,18,67,48,107,.240,.333,.452,.785,hitter
+Randy Keisler,2005,Cincinnati Reds,15,3,4,1,2,0,4,.267,.267,.600,.867,hitter
+Kenny Kelly,2005,Cincinnati Reds,9,2,3,0,2,0,3,.333,.333,.333,.666,hitter
+Jason LaRue,2005,Cincinnati Reds,361,38,94,14,60,41,101,.260,.355,.452,.807,hitter
+Felipe Lopez,2005,Cincinnati Reds,580,97,169,23,85,57,111,.291,.352,.486,.838,hitter
+Luis Lopez,2005,Cincinnati Reds,27,0,6,0,2,1,6,.222,.250,.333,.583,hitter
+Anderson Machado,2005,Cincinnati Reds,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Kent Mercker,2005,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Eric Milton,2005,Cincinnati Reds,56,7,8,2,4,3,25,.143,.186,.268,.454,hitter
+Ray Olmedo,2005,Cincinnati Reds,77,10,17,1,4,6,22,.221,.282,.338,.620,hitter
+Ramon Ortiz,2005,Cincinnati Reds,54,1,4,0,0,1,23,.074,.091,.111,.202,hitter
+Wily Mo Peña,2005,Cincinnati Reds,311,42,79,19,51,20,116,.254,.304,.492,.796,hitter
+Miguel Perez,2005,Cincinnati Reds,3,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Elizardo Ramirez,2005,Cincinnati Reds,8,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Joe Randa,2005,Cincinnati Reds,332,44,96,13,48,33,52,.289,.356,.491,.847,hitter
+Jason Romano,2005,Cincinnati Reds,30,3,8,1,3,3,9,.267,.353,.433,.786,hitter
+Dane Sardinha,2005,Cincinnati Reds,3,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Brian Shackelford,2005,Cincinnati Reds,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Allan Simpson,2005,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jason Standridge,2005,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ricky Stone,2005,Cincinnati Reds,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Javier Valentin,2005,Cincinnati Reds,221,36,62,14,50,30,37,.281,.362,.520,.882,hitter
+Joe Valentine,2005,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ryan Wagner,2005,Cincinnati Reds,1,1,0,0,0,0,1,.000,.000,.000,.000,hitter
+David Weathers,2005,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ben Weber,2005,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Paul Wilson,2005,Cincinnati Reds,17,1,3,0,1,0,11,.176,.176,.176,.352,hitter
+Josh Bard,2005,Cleveland Indians,83,6,16,1,9,9,11,.193,.266,.277,.543,hitter
+Ronnie Belliard,2005,Cleveland Indians,536,71,152,17,78,35,72,.284,.325,.450,.775,hitter
+Rafael Betancourt,2005,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Casey Blake,2005,Cleveland Indians,523,72,126,23,58,43,116,.241,.308,.438,.746,hitter
+Aaron Boone,2005,Cleveland Indians,511,61,124,16,60,35,92,.243,.299,.378,.677,hitter
+Ben Broussard,2005,Cleveland Indians,466,59,119,19,68,32,98,.255,.307,.464,.771,hitter
+Alex Cora,2005,Cleveland Indians,146,11,30,1,8,5,18,.205,.250,.288,.538,hitter
+Coco Crisp,2005,Cleveland Indians,594,86,178,16,69,44,81,.300,.345,.465,.810,hitter
+Jason Davis,2005,Cleveland Indians,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Jason Dubois,2005,Chicago Cubs,142,15,34,7,22,7,49,.239,.289,.472,.761,hitter
+Scott Elarton,2005,Cleveland Indians,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Ryan Garko,2005,Cleveland Indians,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Jody Gerut,2005,Cleveland Indians,138,12,38,1,12,18,14,.275,.357,.377,.734,hitter
+Juan Gonzalez,2005,Cleveland Indians,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Franklin Gutierrez,2005,Cleveland Indians,1,2,0,0,0,1,0,.000,.500,.000,.500,hitter
+Travis Hafner,2005,Cleveland Indians,486,94,148,33,108,79,123,.305,.408,.595,1.003,hitter
+José Hernández,2005,Cleveland Indians,234,28,54,6,31,14,60,.231,.277,.338,.615,hitter
+Bob Howry,2005,Cleveland Indians,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Cliff Lee,2005,Cleveland Indians,8,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Jeff Liefer,2005,Cleveland Indians,56,5,11,1,8,1,15,.196,.211,.286,.497,hitter
+Ryan Ludwick,2005,Cleveland Indians,41,8,9,4,5,7,13,.220,.333,.512,.845,hitter
+Victor Martinez,2005,Cleveland Indians,547,73,167,20,80,63,78,.305,.378,.475,.853,hitter
+Matt Miller,2005,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kevin Millwood,2005,Cleveland Indians,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Jhonny Peralta,2005,Cleveland Indians,504,82,147,24,78,58,128,.292,.366,.520,.886,hitter
+Brandon Phillips,2005,Cleveland Indians,9,1,0,0,0,0,4,.000,.000,.000,.000,hitter
+Arthur Rhodes,2005,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+David Riske,2005,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+CC Sabathia,2005,Cleveland Indians,6,1,2,1,4,0,1,.333,.333,1.000,1.333,hitter
+Scott Sauerbeck,2005,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Grady Sizemore,2005,Cleveland Indians,640,111,185,22,81,52,132,.289,.348,.484,.832,hitter
+Ramón Vázquez,2005,Boston Red Sox,61,6,12,0,4,3,14,.197,.234,.230,.464,hitter
+Jake Westbrook,2005,Cleveland Indians,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Bob Wickman,2005,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jose Acevedo,2005,Colorado Rockies,8,0,1,0,0,1,6,.125,.300,.125,.425,hitter
+Alfredo Amezaga,2005,Colorado Rockies,3,1,1,0,0,0,0,.333,.333,.333,.666,hitter
+Matt Anderson,2005,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Danny Ardoin,2005,Colorado Rockies,210,28,48,6,22,20,69,.229,.320,.362,.682,hitter
+Garrett Atkins,2005,Colorado Rockies,519,62,149,13,89,45,72,.287,.347,.426,.773,hitter
+Jeff Baker,2005,Colorado Rockies,38,6,8,1,4,5,12,.211,.302,.395,.697,hitter
+Clint Barmes,2005,Colorado Rockies,350,55,101,10,46,16,36,.289,.330,.434,.764,hitter
+Larry Bigbie,2005,Baltimore Orioles,206,22,51,5,21,21,49,.248,.314,.374,.688,hitter
+Eric Byrnes,2005,Oakland Athletics,192,30,51,7,24,14,27,.266,.336,.474,.810,hitter
+Marcos Carvajal,2005,Colorado Rockies,4,0,1,0,2,0,3,.250,.250,.250,.500,hitter
+Shawn Chacon,2005,Colorado Rockies,20,0,3,0,1,2,8,.150,.227,.150,.377,hitter
+JD Closser,2005,Colorado Rockies,237,31,52,7,27,32,48,.219,.314,.376,.690,hitter
+Aaron Cook,2005,Colorado Rockies,30,3,5,0,0,1,12,.167,.194,.233,.427,hitter
+David Cortes,2005,Colorado Rockies,2,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Zach Day,2005,Washington Nationals,8,0,1,0,0,0,3,.125,.125,.125,.250,hitter
+Mike DeJean,2005,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Scott Dohmann,2005,Colorado Rockies,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mike Esposito,2005,Colorado Rockies,5,0,1,0,0,0,0,.200,.200,.200,.400,hitter
+Jeff Francis,2005,Colorado Rockies,58,7,6,0,4,7,27,.103,.200,.138,.338,hitter
+Choo Freeman,2005,Colorado Rockies,22,6,6,0,0,0,5,.273,.273,.409,.682,hitter
+Brian Fuentes,2005,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Eddy Garabito,2005,Colorado Rockies,88,15,27,1,8,8,12,.307,.384,.398,.782,hitter
+Luis Gonzalez,2005,Colorado Rockies,404,51,118,9,44,20,63,.292,.333,.421,.754,hitter
+Todd Greene,2005,Colorado Rockies,126,10,32,7,23,7,21,.254,.299,.452,.751,hitter
+Brad Hawpe,2005,Colorado Rockies,305,38,80,9,47,43,70,.262,.350,.403,.753,hitter
+Todd Helton,2005,Colorado Rockies,509,92,163,20,79,106,80,.320,.445,.534,.979,hitter
+Matt Holliday,2005,Colorado Rockies,479,68,147,19,87,36,79,.307,.361,.505,.866,hitter
+Jason Jennings,2005,Colorado Rockies,38,0,6,0,1,2,12,.158,.200,.184,.384,hitter
+Joe Kennedy,2005,Colorado Rockies,29,1,5,0,1,1,8,.172,.200,.172,.372,hitter
+Byung-Hyun Kim,2005,Colorado Rockies,38,0,3,0,2,2,6,.079,.122,.079,.201,hitter
+Sun-Woo Kim,2005,Washington Nationals,4,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Aquilino Lopez,2005,Colorado Rockies,1,1,0,0,0,0,0,.000,.000,.000,.000,hitter
+Javier López,2005,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Anderson Machado,2005,Cincinnati Reds,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Dan Miceli,2005,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Aaron Miles,2005,Colorado Rockies,324,37,91,2,28,8,38,.281,.306,.355,.661,hitter
+Dustan Mohr,2005,Colorado Rockies,266,34,57,17,38,23,94,.214,.280,.466,.746,hitter
+Blaine Neal,2005,Colorado Rockies,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Tim Olson,2005,Colorado Rockies,2,0,0,0,0,1,2,.000,.333,.000,.333,hitter
+Jorge Piedra,2005,Colorado Rockies,112,19,35,6,16,10,15,.313,.371,.563,.934,hitter
+Omar Quintanilla,2005,Colorado Rockies,128,16,28,0,7,9,15,.219,.270,.242,.512,hitter
+Desi Relaford,2005,Colorado Rockies,210,24,47,1,16,22,42,.224,.308,.319,.627,hitter
+Michael Restovich,2005,Colorado Rockies,31,5,9,1,3,3,5,.290,.353,.452,.805,hitter
+Bobby Seay,2005,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ryan Shealy,2005,Colorado Rockies,91,14,30,2,16,13,22,.330,.413,.473,.886,hitter
+Allan Simpson,2005,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ryan Speier,2005,Colorado Rockies,2,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ryan Spilborghs,2005,Colorado Rockies,4,0,2,0,1,0,1,.500,.500,.500,1.000,hitter
+Cory Sullivan,2005,Colorado Rockies,378,64,111,4,30,28,83,.294,.343,.386,.729,hitter
+Chin-hui Tsao,2005,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Randy Williams,2005,San Diego Padres,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Preston Wilson,2005,Colorado Rockies,267,39,69,15,47,25,77,.258,.322,.491,.813,hitter
+Jay Witasick,2005,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jamey Wright,2005,Colorado Rockies,55,2,8,0,3,1,21,.145,.161,.164,.325,hitter
+Jeremy Bonderman,2005,Detroit Tigers,6,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Roman Colon,2005,Atlanta Braves,7,0,0,0,0,0,5,.000,.000,.000,.000,hitter
+Doug Creek,2005,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Sean Douglass,2005,Detroit Tigers,2,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kyle Farnsworth,2005,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Franklyn German,2005,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tony Giarratano,2005,Detroit Tigers,42,4,6,1,4,5,7,.143,.234,.214,.448,hitter
+Alexis Gomez,2005,Detroit Tigers,16,2,3,0,1,2,2,.188,.278,.188,.466,hitter
+Curtis Granderson,2005,Detroit Tigers,162,18,44,8,20,10,43,.272,.314,.494,.808,hitter
+Carlos Guillén,2005,Detroit Tigers,334,48,107,5,23,24,45,.320,.368,.434,.802,hitter
+Bobby Higginson,2005,Detroit Tigers,26,1,2,0,1,1,5,.077,.111,.077,.188,hitter
+Kevin Hooper,2005,Detroit Tigers,5,0,1,0,0,0,1,.200,.200,.200,.400,hitter
+Omar Infante,2005,Detroit Tigers,406,36,90,9,43,16,73,.222,.254,.367,.621,hitter
+Brandon Inge,2005,Detroit Tigers,616,75,161,16,72,63,140,.261,.330,.419,.749,hitter
+Jason Johnson,2005,Detroit Tigers,2,1,1,1,1,0,0,.500,.500,2.000,2.500,hitter
+Nook Logan,2005,Detroit Tigers,322,47,83,1,17,21,52,.258,.305,.335,.640,hitter
+Mike Maroth,2005,Detroit Tigers,4,0,2,0,1,1,2,.500,.600,.500,1.100,hitter
+Ramon Martinez,2005,Detroit Tigers,56,4,15,0,5,3,4,.268,.300,.286,.586,hitter
+John McDonald,2005,Toronto Blue Jays,93,8,27,0,12,6,12,.290,.340,.323,.663,hitter
+Craig Monroe,2005,Detroit Tigers,567,69,157,20,89,40,95,.277,.322,.446,.768,hitter
+Magglio Ordonez,2005,Detroit Tigers,305,38,92,8,46,30,35,.302,.359,.436,.795,hitter
+Carlos Pena,2005,Detroit Tigers,260,37,61,18,44,31,95,.235,.325,.477,.802,hitter
+Troy Percival,2005,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Placido Polanco,2005,Philadelphia Phillies,158,26,50,3,20,12,9,.316,.376,.418,.794,hitter
+Nate Robertson,2005,Detroit Tigers,3,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Fernando Rodney,2005,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ivan Rodriguez,2005,Detroit Tigers,504,71,139,14,50,11,93,.276,.290,.444,.734,hitter
+Chris Shelton,2005,Detroit Tigers,388,61,116,18,59,34,87,.299,.360,.510,.870,hitter
+Jason Smith,2005,Detroit Tigers,58,4,11,0,2,0,16,.190,.203,.276,.479,hitter
+Chris Spurling,2005,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Marcus Thames,2005,Detroit Tigers,107,11,21,7,16,9,38,.196,.263,.411,.674,hitter
+Ugueth Urbina,2005,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jamie Walker,2005,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Rondell White,2005,Detroit Tigers,374,49,117,12,53,17,48,.313,.348,.489,.837,hitter
+Vance Wilson,2005,Detroit Tigers,152,18,30,3,19,11,26,.197,.275,.283,.558,hitter
+Dmitri Young,2005,Detroit Tigers,469,61,127,21,72,29,100,.271,.325,.471,.796,hitter
+Ezequiel Astacio,2005,Houston Astros,21,0,3,0,0,0,12,.143,.143,.143,.286,hitter
+Brad Ausmus,2005,Houston Astros,387,35,100,3,47,51,48,.258,.351,.331,.682,hitter
+Brandon Backe,2005,Houston Astros,45,5,10,0,6,3,12,.222,.271,.356,.627,hitter
+Jeff Bagwell,2005,Houston Astros,100,11,25,3,19,18,21,.250,.358,.380,.738,hitter
+Lance Berkman,2005,Houston Astros,468,76,137,24,82,91,72,.293,.411,.524,.935,hitter
+Craig Biggio,2005,Houston Astros,590,94,156,26,69,37,90,.264,.325,.468,.793,hitter
+Eric Bruntlett,2005,Houston Astros,109,19,24,4,14,10,25,.220,.292,.413,.705,hitter
+Chris Burke,2005,Houston Astros,318,49,79,5,26,23,62,.248,.309,.368,.677,hitter
+Mike Burns,2005,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Raul Chavez,2005,Houston Astros,99,6,17,2,6,4,18,.172,.210,.263,.473,hitter
+Roger Clemens,2005,Houston Astros,58,2,12,0,4,5,18,.207,.281,.241,.522,hitter
+Travis Driskill,2005,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brandon Duckworth,2005,Houston Astros,3,1,2,0,0,0,0,.667,.667,1.000,1.667,hitter
+Morgan Ensberg,2005,Houston Astros,526,86,149,36,101,85,119,.283,.388,.557,.945,hitter
+Adam Everett,2005,Houston Astros,549,58,136,11,54,26,103,.248,.290,.364,.654,hitter
+John Franco,2005,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mike Gallo,2005,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Charles Gipson,2005,Houston Astros,11,2,2,0,1,1,3,.182,.250,.273,.523,hitter
+Chad Harville,2005,Houston Astros,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Charlton Jimerson,2005,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mike Lamb,2005,Houston Astros,322,41,76,12,53,22,65,.236,.284,.419,.703,hitter
+Jason Lane,2005,Houston Astros,517,65,138,26,78,32,105,.267,.316,.499,.815,hitter
+Brad Lidge,2005,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Roy Oswalt,2005,Houston Astros,73,1,13,0,2,2,19,.178,.211,.178,.389,hitter
+Orlando Palmeiro,2005,Houston Astros,204,22,58,3,20,15,23,.284,.341,.431,.772,hitter
+Andy Pettitte,2005,Houston Astros,62,1,5,0,3,1,19,.081,.094,.081,.175,hitter
+Chad Qualls,2005,Houston Astros,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Humberto Quintero,2005,Houston Astros,54,6,10,1,8,1,10,.185,.200,.259,.459,hitter
+Wandy Rodriguez,2005,Houston Astros,40,3,6,0,1,2,16,.150,.190,.150,.340,hitter
+Luke Scott,2005,Houston Astros,80,6,15,0,4,9,23,.188,.270,.288,.558,hitter
+Todd Self,2005,Houston Astros,45,7,9,1,4,3,9,.200,.250,.311,.561,hitter
+Russ Springer,2005,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Scott Strickland,2005,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Willy Taveras,2005,Houston Astros,592,82,172,3,29,25,103,.291,.325,.341,.666,hitter
+Jose Vizcaino,2005,Houston Astros,187,15,46,1,23,15,40,.246,.299,.337,.636,hitter
+Dan Wheeler,2005,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jeremy Affeldt,2005,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chip Ambres,2005,Kansas City Royals,145,25,35,4,9,16,32,.241,.323,.379,.702,hitter
+Jonah Bayliss,2005,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Angel Berroa,2005,Kansas City Royals,608,68,164,11,55,18,108,.270,.305,.375,.680,hitter
+Andrés Blanco,2005,Kansas City Royals,79,6,17,0,5,0,5,.215,.220,.241,.461,hitter
+Emil Brown,2005,Kansas City Royals,545,75,156,17,86,48,108,.286,.349,.455,.804,hitter
+John Buck,2005,Kansas City Royals,401,40,97,12,47,23,94,.242,.287,.389,.676,hitter
+Ambiorix Burgos,2005,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+D.J. Carrasco,2005,Kansas City Royals,7,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Alberto Castillo,2005,Kansas City Royals,100,13,21,1,14,12,21,.210,.292,.310,.602,hitter
+Shane Costa,2005,Kansas City Royals,81,13,19,2,7,5,11,.235,.287,.333,.620,hitter
+David DeJesus,2005,Kansas City Royals,461,69,135,9,56,42,76,.293,.359,.445,.804,hitter
+Matt Diaz,2005,Kansas City Royals,89,7,25,1,9,4,15,.281,.323,.404,.727,hitter
+Jimmy Gobble,2005,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ruben Gotay,2005,Kansas City Royals,282,32,64,5,29,22,51,.227,.288,.344,.632,hitter
+Tony Graffanino,2005,Kansas City Royals,191,29,57,3,18,22,28,.298,.377,.393,.770,hitter
+Zack Greinke,2005,Kansas City Royals,2,1,1,1,1,0,0,.500,.500,2.000,2.500,hitter
+Aaron Guiel,2005,Kansas City Royals,109,18,32,4,7,6,21,.294,.355,.450,.805,hitter
+Ken Harvey,2005,Kansas City Royals,45,4,10,1,5,3,13,.222,.271,.356,.627,hitter
+Runelvys Hernandez,2005,Kansas City Royals,5,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Denny Hocking,2005,Kansas City Royals,60,14,16,0,7,10,10,.267,.371,.283,.654,hitter
+J.P. Howell,2005,Kansas City Royals,3,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Justin Huber,2005,Kansas City Royals,78,6,17,0,6,5,20,.218,.271,.256,.527,hitter
+Ryan Jensen,2005,Kansas City Royals,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Jose Lima,2005,Kansas City Royals,3,0,1,0,0,0,2,.333,.333,.333,.666,hitter
+Terrence Long,2005,Kansas City Royals,455,62,127,6,53,30,56,.279,.321,.378,.699,hitter
+Mike MacDougal,2005,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Eli Marrero,2005,Kansas City Royals,88,11,14,4,9,7,18,.159,.222,.341,.563,hitter
+Joe McEwing,2005,Kansas City Royals,180,16,43,1,6,6,35,.239,.263,.294,.557,hitter
+Donnie Murphy,2005,Kansas City Royals,77,4,12,1,8,9,23,.156,.241,.260,.501,hitter
+Juan Carlos Oviedo,2005,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Paul Phillips,2005,Kansas City Royals,67,6,18,1,9,0,5,.269,.269,.403,.672,hitter
+Calvin Pickering,2005,Kansas City Royals,27,4,4,1,3,3,14,.148,.226,.259,.485,hitter
+Andrew Sisco,2005,Kansas City Royals,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Matt Stairs,2005,Kansas City Royals,396,55,109,13,66,60,69,.275,.373,.444,.817,hitter
+Steve Stemle,2005,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mike Sweeney,2005,Kansas City Royals,470,63,141,21,83,33,61,.300,.347,.517,.864,hitter
+Mark Teahen,2005,Kansas City Royals,447,60,110,7,55,40,107,.246,.309,.376,.685,hitter
+Mike Wood,2005,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Wilson Alvarez,2005,Los Angeles Dodgers,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Willy Aybar,2005,Los Angeles Dodgers,86,12,28,1,10,18,11,.326,.448,.453,.901,hitter
+Paul Bako,2005,Los Angeles Dodgers,40,1,10,0,4,7,12,.250,.362,.300,.662,hitter
+Milton Bradley,2005,Los Angeles Dodgers,283,49,82,13,38,25,47,.290,.350,.484,.834,hitter
+Yhency Brazoban,2005,Los Angeles Dodgers,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Jonathan Broxton,2005,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Buddy Carlyle,2005,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Giovanni Carrara,2005,Los Angeles Dodgers,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Chin-Feng Chen,2005,Los Angeles Dodgers,8,1,2,0,2,0,4,.250,.250,.250,.500,hitter
+Hee-Seop Choi,2005,Los Angeles Dodgers,320,40,81,15,42,34,80,.253,.336,.453,.789,hitter
+José Cruz Jr.,2005,Arizona Diamondbacks,202,23,43,12,28,42,54,.213,.347,.436,.783,hitter
+Elmer Dessens,2005,Los Angeles Dodgers,10,0,0,0,0,0,6,.000,.000,.000,.000,hitter
+J.D. Drew,2005,Los Angeles Dodgers,252,48,72,15,36,51,50,.286,.412,.520,.932,hitter
+Mike Edwards,2005,Los Angeles Dodgers,239,23,59,3,15,16,34,.247,.300,.339,.639,hitter
+Scott Erickson,2005,Los Angeles Dodgers,13,0,2,0,0,0,5,.154,.154,.154,.308,hitter
+Eric Gagne,2005,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jason Grabowski,2005,Los Angeles Dodgers,112,14,18,4,12,10,29,.161,.228,.268,.496,hitter
+D.J. Houlton,2005,Los Angeles Dodgers,30,1,3,0,1,3,18,.100,.182,.133,.315,hitter
+Cesar Izturis,2005,Los Angeles Dodgers,444,48,114,2,31,25,51,.257,.302,.322,.624,hitter
+Edwin Jackson,2005,Los Angeles Dodgers,10,0,2,0,1,1,2,.200,.273,.200,.473,hitter
+Jeff Kent,2005,Los Angeles Dodgers,553,100,160,29,105,72,85,.289,.377,.512,.889,hitter
+Hung-Chih Kuo,2005,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ricky Ledee,2005,Los Angeles Dodgers,237,31,66,7,39,20,55,.278,.335,.443,.778,hitter
+Derek Lowe,2005,Los Angeles Dodgers,65,3,10,0,4,2,17,.154,.179,.185,.364,hitter
+Brian Myrow,2005,Los Angeles Dodgers,20,2,4,0,0,5,8,.200,.360,.250,.610,hitter
+Norihiro Nakamura,2005,Los Angeles Dodgers,39,1,5,0,3,2,7,.128,.171,.179,.350,hitter
+Dioner Navarro,2005,Los Angeles Dodgers,176,21,48,3,14,20,21,.273,.354,.375,.729,hitter
+Franquelis Osoria,2005,Los Angeles Dodgers,3,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Brad Penny,2005,Los Angeles Dodgers,50,1,8,0,3,1,17,.160,.192,.220,.412,hitter
+Antonio Perez,2005,Los Angeles Dodgers,259,28,77,3,23,21,61,.297,.360,.398,.758,hitter
+Odalis Perez,2005,Los Angeles Dodgers,33,2,4,0,0,1,10,.121,.147,.121,.268,hitter
+Jason Phillips,2005,Los Angeles Dodgers,399,38,95,10,55,25,50,.238,.287,.363,.650,hitter
+Jason Repko,2005,Los Angeles Dodgers,276,43,61,8,30,16,80,.221,.281,.384,.665,hitter
+Oscar Robles,2005,Los Angeles Dodgers,364,44,99,5,34,31,33,.272,.332,.368,.700,hitter
+Mike Rose,2005,Los Angeles Dodgers,43,2,9,1,1,3,6,.209,.261,.326,.587,hitter
+Cody Ross,2005,Los Angeles Dodgers,25,1,4,0,1,1,10,.160,.192,.200,.392,hitter
+Olmedo Saenz,2005,Los Angeles Dodgers,319,39,84,15,63,27,63,.263,.325,.480,.805,hitter
+Duaner Sanchez,2005,Los Angeles Dodgers,4,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Steve Schmoll,2005,Los Angeles Dodgers,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Derek Thompson,2005,Los Angeles Dodgers,4,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Jose Valentin,2005,Los Angeles Dodgers,147,17,25,2,14,31,38,.170,.326,.265,.591,hitter
+Jeff Weaver,2005,Los Angeles Dodgers,70,6,16,0,7,2,19,.229,.250,.257,.507,hitter
+Jayson Werth,2005,Los Angeles Dodgers,337,46,79,7,43,48,114,.234,.338,.374,.712,hitter
+Kelly Wunsch,2005,Los Angeles Dodgers,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Tony Armas,2005,Washington Nationals,32,1,4,0,0,1,13,.125,.152,.125,.277,hitter
+Luis Ayala,2005,Washington Nationals,3,0,1,0,0,0,0,.333,.333,.333,.666,hitter
+Carlos Baerga,2005,Washington Nationals,158,18,40,2,19,7,17,.253,.318,.335,.653,hitter
+Gary Bennett,2005,Washington Nationals,199,11,44,1,21,21,37,.221,.298,.271,.569,hitter
+Jason Bergmann,2005,Washington Nationals,3,2,1,0,0,1,0,.333,.500,.333,.833,hitter
+Tony Blanco,2005,Washington Nationals,62,7,11,1,7,2,19,.177,.215,.274,.489,hitter
+Marlon Byrd,2005,Philadelphia Phillies,13,0,4,0,0,1,3,.308,.400,.308,.708,hitter
+Hector Carrasco,2005,Washington Nationals,8,1,0,0,0,0,7,.000,.000,.000,.000,hitter
+Jamey Carroll,2005,Washington Nationals,303,44,76,0,22,34,55,.251,.333,.284,.617,hitter
+Vinny Castilla,2005,Washington Nationals,494,53,125,12,66,43,82,.253,.319,.403,.722,hitter
+Matt Cepicky,2005,Washington Nationals,25,1,6,0,3,1,8,.240,.269,.360,.629,hitter
+Endy Chavez,2005,Washington Nationals,9,2,2,0,1,3,1,.222,.417,.333,.750,hitter
+Ryan Church,2005,Washington Nationals,268,41,77,9,42,24,70,.287,.353,.466,.819,hitter
+Chad Cordero,2005,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Wil Cordero,2005,Washington Nationals,51,2,6,0,2,3,14,.118,.161,.157,.318,hitter
+Deivi Cruz,2005,San Francisco Giants,209,26,56,5,19,10,31,.268,.301,.397,.698,hitter
+J.J. Davis,2005,Washington Nationals,26,0,6,0,2,2,7,.231,.286,.231,.517,hitter
+Zach Day,2005,Washington Nationals,8,0,1,0,0,0,3,.125,.125,.125,.250,hitter
+Ryan Drese,2005,Texas Rangers,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Joey Eischen,2005,Washington Nationals,3,0,1,0,0,0,2,.333,.333,.333,.666,hitter
+Tyrell Godwin,2005,Washington Nationals,3,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Jose Guillen,2005,Washington Nationals,551,81,156,24,76,31,102,.283,.338,.479,.817,hitter
+Cristian Guzman,2005,Washington Nationals,456,39,100,4,31,25,76,.219,.260,.314,.574,hitter
+John Halama,2005,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jeffrey Hammonds,2005,Washington Nationals,32,3,7,0,1,2,4,.219,.286,.250,.536,hitter
+Brendan Harris,2005,Washington Nationals,9,1,3,1,3,0,0,.333,.400,.778,1.178,hitter
+Livan Hernandez,2005,Washington Nationals,82,7,20,2,7,0,8,.244,.253,.366,.619,hitter
+Joe Horgan,2005,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Travis Hughes,2005,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Nick Johnson,2005,Washington Nationals,453,66,131,15,74,80,87,.289,.408,.479,.887,hitter
+Kenny Kelly,2005,Cincinnati Reds,9,2,3,0,2,0,3,.333,.333,.333,.666,hitter
+Sun-Woo Kim,2005,Washington Nationals,4,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Esteban Loaiza,2005,Washington Nationals,74,3,12,0,4,0,23,.162,.162,.189,.351,hitter
+Gary Majewski,2005,Washington Nationals,6,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Henry Mateo,2005,Washington Nationals,1,0,0,0,0,1,0,.000,.500,.000,.500,hitter
+C.J. Nitkowski,2005,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tomo Ohka,2005,Washington Nationals,16,1,4,0,0,0,5,.250,.250,.250,.500,hitter
+Keith Osik,2005,Washington Nationals,4,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Antonio Osuna,2005,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+John Patterson,2005,Washington Nationals,59,2,6,0,0,0,23,.102,.117,.153,.270,hitter
+Darrell Rasner,2005,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jon Rauch,2005,Washington Nationals,7,1,1,0,1,0,5,.143,.143,.143,.286,hitter
+Brian Schneider,2005,Washington Nationals,369,38,99,10,44,29,48,.268,.330,.409,.739,hitter
+Rick Short,2005,Washington Nationals,15,4,6,2,4,1,1,.400,.471,.933,1.404,hitter
+Terrmel Sledge,2005,Washington Nationals,37,7,9,1,8,7,8,.243,.348,.378,.726,hitter
+Junior Spivey,2005,Milwaukee Brewers,182,22,43,5,17,18,57,.236,.308,.374,.682,hitter
+Mike Stanton,2005,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+T.J. Tucker,2005,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Claudio Vargas,2005,Washington Nationals,2,0,1,0,0,0,0,.500,.500,.500,1.000,hitter
+Jose Vidro,2005,Washington Nationals,309,38,85,7,32,31,30,.275,.339,.424,.763,hitter
+Brandon Watson,2005,Washington Nationals,40,8,7,1,5,4,8,.175,.250,.325,.575,hitter
+Matt White,2005,Washington Nationals,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brad Wilkerson,2005,Washington Nationals,565,76,140,11,57,84,147,.248,.351,.405,.756,hitter
+Preston Wilson,2005,Colorado Rockies,267,39,69,15,47,25,77,.258,.322,.491,.813,hitter
+Ryan Zimmerman,2005,Washington Nationals,58,6,23,0,6,3,12,.397,.419,.569,.988,hitter
+Marlon Anderson,2005,New York Mets,235,31,62,7,19,18,45,.264,.316,.391,.707,hitter
+Manny Aybar,2005,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Heath Bell,2005,New York Mets,3,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Carlos Beltrán,2005,New York Mets,582,83,155,16,78,56,96,.266,.330,.414,.744,hitter
+Kris Benson,2005,New York Mets,49,4,9,0,6,5,22,.184,.273,.204,.477,hitter
+Miguel Cairo,2005,New York Mets,327,31,82,2,19,19,31,.251,.296,.324,.620,hitter
+Mike Cameron,2005,New York Mets,308,47,84,12,39,29,85,.273,.342,.477,.819,hitter
+Ramon Castro,2005,New York Mets,209,26,51,8,41,25,58,.244,.321,.435,.756,hitter
+Brian Daubach,2005,New York Mets,25,4,3,1,3,7,5,.120,.324,.320,.644,hitter
+Mike DeJean,2005,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mike DiFelice,2005,New York Mets,17,0,2,0,0,2,5,.118,.211,.118,.329,hitter
+Victor Diaz,2005,New York Mets,280,41,72,12,38,30,82,.257,.329,.468,.797,hitter
+Cliff Floyd,2005,New York Mets,550,85,150,34,98,63,98,.273,.358,.505,.863,hitter
+Tom Glavine,2005,New York Mets,64,2,13,0,3,2,13,.203,.227,.203,.430,hitter
+Danny Graves,2005,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tim Hamulack,2005,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Aaron Heilman,2005,New York Mets,14,0,0,0,0,1,7,.000,.067,.000,.067,hitter
+Felix Heredia,2005,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Anderson Hernandez,2005,New York Mets,18,1,1,0,0,1,4,.056,.105,.056,.161,hitter
+Roberto Hernandez,2005,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kaz Ishii,2005,New York Mets,25,1,5,0,2,1,12,.200,.231,.200,.431,hitter
+Mike Jacobs,2005,New York Mets,100,19,31,11,23,10,22,.310,.375,.710,1.085,hitter
+Dae-Sung Koo,2005,New York Mets,2,1,1,0,0,0,1,.500,.500,1.000,1.500,hitter
+Braden Looper,2005,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Pedro Martinez,2005,New York Mets,69,2,6,0,1,1,26,.087,.100,.087,.187,hitter
+Kazuo Matsui,2005,New York Mets,267,31,68,3,24,14,43,.255,.300,.352,.652,hitter
+Mike Matthews,2005,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Doug Mientkiewicz,2005,New York Mets,275,36,66,11,29,32,39,.240,.322,.407,.729,hitter
+Jose Offerman,2005,Philadelphia Phillies,33,6,6,1,3,5,6,.182,.289,.364,.653,hitter
+Juan Padilla,2005,New York Mets,2,0,1,0,0,0,1,.500,.500,.500,1.000,hitter
+Mike Piazza,2005,New York Mets,398,41,100,19,62,41,67,.251,.326,.452,.778,hitter
+José Reyes,2005,New York Mets,696,99,190,7,58,27,78,.273,.300,.386,.686,hitter
+Royce Ring,2005,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jose Santiago,2005,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jae Weong Seo,2005,New York Mets,29,2,3,0,4,3,11,.103,.188,.138,.326,hitter
+Shingo Takatsu,2005,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Steve Trachsel,2005,New York Mets,15,0,1,0,0,0,7,.067,.067,.067,.134,hitter
+Eric Valent,2005,New York Mets,43,4,8,0,1,7,17,.186,.300,.256,.556,hitter
+Gerald Williams,2005,New York Mets,30,9,7,1,3,1,7,.233,.258,.400,.658,hitter
+Chris Woodward,2005,New York Mets,173,16,49,3,18,13,46,.283,.337,.393,.730,hitter
+David Wright,2005,New York Mets,575,99,176,27,102,72,113,.306,.388,.523,.911,hitter
+Victor Zambrano,2005,New York Mets,53,2,7,0,2,0,22,.132,.132,.170,.302,hitter

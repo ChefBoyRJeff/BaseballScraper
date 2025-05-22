@@ -1,781 +1,779 @@
-team,name,position,jersey,height,weight,age
-"Arizona Diamondbacks","Jalen Beeks","Relief Pitcher","68","5' 11"","215 lbs","31"
-"Arizona Diamondbacks","Corbin Burnes","Starting Pitcher","39","6' 3"","245 lbs","30"
-"Arizona Diamondbacks","Zac Gallen","Starting Pitcher","23","6' 2"","189 lbs","29"
-"Arizona Diamondbacks","Kevin Ginkel","Relief Pitcher","37","6' 4"","235 lbs","31"
-"Arizona Diamondbacks","Kendall Graveman","Relief Pitcher","49","6' 2"","215 lbs","34"
-"Arizona Diamondbacks","Merrill Kelly","Starting Pitcher","29","6' 2"","202 lbs","36"
-"Arizona Diamondbacks","Scott McGough","Relief Pitcher","30","5' 11"","190 lbs","35"
-"Arizona Diamondbacks","Shelby Miller","Relief Pitcher","18","6' 3"","225 lbs","34"
-"Arizona Diamondbacks","Christian Montes De Oca","Relief Pitcher","59","6' 4"","230 lbs","25"
-"Arizona Diamondbacks","Juan Morillo","Relief Pitcher","67","6' 1"","150 lbs","26"
-"Arizona Diamondbacks","Ryne Nelson","Relief Pitcher","19","6' 3"","184 lbs","27"
-"Arizona Diamondbacks","Brandon Pfaadt","Starting Pitcher","32","6' 4"","220 lbs","26"
-"Arizona Diamondbacks","Ryan Thompson","Relief Pitcher","81","6' 5"","210 lbs","32"
-"Arizona Diamondbacks","Jose Herrera","Catcher","11","5' 9"","217 lbs","28"
-"Arizona Diamondbacks","Gabriel Moreno","Catcher","14","5' 9"","195 lbs","25"
-"Arizona Diamondbacks","Jordan Lawlar","Shortstop","10","6' 0"","190 lbs","22"
-"Arizona Diamondbacks","Ketel Marte","Second Base","4","6' 0"","210 lbs","31"
-"Arizona Diamondbacks","Josh Naylor","First Base","22","5' 10"","235 lbs","27"
-"Arizona Diamondbacks","Geraldo Perdomo","Shortstop","2","6' 2"","203 lbs","25"
-"Arizona Diamondbacks","Pavin Smith","First Base","26","6' 2"","208 lbs","29"
-"Arizona Diamondbacks","Eugenio Suarez","Third Base","28","5' 11"","213 lbs","33"
-"Arizona Diamondbacks","Tim Tawa","Second Base","13","5' 11"","196 lbs","26"
-"Arizona Diamondbacks","Corbin Carroll","Right Field","7","5' 10"","165 lbs","24"
-"Arizona Diamondbacks","Randal Grichuk","Right Field","15","6' 0"","216 lbs","33"
-"Arizona Diamondbacks","Lourdes Gurriel Jr.","Left Field","12","6' 3"","215 lbs","31"
-"Arizona Diamondbacks","Alek Thomas","Center Field","5","5' 9"","175 lbs","25"
-"Athletics","Tyler Ferguson","Relief Pitcher","44","6' 4"","225 lbs","31"
-"Athletics","Hogan Harris","Relief Pitcher","36","6' 3"","230 lbs","28"
-"Athletics","Gunnar Hoglund","Starting Pitcher","53","6' 4"","220 lbs","25"
-"Athletics","Grant Holman","Relief Pitcher","67","6' 6"","250 lbs","24"
-"Athletics","Matt Krook","Relief Pitcher","62","6' 4"","225 lbs","30"
-"Athletics","Anthony Maldonado","Relief Pitcher","56","6' 4"","220 lbs","27"
-"Athletics","Mason Miller","Relief Pitcher","19","6' 5"","200 lbs","26"
-"Athletics","Michel Otanez","Relief Pitcher","47","6' 4"","218 lbs","27"
-"Athletics","JP Sears","Starting Pitcher","38","5' 11"","180 lbs","29"
-"Athletics","Luis Severino","Starting Pitcher","40","6' 2"","218 lbs","31"
-"Athletics","Mitch Spence","Relief Pitcher","28","6' 1"","185 lbs","27"
-"Athletics","Jeffrey Springs","Starting Pitcher","59","6' 3"","218 lbs","32"
-"Athletics","Justin Sterner","Relief Pitcher","60","6' 1"","215 lbs","28"
-"Athletics","Shea Langeliers","Catcher","23","6' 0"","205 lbs","27"
-"Athletics","Jhonny Pereda","Catcher","64","6' 1"","202 lbs","29"
-"Athletics","Nick Kurtz","First Base","16","6' 5"","240 lbs","22"
-"Athletics","Max Schuemann","Third Base","12","6' 0"","186 lbs","27"
-"Athletics","Tyler Soderstrom","First Base","21","6' 2"","200 lbs","23"
-"Athletics","Luis Urias","Second Base","17","5' 9"","202 lbs","27"
-"Athletics","Gio Urshela","Third Base","13","6' 0"","215 lbs","33"
-"Athletics","Jacob Wilson","Shortstop","5","6' 2"","190 lbs","23"
-"Athletics","Miguel Andujar","Left Field","22","6' 0"","211 lbs","30"
-"Athletics","JJ Bleday","Center Field","33","6' 2"","205 lbs","27"
-"Athletics","Seth Brown","Left Field","15","6' 1"","223 lbs","32"
-"Athletics","Lawrence Butler","Right Field","4","6' 3"","210 lbs","24"
-"Athletics","Brent Rooker","Right Field","25","6' 3"","225 lbs","30"
-"Atlanta Braves","Scott Blewett","Relief Pitcher","63","6' 6"","245 lbs","29"
-"Atlanta Braves","Aaron Bummer","Relief Pitcher","49","6' 3"","215 lbs","31"
-"Atlanta Braves","Enyel De Los Santos","Relief Pitcher","61","6' 3"","235 lbs","29"
-"Atlanta Braves","Daysbel Hernandez","Relief Pitcher","62","5' 10"","220 lbs","28"
-"Atlanta Braves","Grant Holmes","Starting Pitcher","66","6' 0"","226 lbs","29"
-"Atlanta Braves","Raisel Iglesias","Relief Pitcher","26","6' 2"","190 lbs","35"
-"Atlanta Braves","Pierce Johnson","Relief Pitcher","38","6' 2"","202 lbs","34"
-"Atlanta Braves","Dylan Lee","Relief Pitcher","52","6' 3"","214 lbs","30"
-"Atlanta Braves","Rafael Montero","Relief Pitcher","48","6' 0"","193 lbs","34"
-"Atlanta Braves","Chris Sale","Starting Pitcher","51","6' 6"","180 lbs","36"
-"Atlanta Braves","Spencer Schwellenbach","Starting Pitcher","56","6' 1"","200 lbs","24"
-"Atlanta Braves","AJ Smith-Shawver","Starting Pitcher","32","6' 3"","205 lbs","22"
-"Atlanta Braves","Spencer Strider","Starting Pitcher","99","6' 0"","195 lbs","26"
-"Atlanta Braves","Drake Baldwin","Catcher","30","6' 1"","225 lbs","24"
-"Atlanta Braves","Sean Murphy","Catcher","12","6' 3"","228 lbs","30"
-"Atlanta Braves","Ozzie Albies","Second Base","1","5' 7"","165 lbs","28"
-"Atlanta Braves","Nick Allen","Shortstop","2","5' 8"","166 lbs","26"
-"Atlanta Braves","Orlando Arcia","Shortstop","11","5' 11"","187 lbs","30"
-"Atlanta Braves","Matt Olson","First Base","28","6' 4"","225 lbs","31"
-"Atlanta Braves","Austin Riley","Third Base","27","6' 2"","225 lbs","28"
-"Atlanta Braves","Luke Williams","Shortstop","37","6' 1"","186 lbs","28"
-"Atlanta Braves","Stuart Fairchild","Right Field","17","5' 11"","205 lbs","29"
-"Atlanta Braves","Michael Harris II","Center Field","23","6' 0"","195 lbs","24"
-"Atlanta Braves","Alex Verdugo","Left Field","8","6' 0"","209 lbs","29"
-"Atlanta Braves","Eli White","Right Field","36","6' 3"","195 lbs","30"
-"Atlanta Braves","Marcell Ozuna","Designated Hitter","20","6' 1"","225 lbs","34"
-"Baltimore Orioles","Keegan Akin","Relief Pitcher","45","6' 0"","240 lbs","30"
-"Baltimore Orioles","Bryan Baker","Relief Pitcher","43","6' 6"","235 lbs","30"
-"Baltimore Orioles","Felix Bautista","Relief Pitcher","74","6' 8"","285 lbs","29"
-"Baltimore Orioles","Yennier Cano","Relief Pitcher","78","6' 4"","245 lbs","31"
-"Baltimore Orioles","Seranthony Dominguez","Relief Pitcher","56","6' 1"","225 lbs","30"
-"Baltimore Orioles","Zach Eflin","Starting Pitcher","24","6' 6"","220 lbs","31"
-"Baltimore Orioles","Andrew Kittredge","Relief Pitcher","39","6' 1"","230 lbs","35"
-"Baltimore Orioles","Dean Kremer","Starting Pitcher","64","6' 2"","210 lbs","29"
-"Baltimore Orioles","Charlie Morton","Starting Pitcher","50","6' 5"","215 lbs","41"
-"Baltimore Orioles","Cionel Perez","Relief Pitcher","58","6' 0"","175 lbs","29"
-"Baltimore Orioles","Cade Povich","Starting Pitcher","37","6' 3"","185 lbs","25"
-"Baltimore Orioles","Gregory Soto","Relief Pitcher","65","6' 1"","234 lbs","30"
-"Baltimore Orioles","Tomoyuki Sugano","Starting Pitcher","19","6' 1"","198 lbs","35"
-"Baltimore Orioles","Maverick Handley","Catcher","98","5' 9"","210 lbs","27"
-"Baltimore Orioles","Adley Rutschman","Catcher","35","6' 2"","230 lbs","27"
-"Baltimore Orioles","Gunnar Henderson","Shortstop","2","6' 3"","220 lbs","23"
-"Baltimore Orioles","Jackson Holliday","Second Base","7","6' 0"","185 lbs","21"
-"Baltimore Orioles","Jorge Mateo","Shortstop","3","6' 1"","200 lbs","29"
-"Baltimore Orioles","Ryan Mountcastle","First Base","6","6' 3"","220 lbs","28"
-"Baltimore Orioles","Emmanuel Rivera","Third Base","26","6' 0"","225 lbs","28"
-"Baltimore Orioles","Ramon Urias","Third Base","29","5' 9"","185 lbs","30"
-"Baltimore Orioles","Dylan Carlson","Left Field","15","6' 2"","200 lbs","26"
-"Baltimore Orioles","Heston Kjerstad","Left Field","13","6' 2"","205 lbs","26"
-"Baltimore Orioles","Ramon Laureano","Left Field","12","5' 10"","203 lbs","30"
-"Baltimore Orioles","Cedric Mullins","Center Field","31","5' 8"","175 lbs","30"
-"Baltimore Orioles","Ryan O'Hearn","Right Field","32","6' 2"","220 lbs","31"
-"Boston Red Sox","Brayan Bello","Starting Pitcher","66","6' 1"","195 lbs","26"
-"Boston Red Sox","Brennan Bernardino","Relief Pitcher","83","6' 4"","180 lbs","33"
-"Boston Red Sox","Walker Buehler","Starting Pitcher","0","6' 2"","185 lbs","30"
-"Boston Red Sox","Aroldis Chapman","Relief Pitcher","44","6' 4"","235 lbs","37"
-"Boston Red Sox","Garrett Crochet","Starting Pitcher","35","6' 6"","245 lbs","25"
-"Boston Red Sox","Hunter Dobbins","Starting Pitcher","73","6' 2"","185 lbs","25"
-"Boston Red Sox","Lucas Giolito","Starting Pitcher","54","6' 6"","245 lbs","30"
-"Boston Red Sox","Liam Hendriks","Relief Pitcher","31","6' 0"","235 lbs","36"
-"Boston Red Sox","Sean Newcomb","Starting Pitcher","19","6' 5"","255 lbs","31"
-"Boston Red Sox","Justin Slaten","Relief Pitcher","63","6' 4"","222 lbs","27"
-"Boston Red Sox","Greg Weissert","Relief Pitcher","57","6' 2"","235 lbs","30"
-"Boston Red Sox","Garrett Whitlock","Relief Pitcher","22","6' 5"","222 lbs","28"
-"Boston Red Sox","Justin Wilson","Relief Pitcher","32","6' 2"","205 lbs","37"
-"Boston Red Sox","Carlos Narvaez","Catcher","75","6' 0"","190 lbs","26"
-"Boston Red Sox","Connor Wong","Catcher","12","5' 10"","190 lbs","29"
-"Boston Red Sox","Alex Bregman","Third Base","2","5' 11"","190 lbs","31"
-"Boston Red Sox","Kristian Campbell","Second Base","28","6' 3"","191 lbs","22"
-"Boston Red Sox","David Hamilton","Second Base","17","5' 11"","188 lbs","27"
-"Boston Red Sox","Nick Sogard","First Base","20","6' 1"","189 lbs","27"
-"Boston Red Sox","Trevor Story","Shortstop","10","6' 1"","209 lbs","32"
-"Boston Red Sox","Abraham Toro","First Base","29","6' 0"","223 lbs","28"
-"Boston Red Sox","Wilyer Abreu","Right Field","52","5' 10"","215 lbs","25"
-"Boston Red Sox","Jarren Duran","Left Field","16","6' 1"","205 lbs","28"
-"Boston Red Sox","Ceddanne Rafaela","Center Field","3","5' 10"","165 lbs","24"
-"Boston Red Sox","Rob Refsnyder","Right Field","30","6' 0"","215 lbs","34"
-"Boston Red Sox","Rafael Devers","Designated Hitter","11","6' 0"","235 lbs","28"
-"Chicago Cubs","Matthew Boyd","Starting Pitcher","16","6' 3"","223 lbs","34"
-"Chicago Cubs","Ben Brown","Starting Pitcher","32","6' 6"","210 lbs","25"
-"Chicago Cubs","Chris Flexen","Relief Pitcher","77","6' 3"","220 lbs","30"
-"Chicago Cubs","Cade Horton","Starting Pitcher","22","6' 1"","211 lbs","23"
-"Chicago Cubs","Brad Keller","Relief Pitcher","40","6' 5"","255 lbs","29"
-"Chicago Cubs","Julian Merryweather","Relief Pitcher","66","6' 4"","215 lbs","33"
-"Chicago Cubs","Daniel Palencia","Relief Pitcher","48","5' 11"","160 lbs","25"
-"Chicago Cubs","Drew Pomeranz","Relief Pitcher","45","6' 5"","246 lbs","36"
-"Chicago Cubs","Ryan Pressly","Relief Pitcher","55","6' 2"","207 lbs","36"
-"Chicago Cubs","Colin Rea","Starting Pitcher","53","6' 5"","220 lbs","34"
-"Chicago Cubs","Ethan Roberts","Relief Pitcher","39","5' 10"","180 lbs","27"
-"Chicago Cubs","Jameson Taillon","Starting Pitcher","50","6' 5"","230 lbs","33"
-"Chicago Cubs","Caleb Thielbar","Relief Pitcher","24","6' 0"","205 lbs","38"
-"Chicago Cubs","Miguel Amaya","Catcher","9","6' 1"","230 lbs","26"
-"Chicago Cubs","Carson Kelly","Catcher","15","6' 1"","212 lbs","30"
-"Chicago Cubs","Jon Berti","Third Base","5","5' 10"","190 lbs","35"
-"Chicago Cubs","Vidal Brujan","Third Base","17","5' 9"","180 lbs","27"
-"Chicago Cubs","Michael Busch","First Base","29","6' 0"","210 lbs","27"
-"Chicago Cubs","Nico Hoerner","Second Base","2","5' 11"","200 lbs","28"
-"Chicago Cubs","Matt Shaw","Second Base","6","5' 10"","185 lbs","23"
-"Chicago Cubs","Dansby Swanson","Shortstop","7","6' 0"","190 lbs","31"
-"Chicago Cubs","Justin Turner","First Base","3","5' 11"","208 lbs","40"
-"Chicago Cubs","Pete Crow-Armstrong","Center Field","4","6' 0"","184 lbs","23"
-"Chicago Cubs","Ian Happ","Left Field","8","5' 11"","205 lbs","30"
-"Chicago Cubs","Seiya Suzuki","Left Field","27","6' 0"","182 lbs","30"
-"Chicago Cubs","Kyle Tucker","Right Field","30","6' 4"","212 lbs","28"
-"Chicago White Sox","Cam Booser","Relief Pitcher","71","6' 3"","230 lbs","33"
-"Chicago White Sox","Sean Burke","Starting Pitcher","59","6' 6"","240 lbs","25"
-"Chicago White Sox","Jonathan Cannon","Starting Pitcher","48","6' 6"","225 lbs","24"
-"Chicago White Sox","Miguel Castro","Relief Pitcher","60","6' 7"","201 lbs","30"
-"Chicago White Sox","Brandon Eisert","Relief Pitcher","53","6' 2"","210 lbs","27"
-"Chicago White Sox","Adrian Houser","Relief Pitcher","47","6' 3"","242 lbs","32"
-"Chicago White Sox","Jordan Leasure","Relief Pitcher","49","6' 3"","220 lbs","26"
-"Chicago White Sox","Davis Martin","Starting Pitcher","65","6' 2"","215 lbs","28"
-"Chicago White Sox","Jared Shuster","Relief Pitcher","51","6' 3"","220 lbs","26"
-"Chicago White Sox","Shane Smith","Starting Pitcher","64","6' 3"","240 lbs","25"
-"Chicago White Sox","Mike Vasil","Relief Pitcher","61","6' 5"","225 lbs","25"
-"Chicago White Sox","Bryse Wilson","Relief Pitcher","46","6' 2"","255 lbs","27"
-"Chicago White Sox","Steven Wilson","Relief Pitcher","36","6' 4"","220 lbs","30"
-"Chicago White Sox","Edgar Quero","Catcher","7","5' 10"","205 lbs","22"
-"Chicago White Sox","Matt Thaiss","Catcher","29","5' 11"","215 lbs","30"
-"Chicago White Sox","Vinny Capra","Third Base","41","5' 8"","188 lbs","28"
-"Chicago White Sox","Timothy Elko","First Base","30","6' 3"","250 lbs","26"
-"Chicago White Sox","Chase Meidroth","Shortstop","10","5' 10"","190 lbs","23"
-"Chicago White Sox","Josh Rojas","Third Base","5","6' 1"","200 lbs","30"
-"Chicago White Sox","Lenyn Sosa","Second Base","50","5' 11"","210 lbs","25"
-"Chicago White Sox","Miguel Vargas","Third Base","20","6' 2"","225 lbs","25"
-"Chicago White Sox","Andrew Vaughn","First Base","25","5' 10"","215 lbs","27"
-"Chicago White Sox","Joshua Palacios","Right Field","47","6' 0"","210 lbs","29"
-"Chicago White Sox","Luis Robert Jr.","Center Field","88","6' 2"","225 lbs","27"
-"Chicago White Sox","Austin Slater","Right Field","15","6' 1"","205 lbs","32"
-"Chicago White Sox","Michael A. Taylor","Right Field","21","6' 4"","215 lbs","34"
-"Cincinnati Reds","Andrew Abbott","Starting Pitcher","41","6' 0"","192 lbs","25"
-"Cincinnati Reds","Graham Ashcraft","Relief Pitcher","23","6' 2"","248 lbs","27"
-"Cincinnati Reds","Scott Barlow","Relief Pitcher","58","6' 3"","210 lbs","32"
-"Cincinnati Reds","Ian Gibaut","Relief Pitcher","79","6' 3"","250 lbs","31"
-"Cincinnati Reds","Nick Lodolo","Starting Pitcher","40","6' 6"","216 lbs","27"
-"Cincinnati Reds","Nick Martinez","Starting Pitcher","28","6' 1"","200 lbs","34"
-"Cincinnati Reds","Luis Mey","Relief Pitcher","62","6' 5"","235 lbs","23"
-"Cincinnati Reds","Emilio Pagan","Relief Pitcher","15","6' 2"","208 lbs","34"
-"Cincinnati Reds","Taylor Rogers","Relief Pitcher","55","6' 3"","190 lbs","34"
-"Cincinnati Reds","Tony Santillan","Relief Pitcher","64","6' 3"","285 lbs","28"
-"Cincinnati Reds","Brady Singer","Starting Pitcher","51","6' 5"","215 lbs","28"
-"Cincinnati Reds","Brent Suter","Relief Pitcher","31","6' 4"","213 lbs","35"
-"Cincinnati Reds","Tyler Stephenson","Catcher","37","6' 3"","225 lbs","28"
-"Cincinnati Reds","Jose Trevino","Catcher","35","5' 9"","215 lbs","32"
-"Cincinnati Reds","Austin Wynns","Catcher","38","6' 1"","190 lbs","34"
-"Cincinnati Reds","Elly De La Cruz","Shortstop","44","6' 5"","200 lbs","23"
-"Cincinnati Reds","Santiago Espinal","Third Base","4","5' 10"","185 lbs","30"
-"Cincinnati Reds","Matt McLain","Second Base","9","5' 9"","180 lbs","25"
-"Cincinnati Reds","Spencer Steer","First Base","7","5' 9"","185 lbs","27"
-"Cincinnati Reds","Will Benson","Right Field","30","6' 4"","230 lbs","26"
-"Cincinnati Reds","TJ Friedl","Center Field","29","5' 8"","180 lbs","29"
-"Cincinnati Reds","Austin Hays","Left Field","12","5' 11"","200 lbs","29"
-"Cincinnati Reds","Rece Hinds","Right Field","57","6' 3"","215 lbs","24"
-"Cincinnati Reds","Connor Joe","Left Field","17","5' 11"","205 lbs","32"
-"Cincinnati Reds","Gavin Lux","Left Field","2","5' 11"","190 lbs","27"
-"Cleveland Guardians","Kolby Allard","Relief Pitcher","49","6' 1"","195 lbs","27"
-"Cleveland Guardians","Logan Allen","Starting Pitcher","26","6' 0"","190 lbs","26"
-"Cleveland Guardians","Tanner Bibee","Starting Pitcher","28","6' 2"","205 lbs","26"
-"Cleveland Guardians","Joey Cantillo","Relief Pitcher","54","6' 4"","225 lbs","25"
-"Cleveland Guardians","Slade Cecconi","Starting Pitcher","44","6' 4"","219 lbs","25"
-"Cleveland Guardians","Emmanuel Clase","Relief Pitcher","48","6' 2"","206 lbs","27"
-"Cleveland Guardians","Matt Festa","Relief Pitcher","52","6' 1"","195 lbs","32"
-"Cleveland Guardians","Hunter Gaddis","Relief Pitcher","33","6' 6"","260 lbs","27"
-"Cleveland Guardians","Tim Herrin","Relief Pitcher","29","6' 6"","230 lbs","28"
-"Cleveland Guardians","Jakob Junis","Relief Pitcher","16","6' 3"","238 lbs","32"
-"Cleveland Guardians","Luis Ortiz","Starting Pitcher","45","6' 2"","235 lbs","26"
-"Cleveland Guardians","Cade Smith","Relief Pitcher","36","6' 5"","230 lbs","26"
-"Cleveland Guardians","Gavin Williams","Starting Pitcher","32","6' 6"","250 lbs","25"
-"Cleveland Guardians","Austin Hedges","Catcher","27","6' 0"","220 lbs","32"
-"Cleveland Guardians","Bo Naylor","Catcher","23","6' 0"","205 lbs","25"
-"Cleveland Guardians","Gabriel Arias","Second Base","13","6' 1"","217 lbs","25"
-"Cleveland Guardians","Kyle Manzardo","First Base","9","6' 0"","205 lbs","24"
-"Cleveland Guardians","Jose Ramirez","Third Base","11","5' 8"","190 lbs","32"
-"Cleveland Guardians","Carlos Santana","First Base","41","5' 10"","210 lbs","39"
-"Cleveland Guardians","Daniel Schneemann","Second Base","10","5' 11"","185 lbs","28"
-"Cleveland Guardians","Will Wilson","Third Base","7","5' 10"","184 lbs","26"
-"Cleveland Guardians","Will Brennan","Right Field","17","5' 11"","200 lbs","27"
-"Cleveland Guardians","Nolan Jones","Right Field","22","6' 5"","195 lbs","27"
-"Cleveland Guardians","Steven Kwan","Left Field","38","5' 8"","170 lbs","27"
-"Cleveland Guardians","Angel Martinez","Center Field","1","5' 11"","200 lbs","23"
-"Cleveland Guardians","Jhonkensy Noel","Right Field","43","6' 3"","250 lbs","23"
-"Colorado Rockies","Zach Agnos","Relief Pitcher","36","6' 0"","210 lbs","24"
-"Colorado Rockies","Scott Alexander","Relief Pitcher","52","6' 2"","195 lbs","35"
-"Colorado Rockies","Jake Bird","Relief Pitcher","59","6' 3"","200 lbs","29"
-"Colorado Rockies","Angel Chivilli","Relief Pitcher","57","6' 2"","162 lbs","22"
-"Colorado Rockies","Chase Dollander","Starting Pitcher","32","6' 2"","200 lbs","23"
-"Colorado Rockies","Kyle Freeland","Starting Pitcher","21","6' 4"","204 lbs","32"
-"Colorado Rockies","Seth Halvorsen","Relief Pitcher","54","6' 2"","225 lbs","25"
-"Colorado Rockies","Jimmy Herget","Relief Pitcher","44","6' 3"","170 lbs","31"
-"Colorado Rockies","Tyler Kinley","Relief Pitcher","40","6' 4"","220 lbs","34"
-"Colorado Rockies","German Marquez","Starting Pitcher","48","6' 1"","230 lbs","30"
-"Colorado Rockies","Carson Palmquist","Starting Pitcher","45","6' 3"","185 lbs","24"
-"Colorado Rockies","Ryan Rolison","Relief Pitcher","50","6' 2"","213 lbs","27"
-"Colorado Rockies","Antonio Senzatela","Starting Pitcher","49","6' 1"","236 lbs","30"
-"Colorado Rockies","Hunter Goodman","Catcher","15","6' 0"","210 lbs","25"
-"Colorado Rockies","Jacob Stallings","Catcher","25","6' 5"","225 lbs","35"
-"Colorado Rockies","Adael Amador","Second Base","1","5' 11"","200 lbs","22"
-"Colorado Rockies","Kyle Farmer","Second Base","6","5' 11"","205 lbs","34"
-"Colorado Rockies","Tyler Freeman","Second Base","2","5' 11"","190 lbs","26"
-"Colorado Rockies","Ryan McMahon","Third Base","24","6' 2"","219 lbs","30"
-"Colorado Rockies","Aaron Schunk","Shortstop","30","6' 2"","205 lbs","27"
-"Colorado Rockies","Michael Toglia","First Base","4","6' 5"","226 lbs","26"
-"Colorado Rockies","Ezequiel Tovar","Shortstop","14","6' 0"","162 lbs","23"
-"Colorado Rockies","Jordan Beck","Left Field","27","6' 2"","225 lbs","24"
-"Colorado Rockies","Brenton Doyle","Center Field","9","6' 3"","220 lbs","27"
-"Colorado Rockies","Nick Martini","Right Field","35","5' 11"","205 lbs","34"
-"Colorado Rockies","Mickey Moniak","Right Field","22","6' 2"","195 lbs","27"
-"Detroit Tigers","John Brebbia","Relief Pitcher","49","6' 1"","205 lbs","34"
-"Detroit Tigers","Beau Brieske","Relief Pitcher","4","6' 3"","200 lbs","27"
-"Detroit Tigers","Jack Flaherty","Starting Pitcher","9","6' 4"","225 lbs","29"
-"Detroit Tigers","Sean Guenther","Relief Pitcher","73","5' 11"","194 lbs","29"
-"Detroit Tigers","Tyler Holton","Relief Pitcher","87","6' 2"","200 lbs","28"
-"Detroit Tigers","Brant Hurter","Relief Pitcher","48","6' 6"","250 lbs","26"
-"Detroit Tigers","Jackson Jobe","Starting Pitcher","21","6' 2"","190 lbs","22"
-"Detroit Tigers","Tommy Kahnle","Relief Pitcher","43","6' 1"","230 lbs","35"
-"Detroit Tigers","Chase Lee","Relief Pitcher","53","6' 0"","170 lbs","26"
-"Detroit Tigers","Keider Montero","Starting Pitcher","54","6' 1"","145 lbs","24"
-"Detroit Tigers","Tarik Skubal","Starting Pitcher","29","6' 3"","240 lbs","28"
-"Detroit Tigers","Will Vest","Relief Pitcher","19","6' 0"","180 lbs","29"
-"Detroit Tigers","Dillon Dingler","Catcher","13","6' 1"","210 lbs","26"
-"Detroit Tigers","Jake Rogers","Catcher","34","6' 0"","201 lbs","30"
-"Detroit Tigers","Andy Ibanez","Third Base","77","5' 10"","205 lbs","32"
-"Detroit Tigers","Colt Keith","Second Base","33","6' 2"","211 lbs","23"
-"Detroit Tigers","Trey Sweeney","Shortstop","27","6' 3"","212 lbs","25"
-"Detroit Tigers","Spencer Torkelson","First Base","20","6' 1"","220 lbs","25"
-"Detroit Tigers","Gleyber Torres","Second Base","25","5' 11"","205 lbs","28"
-"Detroit Tigers","Akil Baddoo","Left Field","60","5' 11"","214 lbs","26"
-"Detroit Tigers","Javier Baez","Center Field","28","5' 11"","190 lbs","32"
-"Detroit Tigers","Kerry Carpenter","Left Field","30","6' 1"","220 lbs","27"
-"Detroit Tigers","Riley Greene","Left Field","31","6' 2"","200 lbs","24"
-"Detroit Tigers","Justyn-Henry Malloy","Right Field","44","6' 1"","212 lbs","25"
-"Detroit Tigers","Zach McKinstry","Right Field","39","6' 0"","180 lbs","30"
-"Houston Astros","Bryan Abreu","Relief Pitcher","52","6' 1"","230 lbs","28"
-"Houston Astros","Ronel Blanco","Starting Pitcher","56","6' 3"","265 lbs","31"
-"Houston Astros","Hunter Brown","Starting Pitcher","58","6' 2"","220 lbs","26"
-"Houston Astros","Shawn Dubin","Relief Pitcher","66","6' 0"","164 lbs","29"
-"Houston Astros","Ryan Gusto","Starting Pitcher","67","6' 4"","232 lbs","26"
-"Houston Astros","Josh Hader","Relief Pitcher","71","6' 3"","188 lbs","31"
-"Houston Astros","Bryan King","Relief Pitcher","74","6' 1"","205 lbs","28"
-"Houston Astros","Lance McCullers Jr.","Starting Pitcher","43","6' 1"","200 lbs","31"
-"Houston Astros","Steven Okert","Relief Pitcher","48","6' 2"","202 lbs","33"
-"Houston Astros","Kaleb Ort","Relief Pitcher","63","6' 4"","248 lbs","33"
-"Houston Astros","Bennett Sousa","Relief Pitcher","62","6' 3"","220 lbs","30"
-"Houston Astros","Framber Valdez","Starting Pitcher","59","5' 11"","230 lbs","31"
-"Houston Astros","Forrest Whitley","Relief Pitcher","55","6' 7"","208 lbs","27"
-"Houston Astros","Victor Caratini","Catcher","17","6' 0"","225 lbs","31"
-"Houston Astros","Yainer Diaz","Catcher","21","5' 11"","195 lbs","26"
-"Houston Astros","Cesar Salazar","Catcher","18","5' 9"","198 lbs","29"
-"Houston Astros","Mauricio Dubon","Second Base","14","6' 0"","173 lbs","30"
-"Houston Astros","Isaac Paredes","Third Base","15","5' 11"","213 lbs","26"
-"Houston Astros","Jeremy Pena","Shortstop","3","6' 1"","202 lbs","27"
-"Houston Astros","Brendan Rodgers","Second Base","1","6' 0"","204 lbs","28"
-"Houston Astros","Christian Walker","First Base","8","5' 11"","208 lbs","34"
-"Houston Astros","Jose Altuve","Left Field","27","5' 6"","167 lbs","35"
-"Houston Astros","Zach Dezenzo","Left Field","9","6' 5"","220 lbs","25"
-"Houston Astros","Chas McCormick","Center Field","20","6' 0"","208 lbs","30"
-"Houston Astros","Jake Meyers","Center Field","6","6' 0"","200 lbs","28"
-"Houston Astros","Cam Smith","Right Field","11","6' 3"","224 lbs","22"
-"Kansas City Royals","Jonathan Bowlan","Starting Pitcher","62","6' 6"","240 lbs","28"
-"Kansas City Royals","Kris Bubic","Starting Pitcher","50","6' 3"","225 lbs","27"
-"Kansas City Royals","Noah Cameron","Starting Pitcher","65","6' 3"","220 lbs","25"
-"Kansas City Royals","Taylor Clarke","Relief Pitcher","45","6' 4"","210 lbs","32"
-"Kansas City Royals","Steven Cruz","Relief Pitcher","64","6' 7"","225 lbs","25"
-"Kansas City Royals","Lucas Erceg","Relief Pitcher","60","6' 2"","214 lbs","30"
-"Kansas City Royals","Carlos Estevez","Relief Pitcher","53","6' 6"","277 lbs","32"
-"Kansas City Royals","Michael Lorenzen","Starting Pitcher","24","6' 3"","217 lbs","33"
-"Kansas City Royals","Daniel Lynch IV","Relief Pitcher","41","6' 6"","200 lbs","28"
-"Kansas City Royals","John Schreiber","Relief Pitcher","46","6' 2"","224 lbs","31"
-"Kansas City Royals","Evan Sisk","Relief Pitcher","47","6' 2"","209 lbs","28"
-"Kansas City Royals","Michael Wacha","Starting Pitcher","52","6' 6"","215 lbs","33"
-"Kansas City Royals","Angel Zerpa","Relief Pitcher","61","6' 0"","220 lbs","25"
-"Kansas City Royals","Freddy Fermin","Catcher","34","5' 10"","200 lbs","30"
-"Kansas City Royals","Salvador Perez","Catcher","13","6' 3"","255 lbs","35"
-"Kansas City Royals","Cavan Biggio","First Base","18","6' 1"","200 lbs","30"
-"Kansas City Royals","Maikel Garcia","Third Base","11","6' 1"","180 lbs","25"
-"Kansas City Royals","Jonathan India","Third Base","6","5' 11"","200 lbs","28"
-"Kansas City Royals","Michael Massey","Second Base","19","6' 0"","195 lbs","27"
-"Kansas City Royals","Vinnie Pasquantino","First Base","9","6' 3"","245 lbs","27"
-"Kansas City Royals","Bobby Witt Jr.","Shortstop","7","6' 1"","200 lbs","24"
-"Kansas City Royals","Dairon Blanco","Left Field","44","6' 0"","200 lbs","32"
-"Kansas City Royals","Mark Canha","Left Field","21","6' 2"","200 lbs","36"
-"Kansas City Royals","Kyle Isbel","Center Field","28","5' 10"","190 lbs","28"
-"Kansas City Royals","Hunter Renfroe","Right Field","16","6' 1"","230 lbs","33"
-"Kansas City Royals","Drew Waters","Left Field","8","6' 1"","185 lbs","26"
-"Los Angeles Angels","Shaun Anderson","Relief Pitcher","64","6' 6"","228 lbs","30"
-"Los Angeles Angels","Tyler Anderson","Starting Pitcher","31","6' 2"","220 lbs","35"
-"Los Angeles Angels","Connor Brogdon","Relief Pitcher","75","6' 6"","205 lbs","30"
-"Los Angeles Angels","Brock Burke","Relief Pitcher","46","6' 4"","210 lbs","28"
-"Los Angeles Angels","Reid Detmers","Relief Pitcher","48","6' 2"","210 lbs","25"
-"Los Angeles Angels","Kyle Hendricks","Starting Pitcher","28","6' 3"","190 lbs","35"
-"Los Angeles Angels","Kenley Jansen","Relief Pitcher","74","6' 5"","265 lbs","37"
-"Los Angeles Angels","Yusei Kikuchi","Starting Pitcher","16","6' 0"","210 lbs","33"
-"Los Angeles Angels","Jack Kochanowicz","Starting Pitcher","41","6' 7"","228 lbs","24"
-"Los Angeles Angels","Hector Neris","Relief Pitcher","54","6' 2"","227 lbs","35"
-"Los Angeles Angels","Jose Soriano","Starting Pitcher","59","6' 3"","220 lbs","26"
-"Los Angeles Angels","Hunter Strickland","Relief Pitcher","60","6' 3"","225 lbs","36"
-"Los Angeles Angels","Ryan Zeferjahn","Relief Pitcher","56","6' 5"","209 lbs","27"
-"Los Angeles Angels","Travis d'Arnaud","Catcher","25","6' 0"","210 lbs","36"
-"Los Angeles Angels","Logan O'Hoppe","Catcher","14","6' 2"","185 lbs","25"
-"Los Angeles Angels","Tim Anderson","Shortstop","77","6' 0"","185 lbs","31"
-"Los Angeles Angels","Yoan Moncada","Third Base","5","6' 0"","220 lbs","29"
-"Los Angeles Angels","Zach Neto","Shortstop","9","5' 11"","185 lbs","24"
-"Los Angeles Angels","Kevin Newman","Shortstop","10","6' 1"","195 lbs","31"
-"Los Angeles Angels","Kyren Paris","Second Base","19","5' 11"","180 lbs","23"
-"Los Angeles Angels","Luis Rengifo","Third Base","2","5' 10"","195 lbs","28"
-"Los Angeles Angels","Nolan Schanuel","First Base","18","6' 2"","220 lbs","23"
-"Los Angeles Angels","Jo Adell","Center Field","7","6' 2"","215 lbs","26"
-"Los Angeles Angels","Matthew Lugo","Left Field","15","6' 0"","190 lbs","24"
-"Los Angeles Angels","Jorge Soler","Right Field","12","6' 4"","235 lbs","33"
-"Los Angeles Angels","Taylor Ward","Left Field","3","6' 0"","200 lbs","31"
-"Los Angeles Dodgers","Anthony Banda","Relief Pitcher","43","6' 2"","221 lbs","31"
-"Los Angeles Dodgers","Ben Casparius","Relief Pitcher","78","6' 2"","215 lbs","26"
-"Los Angeles Dodgers","Jack Dreyer","Relief Pitcher","86","6' 2"","205 lbs","26"
-"Los Angeles Dodgers","Luis Garcia","Relief Pitcher","57","6' 2"","240 lbs","38"
-"Los Angeles Dodgers","Tony Gonsolin","Starting Pitcher","26","6' 3"","205 lbs","31"
-"Los Angeles Dodgers","Clayton Kershaw","Starting Pitcher","22","6' 4"","225 lbs","37"
-"Los Angeles Dodgers","Landon Knack","Starting Pitcher","96","6' 2"","220 lbs","27"
-"Los Angeles Dodgers","Dustin May","Starting Pitcher","85","6' 6"","180 lbs","27"
-"Los Angeles Dodgers","Matt Sauer","Relief Pitcher","64","6' 4"","230 lbs","26"
-"Los Angeles Dodgers","Tanner Scott","Relief Pitcher","66","6' 0"","235 lbs","30"
-"Los Angeles Dodgers","Lou Trivino","Relief Pitcher","58","6' 5"","232 lbs","33"
-"Los Angeles Dodgers","Alex Vesia","Relief Pitcher","51","6' 1"","209 lbs","29"
-"Los Angeles Dodgers","Yoshinobu Yamamoto","Starting Pitcher","18","5' 10"","176 lbs","26"
-"Los Angeles Dodgers","Dalton Rushing","Catcher","68","5' 11"","220 lbs","24"
-"Los Angeles Dodgers","Will Smith","Catcher","16","5' 10"","195 lbs","30"
-"Los Angeles Dodgers","Mookie Betts","Shortstop","50","5' 10"","180 lbs","32"
-"Los Angeles Dodgers","Tommy Edman","Second Base","25","5' 9"","193 lbs","30"
-"Los Angeles Dodgers","Freddie Freeman","First Base","5","6' 4"","220 lbs","35"
-"Los Angeles Dodgers","Enrique Hernandez","First Base","8","5' 10"","195 lbs","33"
-"Los Angeles Dodgers","Hyeseong Kim","Second Base","6","5' 10"","175 lbs","26"
-"Los Angeles Dodgers","Max Muncy","Third Base","13","5' 10"","215 lbs","34"
-"Los Angeles Dodgers","Miguel Rojas","Second Base","72","5' 11"","188 lbs","36"
-"Los Angeles Dodgers","Michael Conforto","Left Field","23","5' 11"","215 lbs","32"
-"Los Angeles Dodgers","Teoscar Hernandez","Right Field","37","6' 0"","215 lbs","32"
-"Los Angeles Dodgers","Andy Pages","Center Field","44","6' 1"","212 lbs","24"
-"Los Angeles Dodgers","Shohei Ohtani","Designated Hitter","17","6' 3"","210 lbs","30"
-"Miami Marlins","Sandy Alcantara","Starting Pitcher","22","6' 5"","200 lbs","29"
-"Miami Marlins","Lake Bachar","Relief Pitcher","84","6' 2"","219 lbs","29"
-"Miami Marlins","Valente Bellozo","Starting Pitcher","83","5' 10"","208 lbs","25"
-"Miami Marlins","Anthony Bender","Relief Pitcher","37","6' 4"","205 lbs","30"
-"Miami Marlins","Edward Cabrera","Starting Pitcher","27","6' 5"","217 lbs","27"
-"Miami Marlins","Calvin Faucher","Relief Pitcher","53","6' 1"","190 lbs","29"
-"Miami Marlins","Cade Gibson","Relief Pitcher","58","6' 2"","195 lbs","27"
-"Miami Marlins","Ronny Henriquez","Relief Pitcher","32","5' 10"","155 lbs","24"
-"Miami Marlins","Max Meyer","Starting Pitcher","23","6' 0"","196 lbs","26"
-"Miami Marlins","Tyler Phillips","Relief Pitcher","30","6' 5"","225 lbs","27"
-"Miami Marlins","Cal Quantrill","Starting Pitcher","47","6' 3"","195 lbs","30"
-"Miami Marlins","Jesus Tinoco","Relief Pitcher","38","6' 4"","258 lbs","30"
-"Miami Marlins","Ryan Weathers","Starting Pitcher","35","6' 1"","230 lbs","25"
-"Miami Marlins","Nick Fortes","Catcher","4","5' 11"","198 lbs","28"
-"Miami Marlins","Liam Hicks","Catcher","34","5' 9"","185 lbs","25"
-"Miami Marlins","Agustin Ramirez","Catcher","50","6' 1"","210 lbs","23"
-"Miami Marlins","Otto Lopez","Second Base","6","5' 10"","185 lbs","26"
-"Miami Marlins","Matt Mervis","First Base","36","6' 2"","225 lbs","27"
-"Miami Marlins","Connor Norby","Third Base","1","5' 10"","180 lbs","24"
-"Miami Marlins","Graham Pauley","Third Base","21","6' 1"","200 lbs","24"
-"Miami Marlins","Javier Sanoja","Second Base","46","5' 7"","150 lbs","22"
-"Miami Marlins","Eric Wagaman","First Base","33","6' 4"","210 lbs","27"
-"Miami Marlins","Derek Hill","Center Field","3","6' 0"","206 lbs","29"
-"Miami Marlins","Jesus Sanchez","Right Field","7","6' 4"","222 lbs","27"
-"Miami Marlins","Ronny Simon","Left Field","41","5' 8"","150 lbs","25"
-"Miami Marlins","Kyle Stowers","Right Field","28","6' 2"","215 lbs","27"
-"Milwaukee Brewers","Tyler Alexander","Relief Pitcher","33","6' 1"","214 lbs","30"
-"Milwaukee Brewers","Grant Anderson","Relief Pitcher","56","6' 0"","204 lbs","27"
-"Milwaukee Brewers","Logan Henderson","Starting Pitcher","43","6' 0"","209 lbs","23"
-"Milwaukee Brewers","Jared Koenig","Relief Pitcher","47","6' 5"","248 lbs","31"
-"Milwaukee Brewers","Easton McGee","Starting Pitcher","50","6' 7"","217 lbs","27"
-"Milwaukee Brewers","Nick Mears","Relief Pitcher","25","6' 3"","217 lbs","28"
-"Milwaukee Brewers","Trevor Megill","Relief Pitcher","29","6' 8"","249 lbs","31"
-"Milwaukee Brewers","Chad Patrick","Starting Pitcher","39","6' 1"","217 lbs","26"
-"Milwaukee Brewers","Joel Payamps","Relief Pitcher","31","6' 3"","214 lbs","31"
-"Milwaukee Brewers","Freddy Peralta","Starting Pitcher","51","6' 0"","198 lbs","28"
-"Milwaukee Brewers","Quinn Priester","Starting Pitcher","46","6' 3"","210 lbs","24"
-"Milwaukee Brewers","Abner Uribe","Relief Pitcher","45","6' 3"","210 lbs","24"
-"Milwaukee Brewers","Rob Zastryzny","Relief Pitcher","58","6' 3"","205 lbs","33"
-"Milwaukee Brewers","William Contreras","Catcher","24","5' 10"","218 lbs","27"
-"Milwaukee Brewers","Eric Haase","Catcher","13","5' 10"","204 lbs","32"
-"Milwaukee Brewers","Jake Bauers","First Base","9","6' 0"","203 lbs","29"
-"Milwaukee Brewers","Caleb Durbin","Third Base","21","5' 7"","183 lbs","25"
-"Milwaukee Brewers","Rhys Hoskins","First Base","12","6' 3"","241 lbs","32"
-"Milwaukee Brewers","Andruw Monasterio","Shortstop","14","5' 11"","195 lbs","27"
-"Milwaukee Brewers","Joey Ortiz","Shortstop","3","5' 10"","183 lbs","26"
-"Milwaukee Brewers","Brice Turang","Second Base","2","5' 11"","190 lbs","25"
-"Milwaukee Brewers","Daz Cameron","Right Field","20","6' 0"","185 lbs","28"
-"Milwaukee Brewers","Jackson Chourio","Left Field","11","6' 0"","204 lbs","21"
-"Milwaukee Brewers","Isaac Collins","Left Field","6","5' 8"","188 lbs","27"
-"Milwaukee Brewers","Sal Frelick","Right Field","10","5' 8"","188 lbs","25"
-"Milwaukee Brewers","Christian Yelich","Left Field","22","6' 3"","203 lbs","33"
-"Minnesota Twins","Jorge Alcala","Relief Pitcher","66","6' 3"","205 lbs","29"
-"Minnesota Twins","Jhoan Duran","Relief Pitcher","59","6' 5"","230 lbs","27"
-"Minnesota Twins","Kody Funderburk","Relief Pitcher","55","6' 4"","230 lbs","28"
-"Minnesota Twins","Griffin Jax","Relief Pitcher","22","6' 2"","195 lbs","30"
-"Minnesota Twins","Pablo Lopez","Starting Pitcher","49","6' 4"","225 lbs","29"
-"Minnesota Twins","Zebby Matthews","Starting Pitcher","52","6' 5"","225 lbs","24"
-"Minnesota Twins","Bailey Ober","Starting Pitcher","17","6' 9"","260 lbs","29"
-"Minnesota Twins","Chris Paddack","Starting Pitcher","20","6' 5"","217 lbs","29"
-"Minnesota Twins","Joe Ryan","Starting Pitcher","41","6' 2"","205 lbs","28"
-"Minnesota Twins","Cole Sands","Relief Pitcher","44","6' 3"","215 lbs","27"
-"Minnesota Twins","Brock Stewart","Relief Pitcher","61","6' 3"","220 lbs","33"
-"Minnesota Twins","Justin Topa","Relief Pitcher","48","6' 4"","200 lbs","34"
-"Minnesota Twins","Louis Varland","Relief Pitcher","37","6' 1"","205 lbs","27"
-"Minnesota Twins","Ryan Jeffers","Catcher","27","6' 3"","235 lbs","27"
-"Minnesota Twins","Christian Vazquez","Catcher","8","5' 8"","205 lbs","34"
-"Minnesota Twins","Jonah Bride","Third Base","31","5' 11"","200 lbs","29"
-"Minnesota Twins","Willi Castro","Second Base","50","6' 0"","206 lbs","28"
-"Minnesota Twins","Kody Clemens","Second Base","18","6' 0"","200 lbs","29"
-"Minnesota Twins","Ryan Fitzgerald","Third Base","53","5' 10"","186 lbs","30"
-"Minnesota Twins","Ty France","First Base","13","5' 11"","215 lbs","30"
-"Minnesota Twins","Brooks Lee","Third Base","2","6' 1"","205 lbs","24"
-"Minnesota Twins","Royce Lewis","Third Base","23","6' 0"","200 lbs","25"
-"Minnesota Twins","Harrison Bader","Left Field","12","5' 11"","210 lbs","30"
-"Minnesota Twins","DaShawn Keirsey Jr.","Right Field","21","6' 0"","195 lbs","28"
-"Minnesota Twins","Trevor Larnach","Right Field","9","6' 3"","223 lbs","28"
-"Minnesota Twins","Carson McCusker","Left Field","60","6' 8"","250 lbs","27"
-"New York Mets","Huascar Brazoban","Relief Pitcher","43","6' 3"","155 lbs","35"
-"New York Mets","Jose Butto","Relief Pitcher","70","6' 1"","202 lbs","27"
-"New York Mets","Genesis Cabrera","Relief Pitcher","92","6' 2"","180 lbs","28"
-"New York Mets","Griffin Canning","Starting Pitcher","46","6' 2"","180 lbs","29"
-"New York Mets","Jose Castillo","Relief Pitcher","54","6' 6"","252 lbs","29"
-"New York Mets","Edwin Diaz","Relief Pitcher","39","6' 3"","165 lbs","31"
-"New York Mets","Reed Garrett","Relief Pitcher","75","6' 2"","195 lbs","32"
-"New York Mets","Clay Holmes","Starting Pitcher","35","6' 5"","245 lbs","32"
-"New York Mets","Max Kranick","Relief Pitcher","32","6' 3"","220 lbs","27"
-"New York Mets","Tylor Megill","Starting Pitcher","38","6' 7"","230 lbs","29"
-"New York Mets","David Peterson","Starting Pitcher","23","6' 6"","240 lbs","29"
-"New York Mets","Kodai Senga","Starting Pitcher","34","6' 1"","202 lbs","32"
-"New York Mets","Ryne Stanek","Relief Pitcher","55","6' 4"","226 lbs","33"
-"New York Mets","Francisco Alvarez","Catcher","4","5' 10"","233 lbs","23"
-"New York Mets","Luis Torrens","Catcher","13","5' 11"","217 lbs","29"
-"New York Mets","Luisangel Acuna","Second Base","2","5' 8"","181 lbs","23"
-"New York Mets","Pete Alonso","First Base","20","6' 3"","245 lbs","30"
-"New York Mets","Brett Baty","Second Base","7","6' 3"","210 lbs","25"
-"New York Mets","Francisco Lindor","Shortstop","12","5' 10"","190 lbs","31"
-"New York Mets","Jeff McNeil","Second Base","1","6' 0"","195 lbs","33"
-"New York Mets","Mark Vientos","Third Base","27","6' 3"","185 lbs","25"
-"New York Mets","Jose Azocar","Left Field","28","5' 11"","181 lbs","29"
-"New York Mets","Starling Marte","Right Field","6","6' 0"","195 lbs","36"
-"New York Mets","Brandon Nimmo","Left Field","9","6' 2"","206 lbs","32"
-"New York Mets","Juan Soto","Right Field","22","6' 1"","224 lbs","26"
-"New York Mets","Tyrone Taylor","Center Field","15","6' 1"","218 lbs","31"
-"New York Yankees","Yerry De los Santos","Relief Pitcher","73","6' 2"","210 lbs","27"
-"New York Yankees","Max Fried","Starting Pitcher","54","6' 4"","190 lbs","31"
-"New York Yankees","Ian Hamilton","Relief Pitcher","71","6' 1"","200 lbs","29"
-"New York Yankees","Brent Headrick","Relief Pitcher","47","6' 6"","235 lbs","27"
-"New York Yankees","Tim Hill","Relief Pitcher","41","6' 4"","210 lbs","35"
-"New York Yankees","Mark Leiter Jr.","Relief Pitcher","56","6' 0"","210 lbs","34"
-"New York Yankees","Jonathan Loaisiga","Relief Pitcher","43","5' 11"","195 lbs","30"
-"New York Yankees","Carlos Rodon","Starting Pitcher","55","6' 2"","255 lbs","32"
-"New York Yankees","Clarke Schmidt","Starting Pitcher","36","6' 1"","200 lbs","29"
-"New York Yankees","Will Warren","Starting Pitcher","98","6' 2"","200 lbs","25"
-"New York Yankees","Luke Weaver","Relief Pitcher","30","6' 2"","180 lbs","31"
-"New York Yankees","Devin Williams","Relief Pitcher","38","6' 2"","193 lbs","30"
-"New York Yankees","Ryan Yarbrough","Relief Pitcher","33","6' 5"","215 lbs","33"
-"New York Yankees","J.C. Escarra","Catcher","25","6' 2"","220 lbs","30"
-"New York Yankees","Austin Wells","Catcher","28","6' 1"","220 lbs","25"
-"New York Yankees","Paul Goldschmidt","First Base","48","6' 2"","225 lbs","37"
-"New York Yankees","DJ LeMahieu","Second Base","26","6' 3"","220 lbs","36"
-"New York Yankees","Oswald Peraza","Third Base","18","5' 11"","200 lbs","24"
-"New York Yankees","Pablo Reyes","Second Base","19","5' 8"","175 lbs","31"
-"New York Yankees","Ben Rice","First Base","22","6' 2"","228 lbs","26"
-"New York Yankees","Jorbit Vivas","Second Base","90","5' 9"","171 lbs","24"
-"New York Yankees","Anthony Volpe","Shortstop","11","5' 10"","197 lbs","24"
-"New York Yankees","Cody Bellinger","Left Field","35","6' 3"","204 lbs","29"
-"New York Yankees","Jasson Dominguez","Left Field","24","5' 9"","218 lbs","22"
-"New York Yankees","Trent Grisham","Center Field","12","5' 10"","221 lbs","28"
-"New York Yankees","Aaron Judge","Right Field","99","6' 7"","282 lbs","33"
-"Philadelphia Phillies","Jose Alvarado","Relief Pitcher","46","6' 2"","245 lbs","30"
-"Philadelphia Phillies","Tanner Banks","Relief Pitcher","58","6' 1"","205 lbs","33"
-"Philadelphia Phillies","Carlos Hernandez","Relief Pitcher","35","6' 4"","255 lbs","28"
-"Philadelphia Phillies","Orion Kerkering","Relief Pitcher","50","6' 2"","204 lbs","24"
-"Philadelphia Phillies","Max Lazar","Relief Pitcher","60","6' 1"","200 lbs","25"
-"Philadelphia Phillies","Jesus Luzardo","Starting Pitcher","44","6' 0"","218 lbs","27"
-"Philadelphia Phillies","Jordan Romano","Relief Pitcher","68","6' 5"","210 lbs","32"
-"Philadelphia Phillies","Joe Ross","Relief Pitcher","41","6' 4"","243 lbs","32"
-"Philadelphia Phillies","Jose Ruiz","Relief Pitcher","66","6' 1"","245 lbs","30"
-"Philadelphia Phillies","Cristopher Sanchez","Starting Pitcher","61","6' 6"","200 lbs","28"
-"Philadelphia Phillies","Matt Strahm","Relief Pitcher","25","6' 2"","190 lbs","33"
-"Philadelphia Phillies","Ranger Suarez","Starting Pitcher","55","6' 1"","217 lbs","29"
-"Philadelphia Phillies","Taijuan Walker","Starting Pitcher","99","6' 4"","235 lbs","32"
-"Philadelphia Phillies","Zack Wheeler","Starting Pitcher","45","6' 4"","195 lbs","34"
-"Philadelphia Phillies","Rafael Marchan","Catcher","13","5' 9"","170 lbs","26"
-"Philadelphia Phillies","J.T. Realmuto","Catcher","10","6' 0"","212 lbs","34"
-"Philadelphia Phillies","Alec Bohm","Third Base","28","6' 5"","218 lbs","28"
-"Philadelphia Phillies","Bryce Harper","First Base","3","6' 2"","210 lbs","32"
-"Philadelphia Phillies","Edmundo Sosa","Second Base","33","6' 0"","210 lbs","29"
-"Philadelphia Phillies","Bryson Stott","Second Base","5","6' 1"","200 lbs","27"
-"Philadelphia Phillies","Trea Turner","Shortstop","7","6' 1"","185 lbs","31"
-"Philadelphia Phillies","Nick Castellanos","Right Field","8","6' 3"","203 lbs","33"
-"Philadelphia Phillies","Max Kepler","Left Field","17","6' 4"","225 lbs","32"
-"Philadelphia Phillies","Brandon Marsh","Center Field","16","6' 2"","215 lbs","27"
-"Philadelphia Phillies","Johan Rojas","Center Field","23","5' 11"","165 lbs","24"
-"Philadelphia Phillies","Kyle Schwarber","Left Field","12","5' 11"","229 lbs","32"
-"Philadelphia Phillies","Weston Wilson","Left Field","37","6' 3"","215 lbs","30"
-"Pittsburgh Pirates","David Bednar","Relief Pitcher","51","6' 1"","250 lbs","30"
-"Pittsburgh Pirates","Ryan Borucki","Relief Pitcher","43","6' 4"","210 lbs","31"
-"Pittsburgh Pirates","Mike Burrows","Starting Pitcher","53","6' 1"","200 lbs","25"
-"Pittsburgh Pirates","Bailey Falter","Starting Pitcher","6","6' 4"","205 lbs","28"
-"Pittsburgh Pirates","Caleb Ferguson","Relief Pitcher","64","6' 3"","225 lbs","28"
-"Pittsburgh Pirates","Andrew Heaney","Starting Pitcher","45","6' 2"","200 lbs","33"
-"Pittsburgh Pirates","Mitch Keller","Starting Pitcher","23","6' 3"","212 lbs","29"
-"Pittsburgh Pirates","Isaac Mattson","Relief Pitcher","72","6' 2"","215 lbs","29"
-"Pittsburgh Pirates","Tanner Rainey","Relief Pitcher","27","6' 3"","245 lbs","32"
-"Pittsburgh Pirates","Dennis Santana","Relief Pitcher","60","6' 2"","190 lbs","29"
-"Pittsburgh Pirates","Chase Shugart","Relief Pitcher","55","5' 11"","200 lbs","28"
-"Pittsburgh Pirates","Paul Skenes","Starting Pitcher","30","6' 6"","260 lbs","22"
-"Pittsburgh Pirates","Joey Wentz","Relief Pitcher","34","6' 5"","220 lbs","27"
-"Pittsburgh Pirates","Joey Bart","Catcher","14","6' 3"","235 lbs","28"
-"Pittsburgh Pirates","Henry Davis","Catcher","32","6' 0"","225 lbs","25"
-"Pittsburgh Pirates","Adam Frazier","Second Base","26","5' 10"","190 lbs","33"
-"Pittsburgh Pirates","Ke'Bryan Hayes","Third Base","13","5' 11"","215 lbs","28"
-"Pittsburgh Pirates","Spencer Horwitz","First Base","2","5' 11"","200 lbs","27"
-"Pittsburgh Pirates","Isiah Kiner-Falefa","Shortstop","7","5' 10"","195 lbs","30"
-"Pittsburgh Pirates","Jared Triolo","Shortstop","19","6' 3"","210 lbs","27"
-"Pittsburgh Pirates","Alexander Canario","Left Field","29","6' 1"","215 lbs","25"
-"Pittsburgh Pirates","Oneil Cruz","Center Field","15","6' 7"","240 lbs","26"
-"Pittsburgh Pirates","Andrew McCutchen","Right Field","22","5' 10"","190 lbs","38"
-"Pittsburgh Pirates","Tommy Pham","Left Field","28","6' 1"","225 lbs","37"
-"Pittsburgh Pirates","Bryan Reynolds","Right Field","10","6' 2"","205 lbs","30"
-"Pittsburgh Pirates","Nick Solak","Right Field","46","5' 10"","185 lbs","30"
-"San Diego Padres","Jason Adam","Relief Pitcher","40","6' 3"","229 lbs","33"
-"San Diego Padres","Dylan Cease","Starting Pitcher","84","6' 2"","200 lbs","29"
-"San Diego Padres","Jeremiah Estrada","Relief Pitcher","56","6' 1"","185 lbs","26"
-"San Diego Padres","Alek Jacob","Relief Pitcher","37","6' 3"","190 lbs","26"
-"San Diego Padres","Michael King","Starting Pitcher","34","6' 3"","210 lbs","29"
-"San Diego Padres","Stephen Kolek","Starting Pitcher","32","6' 3"","210 lbs","28"
-"San Diego Padres","Yuki Matsui","Relief Pitcher","1","5' 8"","165 lbs","29"
-"San Diego Padres","Adrian Morejon","Relief Pitcher","50","5' 11"","224 lbs","26"
-"San Diego Padres","Wandy Peralta","Relief Pitcher","58","6' 0"","227 lbs","33"
-"San Diego Padres","Nick Pivetta","Starting Pitcher","27","6' 5"","210 lbs","32"
-"San Diego Padres","Sean Reynolds","Relief Pitcher","25","6' 8"","250 lbs","27"
-"San Diego Padres","Robert Suarez","Relief Pitcher","75","6' 2"","210 lbs","34"
-"San Diego Padres","Randy Vasquez","Starting Pitcher","98","6' 0"","165 lbs","26"
-"San Diego Padres","Elias Diaz","Catcher","17","6' 1"","223 lbs","34"
-"San Diego Padres","Martin Maldonado","Catcher","15","6' 0"","230 lbs","38"
-"San Diego Padres","Luis Arraez","First Base","4","5' 10"","175 lbs","28"
-"San Diego Padres","Xander Bogaerts","Shortstop","2","6' 2"","218 lbs","32"
-"San Diego Padres","Jake Cronenworth","Second Base","9","6' 0"","187 lbs","31"
-"San Diego Padres","Jose Iglesias","Second Base","7","5' 11"","195 lbs","35"
-"San Diego Padres","Manny Machado","Third Base","13","6' 2"","218 lbs","32"
-"San Diego Padres","Gavin Sheets","First Base","30","6' 3"","235 lbs","29"
-"San Diego Padres","Jason Heyward","Left Field","22","6' 5"","240 lbs","35"
-"San Diego Padres","Brandon Lockridge","Center Field","28","5' 11"","185 lbs","28"
-"San Diego Padres","Jackson Merrill","Center Field","3","6' 3"","195 lbs","22"
-"San Diego Padres","Fernando Tatis Jr.","Right Field","23","6' 3"","217 lbs","26"
-"San Diego Padres","Tyler Wade","Center Field","14","6' 0"","188 lbs","30"
-"San Francisco Giants","Hayden Birdsong","Relief Pitcher","60","6' 4"","216 lbs","23"
-"San Francisco Giants","Spencer Bivens","Relief Pitcher","76","6' 5"","217 lbs","30"
-"San Francisco Giants","Camilo Doval","Relief Pitcher","75","6' 2"","205 lbs","27"
-"San Francisco Giants","Kyle Harrison","Relief Pitcher","45","6' 2"","209 lbs","23"
-"San Francisco Giants","Jordan Hicks","Starting Pitcher","12","6' 2"","217 lbs","28"
-"San Francisco Giants","Erik Miller","Relief Pitcher","68","6' 5"","268 lbs","27"
-"San Francisco Giants","Robbie Ray","Starting Pitcher","38","6' 2"","208 lbs","33"
-"San Francisco Giants","Randy Rodriguez","Relief Pitcher","73","6' 0"","195 lbs","25"
-"San Francisco Giants","Tyler Rogers","Relief Pitcher","71","6' 3"","180 lbs","34"
-"San Francisco Giants","Landen Roupp","Starting Pitcher","65","6' 2"","215 lbs","26"
-"San Francisco Giants","Justin Verlander","Starting Pitcher","35","6' 5"","240 lbs","42"
-"San Francisco Giants","Ryan Walker","Relief Pitcher","74","6' 2"","212 lbs","29"
-"San Francisco Giants","Logan Webb","Starting Pitcher","62","6' 1"","223 lbs","28"
-"San Francisco Giants","Patrick Bailey","Catcher","14","6' 0"","225 lbs","25"
-"San Francisco Giants","Sam Huff","Catcher","23","6' 4"","242 lbs","27"
-"San Francisco Giants","Willy Adames","Shortstop","2","6' 0"","215 lbs","29"
-"San Francisco Giants","Matt Chapman","Third Base","26","6' 1"","225 lbs","32"
-"San Francisco Giants","Tyler Fitzgerald","Second Base","49","6' 2"","208 lbs","27"
-"San Francisco Giants","Wilmer Flores","First Base","41","6' 3"","225 lbs","33"
-"San Francisco Giants","Christian Koss","Second Base","50","6' 1"","186 lbs","27"
-"San Francisco Giants","Casey Schmitt","First Base","10","6' 0"","220 lbs","26"
-"San Francisco Giants","LaMonte Wade Jr.","First Base","31","5' 11"","215 lbs","31"
-"San Francisco Giants","Jung Hoo Lee","Center Field","51","6' 0"","197 lbs","26"
-"San Francisco Giants","Luis Matos","Right Field","29","5' 11"","207 lbs","23"
-"San Francisco Giants","Heliot Ramos","Left Field","17","5' 11"","230 lbs","25"
-"San Francisco Giants","Mike Yastrzemski","Right Field","5","5' 11"","180 lbs","34"
-"Seattle Mariners","Eduard Bazardo","Relief Pitcher","83","6' 0"","190 lbs","29"
-"Seattle Mariners","Matt Brash","Relief Pitcher","47","6' 1"","173 lbs","27"
-"Seattle Mariners","Luis Castillo","Starting Pitcher","58","6' 2"","200 lbs","32"
-"Seattle Mariners","Logan Evans","Starting Pitcher","73","6' 4"","215 lbs","23"
-"Seattle Mariners","Jesse Hahn","Relief Pitcher","49","6' 5"","205 lbs","35"
-"Seattle Mariners","Emerson Hancock","Starting Pitcher","26","6' 4"","213 lbs","25"
-"Seattle Mariners","Casey Legumina","Relief Pitcher","64","6' 2"","195 lbs","27"
-"Seattle Mariners","Andres Munoz","Relief Pitcher","75","6' 2"","222 lbs","26"
-"Seattle Mariners","Collin Snider","Relief Pitcher","52","6' 4"","195 lbs","29"
-"Seattle Mariners","Gabe Speier","Relief Pitcher","55","5' 11"","200 lbs","30"
-"Seattle Mariners","Troy Taylor","Relief Pitcher","59","6' 0"","205 lbs","23"
-"Seattle Mariners","Carlos Vargas","Relief Pitcher","54","6' 4"","210 lbs","25"
-"Seattle Mariners","Bryan Woo","Starting Pitcher","22","6' 2"","205 lbs","25"
-"Seattle Mariners","Mitch Garver","Catcher","18","6' 1"","220 lbs","34"
-"Seattle Mariners","Cal Raleigh","Catcher","29","6' 2"","235 lbs","28"
-"Seattle Mariners","J.P. Crawford","Shortstop","3","6' 0"","202 lbs","30"
-"Seattle Mariners","Miles Mastrobuoni","Third Base","21","5' 10"","185 lbs","29"
-"Seattle Mariners","Dylan Moore","Second Base","25","6' 0"","205 lbs","32"
-"Seattle Mariners","Jorge Polanco","Third Base","7","6' 0"","208 lbs","31"
-"Seattle Mariners","Leo Rivas","Second Base","76","5' 8"","150 lbs","27"
-"Seattle Mariners","Donovan Solano","First Base","39","5' 8"","210 lbs","37"
-"Seattle Mariners","Rowdy Tellez","First Base","23","6' 4"","270 lbs","30"
-"Seattle Mariners","Ben Williamson","Third Base","9","6' 0"","210 lbs","24"
-"Seattle Mariners","Randy Arozarena","Left Field","56","5' 10"","185 lbs","30"
-"Seattle Mariners","Julio Rodriguez","Center Field","44","6' 3"","228 lbs","24"
-"Seattle Mariners","Leody Taveras","Center Field","4","6' 2"","195 lbs","26"
-"St. Louis Cardinals","Erick Fedde","Starting Pitcher","12","6' 4"","205 lbs","32"
-"St. Louis Cardinals","Gordon Graceffo","Relief Pitcher","44","6' 4"","220 lbs","25"
-"St. Louis Cardinals","Sonny Gray","Starting Pitcher","54","5' 10"","190 lbs","35"
-"St. Louis Cardinals","Ryan Helsley","Relief Pitcher","56","6' 2"","235 lbs","30"
-"St. Louis Cardinals","John King","Relief Pitcher","47","6' 2"","215 lbs","30"
-"St. Louis Cardinals","Kyle Leahy","Relief Pitcher","62","6' 5"","225 lbs","27"
-"St. Louis Cardinals","Matthew Liberatore","Starting Pitcher","52","6' 4"","215 lbs","25"
-"St. Louis Cardinals","Phil Maton","Relief Pitcher","88","6' 2"","206 lbs","32"
-"St. Louis Cardinals","Steven Matz","Relief Pitcher","32","6' 2"","205 lbs","33"
-"St. Louis Cardinals","Miles Mikolas","Starting Pitcher","39","6' 4"","230 lbs","36"
-"St. Louis Cardinals","Andre Pallante","Starting Pitcher","53","6' 0"","215 lbs","26"
-"St. Louis Cardinals","JoJo Romero","Relief Pitcher","59","5' 11"","215 lbs","28"
-"St. Louis Cardinals","Chris Roycroft","Relief Pitcher","58","6' 8"","230 lbs","27"
-"St. Louis Cardinals","Ryan Tepera","Relief Pitcher","38","6' 1"","195 lbs","37"
-"St. Louis Cardinals","Ivan Herrera","Catcher","48","5' 11"","220 lbs","24"
-"St. Louis Cardinals","Pedro Pages","Catcher","43","5' 11"","245 lbs","26"
-"St. Louis Cardinals","Yohel Pozo","Catcher","63","5' 11"","201 lbs","27"
-"St. Louis Cardinals","Nolan Arenado","Third Base","28","6' 2"","215 lbs","34"
-"St. Louis Cardinals","Jose Barrero","Shortstop","27","6' 4"","211 lbs","27"
-"St. Louis Cardinals","Alec Burleson","First Base","41","6' 0"","225 lbs","26"
-"St. Louis Cardinals","Willson Contreras","First Base","40","6' 1"","240 lbs","33"
-"St. Louis Cardinals","Brendan Donovan","Second Base","33","5' 11"","210 lbs","28"
-"St. Louis Cardinals","Nolan Gorman","Second Base","16","6' 0"","225 lbs","25"
-"St. Louis Cardinals","Masyn Winn","Shortstop","0","5' 9"","185 lbs","23"
-"St. Louis Cardinals","Lars Nootbaar","Left Field","21","6' 1"","205 lbs","27"
-"St. Louis Cardinals","Victor Scott II","Center Field","11","5' 11"","190 lbs","24"
-"St. Louis Cardinals","Jordan Walker","Right Field","18","6' 6"","250 lbs","23"
-"Tampa Bay Rays","Shane Baz","Starting Pitcher","11","6' 3"","200 lbs","25"
-"Tampa Bay Rays","Taj Bradley","Starting Pitcher","45","6' 2"","220 lbs","24"
-"Tampa Bay Rays","Garrett Cleavinger","Relief Pitcher","60","6' 1"","225 lbs","31"
-"Tampa Bay Rays","Pete Fairbanks","Relief Pitcher","29","6' 6"","235 lbs","31"
-"Tampa Bay Rays","Zack Littell","Starting Pitcher","52","6' 4"","250 lbs","29"
-"Tampa Bay Rays","Mason Montgomery","Relief Pitcher","48","6' 2"","205 lbs","24"
-"Tampa Bay Rays","Eric Orze","Relief Pitcher","17","6' 4"","205 lbs","27"
-"Tampa Bay Rays","Ryan Pepiot","Starting Pitcher","44","6' 3"","210 lbs","27"
-"Tampa Bay Rays","Drew Rasmussen","Starting Pitcher","57","6' 1"","240 lbs","29"
-"Tampa Bay Rays","Manuel Rodriguez","Relief Pitcher","39","5' 11"","205 lbs","28"
-"Tampa Bay Rays","Connor Seabold","Starting Pitcher","41","6' 2"","190 lbs","29"
-"Tampa Bay Rays","Cole Sulser","Relief Pitcher","71","6' 0"","200 lbs","35"
-"Tampa Bay Rays","Edwin Uceta","Relief Pitcher","63","6' 0"","210 lbs","27"
-"Tampa Bay Rays","Danny Jansen","Catcher","19","6' 1"","240 lbs","30"
-"Tampa Bay Rays","Ben Rortvedt","Catcher","30","5' 9"","210 lbs","27"
-"Tampa Bay Rays","Jonathan Aranda","First Base","62","6' 0"","215 lbs","26"
-"Tampa Bay Rays","Junior Caminero","Third Base","13","6' 1"","220 lbs","21"
-"Tampa Bay Rays","Yandy Diaz","First Base","2","6' 1"","235 lbs","33"
-"Tampa Bay Rays","Brandon Lowe","Second Base","8","5' 10"","190 lbs","30"
-"Tampa Bay Rays","Curtis Mead","First Base","25","6' 1"","225 lbs","24"
-"Tampa Bay Rays","Taylor Walls","Shortstop","6","5' 8"","185 lbs","28"
-"Tampa Bay Rays","Jose Caballero","Right Field","77","5' 10"","190 lbs","28"
-"Tampa Bay Rays","Josh Lowe","Right Field","15","6' 4"","220 lbs","27"
-"Tampa Bay Rays","Kameron Misner","Center Field","26","6' 4"","220 lbs","27"
-"Tampa Bay Rays","Christopher Morel","Left Field","24","6' 0"","200 lbs","25"
-"Tampa Bay Rays","Chandler Simpson","Center Field","14","5' 11"","170 lbs","24"
-"Texas Rangers","Shawn Armstrong","Relief Pitcher","43","6' 2"","225 lbs","34"
-"Texas Rangers","Caleb Boushley","Relief Pitcher","70","6' 3"","190 lbs","31"
-"Texas Rangers","Patrick Corbin","Starting Pitcher","46","6' 4"","225 lbs","35"
-"Texas Rangers","Jacob deGrom","Starting Pitcher","48","6' 4"","180 lbs","36"
-"Texas Rangers","Nathan Eovaldi","Starting Pitcher","17","6' 2"","217 lbs","35"
-"Texas Rangers","Robert Garcia","Relief Pitcher","62","6' 4"","236 lbs","28"
-"Texas Rangers","Luke Jackson","Relief Pitcher","77","6' 2"","210 lbs","33"
-"Texas Rangers","Jacob Latz","Relief Pitcher","67","6' 2"","185 lbs","29"
-"Texas Rangers","Jack Leiter","Starting Pitcher","35","6' 1"","205 lbs","25"
-"Texas Rangers","Tyler Mahle","Starting Pitcher","51","6' 3"","210 lbs","30"
-"Texas Rangers","Hoby Milner","Relief Pitcher","41","6' 3"","187 lbs","34"
-"Texas Rangers","Jacob Webb","Relief Pitcher","71","6' 2"","210 lbs","31"
-"Texas Rangers","Cole Winn","Relief Pitcher","60","6' 2"","190 lbs","25"
-"Texas Rangers","Tucker Barnhart","Catcher","18","5' 8"","192 lbs","34"
-"Texas Rangers","Jonah Heim","Catcher","28","6' 4"","220 lbs","29"
-"Texas Rangers","Kyle Higashioka","Catcher","11","6' 0"","202 lbs","35"
-"Texas Rangers","Jake Burger","First Base","21","6' 0"","230 lbs","29"
-"Texas Rangers","Ezequiel Duran","Shortstop","20","5' 10"","185 lbs","26"
-"Texas Rangers","Josh Jung","Third Base","6","6' 1"","214 lbs","27"
-"Texas Rangers","Joc Pederson","First Base","4","6' 1"","220 lbs","33"
-"Texas Rangers","Marcus Semien","Second Base","2","6' 0"","195 lbs","34"
-"Texas Rangers","Josh Smith","Shortstop","8","5' 9"","172 lbs","27"
-"Texas Rangers","Adolis Garcia","Right Field","53","6' 0"","205 lbs","32"
-"Texas Rangers","Sam Haggerty","Center Field","0","5' 11"","175 lbs","30"
-"Texas Rangers","Wyatt Langford","Left Field","36","6' 0"","225 lbs","23"
-"Texas Rangers","Kevin Pillar","Center Field","1","6' 0"","210 lbs","36"
-"Toronto Blue Jays","Chris Bassitt","Starting Pitcher","40","6' 5"","217 lbs","36"
-"Toronto Blue Jays","Jose Berrios","Starting Pitcher","17","6' 0"","205 lbs","30"
-"Toronto Blue Jays","Braydon Fisher","Relief Pitcher","63","6' 4"","180 lbs","24"
-"Toronto Blue Jays","Mason Fluharty","Relief Pitcher","68","6' 2"","215 lbs","23"
-"Toronto Blue Jays","Bowden Francis","Starting Pitcher","44","6' 5"","220 lbs","29"
-"Toronto Blue Jays","Yimi Garcia","Relief Pitcher","93","6' 1"","230 lbs","34"
-"Toronto Blue Jays","Kevin Gausman","Starting Pitcher","34","6' 2"","205 lbs","34"
-"Toronto Blue Jays","Chad Green","Relief Pitcher","57","6' 3"","215 lbs","33"
-"Toronto Blue Jays","Jeff Hoffman","Relief Pitcher","23","6' 5"","235 lbs","32"
-"Toronto Blue Jays","Eric Lauer","Relief Pitcher","56","6' 3"","209 lbs","29"
-"Toronto Blue Jays","Brendon Little","Relief Pitcher","54","6' 2"","195 lbs","28"
-"Toronto Blue Jays","Yariel Rodriguez","Relief Pitcher","29","6' 0"","165 lbs","28"
-"Toronto Blue Jays","Jose Urena","Starting Pitcher","48","6' 2"","208 lbs","33"
-"Toronto Blue Jays","Tyler Heineman","Catcher","55","5' 10"","190 lbs","33"
-"Toronto Blue Jays","Alejandro Kirk","Catcher","30","5' 8"","245 lbs","26"
-"Toronto Blue Jays","Addison Barger","Third Base","47","6' 0"","210 lbs","25"
-"Toronto Blue Jays","Bo Bichette","Shortstop","11","5' 11"","190 lbs","27"
-"Toronto Blue Jays","Ernie Clement","Third Base","22","5' 11"","170 lbs","29"
-"Toronto Blue Jays","Vladimir Guerrero Jr.","First Base","27","6' 0"","245 lbs","26"
-"Toronto Blue Jays","Michael Stefanic","Second Base","16","5' 9"","180 lbs","29"
-"Toronto Blue Jays","Jonatan Clase","Left Field","8","5' 10"","150 lbs","22"
-"Toronto Blue Jays","Nathan Lukes","Center Field","38","5' 11"","180 lbs","30"
-"Toronto Blue Jays","Anthony Santander","Right Field","25","6' 0"","230 lbs","30"
-"Toronto Blue Jays","George Springer","Right Field","4","6' 1"","220 lbs","35"
-"Toronto Blue Jays","Myles Straw","Center Field","3","5' 9"","178 lbs","30"
-"Toronto Blue Jays","Daulton Varsho","Center Field","5","5' 8"","207 lbs","28"
-"Washington Nationals","Zach Brzykcy","Relief Pitcher","66","6' 2"","208 lbs","25"
-"Washington Nationals","Andrew Chafin","Relief Pitcher","53","6' 2"","235 lbs","34"
-"Washington Nationals","Jose Ferrer","Relief Pitcher","47","6' 1"","233 lbs","25"
-"Washington Nationals","Kyle Finnegan","Relief Pitcher","67","6' 2"","198 lbs","33"
-"Washington Nationals","MacKenzie Gore","Starting Pitcher","1","6' 2"","193 lbs","26"
-"Washington Nationals","Cole Henry","Relief Pitcher","99","6' 4"","200 lbs","25"
-"Washington Nationals","Jake Irvin","Starting Pitcher","27","6' 6"","234 lbs","28"
-"Washington Nationals","Jorge Lopez","Relief Pitcher","21","6' 3"","200 lbs","32"
-"Washington Nationals","Brad Lord","Starting Pitcher","61","6' 3"","210 lbs","25"
-"Washington Nationals","Mitchell Parker","Starting Pitcher","70","6' 4"","239 lbs","25"
-"Washington Nationals","Jackson Rutledge","Relief Pitcher","79","6' 8"","241 lbs","26"
-"Washington Nationals","Michael Soroka","Starting Pitcher","34","6' 5"","250 lbs","27"
-"Washington Nationals","Trevor Williams","Starting Pitcher","32","6' 3"","231 lbs","33"
-"Washington Nationals","Riley Adams","Catcher","15","6' 4"","263 lbs","28"
-"Washington Nationals","Keibert Ruiz","Catcher","20","6' 0"","238 lbs","26"
-"Washington Nationals","CJ Abrams","Shortstop","5","6' 0"","191 lbs","24"
-"Washington Nationals","Josh Bell","First Base","19","6' 3"","261 lbs","32"
-"Washington Nationals","Luis Garcia Jr.","Second Base","2","6' 1"","216 lbs","25"
-"Washington Nationals","Nathaniel Lowe","First Base","33","6' 4"","220 lbs","29"
-"Washington Nationals","Nasim Nunez","Shortstop","26","5' 8"","165 lbs","24"
-"Washington Nationals","Amed Rosario","Third Base","13","6' 2"","190 lbs","29"
-"Washington Nationals","Jose Tena","Third Base","8","5' 11"","195 lbs","24"
-"Washington Nationals","Alex Call","Right Field","17","5' 11"","189 lbs","30"
-"Washington Nationals","Robert Hassell III","Center Field","57","6' 1"","186 lbs","23"
-"Washington Nationals","James Wood","Left Field","29","6' 7"","234 lbs","22"
-"Washington Nationals","Jacob Young","Center Field","30","5' 11"","192 lbs","25"
+name,team,jersey,position,age,height,weight,batSide,throwSide
+Anthony Maldonado,Athletics,,Pitcher,27,"6' 4""",220,R,R
+Brent Rooker,Athletics,,Outfielder,30,"6' 3""",225,R,R
+Carlos Duran,Athletics,,Pitcher,23,"6' 7""",230,R,R
+Gio Urshela,Athletics,,Third Base,33,"6' 0""",215,R,R
+Grant Holman,Athletics,,Pitcher,24,"6' 6""",250,R,R
+Gunnar Hoglund,Athletics,,Pitcher,25,"6' 4""",220,L,R
+Hogan Harris,Athletics,,Pitcher,28,"6' 3""",230,R,L
+JJ Bleday,Athletics,,Outfielder,27,"6' 2""",205,L,L
+JP Sears,Athletics,,Pitcher,29,"5' 11""",180,R,L
+Jacob Wilson,Athletics,,Shortstop,23,"6' 2""",190,R,R
+Jeffrey Springs,Athletics,,Pitcher,32,"6' 3""",218,L,L
+Jhonny Pereda,Athletics,,Catcher,29,"6' 1""",202,R,R
+Justin Sterner,Athletics,,Pitcher,28,"6' 1""",215,R,R
+Lawrence Butler,Athletics,,Outfielder,24,"6' 3""",210,L,R
+Luis Severino,Athletics,,Pitcher,31,"6' 2""",218,R,R
+Luis Urías,Athletics,,Second Base,27,"5' 9""",202,R,R
+Mason Miller,Athletics,,Pitcher,26,"6' 5""",200,R,R
+Max Schuemann,Athletics,,Third Base,27,"6' 0""",186,R,R
+Michel Otañez,Athletics,,Pitcher,27,"6' 4""",218,R,R
+Miguel Andujar,Athletics,,Outfielder,30,"6' 0""",211,R,R
+Mitch Spence,Athletics,,Pitcher,27,"6' 1""",185,R,R
+Nick Kurtz,Athletics,,First Base,22,"6' 5""",240,L,L
+Seth Brown,Athletics,,Outfielder,32,"6' 1""",223,L,L
+Shea Langeliers,Athletics,,Catcher,27,"6' 0""",205,R,R
+Tyler Ferguson,Athletics,,Pitcher,31,"6' 4""",225,R,R
+Tyler Soderstrom,Athletics,,First Base,23,"6' 2""",200,L,R
+Adam Frazier,Pittsburgh Pirates,,Second Base,33,"5' 10""",190,L,R
+Alexander Canario,Pittsburgh Pirates,,Outfielder,25,"6' 1""",215,R,R
+Andrew Heaney,Pittsburgh Pirates,,Pitcher,33,"6' 2""",200,L,L
+Andrew McCutchen,Pittsburgh Pirates,,Outfielder,38,"5' 10""",190,R,R
+Bailey Falter,Pittsburgh Pirates,,Pitcher,28,"6' 4""",205,R,L
+Bryan Reynolds,Pittsburgh Pirates,,Outfielder,30,"6' 2""",205,S,R
+Caleb Ferguson,Pittsburgh Pirates,,Pitcher,28,"6' 3""",225,R,L
+Chase Shugart,Pittsburgh Pirates,,Pitcher,28,"5' 11""",200,L,R
+David Bednar,Pittsburgh Pirates,,Pitcher,30,"6' 1""",250,L,R
+Dennis Santana,Pittsburgh Pirates,,Pitcher,29,"6' 2""",190,R,R
+Henry Davis,Pittsburgh Pirates,,Catcher,25,"6' 0""",225,R,R
+Isaac Mattson,Pittsburgh Pirates,,Pitcher,29,"6' 2""",215,R,R
+Isiah Kiner-Falefa,Pittsburgh Pirates,,Shortstop,30,"5' 10""",195,R,R
+Jared Triolo,Pittsburgh Pirates,,Shortstop,27,"6' 3""",210,R,R
+Joey Bart,Pittsburgh Pirates,,Catcher,28,"6' 3""",235,R,R
+Joey Wentz,Pittsburgh Pirates,,Pitcher,27,"6' 5""",220,L,L
+Ke'Bryan Hayes,Pittsburgh Pirates,,Third Base,28,"5' 11""",215,R,R
+Mike Burrows,Pittsburgh Pirates,,Pitcher,25,"6' 1""",200,R,R
+Mitch Keller,Pittsburgh Pirates,,Pitcher,29,"6' 3""",212,R,R
+Nick Solak,Pittsburgh Pirates,,Outfielder,30,"5' 10""",185,R,R
+Oneil Cruz,Pittsburgh Pirates,,Outfielder,26,"6' 7""",240,L,R
+Paul Skenes,Pittsburgh Pirates,,Pitcher,22,"6' 6""",260,R,R
+Ryan Borucki,Pittsburgh Pirates,,Pitcher,31,"6' 4""",210,L,L
+Spencer Horwitz,Pittsburgh Pirates,,First Base,27,"5' 11""",200,L,R
+Tanner Rainey,Pittsburgh Pirates,,Pitcher,32,"6' 3""",245,R,R
+Tommy Pham,Pittsburgh Pirates,,Outfielder,37,"6' 1""",225,R,R
+Adrian Morejon,San Diego Padres,,Pitcher,26,"5' 11""",224,L,L
+Alek Jacob,San Diego Padres,,Pitcher,26,"6' 3""",190,L,R
+Brandon Lockridge,San Diego Padres,,Outfielder,28,"5' 11""",185,R,R
+Dylan Cease,San Diego Padres,,Pitcher,29,"6' 2""",200,R,R
+Elias Díaz,San Diego Padres,,Catcher,34,"6' 1""",223,R,R
+Fernando Tatis Jr.,San Diego Padres,,Outfielder,26,"6' 3""",217,R,R
+Gavin Sheets,San Diego Padres,,First Base,29,"6' 3""",235,L,L
+Jackson Merrill,San Diego Padres,,Outfielder,22,"6' 3""",195,L,R
+Jake Cronenworth,San Diego Padres,,Second Base,31,"6' 0""",187,L,R
+Jason Adam,San Diego Padres,,Pitcher,33,"6' 3""",229,R,R
+Jason Heyward,San Diego Padres,,Outfielder,35,"6' 5""",240,L,L
+Jeremiah Estrada,San Diego Padres,,Pitcher,26,"6' 1""",185,S,R
+Jose Iglesias,San Diego Padres,,Second Base,35,"5' 11""",195,R,R
+Luis Arraez,San Diego Padres,,First Base,28,"5' 10""",175,L,R
+Manny Machado,San Diego Padres,,Third Base,32,"6' 2""",218,R,R
+Martín Maldonado,San Diego Padres,,Catcher,38,"6' 0""",230,R,R
+Michael King,San Diego Padres,,Pitcher,29,"6' 3""",210,R,R
+Nick Pivetta,San Diego Padres,,Pitcher,32,"6' 5""",210,R,R
+Randy Vásquez,San Diego Padres,,Pitcher,26,"6' 0""",165,R,R
+Robert Suarez,San Diego Padres,,Pitcher,34,"6' 2""",210,R,R
+Sean Reynolds,San Diego Padres,,Pitcher,27,"6' 8""",250,L,R
+Stephen Kolek,San Diego Padres,,Pitcher,28,"6' 3""",210,R,R
+Tyler Wade,San Diego Padres,,Outfielder,30,"6' 0""",188,L,R
+Wandy Peralta,San Diego Padres,,Pitcher,33,"6' 0""",227,L,L
+Xander Bogaerts,San Diego Padres,,Shortstop,32,"6' 2""",218,R,R
+Yuki Matsui,San Diego Padres,,Pitcher,29,"5' 8""",165,L,L
+Andrés Muñoz,Seattle Mariners,,Pitcher,26,"6' 2""",222,R,R
+Ben Williamson,Seattle Mariners,,Third Base,24,"6' 0""",210,R,R
+Bryan Woo,Seattle Mariners,,Pitcher,25,"6' 2""",205,R,R
+Cal Raleigh,Seattle Mariners,,Catcher,28,"6' 2""",235,S,R
+Carlos Vargas,Seattle Mariners,,Pitcher,25,"6' 4""",210,R,R
+Casey Legumina,Seattle Mariners,,Pitcher,27,"6' 2""",195,R,R
+Collin Snider,Seattle Mariners,,Pitcher,29,"6' 4""",195,R,R
+Donovan Solano,Seattle Mariners,,First Base,37,"5' 8""",210,R,R
+Dylan Moore,Seattle Mariners,,Second Base,32,"6' 0""",205,R,R
+Eduard Bazardo,Seattle Mariners,,Pitcher,29,"6' 0""",190,R,R
+Emerson Hancock,Seattle Mariners,,Pitcher,25,"6' 4""",213,R,R
+Gabe Speier,Seattle Mariners,,Pitcher,30,"5' 11""",200,L,L
+George Kirby,Seattle Mariners,,Pitcher,27,"6' 4""",215,R,R
+J.P. Crawford,Seattle Mariners,,Shortstop,30,"6' 0""",202,L,R
+Jesse Hahn,Seattle Mariners,,Pitcher,35,"6' 5""",205,R,R
+Jorge Polanco,Seattle Mariners,,Third Base,31,"6' 0""",208,S,R
+Julio Rodríguez,Seattle Mariners,,Outfielder,24,"6' 3""",228,R,R
+Leo Rivas,Seattle Mariners,,Second Base,27,"5' 8""",150,S,R
+Leody Taveras,Seattle Mariners,,Outfielder,26,"6' 2""",195,S,R
+Logan Evans,Seattle Mariners,,Pitcher,23,"6' 4""",215,R,R
+Luis Castillo,Seattle Mariners,,Pitcher,32,"6' 2""",200,R,R
+Matt Brash,Seattle Mariners,,Pitcher,27,"6' 1""",173,R,R
+Miles Mastrobuoni,Seattle Mariners,,Third Base,29,"5' 10""",185,L,R
+Mitch Garver,Seattle Mariners,,Catcher,34,"6' 1""",220,R,R
+Randy Arozarena,Seattle Mariners,,Outfielder,30,"5' 10""",185,R,R
+Rowdy Tellez,Seattle Mariners,,First Base,30,"6' 4""",270,L,L
+Camilo Doval,San Francisco Giants,,Pitcher,27,"6' 2""",205,R,R
+Casey Schmitt,San Francisco Giants,,First Base,26,"6' 0""",220,R,R
+Christian Koss,San Francisco Giants,,Second Base,27,"6' 1""",186,R,R
+Erik Miller,San Francisco Giants,,Pitcher,27,"6' 5""",268,L,L
+Hayden Birdsong,San Francisco Giants,,Pitcher,23,"6' 4""",216,R,R
+Heliot Ramos,San Francisco Giants,,Outfielder,25,"5' 11""",230,R,R
+Jordan Hicks,San Francisco Giants,,Pitcher,28,"6' 2""",217,R,R
+Jung Hoo Lee,San Francisco Giants,,Outfielder,26,"6' 0""",197,L,R
+Justin Verlander,San Francisco Giants,,Pitcher,42,"6' 5""",240,R,R
+Kyle Harrison,San Francisco Giants,,Pitcher,23,"6' 2""",209,R,L
+LaMonte Wade Jr.,San Francisco Giants,,First Base,31,"5' 11""",215,L,L
+Landen Roupp,San Francisco Giants,,Pitcher,26,"6' 2""",215,R,R
+Logan Webb,San Francisco Giants,,Pitcher,28,"6' 1""",223,R,R
+Luis Matos,San Francisco Giants,,Outfielder,23,"5' 11""",207,R,R
+Matt Chapman,San Francisco Giants,,Third Base,32,"6' 1""",225,R,R
+Mike Yastrzemski,San Francisco Giants,,Outfielder,34,"5' 11""",180,L,L
+Patrick Bailey,San Francisco Giants,,Catcher,25,"6' 0""",225,S,R
+Randy Rodríguez,San Francisco Giants,,Pitcher,25,"6' 0""",195,R,R
+Robbie Ray,San Francisco Giants,,Pitcher,33,"6' 2""",208,L,L
+Ryan Walker,San Francisco Giants,,Pitcher,29,"6' 2""",212,R,R
+Sam Huff,San Francisco Giants,,Catcher,27,"6' 4""",242,R,R
+Spencer Bivens,San Francisco Giants,,Pitcher,30,"6' 5""",217,R,R
+Tyler Fitzgerald,San Francisco Giants,,Second Base,27,"6' 2""",208,R,R
+Tyler Rogers,San Francisco Giants,,Pitcher,34,"6' 3""",180,R,R
+Willy Adames,San Francisco Giants,,Shortstop,29,"6' 0""",215,R,R
+Wilmer Flores,San Francisco Giants,,First Base,33,"6' 3""",225,R,R
+Alec Burleson,St. Louis Cardinals,,First Base,26,"6' 0""",225,L,L
+Andre Pallante,St. Louis Cardinals,,Pitcher,26,"6' 0""",215,R,R
+Brendan Donovan,St. Louis Cardinals,,Second Base,28,"5' 11""",210,L,R
+Chris Roycroft,St. Louis Cardinals,,Pitcher,27,"6' 8""",230,R,R
+Erick Fedde,St. Louis Cardinals,,Pitcher,32,"6' 4""",205,R,R
+Gordon Graceffo,St. Louis Cardinals,,Pitcher,25,"6' 4""",220,R,R
+Iván Herrera,St. Louis Cardinals,,Catcher,24,"5' 11""",220,R,R
+JoJo Romero,St. Louis Cardinals,,Pitcher,28,"5' 11""",215,L,L
+John King,St. Louis Cardinals,,Pitcher,30,"6' 2""",215,L,L
+Jordan Walker,St. Louis Cardinals,,Outfielder,23,"6' 6""",250,R,R
+Jose Barrero,St. Louis Cardinals,,Shortstop,27,"6' 4""",211,R,R
+Kyle Leahy,St. Louis Cardinals,,Pitcher,27,"6' 5""",225,S,R
+Lars Nootbaar,St. Louis Cardinals,,Outfielder,27,"6' 1""",205,L,R
+Masyn Winn,St. Louis Cardinals,,Shortstop,23,"5' 9""",185,R,R
+Matthew Liberatore,St. Louis Cardinals,,Pitcher,25,"6' 4""",215,L,L
+Miles Mikolas,St. Louis Cardinals,,Pitcher,36,"6' 4""",230,R,R
+Nolan Arenado,St. Louis Cardinals,,Third Base,34,"6' 2""",215,R,R
+Nolan Gorman,St. Louis Cardinals,,Second Base,25,"6' 0""",225,L,R
+Pedro Pagés,St. Louis Cardinals,,Catcher,26,"5' 11""",245,R,R
+Phil Maton,St. Louis Cardinals,,Pitcher,32,"6' 2""",206,R,R
+Ryan Helsley,St. Louis Cardinals,,Pitcher,30,"6' 2""",235,R,R
+Sonny Gray,St. Louis Cardinals,,Pitcher,35,"5' 10""",190,R,R
+Steven Matz,St. Louis Cardinals,,Pitcher,33,"6' 2""",205,R,L
+Victor Scott II,St. Louis Cardinals,,Outfielder,24,"5' 11""",190,L,L
+Willson Contreras,St. Louis Cardinals,,First Base,33,"6' 1""",240,R,R
+Yohel Pozo,St. Louis Cardinals,,Catcher,27,"5' 11""",201,R,R
+Ben Rortvedt,Tampa Bay Rays,,Catcher,27,"5' 9""",210,L,R
+Brandon Lowe,Tampa Bay Rays,,Second Base,30,"5' 10""",190,L,R
+Chandler Simpson,Tampa Bay Rays,,Outfielder,24,"5' 11""",170,L,R
+Christopher Morel,Tampa Bay Rays,,Outfielder,25,"6' 0""",200,R,R
+Cole Sulser,Tampa Bay Rays,,Pitcher,35,"6' 0""",200,R,R
+Connor Seabold,Tampa Bay Rays,,Pitcher,29,"6' 2""",190,R,R
+Curtis Mead,Tampa Bay Rays,,First Base,24,"6' 1""",225,R,R
+Danny Jansen,Tampa Bay Rays,,Catcher,30,"6' 1""",240,R,R
+Drew Rasmussen,Tampa Bay Rays,,Pitcher,29,"6' 1""",240,R,R
+Edwin Uceta,Tampa Bay Rays,,Pitcher,27,"6' 0""",210,R,R
+Eric Orze,Tampa Bay Rays,,Pitcher,27,"6' 4""",205,R,R
+Garrett Cleavinger,Tampa Bay Rays,,Pitcher,31,"6' 1""",225,R,L
+Jonathan Aranda,Tampa Bay Rays,,First Base,26,"6' 0""",215,L,R
+José Caballero,Tampa Bay Rays,,Outfielder,28,"5' 10""",190,R,R
+Josh Lowe,Tampa Bay Rays,,Outfielder,27,"6' 4""",220,L,R
+Junior Caminero,Tampa Bay Rays,,Third Base,21,"6' 1""",220,R,R
+Kameron Misner,Tampa Bay Rays,,Outfielder,27,"6' 4""",220,L,L
+Manuel Rodríguez,Tampa Bay Rays,,Pitcher,28,"5' 11""",205,R,R
+Mason Montgomery,Tampa Bay Rays,,Pitcher,24,"6' 2""",205,L,L
+Pete Fairbanks,Tampa Bay Rays,,Pitcher,31,"6' 6""",235,R,R
+Ryan Pepiot,Tampa Bay Rays,,Pitcher,27,"6' 3""",210,R,R
+Shane Baz,Tampa Bay Rays,,Pitcher,25,"6' 3""",200,R,R
+Taj Bradley,Tampa Bay Rays,,Pitcher,24,"6' 2""",220,R,R
+Taylor Walls,Tampa Bay Rays,,Shortstop,28,"5' 8""",185,S,R
+Yandy Díaz,Tampa Bay Rays,,First Base,33,"6' 1""",235,R,R
+Zack Littell,Tampa Bay Rays,,Pitcher,29,"6' 4""",250,R,R
+Adolis García,Texas Rangers,,Outfielder,32,"6' 0""",205,R,R
+Caleb Boushley,Texas Rangers,,Pitcher,31,"6' 3""",190,R,R
+Cole Winn,Texas Rangers,,Pitcher,25,"6' 2""",190,R,R
+Ezequiel Duran,Texas Rangers,,Shortstop,26,"5' 10""",185,R,R
+Hoby Milner,Texas Rangers,,Pitcher,34,"6' 3""",187,L,L
+Jack Leiter,Texas Rangers,,Pitcher,25,"6' 1""",205,R,R
+Jacob Latz,Texas Rangers,,Pitcher,29,"6' 2""",185,R,L
+Jacob Webb,Texas Rangers,,Pitcher,31,"6' 2""",210,R,R
+Jacob deGrom,Texas Rangers,,Pitcher,36,"6' 4""",180,L,R
+Jake Burger,Texas Rangers,,First Base,29,"6' 0""",230,R,R
+Joc Pederson,Texas Rangers,,First Base,33,"6' 1""",220,L,L
+Jonah Heim,Texas Rangers,,Catcher,29,"6' 4""",220,S,R
+Josh Jung,Texas Rangers,,Third Base,27,"6' 1""",214,R,R
+Josh Smith,Texas Rangers,,Shortstop,27,"5' 9""",172,L,R
+Kevin Pillar,Texas Rangers,,Outfielder,36,"6' 0""",210,R,R
+Kyle Higashioka,Texas Rangers,,Catcher,35,"6' 0""",202,R,R
+Luke Jackson,Texas Rangers,,Pitcher,33,"6' 2""",210,R,R
+Marcus Semien,Texas Rangers,,Second Base,34,"6' 0""",195,R,R
+Nathan Eovaldi,Texas Rangers,,Pitcher,35,"6' 2""",217,R,R
+Patrick Corbin,Texas Rangers,,Pitcher,35,"6' 4""",225,L,L
+Robert Garcia,Texas Rangers,,Pitcher,28,"6' 4""",236,R,L
+Sam Haggerty,Texas Rangers,,Outfielder,30,"5' 11""",175,S,R
+Shawn Armstrong,Texas Rangers,,Pitcher,34,"6' 2""",225,R,R
+Tucker Barnhart,Texas Rangers,,Catcher,34,"5' 8""",192,L,R
+Tyler Mahle,Texas Rangers,,Pitcher,30,"6' 3""",210,R,R
+Wyatt Langford,Texas Rangers,,Outfielder,23,"6' 0""",225,R,R
+Addison Barger,Toronto Blue Jays,,Third Base,25,"6' 0""",210,L,R
+Alejandro Kirk,Toronto Blue Jays,,Catcher,26,"5' 8""",245,R,R
+Anthony Santander,Toronto Blue Jays,,Outfielder,30,"6' 0""",230,S,R
+Bo Bichette,Toronto Blue Jays,,Shortstop,27,"5' 11""",190,R,R
+Bowden Francis,Toronto Blue Jays,,Pitcher,29,"6' 5""",220,R,R
+Braydon Fisher,Toronto Blue Jays,,Pitcher,24,"6' 4""",180,R,R
+Brendon Little,Toronto Blue Jays,,Pitcher,28,"6' 2""",195,L,L
+Chad Green,Toronto Blue Jays,,Pitcher,33,"6' 3""",215,L,R
+Chris Bassitt,Toronto Blue Jays,,Pitcher,36,"6' 5""",217,R,R
+Daulton Varsho,Toronto Blue Jays,,Outfielder,28,"5' 8""",207,L,R
+Eric Lauer,Toronto Blue Jays,,Pitcher,29,"6' 3""",209,R,L
+Ernie Clement,Toronto Blue Jays,,Third Base,29,"5' 11""",170,R,R
+George Springer,Toronto Blue Jays,,Outfielder,35,"6' 1""",220,R,R
+Jeff Hoffman,Toronto Blue Jays,,Pitcher,32,"6' 5""",235,R,R
+Jonatan Clase,Toronto Blue Jays,,Outfielder,22,"5' 10""",150,S,R
+José Berríos,Toronto Blue Jays,,Pitcher,30,"6' 0""",205,R,R
+José Ureña,Toronto Blue Jays,,Pitcher,33,"6' 2""",208,R,R
+Kevin Gausman,Toronto Blue Jays,,Pitcher,34,"6' 2""",205,L,R
+Mason Fluharty,Toronto Blue Jays,,Pitcher,23,"6' 2""",215,R,L
+Michael Stefanic,Toronto Blue Jays,,Second Base,29,"5' 9""",180,R,R
+Myles Straw,Toronto Blue Jays,,Outfielder,30,"5' 9""",178,R,R
+Nathan Lukes,Toronto Blue Jays,,Outfielder,30,"5' 11""",180,L,R
+Tyler Heineman,Toronto Blue Jays,,Catcher,33,"5' 10""",190,S,R
+Vladimir Guerrero Jr.,Toronto Blue Jays,,First Base,26,"6' 0""",245,R,R
+Yariel Rodríguez,Toronto Blue Jays,,Pitcher,28,"6' 0""",165,R,R
+Yimi García,Toronto Blue Jays,,Pitcher,34,"6' 1""",230,R,R
+Bailey Ober,Minnesota Twins,,Pitcher,29,"6' 9""",260,R,R
+Brock Stewart,Minnesota Twins,,Pitcher,33,"6' 3""",220,L,R
+Brooks Lee,Minnesota Twins,,Third Base,24,"6' 1""",205,S,R
+Carson McCusker,Minnesota Twins,,Outfielder,27,"6' 8""",250,R,R
+Chris Paddack,Minnesota Twins,,Pitcher,29,"6' 5""",217,R,R
+Christian Vázquez,Minnesota Twins,,Catcher,34,"5' 8""",205,R,R
+Cole Sands,Minnesota Twins,,Pitcher,27,"6' 3""",215,R,R
+DaShawn Keirsey Jr.,Minnesota Twins,,Outfielder,28,"6' 0""",195,L,L
+Griffin Jax,Minnesota Twins,,Pitcher,30,"6' 2""",195,R,R
+Harrison Bader,Minnesota Twins,,Outfielder,30,"5' 11""",210,R,R
+Jhoan Duran,Minnesota Twins,,Pitcher,27,"6' 5""",230,R,R
+Joe Ryan,Minnesota Twins,,Pitcher,28,"6' 2""",205,R,R
+Jonah Bride,Minnesota Twins,,Third Base,29,"5' 11""",200,R,R
+Jorge Alcala,Minnesota Twins,,Pitcher,29,"6' 3""",205,R,R
+Justin Topa,Minnesota Twins,,Pitcher,34,"6' 4""",200,R,R
+Kody Clemens,Minnesota Twins,,Second Base,29,"6' 0""",200,L,R
+Kody Funderburk,Minnesota Twins,,Pitcher,28,"6' 4""",230,L,L
+Louis Varland,Minnesota Twins,,Pitcher,27,"6' 1""",205,L,R
+Pablo López,Minnesota Twins,,Pitcher,29,"6' 4""",225,L,R
+Royce Lewis,Minnesota Twins,,Third Base,25,"6' 0""",200,R,R
+Ryan Jeffers,Minnesota Twins,,Catcher,27,"6' 3""",235,R,R
+Trevor Larnach,Minnesota Twins,,Outfielder,28,"6' 3""",223,L,R
+Ty France,Minnesota Twins,,First Base,30,"5' 11""",215,R,R
+Willi Castro,Minnesota Twins,,Second Base,28,"6' 0""",206,S,R
+Zebby Matthews,Minnesota Twins,,Pitcher,25,"6' 5""",225,R,R
+Alec Bohm,Philadelphia Phillies,,Third Base,28,"6' 5""",218,R,R
+Brandon Marsh,Philadelphia Phillies,,Outfielder,27,"6' 2""",215,L,R
+Bryce Harper,Philadelphia Phillies,,First Base,32,"6' 2""",210,L,R
+Bryson Stott,Philadelphia Phillies,,Second Base,27,"6' 1""",200,L,R
+Carlos Hernández,Philadelphia Phillies,,Pitcher,28,"6' 4""",255,R,R
+Cristopher Sánchez,Philadelphia Phillies,,Pitcher,28,"6' 6""",200,L,L
+Edmundo Sosa,Philadelphia Phillies,,Second Base,29,"6' 0""",210,R,R
+J.T. Realmuto,Philadelphia Phillies,,Catcher,34,"6' 0""",212,R,R
+Jesús Luzardo,Philadelphia Phillies,,Pitcher,27,"6' 0""",218,L,L
+Joe Ross,Philadelphia Phillies,,Pitcher,32,"6' 4""",243,R,R
+Johan Rojas,Philadelphia Phillies,,Outfielder,24,"5' 11""",165,R,R
+Jordan Romano,Philadelphia Phillies,,Pitcher,32,"6' 5""",210,R,R
+José Ruiz,Philadelphia Phillies,,Pitcher,30,"6' 1""",245,R,R
+Kyle Schwarber,Philadelphia Phillies,,Outfielder,32,"5' 11""",229,L,R
+Matt Strahm,Philadelphia Phillies,,Pitcher,33,"6' 2""",190,R,L
+Max Kepler,Philadelphia Phillies,,Outfielder,32,"6' 4""",225,L,L
+Max Lazar,Philadelphia Phillies,,Pitcher,25,"6' 1""",200,R,R
+Nick Castellanos,Philadelphia Phillies,,Outfielder,33,"6' 3""",203,R,R
+Orion Kerkering,Philadelphia Phillies,,Pitcher,24,"6' 2""",204,R,R
+Rafael Marchán,Philadelphia Phillies,,Catcher,26,"5' 9""",170,S,R
+Ranger Suárez,Philadelphia Phillies,,Pitcher,29,"6' 1""",217,L,L
+Taijuan Walker,Philadelphia Phillies,,Pitcher,32,"6' 4""",235,R,R
+Tanner Banks,Philadelphia Phillies,,Pitcher,33,"6' 1""",205,R,L
+Trea Turner,Philadelphia Phillies,,Shortstop,31,"6' 1""",185,R,R
+Weston Wilson,Philadelphia Phillies,,Outfielder,30,"6' 3""",215,R,R
+Zack Wheeler,Philadelphia Phillies,,Pitcher,34,"6' 4""",195,L,R
+AJ Smith-Shawver,Atlanta Braves,,Pitcher,22,"6' 3""",205,R,R
+Aaron Bummer,Atlanta Braves,,Pitcher,31,"6' 3""",215,L,L
+Alex Verdugo,Atlanta Braves,,Outfielder,29,"6' 0""",209,L,L
+Austin Riley,Atlanta Braves,,Third Base,28,"6' 2""",225,R,R
+Chris Sale,Atlanta Braves,,Pitcher,36,"6' 6""",180,L,L
+Daysbel Hernández,Atlanta Braves,,Pitcher,28,"5' 10""",220,R,R
+Drake Baldwin,Atlanta Braves,,Catcher,24,"6' 1""",225,L,R
+Dylan Lee,Atlanta Braves,,Pitcher,30,"6' 3""",214,L,L
+Eli White,Atlanta Braves,,Outfielder,30,"6' 3""",195,R,R
+Enyel De Los Santos,Atlanta Braves,,Pitcher,29,"6' 3""",235,R,R
+Grant Holmes,Atlanta Braves,,Pitcher,29,"6' 0""",226,L,R
+Luke Williams,Atlanta Braves,,Shortstop,28,"6' 1""",186,R,R
+Marcell Ozuna,Atlanta Braves,,Designated Hitter,34,"6' 1""",225,R,R
+Matt Olson,Atlanta Braves,,First Base,31,"6' 4""",225,L,R
+Michael Harris II,Atlanta Braves,,Outfielder,24,"6' 0""",195,L,L
+Nick Allen,Atlanta Braves,,Shortstop,26,"5' 8""",166,R,R
+Orlando Arcia,Atlanta Braves,,Shortstop,30,"5' 11""",187,R,R
+Ozzie Albies,Atlanta Braves,,Second Base,28,"5' 7""",165,S,R
+Pierce Johnson,Atlanta Braves,,Pitcher,34,"6' 2""",202,R,R
+Rafael Montero,Atlanta Braves,,Pitcher,34,"6' 0""",193,R,R
+Raisel Iglesias,Atlanta Braves,,Pitcher,35,"6' 2""",190,R,R
+Scott Blewett,Atlanta Braves,,Pitcher,29,"6' 6""",245,R,R
+Sean Murphy,Atlanta Braves,,Catcher,30,"6' 3""",228,R,R
+Spencer Schwellenbach,Atlanta Braves,,Pitcher,24,"6' 1""",200,R,R
+Spencer Strider,Atlanta Braves,,Pitcher,26,"6' 0""",195,R,R
+Stuart Fairchild,Atlanta Braves,,Outfielder,29,"5' 11""",205,R,R
+Adrian Houser,Chicago White Sox,,Pitcher,32,"6' 3""",242,R,R
+Andrew Vaughn,Chicago White Sox,,First Base,27,"5' 10""",215,R,R
+Austin Slater,Chicago White Sox,,Outfielder,32,"6' 1""",205,R,R
+Brandon Eisert,Chicago White Sox,,Pitcher,27,"6' 2""",210,L,L
+Bryse Wilson,Chicago White Sox,,Pitcher,27,"6' 2""",255,R,R
+Cam Booser,Chicago White Sox,,Pitcher,33,"6' 3""",230,L,L
+Chase Meidroth,Chicago White Sox,,Shortstop,23,"5' 10""",190,R,R
+Davis Martin,Chicago White Sox,,Pitcher,28,"6' 2""",215,L,R
+Edgar Quero,Chicago White Sox,,Catcher,22,"5' 10""",205,S,R
+Jared Shuster,Chicago White Sox,,Pitcher,26,"6' 3""",220,L,L
+Jonathan Cannon,Chicago White Sox,,Pitcher,24,"6' 6""",225,R,R
+Jordan Leasure,Chicago White Sox,,Pitcher,26,"6' 3""",220,R,R
+Josh Rojas,Chicago White Sox,,Third Base,30,"6' 1""",200,L,R
+Joshua Palacios,Chicago White Sox,,Outfielder,29,"6' 0""",210,L,R
+Lenyn Sosa,Chicago White Sox,,Second Base,25,"5' 11""",210,R,R
+Luis Robert Jr.,Chicago White Sox,,Outfielder,27,"6' 2""",225,R,R
+Matt Thaiss,Chicago White Sox,,Catcher,30,"5' 11""",215,L,R
+Michael A. Taylor,Chicago White Sox,,Outfielder,34,"6' 4""",215,R,R
+Miguel Castro,Chicago White Sox,,Pitcher,30,"6' 7""",201,R,R
+Miguel Vargas,Chicago White Sox,,Third Base,25,"6' 2""",225,R,R
+Mike Vasil,Chicago White Sox,,Pitcher,25,"6' 5""",225,L,R
+Sean Burke,Chicago White Sox,,Pitcher,25,"6' 6""",240,R,R
+Shane Smith,Chicago White Sox,,Pitcher,25,"6' 3""",240,R,R
+Steven Wilson,Chicago White Sox,,Pitcher,30,"6' 4""",220,R,R
+Tim Elko,Chicago White Sox,,First Base,26,"6' 3""",250,R,R
+Vinny Capra,Chicago White Sox,,Third Base,28,"5' 8""",188,R,R
+Agustín Ramírez,Miami Marlins,,Catcher,23,"6' 1""",210,R,R
+Anthony Bender,Miami Marlins,,Pitcher,30,"6' 4""",205,R,R
+Cade Gibson,Miami Marlins,,Pitcher,27,"6' 2""",195,L,L
+Cal Quantrill,Miami Marlins,,Pitcher,30,"6' 3""",195,L,R
+Calvin Faucher,Miami Marlins,,Pitcher,29,"6' 1""",190,R,R
+Connor Norby,Miami Marlins,,Third Base,24,"5' 10""",180,R,R
+Derek Hill,Miami Marlins,,Outfielder,29,"6' 0""",206,R,R
+Edward Cabrera,Miami Marlins,,Pitcher,27,"6' 5""",217,R,R
+Eric Wagaman,Miami Marlins,,First Base,27,"6' 4""",210,R,R
+Graham Pauley,Miami Marlins,,Third Base,24,"6' 1""",200,L,R
+Javier Sanoja,Miami Marlins,,Second Base,22,"5' 7""",150,R,R
+Jesús Sánchez,Miami Marlins,,Outfielder,27,"6' 4""",222,L,R
+Jesus Tinoco,Miami Marlins,,Pitcher,30,"6' 4""",258,R,R
+Kyle Stowers,Miami Marlins,,Outfielder,27,"6' 2""",215,L,L
+Lake Bachar,Miami Marlins,,Pitcher,29,"6' 2""",219,R,R
+Liam Hicks,Miami Marlins,,Catcher,25,"5' 9""",185,L,R
+Matt Mervis,Miami Marlins,,First Base,27,"6' 2""",225,L,R
+Max Meyer,Miami Marlins,,Pitcher,26,"6' 0""",196,L,R
+Nick Fortes,Miami Marlins,,Catcher,28,"5' 11""",198,R,R
+Otto Lopez,Miami Marlins,,Second Base,26,"5' 10""",185,R,R
+Ronny Henriquez,Miami Marlins,,Pitcher,24,"5' 10""",155,R,R
+Ronny Simon,Miami Marlins,,Outfielder,25,"5' 8""",150,S,R
+Ryan Weathers,Miami Marlins,,Pitcher,25,"6' 1""",230,R,L
+Sandy Alcantara,Miami Marlins,,Pitcher,29,"6' 5""",200,R,R
+Tyler Phillips,Miami Marlins,,Pitcher,27,"6' 5""",225,R,R
+Valente Bellozo,Miami Marlins,,Pitcher,25,"5' 10""",208,R,R
+Aaron Judge,New York Yankees,,Outfielder,33,"6' 7""",282,R,R
+Anthony Volpe,New York Yankees,,Shortstop,24,"5' 10""",197,R,R
+Austin Wells,New York Yankees,,Catcher,25,"6' 1""",220,L,R
+Ben Rice,New York Yankees,,First Base,26,"6' 2""",228,L,R
+Brent Headrick,New York Yankees,,Pitcher,27,"6' 6""",235,L,L
+Carlos Rodón,New York Yankees,,Pitcher,32,"6' 2""",255,L,L
+Clarke Schmidt,New York Yankees,,Pitcher,29,"6' 1""",200,R,R
+Cody Bellinger,New York Yankees,,Outfielder,29,"6' 3""",204,L,L
+DJ LeMahieu,New York Yankees,,Second Base,36,"6' 3""",220,R,R
+Devin Williams,New York Yankees,,Pitcher,30,"6' 2""",193,R,R
+Ian Hamilton,New York Yankees,,Pitcher,29,"6' 1""",200,R,R
+J.C. Escarra,New York Yankees,,Catcher,30,"6' 2""",220,L,R
+Jasson Domínguez,New York Yankees,,Outfielder,22,"5' 9""",218,S,R
+Jonathan Loáisiga,New York Yankees,,Pitcher,30,"5' 11""",195,R,R
+Jorbit Vivas,New York Yankees,,Second Base,24,"5' 9""",171,L,R
+Luke Weaver,New York Yankees,,Pitcher,31,"6' 2""",180,R,R
+Mark Leiter Jr.,New York Yankees,,Pitcher,34,"6' 0""",210,R,R
+Max Fried,New York Yankees,,Pitcher,31,"6' 4""",190,L,L
+Oswald Peraza,New York Yankees,,Third Base,24,"5' 11""",200,R,R
+Pablo Reyes,New York Yankees,,Second Base,31,"5' 8""",175,R,R
+Paul Goldschmidt,New York Yankees,,First Base,37,"6' 2""",225,R,R
+Ryan Yarbrough,New York Yankees,,Pitcher,33,"6' 5""",215,R,L
+Tim Hill,New York Yankees,,Pitcher,35,"6' 4""",210,R,L
+Trent Grisham,New York Yankees,,Outfielder,28,"5' 10""",221,L,L
+Will Warren,New York Yankees,,Pitcher,25,"6' 2""",200,R,R
+Yerry De los Santos,New York Yankees,,Pitcher,27,"6' 2""",210,R,R
+Abner Uribe,Milwaukee Brewers,,Pitcher,24,"6' 3""",210,R,R
+Andruw Monasterio,Milwaukee Brewers,,Shortstop,27,"5' 11""",195,R,R
+Brice Turang,Milwaukee Brewers,,Second Base,25,"5' 11""",190,L,R
+Caleb Durbin,Milwaukee Brewers,,Third Base,25,"5' 7""",183,R,R
+Chad Patrick,Milwaukee Brewers,,Pitcher,26,"6' 1""",217,R,R
+Christian Yelich,Milwaukee Brewers,,Outfielder,33,"6' 3""",203,L,R
+Daz Cameron,Milwaukee Brewers,,Outfielder,28,"6' 0""",185,R,R
+Easton McGee,Milwaukee Brewers,,Pitcher,27,"6' 7""",217,R,R
+Eric Haase,Milwaukee Brewers,,Catcher,32,"5' 10""",204,R,R
+Freddy Peralta,Milwaukee Brewers,,Pitcher,28,"6' 0""",198,R,R
+Grant Anderson,Milwaukee Brewers,,Pitcher,27,"6' 0""",204,R,R
+Isaac Collins,Milwaukee Brewers,,Outfielder,27,"5' 8""",188,S,R
+Jackson Chourio,Milwaukee Brewers,,Outfielder,21,"6' 0""",204,R,R
+Jake Bauers,Milwaukee Brewers,,First Base,29,"6' 0""",203,L,L
+Jared Koenig,Milwaukee Brewers,,Pitcher,31,"6' 5""",248,R,L
+Joel Payamps,Milwaukee Brewers,,Pitcher,31,"6' 3""",214,R,R
+Joey Ortiz,Milwaukee Brewers,,Shortstop,26,"5' 10""",183,R,R
+Logan Henderson,Milwaukee Brewers,,Pitcher,23,"6' 0""",209,R,R
+Nick Mears,Milwaukee Brewers,,Pitcher,28,"6' 3""",217,R,R
+Quinn Priester,Milwaukee Brewers,,Pitcher,24,"6' 3""",210,R,R
+Rhys Hoskins,Milwaukee Brewers,,First Base,32,"6' 3""",241,R,R
+Rob Zastryzny,Milwaukee Brewers,,Pitcher,33,"6' 3""",205,R,L
+Sal Frelick,Milwaukee Brewers,,Outfielder,25,"5' 8""",188,L,R
+Trevor Megill,Milwaukee Brewers,,Pitcher,31,"6' 8""",249,L,R
+Tyler Alexander,Milwaukee Brewers,,Pitcher,30,"6' 1""",214,R,L
+William Contreras,Milwaukee Brewers,,Catcher,27,"5' 10""",218,R,R
+Brock Burke,Los Angeles Angels,,Pitcher,28,"6' 4""",210,L,L
+Connor Brogdon,Los Angeles Angels,,Pitcher,30,"6' 6""",205,R,R
+Héctor Neris,Los Angeles Angels,,Pitcher,35,"6' 2""",227,R,R
+Hunter Strickland,Los Angeles Angels,,Pitcher,36,"6' 3""",225,R,R
+Jack Kochanowicz,Los Angeles Angels,,Pitcher,24,"6' 7""",228,L,R
+Jo Adell,Los Angeles Angels,,Outfielder,26,"6' 2""",215,R,R
+Jorge Soler,Los Angeles Angels,,Outfielder,33,"6' 4""",235,R,R
+José Soriano,Los Angeles Angels,,Pitcher,26,"6' 3""",220,R,R
+Kenley Jansen,Los Angeles Angels,,Pitcher,37,"6' 5""",265,S,R
+Kevin Newman,Los Angeles Angels,,Shortstop,31,"6' 1""",195,R,R
+Kyle Hendricks,Los Angeles Angels,,Pitcher,35,"6' 3""",190,R,R
+Kyren Paris,Los Angeles Angels,,Second Base,23,"5' 11""",180,R,R
+Logan O'Hoppe,Los Angeles Angels,,Catcher,25,"6' 2""",185,R,R
+Luis Rengifo,Los Angeles Angels,,Third Base,28,"5' 10""",195,S,R
+Matthew Lugo,Los Angeles Angels,,Outfielder,24,"6' 0""",190,R,R
+Nolan Schanuel,Los Angeles Angels,,First Base,23,"6' 2""",220,L,R
+Reid Detmers,Los Angeles Angels,,Pitcher,25,"6' 2""",210,L,L
+Ryan Zeferjahn,Los Angeles Angels,,Pitcher,27,"6' 5""",209,R,R
+Shaun Anderson,Los Angeles Angels,,Pitcher,30,"6' 6""",228,R,R
+Taylor Ward,Los Angeles Angels,,Outfielder,31,"6' 0""",200,R,R
+Tim Anderson,Los Angeles Angels,,Shortstop,31,"6' 0""",185,R,R
+Travis d'Arnaud,Los Angeles Angels,,Catcher,36,"6' 0""",210,R,R
+Tyler Anderson,Los Angeles Angels,,Pitcher,35,"6' 2""",220,L,L
+Yoán Moncada,Los Angeles Angels,,Third Base,29,"6' 0""",220,S,R
+Yusei Kikuchi,Los Angeles Angels,,Pitcher,33,"6' 0""",210,L,L
+Zach Neto,Los Angeles Angels,,Shortstop,24,"5' 11""",185,R,R
+Alek Thomas,Arizona Diamondbacks,,Outfielder,25,"5' 9""",175,L,L
+Brandon Pfaadt,Arizona Diamondbacks,,Pitcher,26,"6' 4""",220,R,R
+Christian Montes De Oca,Arizona Diamondbacks,,Pitcher,25,"6' 4""",230,R,R
+Corbin Burnes,Arizona Diamondbacks,,Pitcher,30,"6' 3""",245,R,R
+Corbin Carroll,Arizona Diamondbacks,,Outfielder,24,"5' 10""",165,L,L
+Eugenio Suárez,Arizona Diamondbacks,,Third Base,33,"5' 11""",213,R,R
+Gabriel Moreno,Arizona Diamondbacks,,Catcher,25,"5' 9""",195,R,R
+Geraldo Perdomo,Arizona Diamondbacks,,Shortstop,25,"6' 2""",203,S,R
+Jalen Beeks,Arizona Diamondbacks,,Pitcher,31,"5' 11""",215,L,L
+Jordan Lawlar,Arizona Diamondbacks,,Shortstop,22,"6' 0""",190,R,R
+Jose Herrera,Arizona Diamondbacks,,Catcher,28,"5' 9""",217,S,R
+Josh Naylor,Arizona Diamondbacks,,First Base,27,"5' 10""",235,L,L
+Juan Morillo,Arizona Diamondbacks,,Pitcher,26,"6' 1""",150,R,R
+Kendall Graveman,Arizona Diamondbacks,,Pitcher,34,"6' 2""",215,R,R
+Ketel Marte,Arizona Diamondbacks,,Second Base,31,"6' 0""",210,S,R
+Kevin Ginkel,Arizona Diamondbacks,,Pitcher,31,"6' 4""",235,L,R
+Lourdes Gurriel Jr.,Arizona Diamondbacks,,Outfielder,31,"6' 3""",215,R,R
+Merrill Kelly,Arizona Diamondbacks,,Pitcher,36,"6' 2""",202,R,R
+Pavin Smith,Arizona Diamondbacks,,First Base,29,"6' 2""",208,L,L
+Randal Grichuk,Arizona Diamondbacks,,Outfielder,33,"6' 0""",216,R,R
+Ryan Thompson,Arizona Diamondbacks,,Pitcher,32,"6' 5""",210,R,R
+Ryne Nelson,Arizona Diamondbacks,,Pitcher,27,"6' 3""",184,R,R
+Scott McGough,Arizona Diamondbacks,,Pitcher,35,"5' 11""",190,R,R
+Shelby Miller,Arizona Diamondbacks,,Pitcher,34,"6' 3""",225,R,R
+Tim Tawa,Arizona Diamondbacks,,Second Base,26,"5' 11""",196,R,R
+Zac Gallen,Arizona Diamondbacks,,Pitcher,29,"6' 2""",189,R,R
+Adley Rutschman,Baltimore Orioles,,Catcher,27,"6' 2""",230,S,R
+Andrew Kittredge,Baltimore Orioles,,Pitcher,35,"6' 1""",230,R,R
+Bryan Baker,Baltimore Orioles,,Pitcher,30,"6' 6""",235,R,R
+Cade Povich,Baltimore Orioles,,Pitcher,25,"6' 3""",185,L,L
+Cedric Mullins,Baltimore Orioles,,Outfielder,30,"5' 8""",175,L,L
+Charlie Morton,Baltimore Orioles,,Pitcher,41,"6' 5""",215,R,R
+Cionel Pérez,Baltimore Orioles,,Pitcher,29,"6' 0""",175,R,L
+Dean Kremer,Baltimore Orioles,,Pitcher,29,"6' 2""",210,R,R
+Dylan Carlson,Baltimore Orioles,,Outfielder,26,"6' 2""",200,S,L
+Emmanuel Rivera,Baltimore Orioles,,Third Base,28,"6' 0""",225,R,R
+Félix Bautista,Baltimore Orioles,,Pitcher,29,"6' 8""",285,R,R
+Gregory Soto,Baltimore Orioles,,Pitcher,30,"6' 1""",234,L,L
+Gunnar Henderson,Baltimore Orioles,,Shortstop,23,"6' 3""",220,L,R
+Heston Kjerstad,Baltimore Orioles,,Outfielder,26,"6' 2""",205,L,R
+Jackson Holliday,Baltimore Orioles,,Second Base,21,"6' 0""",185,L,R
+Jorge Mateo,Baltimore Orioles,,Shortstop,29,"6' 1""",200,R,R
+Keegan Akin,Baltimore Orioles,,Pitcher,30,"6' 0""",240,L,L
+Maverick Handley,Baltimore Orioles,,Catcher,27,"5' 9""",210,R,R
+Ramón Laureano,Baltimore Orioles,,Outfielder,30,"5' 10""",203,R,R
+Ramón Urías,Baltimore Orioles,,Third Base,30,"5' 9""",185,R,R
+Ryan Mountcastle,Baltimore Orioles,,First Base,28,"6' 3""",220,R,R
+Ryan O'Hearn,Baltimore Orioles,,Outfielder,31,"6' 2""",220,L,L
+Seranthony Domínguez,Baltimore Orioles,,Pitcher,30,"6' 1""",225,R,R
+Tomoyuki Sugano,Baltimore Orioles,,Pitcher,35,"6' 1""",198,R,R
+Yennier Cano,Baltimore Orioles,,Pitcher,31,"6' 4""",245,R,R
+Zach Eflin,Baltimore Orioles,,Pitcher,31,"6' 6""",220,R,R
+Abraham Toro,Boston Red Sox,,First Base,28,"6' 0""",223,S,R
+Alex Bregman,Boston Red Sox,,Third Base,31,"5' 11""",190,R,R
+Aroldis Chapman,Boston Red Sox,,Pitcher,37,"6' 4""",235,L,L
+Brayan Bello,Boston Red Sox,,Pitcher,26,"6' 1""",195,R,R
+Brennan Bernardino,Boston Red Sox,,Pitcher,33,"6' 4""",180,L,L
+Carlos Narváez,Boston Red Sox,,Catcher,26,"6' 0""",190,R,R
+Ceddanne Rafaela,Boston Red Sox,,Outfielder,24,"5' 10""",165,R,R
+Connor Wong,Boston Red Sox,,Catcher,29,"5' 10""",190,R,R
+David Hamilton,Boston Red Sox,,Second Base,27,"5' 11""",188,L,R
+Garrett Crochet,Boston Red Sox,,Pitcher,25,"6' 6""",245,L,L
+Garrett Whitlock,Boston Red Sox,,Pitcher,28,"6' 5""",222,R,R
+Greg Weissert,Boston Red Sox,,Pitcher,30,"6' 2""",235,R,R
+Hunter Dobbins,Boston Red Sox,,Pitcher,25,"6' 2""",185,R,R
+Jarren Duran,Boston Red Sox,,Outfielder,28,"6' 1""",205,L,R
+Justin Slaten,Boston Red Sox,,Pitcher,27,"6' 4""",222,R,R
+Justin Wilson,Boston Red Sox,,Pitcher,37,"6' 2""",205,L,L
+Kristian Campbell,Boston Red Sox,,Second Base,22,"6' 3""",191,R,R
+Liam Hendriks,Boston Red Sox,,Pitcher,36,"6' 0""",235,R,R
+Lucas Giolito,Boston Red Sox,,Pitcher,30,"6' 6""",245,R,R
+Nick Sogard,Boston Red Sox,,First Base,27,"6' 1""",189,S,R
+Rafael Devers,Boston Red Sox,,Designated Hitter,28,"6' 0""",235,L,R
+Rob Refsnyder,Boston Red Sox,,Outfielder,34,"6' 0""",215,R,R
+Sean Newcomb,Boston Red Sox,,Pitcher,31,"6' 5""",255,L,L
+Trevor Story,Boston Red Sox,,Shortstop,32,"6' 1""",209,R,R
+Walker Buehler,Boston Red Sox,,Pitcher,30,"6' 2""",185,R,R
+Wilyer Abreu,Boston Red Sox,,Outfielder,25,"5' 10""",215,L,L
+Ben Brown,Chicago Cubs,,Pitcher,25,"6' 6""",210,R,R
+Brad Keller,Chicago Cubs,,Pitcher,29,"6' 5""",255,R,R
+Cade Horton,Chicago Cubs,,Pitcher,23,"6' 1""",211,R,R
+Caleb Thielbar,Chicago Cubs,,Pitcher,38,"6' 0""",205,R,L
+Carson Kelly,Chicago Cubs,,Catcher,30,"6' 1""",212,R,R
+Chris Flexen,Chicago Cubs,,Pitcher,30,"6' 3""",220,R,R
+Colin Rea,Chicago Cubs,,Pitcher,34,"6' 5""",220,R,R
+Daniel Palencia,Chicago Cubs,,Pitcher,25,"5' 11""",160,R,R
+Dansby Swanson,Chicago Cubs,,Shortstop,31,"6' 0""",190,R,R
+Drew Pomeranz,Chicago Cubs,,Pitcher,36,"6' 5""",246,R,L
+Ethan Roberts,Chicago Cubs,,Pitcher,27,"5' 10""",180,R,R
+Ian Happ,Chicago Cubs,,Outfielder,30,"5' 11""",205,S,R
+Jameson Taillon,Chicago Cubs,,Pitcher,33,"6' 5""",230,R,R
+Jon Berti,Chicago Cubs,,Third Base,35,"5' 10""",190,R,R
+Julian Merryweather,Chicago Cubs,,Pitcher,33,"6' 4""",215,R,R
+Justin Turner,Chicago Cubs,,First Base,40,"5' 11""",208,R,R
+Kyle Tucker,Chicago Cubs,,Outfielder,28,"6' 4""",212,L,R
+Matt Shaw,Chicago Cubs,,Second Base,23,"5' 10""",185,R,R
+Matthew Boyd,Chicago Cubs,,Pitcher,34,"6' 3""",223,L,L
+Michael Busch,Chicago Cubs,,First Base,27,"6' 0""",210,L,R
+Miguel Amaya,Chicago Cubs,,Catcher,26,"6' 1""",230,R,R
+Nico Hoerner,Chicago Cubs,,Second Base,28,"5' 11""",200,R,R
+Pete Crow-Armstrong,Chicago Cubs,,Outfielder,23,"6' 0""",184,L,L
+Ryan Pressly,Chicago Cubs,,Pitcher,36,"6' 2""",207,R,R
+Seiya Suzuki,Chicago Cubs,,Outfielder,30,"6' 0""",182,R,R
+Vidal Bruján,Chicago Cubs,,Third Base,27,"5' 9""",180,S,R
+Andrew Abbott,Cincinnati Reds,,Pitcher,25,"6' 0""",192,L,L
+Austin Hays,Cincinnati Reds,,Outfielder,29,"5' 11""",200,R,R
+Austin Wynns,Cincinnati Reds,,Catcher,34,"6' 1""",190,R,R
+Brady Singer,Cincinnati Reds,,Pitcher,28,"6' 5""",215,R,R
+Brent Suter,Cincinnati Reds,,Pitcher,35,"6' 4""",213,L,L
+Connor Joe,Cincinnati Reds,,Outfielder,32,"5' 11""",205,R,R
+Elly De La Cruz,Cincinnati Reds,,Shortstop,23,"6' 5""",200,S,R
+Emilio Pagán,Cincinnati Reds,,Pitcher,34,"6' 2""",208,L,R
+Gavin Lux,Cincinnati Reds,,Outfielder,27,"5' 11""",190,L,R
+Graham Ashcraft,Cincinnati Reds,,Pitcher,27,"6' 2""",248,L,R
+Ian Gibaut,Cincinnati Reds,,Pitcher,31,"6' 3""",250,R,R
+Jose Trevino,Cincinnati Reds,,Catcher,32,"5' 9""",215,R,R
+Luis Mey,Cincinnati Reds,,Pitcher,23,"6' 5""",235,R,R
+Matt McLain,Cincinnati Reds,,Second Base,25,"5' 9""",180,R,R
+Nick Lodolo,Cincinnati Reds,,Pitcher,27,"6' 6""",216,L,L
+Nick Martinez,Cincinnati Reds,,Pitcher,34,"6' 1""",200,L,R
+Rece Hinds,Cincinnati Reds,,Outfielder,24,"6' 3""",215,R,R
+Santiago Espinal,Cincinnati Reds,,Third Base,30,"5' 10""",185,R,R
+Scott Barlow,Cincinnati Reds,,Pitcher,32,"6' 3""",210,R,R
+Spencer Steer,Cincinnati Reds,,First Base,27,"5' 9""",185,R,R
+TJ Friedl,Cincinnati Reds,,Outfielder,29,"5' 8""",180,L,L
+Taylor Rogers,Cincinnati Reds,,Pitcher,34,"6' 3""",190,L,L
+Tony Santillan,Cincinnati Reds,,Pitcher,28,"6' 3""",285,R,R
+Tyler Stephenson,Cincinnati Reds,,Catcher,28,"6' 3""",225,R,R
+Will Benson,Cincinnati Reds,,Outfielder,26,"6' 4""",230,L,L
+Angel Martínez,Cleveland Guardians,,Outfielder,23,"5' 11""",200,S,R
+Austin Hedges,Cleveland Guardians,,Catcher,32,"6' 0""",220,R,R
+Bo Naylor,Cleveland Guardians,,Catcher,25,"6' 0""",205,L,R
+Cade Smith,Cleveland Guardians,,Pitcher,26,"6' 5""",230,R,R
+Carlos Santana,Cleveland Guardians,,First Base,39,"5' 10""",210,S,R
+Daniel Schneemann,Cleveland Guardians,,Second Base,28,"5' 11""",185,L,R
+Emmanuel Clase,Cleveland Guardians,,Pitcher,27,"6' 2""",206,R,R
+Gabriel Arias,Cleveland Guardians,,Second Base,25,"6' 1""",217,R,R
+Gavin Williams,Cleveland Guardians,,Pitcher,25,"6' 6""",250,L,R
+Hunter Gaddis,Cleveland Guardians,,Pitcher,27,"6' 6""",260,R,R
+Jakob Junis,Cleveland Guardians,,Pitcher,32,"6' 3""",238,R,R
+Jhonkensy Noel,Cleveland Guardians,,Outfielder,23,"6' 3""",250,R,R
+Joey Cantillo,Cleveland Guardians,,Pitcher,25,"6' 4""",225,L,L
+José Ramírez,Cleveland Guardians,,Third Base,32,"5' 8""",190,S,R
+Kolby Allard,Cleveland Guardians,,Pitcher,27,"6' 1""",195,L,L
+Kyle Manzardo,Cleveland Guardians,,First Base,24,"6' 0""",205,L,R
+Logan Allen,Cleveland Guardians,,Pitcher,26,"6' 0""",190,R,L
+Luis L. Ortiz,Cleveland Guardians,,Pitcher,26,"6' 2""",235,R,R
+Matt Festa,Cleveland Guardians,,Pitcher,32,"6' 1""",195,R,R
+Nolan Jones,Cleveland Guardians,,Outfielder,27,"6' 5""",195,L,R
+Slade Cecconi,Cleveland Guardians,,Pitcher,25,"6' 4""",219,R,R
+Steven Kwan,Cleveland Guardians,,Outfielder,27,"5' 8""",170,L,L
+Tanner Bibee,Cleveland Guardians,,Pitcher,26,"6' 2""",205,R,R
+Tim Herrin,Cleveland Guardians,,Pitcher,28,"6' 6""",230,L,L
+Will Brennan,Cleveland Guardians,,Outfielder,27,"5' 11""",200,L,L
+Will Wilson,Cleveland Guardians,,Third Base,26,"5' 10""",184,R,R
+Aaron Schunk,Colorado Rockies,,Shortstop,27,"6' 2""",205,R,R
+Adael Amador,Colorado Rockies,,Second Base,22,"5' 11""",200,S,R
+Angel Chivilli,Colorado Rockies,,Pitcher,22,"6' 2""",162,R,R
+Antonio Senzatela,Colorado Rockies,,Pitcher,30,"6' 1""",236,R,R
+Brenton Doyle,Colorado Rockies,,Outfielder,27,"6' 3""",220,R,R
+Carson Palmquist,Colorado Rockies,,Pitcher,24,"6' 3""",185,L,L
+Ezequiel Tovar,Colorado Rockies,,Shortstop,23,"6' 0""",162,R,R
+Germán Márquez,Colorado Rockies,,Pitcher,30,"6' 1""",230,R,R
+Hunter Goodman,Colorado Rockies,,Catcher,25,"6' 0""",210,R,R
+Jacob Stallings,Colorado Rockies,,Catcher,35,"6' 5""",225,R,R
+Jake Bird,Colorado Rockies,,Pitcher,29,"6' 3""",200,R,R
+Jimmy Herget,Colorado Rockies,,Pitcher,31,"6' 3""",170,R,R
+Jordan Beck,Colorado Rockies,,Outfielder,24,"6' 2""",225,R,R
+Juan Mejia,Colorado Rockies,,Pitcher,24,"6' 3""",200,R,R
+Kyle Farmer,Colorado Rockies,,Second Base,34,"5' 11""",205,R,R
+Kyle Freeland,Colorado Rockies,,Pitcher,32,"6' 4""",204,L,L
+Michael Toglia,Colorado Rockies,,First Base,26,"6' 5""",226,S,L
+Mickey Moniak,Colorado Rockies,,Outfielder,27,"6' 2""",195,L,R
+Nick Martini,Colorado Rockies,,Outfielder,34,"5' 11""",205,L,L
+Ryan McMahon,Colorado Rockies,,Third Base,30,"6' 2""",219,L,R
+Ryan Rolison,Colorado Rockies,,Pitcher,27,"6' 2""",213,R,L
+Scott Alexander,Colorado Rockies,,Pitcher,35,"6' 2""",195,L,L
+Seth Halvorsen,Colorado Rockies,,Pitcher,25,"6' 2""",225,R,R
+Tyler Freeman,Colorado Rockies,,Second Base,26,"5' 11""",190,R,R
+Tyler Kinley,Colorado Rockies,,Pitcher,34,"6' 4""",220,R,R
+Zach Agnos,Colorado Rockies,,Pitcher,24,"6' 0""",210,R,R
+Akil Baddoo,Detroit Tigers,,Outfielder,26,"5' 11""",214,L,L
+Andy Ibáñez,Detroit Tigers,,Third Base,32,"5' 10""",205,R,R
+Beau Brieske,Detroit Tigers,,Pitcher,27,"6' 3""",200,R,R
+Brant Hurter,Detroit Tigers,,Pitcher,26,"6' 6""",250,L,L
+Brenan Hanifee,Detroit Tigers,,Pitcher,26,"6' 5""",215,R,R
+Chase Lee,Detroit Tigers,,Pitcher,26,"6' 0""",170,R,R
+Colt Keith,Detroit Tigers,,Second Base,23,"6' 2""",211,L,R
+Dillon Dingler,Detroit Tigers,,Catcher,26,"6' 1""",210,R,R
+Gleyber Torres,Detroit Tigers,,Second Base,28,"5' 11""",205,R,R
+Jack Flaherty,Detroit Tigers,,Pitcher,29,"6' 4""",225,R,R
+Jackson Jobe,Detroit Tigers,,Pitcher,22,"6' 2""",190,R,R
+Jake Rogers,Detroit Tigers,,Catcher,30,"6' 0""",201,R,R
+Javier Báez,Detroit Tigers,,Outfielder,32,"5' 11""",190,R,R
+John Brebbia,Detroit Tigers,,Pitcher,34,"6' 1""",205,L,R
+Justyn-Henry Malloy,Detroit Tigers,,Outfielder,25,"6' 1""",212,R,R
+Keider Montero,Detroit Tigers,,Pitcher,24,"6' 1""",145,R,R
+Kerry Carpenter,Detroit Tigers,,Outfielder,27,"6' 1""",220,L,R
+Riley Greene,Detroit Tigers,,Outfielder,24,"6' 2""",200,L,L
+Sean Guenther,Detroit Tigers,,Pitcher,29,"5' 11""",194,L,L
+Spencer Torkelson,Detroit Tigers,,First Base,25,"6' 1""",220,R,R
+Tarik Skubal,Detroit Tigers,,Pitcher,28,"6' 3""",240,R,L
+Tommy Kahnle,Detroit Tigers,,Pitcher,35,"6' 1""",230,R,R
+Trey Sweeney,Detroit Tigers,,Shortstop,25,"6' 3""",212,L,R
+Tyler Holton,Detroit Tigers,,Pitcher,28,"6' 2""",200,L,L
+Will Vest,Detroit Tigers,,Pitcher,29,"6' 0""",180,R,R
+Zach McKinstry,Detroit Tigers,,Outfielder,30,"6' 0""",180,L,R
+Bennett Sousa,Houston Astros,,Pitcher,30,"6' 3""",220,L,L
+Brendan Rodgers,Houston Astros,,Second Base,28,"6' 0""",204,R,R
+Bryan Abreu,Houston Astros,,Pitcher,28,"6' 1""",230,R,R
+Bryan King,Houston Astros,,Pitcher,28,"6' 1""",205,R,L
+Cam Smith,Houston Astros,,Outfielder,22,"6' 3""",224,R,R
+César Salazar,Houston Astros,,Catcher,29,"5' 9""",198,L,R
+Chas McCormick,Houston Astros,,Outfielder,30,"6' 0""",208,R,L
+Christian Walker,Houston Astros,,First Base,34,"5' 11""",208,R,R
+Forrest Whitley,Houston Astros,,Pitcher,27,"6' 7""",208,R,R
+Framber Valdez,Houston Astros,,Pitcher,31,"5' 11""",230,R,L
+Hunter Brown,Houston Astros,,Pitcher,26,"6' 2""",220,R,R
+Isaac Paredes,Houston Astros,,Third Base,26,"5' 11""",213,R,R
+Jake Meyers,Houston Astros,,Outfielder,28,"6' 0""",200,R,L
+Jeremy Peña,Houston Astros,,Shortstop,27,"6' 1""",202,R,R
+Jose Altuve,Houston Astros,,Outfielder,35,"5' 6""",167,R,R
+Josh Hader,Houston Astros,,Pitcher,31,"6' 3""",188,L,L
+Kaleb Ort,Houston Astros,,Pitcher,33,"6' 4""",248,R,R
+Lance McCullers Jr.,Houston Astros,,Pitcher,31,"6' 1""",200,L,R
+Mauricio Dubón,Houston Astros,,Second Base,30,"6' 0""",173,R,R
+Ronel Blanco,Houston Astros,,Pitcher,31,"6' 3""",265,R,R
+Ryan Gusto,Houston Astros,,Pitcher,26,"6' 4""",232,R,R
+Shawn Dubin,Houston Astros,,Pitcher,29,"6' 0""",164,R,R
+Steven Okert,Houston Astros,,Pitcher,33,"6' 2""",202,L,L
+Victor Caratini,Houston Astros,,Catcher,31,"6' 0""",225,S,R
+Yainer Diaz,Houston Astros,,Catcher,26,"5' 11""",195,R,R
+Zach Dezenzo,Houston Astros,,Outfielder,25,"6' 5""",220,R,R
+Angel Zerpa,Kansas City Royals,,Pitcher,25,"6' 0""",220,L,L
+Bobby Witt Jr.,Kansas City Royals,,Shortstop,24,"6' 1""",200,R,R
+Carlos Estévez,Kansas City Royals,,Pitcher,32,"6' 6""",277,R,R
+Cavan Biggio,Kansas City Royals,,First Base,30,"6' 1""",200,L,R
+Dairon Blanco,Kansas City Royals,,Outfielder,32,"6' 0""",200,R,R
+Daniel Lynch IV,Kansas City Royals,,Pitcher,28,"6' 6""",200,L,L
+Drew Waters,Kansas City Royals,,Outfielder,26,"6' 1""",185,S,R
+Evan Sisk,Kansas City Royals,,Pitcher,28,"6' 2""",209,L,L
+Freddy Fermin,Kansas City Royals,,Catcher,30,"5' 10""",200,R,R
+Hunter Renfroe,Kansas City Royals,,Outfielder,33,"6' 1""",230,R,R
+John Schreiber,Kansas City Royals,,Pitcher,31,"6' 2""",224,R,R
+Jonathan Bowlan,Kansas City Royals,,Pitcher,28,"6' 6""",240,R,R
+Jonathan India,Kansas City Royals,,Third Base,28,"5' 11""",200,R,R
+Kris Bubic,Kansas City Royals,,Pitcher,27,"6' 3""",225,L,L
+Kyle Isbel,Kansas City Royals,,Outfielder,28,"5' 10""",190,L,R
+Lucas Erceg,Kansas City Royals,,Pitcher,30,"6' 2""",214,L,R
+Maikel Garcia,Kansas City Royals,,Third Base,25,"6' 1""",180,R,R
+Mark Canha,Kansas City Royals,,Outfielder,36,"6' 2""",200,R,R
+Michael Lorenzen,Kansas City Royals,,Pitcher,33,"6' 3""",217,R,R
+Michael Massey,Kansas City Royals,,Second Base,27,"6' 0""",195,L,R
+Michael Wacha,Kansas City Royals,,Pitcher,33,"6' 6""",215,R,R
+Noah Cameron,Kansas City Royals,,Pitcher,25,"6' 3""",220,L,L
+Salvador Perez,Kansas City Royals,,Catcher,35,"6' 3""",255,R,R
+Steven Cruz,Kansas City Royals,,Pitcher,25,"6' 7""",225,R,R
+Taylor Clarke,Kansas City Royals,,Pitcher,32,"6' 4""",210,R,R
+Vinnie Pasquantino,Kansas City Royals,,First Base,27,"6' 3""",245,L,L
+Alex Vesia,Los Angeles Dodgers,,Pitcher,29,"6' 1""",209,L,L
+Andy Pages,Los Angeles Dodgers,,Outfielder,24,"6' 1""",212,R,R
+Anthony Banda,Los Angeles Dodgers,,Pitcher,31,"6' 2""",221,L,L
+Ben Casparius,Los Angeles Dodgers,,Pitcher,26,"6' 2""",215,R,R
+Clayton Kershaw,Los Angeles Dodgers,,Pitcher,37,"6' 4""",225,L,L
+Dalton Rushing,Los Angeles Dodgers,,Catcher,24,"5' 11""",220,L,R
+Dustin May,Los Angeles Dodgers,,Pitcher,27,"6' 6""",180,R,R
+Enrique Hernández,Los Angeles Dodgers,,First Base,33,"5' 10""",195,R,R
+Freddie Freeman,Los Angeles Dodgers,,First Base,35,"6' 4""",220,L,R
+Hyeseong Kim,Los Angeles Dodgers,,Second Base,26,"5' 10""",175,L,R
+Jack Dreyer,Los Angeles Dodgers,,Pitcher,26,"6' 2""",205,R,L
+Landon Knack,Los Angeles Dodgers,,Pitcher,27,"6' 2""",220,L,R
+Lou Trivino,Los Angeles Dodgers,,Pitcher,33,"6' 5""",232,R,R
+Luis García,Los Angeles Dodgers,,Pitcher,38,"6' 2""",240,R,R
+Matt Sauer,Los Angeles Dodgers,,Pitcher,26,"6' 4""",230,R,R
+Max Muncy,Los Angeles Dodgers,,Third Base,34,"5' 10""",215,L,R
+Michael Conforto,Los Angeles Dodgers,,Outfielder,32,"5' 11""",215,L,R
+Miguel Rojas,Los Angeles Dodgers,,Second Base,36,"5' 11""",188,R,R
+Mookie Betts,Los Angeles Dodgers,,Shortstop,32,"5' 10""",180,R,R
+Shohei Ohtani,Los Angeles Dodgers,,Two-Way Player,30,"6' 3""",210,L,R
+Tanner Scott,Los Angeles Dodgers,,Pitcher,30,"6' 0""",235,R,L
+Teoscar Hernández,Los Angeles Dodgers,,Outfielder,32,"6' 0""",215,R,R
+Tommy Edman,Los Angeles Dodgers,,Second Base,30,"5' 9""",193,S,R
+Tony Gonsolin,Los Angeles Dodgers,,Pitcher,31,"6' 3""",205,R,R
+Will Smith,Los Angeles Dodgers,,Catcher,30,"5' 10""",195,R,R
+Yoshinobu Yamamoto,Los Angeles Dodgers,,Pitcher,26,"5' 10""",176,R,R
+Alex Call,Washington Nationals,,Outfielder,30,"5' 11""",189,R,R
+Amed Rosario,Washington Nationals,,Third Base,29,"6' 2""",190,R,R
+Andrew Chafin,Washington Nationals,,Pitcher,34,"6' 2""",235,R,L
+Brad Lord,Washington Nationals,,Pitcher,25,"6' 3""",210,R,R
+CJ Abrams,Washington Nationals,,Shortstop,24,"6' 0""",191,L,R
+Cole Henry,Washington Nationals,,Pitcher,25,"6' 4""",200,R,R
+Jackson Rutledge,Washington Nationals,,Pitcher,26,"6' 8""",241,R,R
+Jacob Young,Washington Nationals,,Outfielder,25,"5' 11""",192,R,R
+Jake Irvin,Washington Nationals,,Pitcher,28,"6' 6""",234,R,R
+James Wood,Washington Nationals,,Outfielder,22,"6' 7""",234,L,R
+Jorge López,Washington Nationals,,Pitcher,32,"6' 3""",200,R,R
+Jose A. Ferrer,Washington Nationals,,Pitcher,25,"6' 1""",233,L,L
+José Tena,Washington Nationals,,Third Base,24,"5' 11""",195,L,R
+Josh Bell,Washington Nationals,,First Base,32,"6' 3""",261,S,R
+Keibert Ruiz,Washington Nationals,,Catcher,26,"6' 0""",238,S,R
+Kyle Finnegan,Washington Nationals,,Pitcher,33,"6' 2""",198,R,R
+Luis García Jr.,Washington Nationals,,Second Base,25,"6' 1""",216,L,R
+MacKenzie Gore,Washington Nationals,,Pitcher,26,"6' 2""",193,L,L
+Michael Soroka,Washington Nationals,,Pitcher,27,"6' 5""",250,R,R
+Mitchell Parker,Washington Nationals,,Pitcher,25,"6' 4""",239,L,L
+Nasim Nuñez,Washington Nationals,,Shortstop,24,"5' 8""",165,S,R
+Nathaniel Lowe,Washington Nationals,,First Base,29,"6' 4""",220,L,R
+Riley Adams,Washington Nationals,,Catcher,28,"6' 4""",263,R,R
+Robert Hassell III,Washington Nationals,,Outfielder,23,"6' 1""",186,L,L
+Trevor Williams,Washington Nationals,,Pitcher,33,"6' 3""",231,R,R
+Zach Brzykcy,Washington Nationals,,Pitcher,25,"6' 2""",208,R,R
+Brandon Nimmo,New York Mets,,Outfielder,32,"6' 2""",206,L,R
+Brett Baty,New York Mets,,Second Base,25,"6' 3""",210,L,R
+Clay Holmes,New York Mets,,Pitcher,32,"6' 5""",245,R,R
+David Peterson,New York Mets,,Pitcher,29,"6' 6""",240,L,L
+Edwin Díaz,New York Mets,,Pitcher,31,"6' 3""",165,R,R
+Francisco Alvarez,New York Mets,,Catcher,23,"5' 10""",233,R,R
+Francisco Lindor,New York Mets,,Shortstop,31,"5' 10""",190,S,R
+Génesis Cabrera,New York Mets,,Pitcher,28,"6' 2""",180,L,L
+Griffin Canning,New York Mets,,Pitcher,29,"6' 2""",180,R,R
+Huascar Brazobán,New York Mets,,Pitcher,35,"6' 3""",155,R,R
+Jeff McNeil,New York Mets,,Second Base,33,"6' 0""",195,L,R
+José Azocar,New York Mets,,Outfielder,29,"5' 11""",181,R,R
+José Buttó,New York Mets,,Pitcher,27,"6' 1""",202,R,R
+José Castillo,New York Mets,,Pitcher,29,"6' 6""",252,L,L
+Juan Soto,New York Mets,,Outfielder,26,"6' 1""",224,L,L
+Kodai Senga,New York Mets,,Pitcher,32,"6' 1""",202,L,R
+Luis Torrens,New York Mets,,Catcher,29,"5' 11""",217,R,R
+Luisangel Acuña,New York Mets,,Second Base,23,"5' 8""",181,R,R
+Mark Vientos,New York Mets,,Third Base,25,"6' 3""",185,R,R
+Max Kranick,New York Mets,,Pitcher,27,"6' 3""",220,R,R
+Pete Alonso,New York Mets,,First Base,30,"6' 3""",245,R,R
+Reed Garrett,New York Mets,,Pitcher,32,"6' 2""",195,R,R
+Ryne Stanek,New York Mets,,Pitcher,33,"6' 4""",226,R,R
+Starling Marte,New York Mets,,Outfielder,36,"6' 0""",195,R,R
+Tylor Megill,New York Mets,,Pitcher,29,"6' 7""",230,R,R
+Tyrone Taylor,New York Mets,,Outfielder,31,"6' 1""",218,R,R

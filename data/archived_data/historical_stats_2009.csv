@@ -1,0 +1,1275 @@
+name,year,team,AB,R,H,HR,RBI,BB,K,AVG,OBP,SLG,OPS,playerType
+Brett Anderson,2009,Oakland Athletics,3,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Andrew Bailey,2009,Oakland Athletics,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Daric Barton,2009,Oakland Athletics,160,31,43,3,24,26,25,.269,.372,.413,.785,hitter
+Dallas Braden,2009,Oakland Athletics,3,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Craig Breslow,2009,Oakland Athletics,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Travis Buck,2009,Oakland Athletics,105,11,23,3,10,10,20,.219,.287,.333,.620,hitter
+Orlando Cabrera,2009,Oakland Athletics,414,41,116,4,41,25,39,.280,.318,.365,.683,hitter
+Trevor Cahill,2009,Oakland Athletics,2,1,1,0,0,0,0,.500,.500,.500,1.000,hitter
+Matt Carson,2009,Oakland Athletics,21,1,6,1,5,0,7,.286,.273,.429,.702,hitter
+Santiago Casilla,2009,Oakland Athletics,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Eric Chavez,2009,Oakland Athletics,30,0,3,0,1,1,7,.100,.129,.133,.262,hitter
+Bobby Crosby,2009,Oakland Athletics,238,35,53,6,29,24,44,.223,.295,.357,.652,hitter
+Aaron Cunningham,2009,Oakland Athletics,53,6,8,1,6,3,16,.151,.211,.245,.456,hitter
+Jack Cust,2009,Oakland Athletics,513,88,123,25,70,93,185,.240,.356,.417,.773,hitter
+Rajai Davis,2009,Oakland Athletics,390,65,119,3,48,29,70,.305,.360,.423,.783,hitter
+Chris Denorfia,2009,Oakland Athletics,2,1,0,0,1,0,0,.000,.000,.000,.000,hitter
+Mark Ellis,2009,Oakland Athletics,377,52,99,10,61,23,54,.263,.305,.403,.708,hitter
+Tommy Everidge,2009,Oakland Athletics,85,13,19,2,7,8,17,.224,.302,.365,.667,hitter
+Sean Gallagher,2009,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Nomar Garciaparra,2009,Oakland Athletics,160,17,45,3,16,8,28,.281,.314,.388,.702,hitter
+Jason Giambi,2009,Oakland Athletics,269,39,52,11,40,50,72,.193,.332,.364,.696,hitter
+Edgar Gonzalez,2009,Oakland Athletics,2,0,2,0,0,0,0,1.000,1.000,1.000,2.000,hitter
+Scott Hairston,2009,San Diego Padres,197,26,59,10,29,17,45,.299,.358,.533,.891,hitter
+Jack Hannahan,2009,Oakland Athletics,119,12,23,1,8,13,36,.193,.278,.303,.581,hitter
+Matt Holliday,2009,Oakland Athletics,346,52,99,11,54,46,58,.286,.378,.454,.832,hitter
+Adam Kennedy,2009,Oakland Athletics,529,65,153,11,63,45,86,.289,.348,.410,.758,hitter
+Vin Mazzaro,2009,Oakland Athletics,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Clayton Mortensen,2009,St. Louis Cardinals,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Eric Munson,2009,Oakland Athletics,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Josh Outman,2009,Oakland Athletics,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Eric Patterson,2009,Oakland Athletics,94,15,27,1,11,14,25,.287,.373,.394,.767,hitter
+Cliff Pennington,2009,Oakland Athletics,208,27,58,4,21,19,46,.279,.342,.418,.760,hitter
+Gregorio Petit,2009,Oakland Athletics,31,2,7,0,1,0,6,.226,.226,.258,.484,hitter
+Landon Powell,2009,Oakland Athletics,140,19,32,7,30,14,36,.229,.297,.429,.726,hitter
+Russ Springer,2009,Oakland Athletics,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kurt Suzuki,2009,Oakland Athletics,570,74,156,15,88,28,59,.274,.313,.421,.734,hitter
+Ryan Sweeney,2009,Oakland Athletics,484,68,142,6,53,40,67,.293,.348,.407,.755,hitter
+Brett Tomko,2009,New York Yankees,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Michael Wuertz,2009,Oakland Athletics,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brad Ziegler,2009,Oakland Athletics,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jose Ascanio,2009,Chicago Cubs,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Denny Bautista,2009,Pittsburgh Pirates,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brian Bixler,2009,Pittsburgh Pirates,44,5,10,0,3,2,26,.227,.261,.341,.602,hitter
+Chris Bootcheck,2009,Pittsburgh Pirates,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Sean Burnett,2009,Pittsburgh Pirates,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Matt Capps,2009,Pittsburgh Pirates,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ronny Cedeno,2009,Seattle Mariners,186,15,31,5,17,10,50,.167,.213,.290,.503,hitter
+Jesse Chavez,2009,Pittsburgh Pirates,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Anthony Claggett,2009,Pittsburgh Pirates,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Luis Alfonso Cruz,2009,Pittsburgh Pirates,70,5,15,0,2,6,7,.214,.282,.229,.511,hitter
+Robinzon Diaz,2009,Pittsburgh Pirates,129,9,36,1,19,3,9,.279,.307,.357,.664,hitter
+Ryan Doumit,2009,Pittsburgh Pirates,280,31,70,10,38,20,49,.250,.299,.414,.713,hitter
+Zach Duke,2009,Pittsburgh Pirates,60,1,12,0,5,4,18,.200,.246,.233,.479,hitter
+Phil Dumatrait,2009,Pittsburgh Pirates,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tom Gorzelanny,2009,Pittsburgh Pirates,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+John Grabow,2009,Pittsburgh Pirates,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Eric Hacker,2009,Pittsburgh Pirates,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Joel Hanrahan,2009,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Craig Hansen,2009,Pittsburgh Pirates,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kevin Hart,2009,Chicago Cubs,9,2,2,0,1,0,3,.222,.222,.222,.444,hitter
+Eric Hinske,2009,Pittsburgh Pirates,106,18,27,1,11,17,27,.255,.373,.368,.741,hitter
+Steven Jackson,2009,Pittsburgh Pirates,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jason Jaramillo,2009,Pittsburgh Pirates,206,20,52,3,26,17,33,.252,.309,.364,.673,hitter
+Garrett Jones,2009,Pittsburgh Pirates,314,45,92,21,44,40,76,.293,.372,.567,.939,hitter
+Jeff Karstens,2009,Pittsburgh Pirates,22,2,1,0,0,2,12,.045,.160,.045,.205,hitter
+Adam LaRoche,2009,Pittsburgh Pirates,324,46,80,12,40,41,81,.247,.329,.441,.770,hitter
+Andy LaRoche,2009,Pittsburgh Pirates,524,64,135,12,64,50,84,.258,.330,.401,.731,hitter
+Paul Maholm,2009,Pittsburgh Pirates,58,1,4,1,2,3,36,.069,.115,.138,.253,hitter
+Andrew McCutchen,2009,Pittsburgh Pirates,433,74,124,12,54,54,83,.286,.365,.471,.836,hitter
+Daniel McCutchen,2009,Pittsburgh Pirates,11,1,1,0,1,1,3,.091,.167,.091,.258,hitter
+Nate McLouth,2009,Pittsburgh Pirates,168,27,43,9,34,21,29,.256,.349,.470,.819,hitter
+Evan Meek,2009,Pittsburgh Pirates,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Lastings Milledge,2009,Washington Nationals,24,1,4,0,1,1,10,.167,.231,.167,.398,hitter
+Craig Monroe,2009,Pittsburgh Pirates,79,8,17,3,16,7,21,.215,.287,.354,.641,hitter
+Nyjer Morgan,2009,Pittsburgh Pirates,278,39,77,2,27,29,49,.277,.351,.356,.707,hitter
+Charlie Morton,2009,Pittsburgh Pirates,31,1,4,0,1,0,15,.129,.129,.129,.258,hitter
+Brandon Moss,2009,Pittsburgh Pirates,385,47,91,7,41,34,84,.236,.304,.364,.668,hitter
+Ross Ohlendorf,2009,Pittsburgh Pirates,59,1,4,0,0,1,23,.068,.083,.068,.151,hitter
+Steve Pearce,2009,Pittsburgh Pirates,165,19,34,4,16,21,43,.206,.296,.370,.666,hitter
+Jeff Salazar,2009,Pittsburgh Pirates,23,1,1,0,1,3,7,.043,.154,.043,.197,hitter
+Freddy Sanchez,2009,Pittsburgh Pirates,355,45,105,6,34,20,60,.296,.334,.442,.776,hitter
+Ian Snell,2009,Pittsburgh Pirates,23,0,4,0,1,0,10,.174,.174,.174,.348,hitter
+Virgil Vasquez,2009,Pittsburgh Pirates,10,0,0,0,0,0,4,.000,.000,.000,.000,hitter
+Ramón Vázquez,2009,Pittsburgh Pirates,204,17,47,1,16,31,47,.230,.335,.279,.614,hitter
+Donnie Veal,2009,Pittsburgh Pirates,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Neil Walker,2009,Pittsburgh Pirates,36,5,7,0,0,4,11,.194,.275,.222,.497,hitter
+Jack Wilson,2009,Pittsburgh Pirates,266,26,71,4,31,15,31,.267,.304,.387,.691,hitter
+Tyler Yates,2009,Pittsburgh Pirates,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Delwyn Young,2009,Pittsburgh Pirates,354,40,94,7,43,29,90,.266,.326,.381,.707,hitter
+Mike Adams,2009,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Eliezer Alfonzo,2009,San Diego Padres,114,6,20,2,8,3,34,.175,.197,.254,.451,hitter
+Josh Banks,2009,San Diego Padres,4,1,0,0,0,2,0,.000,.333,.000,.333,hitter
+Heath Bell,2009,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Henry Blanco,2009,San Diego Padres,204,21,48,6,16,26,50,.235,.320,.382,.702,hitter
+Kyle Blanks,2009,San Diego Padres,148,24,37,10,22,18,55,.250,.355,.514,.869,hitter
+Chris Burke,2009,San Diego Padres,82,8,17,1,5,6,16,.207,.270,.305,.575,hitter
+Greg Burke,2009,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Everth Cabrera,2009,San Diego Padres,377,59,96,2,31,46,88,.255,.342,.361,.703,hitter
+Cesar Carrillo,2009,San Diego Padres,3,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Kevin Correia,2009,San Diego Padres,55,2,8,0,0,2,21,.145,.175,.164,.339,hitter
+Frankie De La Cruz,2009,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Luis Durango,2009,San Diego Padres,11,3,6,0,0,2,2,.545,.615,.545,1.160,hitter
+David Eckstein,2009,San Diego Padres,503,64,131,2,51,39,46,.260,.323,.334,.657,hitter
+Mike Ekstrom,2009,San Diego Padres,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Cliff Floyd,2009,San Diego Padres,16,0,2,0,0,1,7,.125,.176,.125,.301,hitter
+Ernesto Frieri,2009,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Sean Gallagher,2009,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chad Gaudin,2009,San Diego Padres,28,0,1,0,0,1,14,.036,.069,.036,.105,hitter
+Josh Geer,2009,San Diego Padres,24,2,4,0,1,2,10,.167,.231,.208,.439,hitter
+Jody Gerut,2009,San Diego Padres,113,17,25,4,14,5,22,.221,.248,.381,.629,hitter
+Brian Giles,2009,San Diego Padres,225,18,43,2,23,26,31,.191,.277,.271,.548,hitter
+Adrián González,2009,San Diego Padres,552,90,153,40,99,119,109,.277,.407,.551,.958,hitter
+Edgar Gonzalez,2009,San Diego Padres,153,16,33,4,18,11,36,.216,.278,.373,.651,hitter
+Luke Gregerson,2009,San Diego Padres,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tony Gwynn Jr.,2009,San Diego Padres,393,59,106,2,21,48,65,.270,.350,.344,.694,hitter
+Scott Hairston,2009,San Diego Padres,197,26,59,10,29,17,45,.299,.358,.533,.891,hitter
+Chase Headley,2009,San Diego Padres,543,62,142,12,64,62,133,.262,.342,.392,.734,hitter
+Shawn Hill,2009,San Diego Padres,4,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Nick Hundley,2009,San Diego Padres,256,23,61,8,30,28,76,.238,.313,.406,.719,hitter
+Kevin Kouzmanoff,2009,San Diego Padres,529,50,135,18,88,27,106,.255,.302,.420,.722,hitter
+Mat Latos,2009,San Diego Padres,19,0,1,0,0,0,9,.053,.053,.053,.106,hitter
+Wade LeBlanc,2009,San Diego Padres,13,0,1,0,0,1,3,.077,.143,.077,.220,hitter
+Jose Lobaton,2009,San Diego Padres,17,0,3,0,0,0,5,.176,.176,.176,.352,hitter
+Arturo Lopez,2009,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Drew Macias,2009,San Diego Padres,76,8,15,1,7,13,15,.197,.322,.316,.638,hitter
+Cla Meredith,2009,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Edwin Moreno,2009,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Edward Mujica,2009,San Diego Padres,8,1,2,0,0,0,2,.250,.250,.250,.500,hitter
+Jake Peavy,2009,San Diego Padres,23,2,2,0,0,1,4,.087,.125,.087,.212,hitter
+Luis Perdomo,2009,San Diego Padres,6,0,0,0,0,0,5,.000,.000,.000,.000,hitter
+Aaron Poreda,2009,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Cesár Ramos,2009,San Diego Padres,4,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Clayton Richard,2009,Chicago White Sox,3,1,1,0,0,0,1,.333,.333,.667,1.000,hitter
+Luis Antonio Rodriguez,2009,San Diego Padres,208,18,42,2,16,37,23,.202,.319,.260,.579,hitter
+Adam Russell,2009,San Diego Padres,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Oscar Salazar,2009,Baltimore Orioles,31,4,13,2,6,2,4,.419,.455,.613,1.068,hitter
+Duaner Sanchez,2009,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Walter Silva,2009,San Diego Padres,8,2,3,0,0,0,3,.375,.375,.375,.750,hitter
+Craig Stansberry,2009,San Diego Padres,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tim Stauffer,2009,San Diego Padres,23,1,4,0,0,1,13,.174,.240,.174,.414,hitter
+Joe Thatcher,2009,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Will Venable,2009,San Diego Padres,293,38,75,12,38,25,89,.256,.323,.440,.763,hitter
+Ryan Webb,2009,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Josh Wilson,2009,Arizona Diamondbacks,26,1,6,0,2,3,3,.231,.333,.269,.602,hitter
+Chris Young,2009,San Diego Padres,23,2,6,0,2,2,7,.261,.320,.261,.581,hitter
+David Aardsma,2009,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Wladimir Balentien,2009,Seattle Mariners,155,18,33,4,13,13,43,.213,.271,.355,.626,hitter
+Miguel Batista,2009,Seattle Mariners,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Adrian Beltré,2009,Seattle Mariners,449,54,119,8,44,19,74,.265,.304,.379,.683,hitter
+Yuniesky Betancourt,2009,Seattle Mariners,224,15,56,2,22,10,18,.250,.278,.330,.608,hitter
+Russell Branyan,2009,Seattle Mariners,431,64,108,31,76,58,149,.251,.347,.520,.867,hitter
+Jamie Burke,2009,Seattle Mariners,41,1,5,1,1,2,13,.122,.163,.195,.358,hitter
+Mike Carp,2009,Seattle Mariners,54,7,17,1,5,8,10,.315,.415,.463,.878,hitter
+Ronny Cedeno,2009,Seattle Mariners,186,15,31,5,17,10,50,.167,.213,.290,.503,hitter
+Endy Chavez,2009,Seattle Mariners,161,17,44,2,13,14,22,.273,.328,.342,.670,hitter
+Roy Corcoran,2009,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ken Griffey Jr.,2009,Seattle Mariners,387,44,83,19,57,63,80,.214,.324,.411,.735,hitter
+Franklin Gutierrez,2009,Seattle Mariners,565,85,160,18,70,46,122,.283,.339,.425,.764,hitter
+Bill Hall,2009,Milwaukee Brewers,214,22,43,6,24,19,72,.201,.265,.341,.606,hitter
+Jack Hannahan,2009,Oakland Athletics,119,12,23,1,8,13,36,.193,.278,.303,.581,hitter
+Félix Hernández,2009,Seattle Mariners,6,1,0,0,0,1,3,.000,.143,.000,.143,hitter
+Chris Jakubauskas,2009,Seattle Mariners,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Kenji Johjima,2009,Seattle Mariners,239,24,59,9,22,12,28,.247,.296,.406,.702,hitter
+Rob Johnson,2009,Seattle Mariners,258,21,55,2,27,26,60,.213,.289,.326,.615,hitter
+Ryan Langerhans,2009,Seattle Mariners,101,12,22,3,10,14,28,.218,.311,.386,.697,hitter
+Jose Lopez,2009,Seattle Mariners,613,69,167,25,96,24,69,.272,.303,.463,.766,hitter
+Mark Lowe,2009,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Adam Moore,2009,Seattle Mariners,23,4,5,1,2,0,7,.217,.250,.391,.641,hitter
+Brandon Morrow,2009,Seattle Mariners,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Garrett Olson,2009,Seattle Mariners,3,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Guillermo Quiroz,2009,Seattle Mariners,14,0,4,0,2,0,3,.286,.286,.286,.572,hitter
+Michael Saunders,2009,Seattle Mariners,122,13,27,0,4,6,40,.221,.258,.279,.537,hitter
+Chris Shelton,2009,Seattle Mariners,26,1,6,0,4,2,11,.231,.286,.308,.594,hitter
+Ian Snell,2009,Pittsburgh Pirates,23,0,4,0,1,0,10,.174,.174,.174,.348,hitter
+Ichiro Suzuki,2009,Seattle Mariners,639,88,225,11,46,32,71,.352,.386,.465,.851,hitter
+Mike Sweeney,2009,Seattle Mariners,242,25,68,8,34,17,31,.281,.335,.442,.777,hitter
+Matt Tuiasosopo,2009,Seattle Mariners,22,2,5,1,2,2,5,.227,.280,.409,.689,hitter
+Jason Vargas,2009,Seattle Mariners,4,0,1,0,0,0,2,.250,.250,.250,.500,hitter
+Jarrod Washburn,2009,Seattle Mariners,3,1,0,0,0,0,2,.000,.000,.000,.000,hitter
+Sean White,2009,Seattle Mariners,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jack Wilson,2009,Pittsburgh Pirates,266,26,71,4,31,15,31,.267,.304,.387,.691,hitter
+Josh Wilson,2009,Arizona Diamondbacks,26,1,6,0,2,3,3,.231,.333,.269,.602,hitter
+Chris Woodward,2009,Seattle Mariners,67,7,16,0,5,5,15,.239,.288,.254,.542,hitter
+Jeremy Affeldt,2009,San Francisco Giants,2,0,1,0,0,0,0,.500,.500,.500,1.000,hitter
+Rich Aurilia,2009,San Francisco Giants,122,10,26,2,16,8,24,.213,.256,.279,.535,hitter
+John Bowker,2009,San Francisco Giants,67,7,13,2,7,4,18,.194,.247,.373,.620,hitter
+Madison Bumgarner,2009,San Francisco Giants,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Emmanuel Burriss,2009,San Francisco Giants,202,18,48,0,13,14,34,.238,.292,.267,.559,hitter
+Matt Cain,2009,San Francisco Giants,60,2,9,0,3,4,31,.150,.203,.217,.420,hitter
+Matt Downs,2009,San Francisco Giants,53,6,9,1,2,6,13,.170,.250,.264,.514,hitter
+Kevin Frandsen,2009,San Francisco Giants,50,3,7,0,1,3,4,.140,.204,.180,.384,hitter
+Ryan Garko,2009,Cleveland Indians,239,29,68,11,39,20,40,.285,.362,.464,.826,hitter
+Jesus Guzman,2009,San Francisco Giants,20,0,5,0,0,0,3,.250,.250,.250,.500,hitter
+Alex Hinshaw,2009,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Steve Holm,2009,San Francisco Giants,7,1,2,0,0,2,0,.286,.444,.286,.730,hitter
+Bob Howry,2009,San Francisco Giants,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Travis Ishikawa,2009,San Francisco Giants,326,49,85,9,39,30,89,.261,.329,.387,.716,hitter
+Waldis Joaquin,2009,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Randy Johnson,2009,San Francisco Giants,26,1,2,0,0,1,16,.077,.111,.077,.188,hitter
+Fred Lewis,2009,San Francisco Giants,295,49,76,4,20,36,84,.258,.348,.390,.738,hitter
+Tim Lincecum,2009,San Francisco Giants,66,8,10,0,3,6,36,.152,.219,.167,.386,hitter
+Joe Martinez,2009,San Francisco Giants,8,2,2,0,0,0,1,.250,.250,.375,.625,hitter
+Osiris Matos,2009,San Francisco Giants,1,0,1,0,1,0,0,1.000,1.000,1.000,2.000,hitter
+Brandon Medders,2009,San Francisco Giants,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Justin Miller,2009,San Francisco Giants,3,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Pat Misch,2009,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Bengie Molina,2009,San Francisco Giants,491,52,130,20,80,13,68,.265,.285,.442,.727,hitter
+Brad Penny,2009,Boston Red Sox,5,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Buster Posey,2009,San Francisco Giants,17,1,2,0,0,0,4,.118,.118,.118,.236,hitter
+Edgar Renteria,2009,San Francisco Giants,460,50,115,5,48,39,69,.250,.307,.328,.635,hitter
+Ryan Rohlinger,2009,San Francisco Giants,19,0,3,0,4,1,6,.158,.200,.211,.411,hitter
+Sergio Romo,2009,San Francisco Giants,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Aaron Rowand,2009,San Francisco Giants,499,61,130,15,64,30,125,.261,.319,.419,.738,hitter
+Dan Runzler,2009,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ryan Sadowski,2009,San Francisco Giants,10,0,1,0,0,0,6,.100,.100,.100,.200,hitter
+Freddy Sanchez,2009,Pittsburgh Pirates,355,45,105,6,34,20,60,.296,.334,.442,.776,hitter
+Jonathan Sánchez,2009,San Francisco Giants,41,2,3,0,0,4,27,.073,.174,.073,.247,hitter
+Pablo Sandoval,2009,San Francisco Giants,572,79,189,25,90,52,83,.330,.387,.556,.943,hitter
+Nate Schierholtz,2009,San Francisco Giants,285,33,76,5,29,16,58,.267,.302,.400,.702,hitter
+Andres Torres,2009,San Francisco Giants,152,30,41,6,23,16,45,.270,.343,.533,.876,hitter
+Juan Uribe,2009,San Francisco Giants,398,50,115,16,55,25,82,.289,.329,.495,.824,hitter
+Merkin Valdez,2009,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Eugenio Velez,2009,San Francisco Giants,285,40,76,5,31,16,55,.267,.308,.400,.708,hitter
+Eli Whiteside,2009,San Francisco Giants,127,15,29,2,13,4,30,.228,.269,.339,.608,hitter
+Brian Wilson,2009,San Francisco Giants,2,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Randy Winn,2009,San Francisco Giants,538,65,141,2,51,47,93,.262,.318,.353,.671,hitter
+Barry Zito,2009,San Francisco Giants,51,2,6,0,0,4,16,.118,.182,.118,.300,hitter
+Rick Ankiel,2009,St. Louis Cardinals,372,50,86,11,38,26,99,.231,.285,.387,.672,hitter
+Brian Barden,2009,St. Louis Cardinals,103,13,24,4,10,6,21,.233,.286,.379,.665,hitter
+Mitchell Boggs,2009,St. Louis Cardinals,14,1,1,0,0,0,6,.071,.071,.143,.214,hitter
+Blaine Boyer,2009,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chris Carpenter,2009,St. Louis Cardinals,63,3,11,1,7,2,13,.175,.212,.270,.482,hitter
+Mark DeRosa,2009,Cleveland Indians,278,47,75,13,50,29,63,.270,.342,.457,.799,hitter
+Chris Duncan,2009,St. Louis Cardinals,260,25,59,5,32,41,67,.227,.329,.358,.687,hitter
+Ryan Franklin,2009,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+David Freese,2009,St. Louis Cardinals,31,3,10,1,7,2,7,.323,.353,.484,.837,hitter
+Troy Glaus,2009,St. Louis Cardinals,29,2,5,0,2,3,8,.172,.250,.241,.491,hitter
+Khalil Greene,2009,St. Louis Cardinals,170,21,34,6,24,15,35,.200,.272,.347,.619,hitter
+Tyler Greene,2009,St. Louis Cardinals,108,9,24,2,7,4,32,.222,.270,.324,.594,hitter
+Blake Hawksworth,2009,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jarrett Hoffpauir,2009,St. Louis Cardinals,12,1,3,0,2,4,2,.250,.438,.417,.855,hitter
+Matt Holliday,2009,Oakland Athletics,346,52,99,11,54,46,58,.286,.378,.454,.832,hitter
+Josh Kinney,2009,St. Louis Cardinals,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Jason LaRue,2009,St. Louis Cardinals,104,10,25,2,6,3,22,.240,.288,.327,.615,hitter
+Kyle Lohse,2009,St. Louis Cardinals,37,3,8,0,2,1,7,.216,.275,.216,.491,hitter
+Ryan Ludwick,2009,St. Louis Cardinals,486,63,129,22,97,41,106,.265,.329,.447,.776,hitter
+Julio Lugo,2009,Boston Red Sox,109,16,31,1,8,12,18,.284,.352,.367,.719,hitter
+Kyle McClellan,2009,St. Louis Cardinals,3,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Trever Miller,2009,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Yadier Molina,2009,St. Louis Cardinals,481,45,141,6,54,50,39,.293,.366,.383,.749,hitter
+Clayton Mortensen,2009,St. Louis Cardinals,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jason Motte,2009,St. Louis Cardinals,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Matt Pagnozzi,2009,St. Louis Cardinals,3,1,0,0,0,1,0,.000,.250,.000,.250,hitter
+Chris Perez,2009,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Joel Pineiro,2009,St. Louis Cardinals,66,4,9,0,4,4,33,.136,.186,.167,.353,hitter
+Albert Pujols,2009,St. Louis Cardinals,568,124,186,47,135,115,64,.327,.443,.658,1.101,hitter
+Colby Rasmus,2009,St. Louis Cardinals,474,72,119,16,52,36,95,.251,.307,.407,.714,hitter
+Dennys Reyes,2009,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Shane Robinson,2009,St. Louis Cardinals,25,1,6,0,1,0,2,.240,.231,.280,.511,hitter
+Brendan Ryan,2009,St. Louis Cardinals,390,55,114,3,37,24,56,.292,.340,.400,.740,hitter
+Skip Schumaker,2009,St. Louis Cardinals,532,85,161,4,35,52,69,.303,.364,.393,.757,hitter
+John Smoltz,2009,Boston Red Sox,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Nick Stavinoha,2009,St. Louis Cardinals,87,6,20,2,17,2,15,.230,.242,.379,.621,hitter
+Brad Thompson,2009,St. Louis Cardinals,12,0,1,0,0,0,7,.083,.083,.083,.166,hitter
+Joe Thurston,2009,St. Louis Cardinals,267,27,60,1,25,33,56,.225,.316,.330,.646,hitter
+Jess Todd,2009,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Adam Wainwright,2009,St. Louis Cardinals,89,7,16,2,4,1,26,.180,.189,.326,.515,hitter
+P.J. Walters,2009,St. Louis Cardinals,3,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Todd Wellemeyer,2009,St. Louis Cardinals,39,1,5,0,0,0,16,.128,.128,.128,.256,hitter
+Winston Abreu,2009,Tampa Bay Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Willy Aybar,2009,Tampa Bay Rays,296,38,75,12,41,34,54,.253,.331,.416,.747,hitter
+Grant Balfour,2009,Tampa Bay Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jason Bartlett,2009,Tampa Bay Rays,500,90,160,14,66,54,89,.320,.389,.490,.879,hitter
+Jeff Bennett,2009,Atlanta Braves,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Reid Brignac,2009,Tampa Bay Rays,90,10,25,1,6,3,20,.278,.301,.444,.745,hitter
+Pat Burrell,2009,Tampa Bay Rays,412,45,91,14,64,57,119,.221,.315,.367,.682,hitter
+Randy Choate,2009,Tampa Bay Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Lance Cormier,2009,Tampa Bay Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Carl Crawford,2009,Tampa Bay Rays,606,96,185,15,68,51,99,.305,.364,.452,.816,hitter
+Joe Dillon,2009,Tampa Bay Rays,30,4,9,1,2,3,4,.300,.400,.400,.800,hitter
+Matt Garza,2009,Tampa Bay Rays,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Gabe Gross,2009,Tampa Bay Rays,282,31,64,6,36,42,79,.227,.326,.355,.681,hitter
+Michel Hernandez,2009,Tampa Bay Rays,99,12,24,1,12,7,12,.242,.292,.323,.615,hitter
+J.P. Howell,2009,Tampa Bay Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jason Isringhausen,2009,Tampa Bay Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Akinori Iwamura,2009,Tampa Bay Rays,231,28,67,1,22,24,44,.290,.355,.390,.745,hitter
+Matt Joyce,2009,Tampa Bay Rays,32,3,6,3,7,3,7,.188,.270,.500,.770,hitter
+Gabe Kapler,2009,Tampa Bay Rays,205,26,49,8,32,29,39,.239,.329,.439,.768,hitter
+Evan Longoria,2009,Tampa Bay Rays,584,100,164,33,113,72,140,.281,.364,.526,.890,hitter
+Dioner Navarro,2009,Tampa Bay Rays,376,38,82,8,32,18,51,.218,.261,.322,.583,hitter
+Joe Nelson,2009,Tampa Bay Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jeff Niemann,2009,Tampa Bay Rays,5,0,0,0,0,0,4,.000,.000,.000,.000,hitter
+Carlos Pena,2009,Tampa Bay Rays,471,91,107,39,100,87,163,.227,.356,.537,.893,hitter
+Troy Percival,2009,Tampa Bay Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Fernando Perez,2009,Tampa Bay Rays,34,4,7,0,2,0,11,.206,.206,.206,.412,hitter
+David Price,2009,Tampa Bay Rays,3,0,1,0,0,0,0,.333,.333,.333,.666,hitter
+Chris Richard,2009,Tampa Bay Rays,19,1,2,0,0,4,7,.105,.261,.105,.366,hitter
+Shawn Riggans,2009,Tampa Bay Rays,14,2,2,1,1,0,3,.143,.143,.357,.500,hitter
+James Shields,2009,Tampa Bay Rays,4,0,0,0,0,1,2,.000,.200,.000,.200,hitter
+Brian Shouse,2009,Tampa Bay Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Andy Sonnanstine,2009,Tampa Bay Rays,11,3,3,0,1,1,6,.273,.333,.364,.697,hitter
+Russ Springer,2009,Oakland Athletics,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Dale Thayer,2009,Tampa Bay Rays,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+B.J. Upton,2009,Tampa Bay Rays,560,79,135,11,55,57,152,.241,.313,.373,.686,hitter
+Dan Wheeler,2009,Tampa Bay Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Gregg Zaun,2009,Baltimore Orioles,168,23,41,4,13,27,30,.244,.355,.375,.730,hitter
+Ben Zobrist,2009,Tampa Bay Rays,501,91,149,27,91,91,104,.297,.405,.543,.948,hitter
+Elvis Andrus,2009,Texas Rangers,480,72,128,6,40,40,77,.267,.329,.373,.702,hitter
+Joaquin Arias,2009,Texas Rangers,8,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Hank Blalock,2009,Texas Rangers,462,62,108,25,66,26,108,.234,.277,.459,.736,hitter
+Brandon Boggs,2009,Texas Rangers,17,0,1,0,0,1,8,.059,.111,.118,.229,hitter
+Julio Borbon,2009,Texas Rangers,157,30,49,4,20,15,28,.312,.376,.414,.790,hitter
+Marlon Byrd,2009,Texas Rangers,547,66,155,20,89,32,98,.283,.329,.479,.808,hitter
+Nelson Cruz,2009,Texas Rangers,462,75,120,33,76,49,118,.260,.332,.524,.856,hitter
+Chris Davis,2009,Texas Rangers,391,48,93,21,59,24,150,.238,.284,.442,.726,hitter
+Scott Feldman,2009,Texas Rangers,5,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Frank Francisco,2009,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Craig Gentry,2009,Texas Rangers,17,4,2,0,1,2,5,.118,.211,.176,.387,hitter
+Esteban German,2009,Texas Rangers,46,9,14,0,4,4,7,.304,.360,.391,.751,hitter
+Greg Golson,2009,Texas Rangers,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Jason Grilli,2009,Colorado Rockies,2,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Eddie Guardado,2009,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Josh Hamilton,2009,Texas Rangers,336,43,90,10,54,24,79,.268,.315,.426,.741,hitter
+Matt Harrison,2009,Texas Rangers,1,1,0,0,0,1,1,.000,.500,.000,.500,hitter
+Derek Holland,2009,Texas Rangers,5,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Jason Jennings,2009,Texas Rangers,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Andruw Jones,2009,Texas Rangers,281,43,60,17,43,45,72,.214,.323,.459,.782,hitter
+Ian Kinsler,2009,Texas Rangers,566,101,143,31,86,59,77,.253,.327,.488,.815,hitter
+Doug Mathis,2009,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brandon McCarthy,2009,Texas Rangers,4,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kevin Millwood,2009,Texas Rangers,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+David Murphy,2009,Texas Rangers,432,61,116,17,57,49,106,.269,.338,.447,.785,hitter
+Darren O'Day,2009,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Vicente Padilla,2009,Texas Rangers,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Kevin Richardson,2009,Texas Rangers,6,2,3,0,0,0,2,.500,.500,.500,1.000,hitter
+Ivan Rodriguez,2009,Houston Astros,327,41,82,8,34,13,74,.251,.280,.382,.662,hitter
+Jarrod Saltalamacchia,2009,Texas Rangers,283,34,66,9,34,22,97,.233,.290,.371,.661,hitter
+Taylor Teagarden,2009,Texas Rangers,198,26,43,6,24,14,76,.217,.270,.374,.644,hitter
+Omar Vizquel,2009,Texas Rangers,177,17,47,1,14,13,27,.266,.316,.345,.661,hitter
+C.J. Wilson,2009,Texas Rangers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Michael Young,2009,Texas Rangers,541,76,174,22,68,47,90,.322,.374,.518,.892,hitter
+Jeremy Accardo,2009,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Russ Adams,2009,Toronto Blue Jays,20,2,4,0,0,1,1,.200,.238,.200,.438,hitter
+Rod Barajas,2009,Toronto Blue Jays,429,43,97,19,71,20,76,.226,.258,.403,.661,hitter
+Michael Barrett,2009,Toronto Blue Jays,18,3,3,1,2,1,5,.167,.211,.333,.544,hitter
+José Bautista,2009,Toronto Blue Jays,336,54,79,13,40,56,85,.235,.349,.408,.757,hitter
+Shawn Camp,2009,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jesse Carlson,2009,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brett Cecil,2009,Toronto Blue Jays,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Raul Chavez,2009,Toronto Blue Jays,159,10,41,2,15,6,23,.258,.285,.346,.631,hitter
+David Dellucci,2009,Cleveland Indians,40,3,11,0,1,2,12,.275,.333,.350,.683,hitter
+Scott Downs,2009,Toronto Blue Jays,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Edwin Encarnación,2009,Cincinnati Reds,139,10,29,5,16,24,38,.209,.333,.374,.707,hitter
+Jason Frasor,2009,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Roy Halladay,2009,Toronto Blue Jays,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Dirk Hayhurst,2009,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Aaron Hill,2009,Toronto Blue Jays,682,103,195,36,108,42,98,.286,.330,.499,.829,hitter
+Joe Inglett,2009,Toronto Blue Jays,89,11,25,0,6,8,21,.281,.347,.348,.695,hitter
+Casey Janssen,2009,Toronto Blue Jays,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brandon League,2009,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Adam Lind,2009,Toronto Blue Jays,587,93,179,35,114,58,110,.305,.370,.562,.932,hitter
+John McDonald,2009,Toronto Blue Jays,151,18,39,4,13,1,18,.258,.271,.384,.655,hitter
+Kevin Millar,2009,Toronto Blue Jays,251,29,56,7,29,31,49,.223,.311,.363,.674,hitter
+Brad Mills,2009,Toronto Blue Jays,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Lyle Overbay,2009,Toronto Blue Jays,423,57,112,16,64,74,95,.265,.372,.466,.838,hitter
+Kyle Phillips,2009,Toronto Blue Jays,18,1,5,0,2,0,4,.278,.278,.444,.722,hitter
+Scott Richmond,2009,Toronto Blue Jays,6,0,0,0,0,0,5,.000,.000,.000,.000,hitter
+Alex Rios,2009,Toronto Blue Jays,436,52,115,14,62,31,78,.264,.317,.427,.744,hitter
+Josh Roenicke,2009,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Scott Rolen,2009,Toronto Blue Jays,338,52,108,8,43,26,42,.320,.370,.476,.846,hitter
+Ricky Romero,2009,Toronto Blue Jays,6,0,0,0,0,0,4,.000,.000,.000,.000,hitter
+Randy Ruiz,2009,Toronto Blue Jays,115,25,36,10,17,10,35,.313,.385,.635,1.020,hitter
+B.J. Ryan,2009,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Marco Scutaro,2009,Toronto Blue Jays,574,100,162,12,60,90,75,.282,.379,.409,.788,hitter
+Travis Snider,2009,Toronto Blue Jays,241,34,58,9,29,29,78,.241,.328,.419,.747,hitter
+Brian Tallet,2009,Toronto Blue Jays,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Vernon Wells,2009,Toronto Blue Jays,630,84,164,15,66,48,86,.260,.311,.400,.711,hitter
+Brian Wolfe,2009,Toronto Blue Jays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Luis Ayala,2009,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Scott Baker,2009,Minnesota Twins,6,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Nick Blackburn,2009,Minnesota Twins,4,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Craig Breslow,2009,Oakland Athletics,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brian Buscher,2009,Minnesota Twins,136,14,32,2,12,24,35,.235,.360,.316,.676,hitter
+Orlando Cabrera,2009,Oakland Athletics,414,41,116,4,41,25,39,.280,.318,.365,.683,hitter
+Alexi Casilla,2009,Minnesota Twins,228,25,46,0,17,22,36,.202,.280,.259,.539,hitter
+Jesse Crain,2009,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Joe Crede,2009,Minnesota Twins,333,42,75,15,48,29,56,.225,.289,.414,.703,hitter
+Michael Cuddyer,2009,Minnesota Twins,588,93,162,32,94,54,118,.276,.342,.520,.862,hitter
+R.A. Dickey,2009,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Carlos Gómez,2009,Minnesota Twins,315,51,72,3,28,22,72,.229,.287,.337,.624,hitter
+Matt Guerrier,2009,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brendan Harris,2009,Minnesota Twins,414,44,108,6,37,29,78,.261,.310,.362,.672,hitter
+Sean Henn,2009,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Justin Huber,2009,Minnesota Twins,2,0,1,0,0,0,0,.500,.500,.500,1.000,hitter
+Bob Keppel,2009,Minnesota Twins,0,0,0,0,0,1,0,.000,1.000,.000,1.000,hitter
+Jason Kubel,2009,Minnesota Twins,514,73,154,28,103,56,106,.300,.369,.539,.908,hitter
+Francisco Liriano,2009,Minnesota Twins,5,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Ron Mahay,2009,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Joe Mauer,2009,Minnesota Twins,523,94,191,28,96,76,63,.365,.444,.587,1.031,hitter
+Jose Mijares,2009,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jose Morales,2009,Minnesota Twins,119,14,37,0,7,14,22,.311,.381,.361,.742,hitter
+Justin Morneau,2009,Minnesota Twins,508,85,139,30,100,72,86,.274,.363,.516,.879,hitter
+Kevin Mulvey,2009,Arizona Diamondbacks,7,0,1,0,0,0,3,.143,.143,.143,.286,hitter
+Joe Nathan,2009,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Carl Pavano,2009,Cleveland Indians,2,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Glen Perkins,2009,Minnesota Twins,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Jason Pridie,2009,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Nick Punto,2009,Minnesota Twins,359,56,82,1,38,61,70,.228,.337,.284,.621,hitter
+Jon Rauch,2009,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mike Redmond,2009,Minnesota Twins,135,9,32,0,7,11,19,.237,.299,.289,.588,hitter
+Kevin Slowey,2009,Minnesota Twins,3,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Denard Span,2009,Minnesota Twins,578,97,180,8,68,70,89,.311,.392,.415,.807,hitter
+Anthony Swarzak,2009,Minnesota Twins,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Matt Tolbert,2009,Minnesota Twins,198,28,46,2,19,21,37,.232,.303,.308,.611,hitter
+Delmon Young,2009,Minnesota Twins,395,50,112,12,60,12,92,.284,.308,.425,.733,hitter
+Paul Bako,2009,Philadelphia Phillies,116,12,26,3,9,13,32,.224,.308,.336,.644,hitter
+Antonio Bastardo,2009,Philadelphia Phillies,6,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Joe Blanton,2009,Philadelphia Phillies,55,4,7,0,1,4,21,.127,.200,.127,.327,hitter
+Eric Bruntlett,2009,Philadelphia Phillies,105,15,18,0,7,5,26,.171,.224,.238,.462,hitter
+Miguel Cairo,2009,Philadelphia Phillies,45,6,12,1,2,0,4,.267,.283,.422,.705,hitter
+Drew Carpenter,2009,Philadelphia Phillies,3,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Clay Condrey,2009,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chris Coste,2009,Philadelphia Phillies,102,12,25,2,8,14,27,.245,.342,.382,.724,hitter
+Greg Dobbs,2009,Philadelphia Phillies,154,15,38,5,20,11,29,.247,.296,.383,.679,hitter
+Chad Durbin,2009,Philadelphia Phillies,7,0,1,0,0,0,3,.143,.143,.143,.286,hitter
+Sergio Escalona,2009,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Scott Eyre,2009,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Pedro Feliz,2009,Philadelphia Phillies,580,62,154,12,82,35,68,.266,.308,.386,.694,hitter
+Ben Francisco,2009,Cleveland Indians,308,48,77,10,33,33,59,.250,.336,.422,.758,hitter
+Cole Hamels,2009,Philadelphia Phillies,61,6,9,0,5,1,29,.148,.161,.197,.358,hitter
+J.A. Happ,2009,Philadelphia Phillies,43,2,4,0,1,1,15,.093,.114,.116,.230,hitter
+Paul Hoover,2009,Philadelphia Phillies,4,0,3,0,1,0,1,.750,.750,.750,1.500,hitter
+Ryan Howard,2009,Philadelphia Phillies,616,105,172,45,141,75,186,.279,.360,.571,.931,hitter
+Raul Ibanez,2009,Philadelphia Phillies,500,93,136,34,93,56,119,.272,.347,.552,.899,hitter
+Kyle Kendrick,2009,Philadelphia Phillies,8,0,2,0,0,0,5,.250,.250,.250,.500,hitter
+Cliff Lee,2009,Cleveland Indians,5,0,0,0,0,1,1,.000,.167,.000,.167,hitter
+Brad Lidge,2009,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Rodrigo Lopez,2009,Philadelphia Phillies,9,0,0,0,0,0,4,.000,.000,.000,.000,hitter
+Ryan Madson,2009,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Lou Marson,2009,Philadelphia Phillies,17,3,4,0,0,3,7,.235,.350,.294,.644,hitter
+Pedro Martinez,2009,Philadelphia Phillies,14,0,1,0,1,1,6,.071,.133,.071,.204,hitter
+John Mayberry Jr.,2009,Philadelphia Phillies,57,8,12,4,8,2,23,.211,.250,.474,.724,hitter
+Jamie Moyer,2009,Philadelphia Phillies,42,2,5,0,2,6,21,.119,.240,.119,.359,hitter
+Brett Myers,2009,Philadelphia Phillies,18,2,4,0,0,1,4,.222,.263,.278,.541,hitter
+Chan Ho Park,2009,Philadelphia Phillies,14,1,2,1,1,3,5,.143,.294,.357,.651,hitter
+Steven Register,2009,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jimmy Rollins,2009,Philadelphia Phillies,672,100,168,21,77,44,70,.250,.296,.423,.719,hitter
+J.C. Romero,2009,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Carlos Ruiz,2009,Philadelphia Phillies,322,32,82,9,43,47,39,.255,.355,.425,.780,hitter
+Matt Stairs,2009,Philadelphia Phillies,103,15,20,5,17,23,30,.194,.357,.379,.736,hitter
+Jack Taschner,2009,Philadelphia Phillies,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Andy Tracy,2009,Philadelphia Phillies,12,1,5,0,1,0,3,.417,.417,.583,1.000,hitter
+Chase Utley,2009,Philadelphia Phillies,571,112,161,31,93,88,110,.282,.397,.508,.905,hitter
+Shane Victorino,2009,Philadelphia Phillies,620,102,181,10,62,60,71,.292,.358,.445,.803,hitter
+Tyler Walker,2009,Philadelphia Phillies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jayson Werth,2009,Philadelphia Phillies,571,98,153,36,99,91,156,.268,.373,.506,.879,hitter
+Manny Acosta,2009,Atlanta Braves,1,0,0,0,0,1,1,.000,.500,.000,.500,hitter
+Garret Anderson,2009,Atlanta Braves,496,52,133,13,61,27,73,.268,.303,.401,.704,hitter
+Jairo Asencio,2009,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brian Barton,2009,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jeff Bennett,2009,Atlanta Braves,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Grégor Blanco,2009,Atlanta Braves,43,5,8,0,1,4,9,.186,.255,.233,.488,hitter
+Blaine Boyer,2009,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jorge Campillo,2009,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Barbaro Canizares,2009,Atlanta Braves,21,1,4,0,0,0,6,.190,.190,.238,.428,hitter
+Buddy Carlyle,2009,Atlanta Braves,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Ryan Church,2009,New York Mets,232,26,65,2,22,17,36,.280,.332,.375,.707,hitter
+Brooks Conrad,2009,Atlanta Braves,54,7,11,2,8,3,14,.204,.259,.407,.666,hitter
+Matt Diaz,2009,Atlanta Braves,371,56,116,13,58,35,90,.313,.390,.488,.878,hitter
+Yunel Escobar,2009,Atlanta Braves,528,89,158,14,76,57,62,.299,.377,.436,.813,hitter
+Jeff Francoeur,2009,Atlanta Braves,304,32,76,5,35,12,46,.250,.282,.352,.634,hitter
+Michael Gonzalez,2009,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Reid Gorecki,2009,Atlanta Braves,25,6,5,0,3,1,12,.200,.222,.200,.422,hitter
+Tommy Hanson,2009,Atlanta Braves,37,2,2,0,1,1,20,.054,.079,.054,.133,hitter
+Diory Hernandez,2009,Atlanta Braves,85,6,12,1,6,6,22,.141,.198,.212,.410,hitter
+Tim Hudson,2009,Atlanta Braves,12,2,4,1,2,2,1,.333,.429,.583,1.012,hitter
+Omar Infante,2009,Atlanta Braves,203,24,62,2,27,19,28,.305,.361,.389,.750,hitter
+Kelly Johnson,2009,Atlanta Braves,303,47,68,8,29,32,54,.224,.303,.389,.692,hitter
+Brandon Jones,2009,Atlanta Braves,13,2,4,0,1,4,3,.308,.471,.308,.779,hitter
+Chipper Jones,2009,Atlanta Braves,488,80,129,18,71,101,89,.264,.388,.430,.818,hitter
+Jair Jurrjens,2009,Atlanta Braves,65,7,8,0,4,8,24,.123,.219,.154,.373,hitter
+Kenshin Kawakami,2009,Atlanta Braves,41,0,4,0,0,3,13,.098,.159,.098,.257,hitter
+Casey Kotchman,2009,Atlanta Braves,298,28,84,6,41,32,28,.282,.354,.409,.763,hitter
+Adam LaRoche,2009,Pittsburgh Pirates,324,46,80,12,40,41,81,.247,.329,.441,.770,hitter
+Boone Logan,2009,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Derek Lowe,2009,Atlanta Braves,54,6,12,0,1,4,16,.222,.276,.222,.498,hitter
+Brian McCann,2009,Atlanta Braves,488,63,137,21,94,49,83,.281,.349,.486,.835,hitter
+Nate McLouth,2009,Pittsburgh Pirates,168,27,43,9,34,21,29,.256,.349,.470,.819,hitter
+Kris Medlen,2009,Atlanta Braves,13,0,0,0,0,0,7,.000,.000,.000,.000,hitter
+Peter Moylan,2009,Atlanta Braves,3,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Greg Norton,2009,Atlanta Braves,76,3,11,0,7,20,20,.145,.330,.171,.501,hitter
+Vladimir Nunez,2009,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Eric O'Flaherty,2009,Atlanta Braves,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+James Parr,2009,Atlanta Braves,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Martín Prado,2009,Atlanta Braves,450,64,138,11,49,36,59,.307,.358,.464,.822,hitter
+Jo-Jo Reyes,2009,Atlanta Braves,9,1,1,0,0,2,7,.111,.273,.111,.384,hitter
+David Ross,2009,Atlanta Braves,128,18,35,7,20,21,39,.273,.380,.508,.888,hitter
+Clint Sammons,2009,Atlanta Braves,11,1,2,0,0,1,3,.182,.250,.182,.432,hitter
+Jordan Schafer,2009,Atlanta Braves,167,18,34,2,8,27,63,.204,.313,.287,.600,hitter
+Rafael Soriano,2009,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Javier Vazquez,2009,Atlanta Braves,68,6,12,0,3,3,14,.176,.211,.221,.432,hitter
+Brian Anderson,2009,Chicago White Sox,185,25,44,2,13,20,49,.238,.322,.319,.641,hitter
+Gordon Beckham,2009,Chicago White Sox,378,58,102,14,63,41,65,.270,.347,.460,.807,hitter
+Wilson Betemit,2009,Chicago White Sox,45,2,9,0,3,5,13,.200,.280,.311,.591,hitter
+Lance Broadway,2009,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mark Buehrle,2009,Chicago White Sox,4,1,1,1,1,0,1,.250,.250,1.000,1.250,hitter
+D.J. Carrasco,2009,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ramon Castro,2009,New York Mets,79,5,20,3,13,8,16,.253,.322,.430,.752,hitter
+Jose Contreras,2009,Chicago White Sox,6,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+John Danks,2009,Chicago White Sox,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Octavio Dotel,2009,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jermaine Dye,2009,Chicago White Sox,503,78,126,27,81,64,108,.250,.340,.453,.793,hitter
+Josh Fields,2009,Chicago White Sox,239,29,53,7,30,25,76,.222,.301,.347,.648,hitter
+Tyler Flowers,2009,Chicago White Sox,16,3,3,0,0,3,8,.188,.350,.250,.600,hitter
+Gavin Floyd,2009,Chicago White Sox,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Chris Getz,2009,Chicago White Sox,375,49,98,2,31,30,54,.261,.324,.347,.671,hitter
+Jimmy Gobble,2009,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Bobby Jenks,2009,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Paul Konerko,2009,Chicago White Sox,546,75,151,28,88,58,89,.277,.353,.489,.842,hitter
+Mark Kotsay,2009,Boston Red Sox,74,4,19,1,5,4,12,.257,.291,.324,.615,hitter
+Brent Lillibridge,2009,Chicago White Sox,95,9,15,0,3,14,26,.158,.273,.179,.452,hitter
+Scott Linebrink,2009,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mike MacDougal,2009,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Corky Miller,2009,Chicago White Sox,39,5,8,0,5,3,9,.205,.262,.282,.544,hitter
+Jayson Nix,2009,Chicago White Sox,255,36,57,12,32,28,64,.224,.308,.408,.716,hitter
+Jerry Owens,2009,Chicago White Sox,12,0,1,0,0,3,3,.083,.267,.083,.350,hitter
+Jake Peavy,2009,San Diego Padres,23,2,2,0,0,1,4,.087,.125,.087,.212,hitter
+Ramon Pena,2009,Arizona Diamondbacks,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+A.J. Pierzynski,2009,Chicago White Sox,504,57,151,13,49,24,52,.300,.331,.425,.756,hitter
+Scott Podsednik,2009,Chicago White Sox,537,75,163,7,48,39,74,.304,.353,.412,.765,hitter
+Aaron Poreda,2009,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Carlos Quentin,2009,Chicago White Sox,351,47,83,21,56,31,52,.236,.323,.456,.779,hitter
+Alexei Ramirez,2009,Chicago White Sox,542,71,150,15,68,49,66,.277,.333,.389,.722,hitter
+Clayton Richard,2009,Chicago White Sox,3,1,1,0,0,0,1,.333,.333,.667,1.000,hitter
+Alex Rios,2009,Toronto Blue Jays,436,52,115,14,62,31,78,.264,.317,.427,.744,hitter
+Jim Thome,2009,Chicago White Sox,345,55,86,23,74,69,116,.249,.372,.493,.865,hitter
+Matt Thornton,2009,Chicago White Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Carlos Torres,2009,Chicago White Sox,3,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Dewayne Wise,2009,Chicago White Sox,142,17,32,2,11,3,27,.225,.262,.366,.628,hitter
+Alfredo Amezaga,2009,Florida Marlins,69,6,15,0,5,5,16,.217,.267,.261,.528,hitter
+Luis Ayala,2009,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Burke Badenhop,2009,Florida Marlins,10,0,0,0,1,0,5,.000,.000,.000,.000,hitter
+John Baker,2009,Florida Marlins,373,59,101,9,50,41,89,.271,.349,.410,.759,hitter
+Emilio Bonifácio,2009,Florida Marlins,461,72,116,1,27,34,95,.252,.303,.308,.611,hitter
+Kiko Calero,2009,Florida Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jorge Cantu,2009,Florida Marlins,585,67,169,16,100,47,81,.289,.345,.443,.788,hitter
+Brett Carroll,2009,Florida Marlins,141,18,33,3,18,11,33,.234,.306,.383,.689,hitter
+Chris Coghlan,2009,Florida Marlins,504,84,162,9,47,53,77,.321,.390,.460,.850,hitter
+David Davidson,2009,Florida Marlins,1,0,1,0,0,0,0,1.000,1.000,1.000,2.000,hitter
+Alejandro De Aza,2009,Florida Marlins,20,6,5,0,3,5,5,.250,.385,.300,.685,hitter
+Brendan Donnelly,2009,Florida Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ross Gload,2009,Florida Marlins,230,33,60,6,30,23,30,.261,.329,.400,.729,hitter
+Andy González,2009,Florida Marlins,12,1,1,0,0,0,4,.083,.083,.250,.333,hitter
+Brett Hayes,2009,Florida Marlins,11,5,3,1,2,0,4,.273,.333,.636,.969,hitter
+Wes Helms,2009,Florida Marlins,214,18,58,3,33,13,54,.271,.318,.364,.682,hitter
+Jeremy Hermida,2009,Florida Marlins,429,48,111,13,47,56,101,.259,.348,.392,.740,hitter
+Josh Johnson,2009,Florida Marlins,62,8,12,3,10,6,33,.194,.265,.355,.620,hitter
+Nick Johnson,2009,Washington Nationals,353,47,104,6,44,63,66,.295,.408,.402,.810,hitter
+Logan Kensing,2009,Florida Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+John Koronka,2009,Florida Marlins,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Chris Leroux,2009,Florida Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Matt Lindstrom,2009,Florida Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Carlos Martinez,2009,Florida Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Cristhian Martinez,2009,Florida Marlins,2,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Cameron Maybin,2009,Florida Marlins,176,30,44,4,13,17,51,.250,.318,.409,.727,hitter
+Dan Meyer,2009,Florida Marlins,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Andrew Miller,2009,Florida Marlins,24,0,2,0,0,0,8,.083,.083,.083,.166,hitter
+Ricky Nolasco,2009,Florida Marlins,50,1,7,0,3,2,25,.140,.173,.140,.313,hitter
+Juan Carlos Oviedo,2009,Florida Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ronny Paulino,2009,Florida Marlins,239,24,65,8,27,25,48,.272,.340,.423,.763,hitter
+Hayden Penn,2009,Florida Marlins,0,0,0,0,0,1,0,.000,1.000,.000,1.000,hitter
+Renyel Pinto,2009,Florida Marlins,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Hanley Ramirez,2009,Florida Marlins,576,101,197,24,106,61,101,.342,.410,.543,.953,hitter
+Cody Ross,2009,Florida Marlins,559,73,151,24,90,34,122,.270,.321,.469,.790,hitter
+Brian Sanches,2009,Florida Marlins,4,1,0,0,1,0,0,.000,.000,.000,.000,hitter
+Aníbal Sánchez,2009,Florida Marlins,23,0,0,0,0,3,8,.000,.115,.000,.115,hitter
+Gaby Sanchez,2009,Florida Marlins,21,2,5,2,3,2,3,.238,.304,.524,.828,hitter
+Graham Taylor,2009,Florida Marlins,3,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Dan Uggla,2009,Florida Marlins,564,84,137,31,90,92,150,.243,.354,.459,.813,hitter
+Rick Van Den Hurk,2009,Florida Marlins,21,0,0,0,0,0,17,.000,.000,.000,.000,hitter
+Chris Volstad,2009,Florida Marlins,47,5,6,0,3,1,23,.128,.146,.149,.295,hitter
+Sean West,2009,Florida Marlins,31,2,2,0,0,0,19,.065,.065,.097,.162,hitter
+Tim Wood,2009,Florida Marlins,2,0,1,0,0,0,0,.500,.500,.500,1.000,hitter
+Alfredo Aceves,2009,New York Yankees,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Jonathan Albaladejo,2009,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Angel Berroa,2009,New York Yankees,22,6,3,0,1,0,6,.136,.174,.182,.356,hitter
+Brian Bruney,2009,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+A.J. Burnett,2009,New York Yankees,5,0,1,0,0,0,1,.200,.200,.200,.400,hitter
+Melky Cabrera,2009,New York Yankees,485,66,133,13,68,43,59,.274,.336,.416,.752,hitter
+Robinson Canó,2009,New York Yankees,637,103,204,25,85,30,63,.320,.352,.520,.872,hitter
+Kevin Cash,2009,New York Yankees,26,1,6,0,3,0,5,.231,.250,.308,.558,hitter
+Francisco Cervelli,2009,New York Yankees,94,13,28,1,11,2,11,.298,.309,.372,.681,hitter
+Joba Chamberlain,2009,New York Yankees,2,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Anthony Claggett,2009,Pittsburgh Pirates,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Phil Coke,2009,New York Yankees,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Johnny Damon,2009,New York Yankees,550,107,155,24,82,71,98,.282,.365,.489,.854,hitter
+Shelley Duncan,2009,New York Yankees,15,1,3,0,1,0,5,.200,.200,.200,.400,hitter
+Brett Gardner,2009,New York Yankees,248,48,67,3,23,26,40,.270,.345,.379,.724,hitter
+Chad Gaudin,2009,San Diego Padres,28,0,1,0,0,1,14,.036,.069,.036,.105,hitter
+Freddy Guzman,2009,New York Yankees,6,2,1,0,1,0,1,.167,.143,.167,.310,hitter
+Jerry Hairston,2009,Cincinnati Reds,307,47,78,8,27,21,46,.254,.305,.397,.702,hitter
+Eric Hinske,2009,Pittsburgh Pirates,106,18,27,1,11,17,27,.255,.373,.368,.741,hitter
+Phil Hughes,2009,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Derek Jeter,2009,New York Yankees,634,107,212,18,66,72,90,.334,.406,.465,.871,hitter
+Hideki Matsui,2009,New York Yankees,456,62,125,28,90,64,75,.274,.367,.509,.876,hitter
+Mark Melancon,2009,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Juan Miranda,2009,New York Yankees,9,2,3,1,3,0,4,.333,.333,.667,1.000,hitter
+José Molina,2009,New York Yankees,138,15,30,1,11,14,28,.217,.292,.268,.560,hitter
+Xavier Nady,2009,New York Yankees,28,4,8,0,2,1,6,.286,.310,.429,.739,hitter
+Ramiro Pena,2009,New York Yankees,115,17,33,1,10,5,20,.287,.317,.383,.700,hitter
+Andy Pettitte,2009,New York Yankees,5,1,1,0,1,0,2,.200,.200,.400,.600,hitter
+Jorge Posada,2009,New York Yankees,383,55,109,22,81,48,101,.285,.363,.522,.885,hitter
+Cody Ransom,2009,New York Yankees,79,11,15,0,10,7,25,.190,.256,.329,.585,hitter
+Mariano Rivera,2009,New York Yankees,1,0,0,0,1,1,0,.000,.500,.000,.500,hitter
+David Robertson,2009,New York Yankees,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Alex Rodriguez,2009,New York Yankees,444,78,127,30,100,80,97,.286,.402,.532,.934,hitter
+CC Sabathia,2009,New York Yankees,4,1,1,0,1,0,1,.250,.250,.250,.500,hitter
+Nick Swisher,2009,New York Yankees,498,84,124,29,82,97,126,.249,.371,.498,.869,hitter
+Mark Teixeira,2009,New York Yankees,609,103,178,39,122,81,114,.292,.383,.565,.948,hitter
+Brett Tomko,2009,New York Yankees,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Chien-Ming Wang,2009,New York Yankees,3,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+John Axford,2009,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jason Bourgeois,2009,Milwaukee Brewers,37,6,7,1,3,3,7,.189,.250,.270,.520,hitter
+Ryan Braun,2009,Milwaukee Brewers,635,113,203,32,114,57,121,.320,.386,.551,.937,hitter
+Mike Burns,2009,Milwaukee Brewers,13,1,1,0,2,2,7,.077,.200,.077,.277,hitter
+Dave Bush,2009,Milwaukee Brewers,34,2,4,0,0,4,16,.118,.211,.118,.329,hitter
+Josh Butler,2009,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mike Cameron,2009,Milwaukee Brewers,544,78,136,24,70,75,156,.250,.342,.452,.794,hitter
+Frank Catalanotto,2009,Milwaukee Brewers,144,18,40,1,9,14,23,.278,.346,.382,.728,hitter
+Todd Coffey,2009,Milwaukee Brewers,3,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Jesus Colome,2009,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Carlos Corporán,2009,Milwaukee Brewers,1,1,1,0,0,0,0,1.000,1.000,1.000,2.000,hitter
+Craig Counsell,2009,Milwaukee Brewers,404,61,115,4,39,42,54,.285,.357,.408,.765,hitter
+Mark DiFelice,2009,Milwaukee Brewers,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Tim Dillard,2009,Milwaukee Brewers,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Chris Duffy,2009,Milwaukee Brewers,32,3,4,0,3,4,12,.125,.222,.156,.378,hitter
+Alcides Escobar,2009,Milwaukee Brewers,125,20,38,1,11,4,18,.304,.333,.368,.701,hitter
+Prince Fielder,2009,Milwaukee Brewers,591,103,177,46,141,110,138,.299,.412,.602,1.014,hitter
+Yovani Gallardo,2009,Milwaukee Brewers,58,6,10,2,8,2,23,.172,.197,.310,.507,hitter
+Mat Gamel,2009,Milwaukee Brewers,128,11,31,5,20,18,54,.242,.338,.422,.760,hitter
+Jody Gerut,2009,San Diego Padres,113,17,25,4,14,5,22,.221,.248,.381,.629,hitter
+Bill Hall,2009,Milwaukee Brewers,214,22,43,6,24,19,72,.201,.265,.341,.606,hitter
+J.J. Hardy,2009,Milwaukee Brewers,414,53,95,11,47,43,85,.229,.302,.357,.659,hitter
+Corey Hart,2009,Milwaukee Brewers,419,64,109,12,48,43,92,.260,.335,.418,.753,hitter
+Trevor Hoffman,2009,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Hernan Iribarren,2009,Milwaukee Brewers,13,1,3,0,1,1,5,.231,.286,.385,.671,hitter
+Jorge Julio,2009,Milwaukee Brewers,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Jason Kendall,2009,Milwaukee Brewers,452,48,109,2,43,46,58,.241,.331,.305,.636,hitter
+Braden Looper,2009,Milwaukee Brewers,60,3,12,0,8,2,18,.200,.226,.200,.426,hitter
+Felipe Lopez,2009,Arizona Diamondbacks,345,44,104,6,25,34,59,.301,.364,.412,.776,hitter
+Seth McClung,2009,Milwaukee Brewers,7,0,0,0,0,0,4,.000,.000,.000,.000,hitter
+Casey McGehee,2009,Milwaukee Brewers,355,58,107,16,66,34,67,.301,.360,.499,.859,hitter
+Chris Narveson,2009,Milwaukee Brewers,8,0,1,0,0,0,5,.125,.125,.125,.250,hitter
+Brad Nelson,2009,Milwaukee Brewers,21,0,0,0,0,2,9,.000,.087,.000,.087,hitter
+Manny Parra,2009,Milwaukee Brewers,45,4,6,0,4,1,22,.133,.167,.178,.345,hitter
+Corey Patterson,2009,Washington Nationals,15,0,2,0,0,0,6,.133,.133,.133,.266,hitter
+David Riske,2009,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mike Rivera,2009,Milwaukee Brewers,114,10,26,2,14,15,32,.228,.326,.342,.668,hitter
+Chris Smith,2009,Milwaukee Brewers,2,0,0,0,0,1,1,.000,.333,.000,.333,hitter
+Mitch Stetter,2009,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jeff Suppan,2009,Milwaukee Brewers,42,4,6,0,5,4,12,.143,.217,.167,.384,hitter
+R.J. Swindle,2009,Milwaukee Brewers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Claudio Vargas,2009,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Carlos Villanueva,2009,Milwaukee Brewers,11,0,1,0,0,1,7,.091,.167,.091,.258,hitter
+David Weathers,2009,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Rickie Weeks Jr.,2009,Milwaukee Brewers,147,28,40,9,24,12,39,.272,.340,.517,.857,hitter
+Bobby Abreu,2009,Los Angeles Angels,563,96,165,15,103,94,113,.293,.390,.435,.825,hitter
+Jose Arredondo,2009,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Erick Aybar,2009,Los Angeles Angels,504,70,157,5,58,30,54,.312,.353,.423,.776,hitter
+Ryan Budde,2009,Los Angeles Angels,3,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Jason Bulger,2009,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Terry Evans,2009,Los Angeles Angels,7,2,2,0,1,0,2,.286,.286,.286,.572,hitter
+Chone Figgins,2009,Los Angeles Angels,615,114,183,5,54,101,114,.298,.395,.393,.788,hitter
+Brian Fuentes,2009,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Vladimir Guerrero,2009,Los Angeles Angels,383,59,113,15,50,19,56,.295,.334,.460,.794,hitter
+Torii Hunter,2009,Los Angeles Angels,451,74,135,22,90,47,92,.299,.366,.508,.874,hitter
+Maicer Izturis,2009,Los Angeles Angels,387,74,116,8,65,35,41,.300,.359,.434,.793,hitter
+Kevin Jepsen,2009,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Howie Kendrick,2009,Los Angeles Angels,374,61,109,10,61,20,71,.291,.334,.444,.778,hitter
+John Lackey,2009,Los Angeles Angels,8,1,1,0,1,0,2,.125,.125,.125,.250,hitter
+Jeff Mathis,2009,Los Angeles Angels,237,26,50,5,28,22,73,.211,.288,.308,.596,hitter
+Gary Matthews,2009,Los Angeles Angels,316,44,79,4,50,40,74,.250,.336,.361,.697,hitter
+Kendrys Morales,2009,Los Angeles Angels,566,86,173,34,108,46,117,.306,.355,.569,.924,hitter
+Mike Napoli,2009,Los Angeles Angels,382,60,104,20,56,40,103,.272,.350,.492,.842,hitter
+Sean O'Sullivan,2009,Los Angeles Angels,3,1,1,0,0,0,1,.333,.333,.333,.666,hitter
+Darren Oliver,2009,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Matt Palmer,2009,Los Angeles Angels,6,1,1,0,0,0,3,.167,.167,.167,.334,hitter
+Chris Pettit,2009,Los Angeles Angels,7,2,2,0,0,0,1,.286,.286,.286,.572,hitter
+Robb Quinlan,2009,Los Angeles Angels,115,13,28,2,14,5,30,.243,.275,.339,.614,hitter
+Juan Rivera,2009,Los Angeles Angels,529,72,152,25,88,36,57,.287,.332,.478,.810,hitter
+Sean Rodríguez,2009,Los Angeles Angels,25,4,5,2,4,3,7,.200,.276,.440,.716,hitter
+Freddy Sandoval,2009,Los Angeles Angels,11,1,2,0,0,0,3,.182,.182,.273,.455,hitter
+Scot Shields,2009,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Justin Speier,2009,Los Angeles Angels,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jered Weaver,2009,Los Angeles Angels,4,1,0,0,1,1,1,.000,.200,.000,.200,hitter
+Reggie Willits,2009,Los Angeles Angels,80,16,17,0,6,5,17,.213,.256,.238,.494,hitter
+Bobby Wilson,2009,Los Angeles Angels,5,0,1,0,0,0,1,.200,.200,.400,.600,hitter
+Brandon Wood,2009,Los Angeles Angels,41,5,8,1,3,3,19,.195,.267,.293,.560,hitter
+Brandon Allen,2009,Arizona Diamondbacks,104,13,21,4,14,12,40,.202,.284,.385,.669,hitter
+Bryan Augenstein,2009,Arizona Diamondbacks,3,1,0,0,0,1,1,.000,.250,.000,.250,hitter
+Blaine Boyer,2009,Atlanta Braves,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Billy Buckner,2009,Arizona Diamondbacks,21,0,5,0,6,0,8,.238,.238,.333,.571,hitter
+Eric Byrnes,2009,Arizona Diamondbacks,239,26,54,8,31,12,30,.226,.270,.393,.663,hitter
+Daniel Cabrera,2009,Washington Nationals,11,0,0,0,0,2,9,.000,.214,.000,.214,hitter
+Luke Carlin,2009,Arizona Diamondbacks,18,3,3,0,1,3,3,.167,.286,.167,.453,hitter
+Tony Clark,2009,Arizona Diamondbacks,66,7,12,4,11,11,24,.182,.295,.424,.719,hitter
+Doug Davis,2009,Arizona Diamondbacks,63,2,10,0,3,0,21,.159,.159,.206,.365,hitter
+Stephen Drew,2009,Arizona Diamondbacks,533,71,139,12,65,49,87,.261,.320,.428,.748,hitter
+Jon Garland,2009,Arizona Diamondbacks,58,3,6,0,1,1,26,.103,.119,.103,.222,hitter
+Tom Gordon,2009,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Juan Gutierrez,2009,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Dan Haren,2009,Arizona Diamondbacks,73,6,18,1,10,3,22,.247,.269,.356,.625,hitter
+John Hester,2009,Arizona Diamondbacks,28,4,7,1,4,2,7,.250,.300,.429,.729,hitter
+Conor Jackson,2009,Arizona Diamondbacks,99,8,18,1,14,11,16,.182,.264,.253,.517,hitter
+Bobby Korecky,2009,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Felipe Lopez,2009,Arizona Diamondbacks,345,44,104,6,25,34,59,.301,.364,.412,.776,hitter
+Miguel Montero,2009,Arizona Diamondbacks,425,61,125,16,59,38,78,.294,.355,.478,.833,hitter
+Kevin Mulvey,2009,Arizona Diamondbacks,7,0,1,0,0,0,3,.143,.143,.143,.286,hitter
+Trent Oeltjen,2009,Arizona Diamondbacks,70,11,17,3,4,1,13,.243,.250,.457,.707,hitter
+Augie Ojeda,2009,Arizona Diamondbacks,264,38,65,1,16,32,28,.246,.340,.345,.685,hitter
+Gerardo Parra,2009,Arizona Diamondbacks,455,59,132,5,60,25,89,.290,.324,.404,.728,hitter
+Ramon Pena,2009,Arizona Diamondbacks,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Yusmeiro Petit,2009,Arizona Diamondbacks,27,0,1,0,0,1,8,.037,.071,.037,.108,hitter
+Chad Qualls,2009,Arizona Diamondbacks,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Jon Rauch,2009,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mark Reynolds,2009,Arizona Diamondbacks,578,98,150,44,102,76,223,.260,.349,.543,.892,hitter
+Ryan Roberts,2009,Arizona Diamondbacks,305,41,85,7,25,40,55,.279,.367,.416,.783,hitter
+Alex Romero,2009,Arizona Diamondbacks,145,14,36,1,18,11,23,.248,.306,.338,.644,hitter
+Leo Rosales,2009,Arizona Diamondbacks,3,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Rusty Ryal,2009,Arizona Diamondbacks,59,11,16,3,9,6,21,.271,.353,.593,.946,hitter
+Max Scherzer,2009,Arizona Diamondbacks,53,4,12,0,3,3,17,.226,.268,.264,.532,hitter
+Daniel Schlereth,2009,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Scott Schoeneweis,2009,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Doug Slaten,2009,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chris Snyder,2009,Arizona Diamondbacks,165,20,33,6,22,32,47,.200,.333,.352,.685,hitter
+Chad Tracy,2009,Arizona Diamondbacks,257,29,61,8,39,26,38,.237,.306,.389,.695,hitter
+Justin Upton,2009,Arizona Diamondbacks,526,84,158,26,86,55,137,.300,.366,.532,.898,hitter
+Esmerling Vasquez,2009,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brandon Webb,2009,Arizona Diamondbacks,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Josh Whitesell,2009,Arizona Diamondbacks,108,7,21,1,14,24,29,.194,.346,.287,.633,hitter
+Josh Wilson,2009,Arizona Diamondbacks,26,1,6,0,2,3,3,.231,.333,.269,.602,hitter
+Chris Young,2009,Arizona Diamondbacks,433,54,92,15,42,59,133,.212,.311,.400,.711,hitter
+Clay Zavada,2009,Arizona Diamondbacks,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Matt Albers,2009,Baltimore Orioles,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Robert Andino,2009,Baltimore Orioles,198,31,44,2,10,15,47,.222,.274,.288,.562,hitter
+Michael Aubrey,2009,Baltimore Orioles,90,12,26,4,14,5,10,.289,.326,.500,.826,hitter
+Danys Baez,2009,Baltimore Orioles,1,1,1,0,0,0,0,1.000,1.000,1.000,2.000,hitter
+Brian Bass,2009,Baltimore Orioles,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Brad Bergesen,2009,Baltimore Orioles,5,1,1,0,0,0,0,.200,.200,.200,.400,hitter
+Jason Berken,2009,Baltimore Orioles,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Adam Eaton,2009,Colorado Rockies,0,1,0,0,1,1,0,.000,1.000,.000,1.000,hitter
+Jeff Fiorentino,2009,Baltimore Orioles,64,8,18,0,8,8,16,.281,.351,.297,.648,hitter
+Ryan Freel,2009,Baltimore Orioles,15,2,2,0,1,5,4,.133,.350,.133,.483,hitter
+Jeremy Guthrie,2009,Baltimore Orioles,2,2,0,0,0,0,2,.000,.000,.000,.000,hitter
+Mark Hendrickson,2009,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Sean Henn,2009,Minnesota Twins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Rich Hill,2009,Baltimore Orioles,8,0,1,0,1,0,3,.125,.125,.125,.250,hitter
+Aubrey Huff,2009,Baltimore Orioles,430,51,109,13,72,41,74,.253,.321,.405,.726,hitter
+Cesar Izturis,2009,Baltimore Orioles,387,34,99,2,30,18,38,.256,.294,.328,.622,hitter
+Jim Johnson,2009,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Adam Jones,2009,Baltimore Orioles,473,83,131,19,70,36,93,.277,.335,.457,.792,hitter
+Nick Markakis,2009,Baltimore Orioles,642,94,188,18,101,56,98,.293,.347,.453,.800,hitter
+Cla Meredith,2009,San Diego Padres,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kam Mickolio,2009,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chad Moeller,2009,Baltimore Orioles,89,6,23,2,10,7,16,.258,.313,.438,.751,hitter
+Luis Montanez,2009,Baltimore Orioles,82,5,15,1,6,5,16,.183,.244,.280,.524,hitter
+Melvin Mora,2009,Baltimore Orioles,450,44,117,8,48,34,60,.260,.321,.358,.679,hitter
+Felix Pie,2009,Baltimore Orioles,252,38,67,9,29,24,58,.266,.326,.437,.763,hitter
+Chris Ray,2009,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Nolan Reimold,2009,Baltimore Orioles,358,49,100,15,45,47,77,.279,.365,.466,.831,hitter
+Brian Roberts,2009,Baltimore Orioles,632,110,179,16,79,74,112,.283,.356,.451,.807,hitter
+Guillermo Rodriguez,2009,Baltimore Orioles,5,1,0,0,1,2,1,.000,.286,.000,.286,hitter
+Oscar Salazar,2009,Baltimore Orioles,31,4,13,2,6,2,4,.419,.455,.613,1.068,hitter
+Luke Scott,2009,Baltimore Orioles,449,61,116,25,77,55,104,.258,.340,.488,.828,hitter
+George Sherrill,2009,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Justin Turner,2009,Baltimore Orioles,18,2,3,0,3,4,3,.167,.318,.167,.485,hitter
+Koji Uehara,2009,Baltimore Orioles,2,0,0,0,0,1,1,.000,.333,.000,.333,hitter
+Jamie Walker,2009,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Matt Wieters,2009,Baltimore Orioles,354,35,102,9,43,28,86,.288,.340,.412,.752,hitter
+Ty Wigginton,2009,Baltimore Orioles,410,44,112,11,41,23,57,.273,.314,.400,.714,hitter
+Gregg Zaun,2009,Baltimore Orioles,168,23,41,4,13,27,30,.244,.355,.375,.730,hitter
+Brian Anderson,2009,Chicago White Sox,185,25,44,2,13,20,49,.238,.322,.319,.641,hitter
+Jeff Bailey,2009,Boston Red Sox,77,14,16,3,9,10,21,.208,.330,.416,.746,hitter
+Rocco Baldelli,2009,Boston Red Sox,150,23,38,7,23,11,37,.253,.311,.433,.744,hitter
+Daniel Bard,2009,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Aaron Bates,2009,Boston Red Sox,11,2,4,0,2,1,4,.364,.417,.545,.962,hitter
+Jason Bay,2009,Boston Red Sox,531,103,142,36,119,94,162,.267,.384,.537,.921,hitter
+Josh Beckett,2009,Boston Red Sox,5,1,1,1,1,0,3,.200,.200,.800,1.000,hitter
+Dusty Brown,2009,Boston Red Sox,3,1,1,1,1,1,0,.333,.500,1.333,1.833,hitter
+Clay Buchholz,2009,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chris Carter,2009,Boston Red Sox,5,0,0,0,1,0,4,.000,.000,.000,.000,hitter
+Manny Delcarmen,2009,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+J.D. Drew,2009,Boston Red Sox,452,84,126,24,68,82,109,.279,.392,.522,.914,hitter
+Jacoby Ellsbury,2009,Boston Red Sox,624,94,188,8,60,49,74,.301,.355,.415,.770,hitter
+Joey Gathright,2009,Chicago Cubs,14,2,3,0,0,1,6,.214,.267,.214,.481,hitter
+Alex Gonzalez,2009,Cincinnati Reds,243,16,51,3,26,15,36,.210,.258,.296,.554,hitter
+Nick Green,2009,Boston Red Sox,276,35,65,6,35,20,69,.236,.303,.366,.669,hitter
+Casey Kotchman,2009,Atlanta Braves,298,28,84,6,41,32,28,.282,.354,.409,.763,hitter
+Mark Kotsay,2009,Boston Red Sox,74,4,19,1,5,4,12,.257,.291,.324,.615,hitter
+George Kottaras,2009,Boston Red Sox,93,15,22,1,10,11,25,.237,.308,.387,.695,hitter
+Adam LaRoche,2009,Pittsburgh Pirates,324,46,80,12,40,41,81,.247,.329,.441,.770,hitter
+Jon Lester,2009,Boston Red Sox,3,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Javier López,2009,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mike Lowell,2009,Boston Red Sox,445,54,129,17,75,33,61,.290,.337,.474,.811,hitter
+Jed Lowrie,2009,Boston Red Sox,68,5,10,2,11,6,20,.147,.211,.265,.476,hitter
+Julio Lugo,2009,Boston Red Sox,109,16,31,1,8,12,18,.284,.352,.367,.719,hitter
+Victor Martinez,2009,Cleveland Indians,377,56,107,15,67,51,51,.284,.368,.464,.832,hitter
+Justin Masterson,2009,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Daisuke Matsuzaka,2009,Boston Red Sox,2,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Hideki Okajima,2009,Boston Red Sox,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+David Ortiz,2009,Boston Red Sox,541,77,129,28,99,74,134,.238,.332,.462,.794,hitter
+Jonathan Papelbon,2009,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Dustin Pedroia,2009,Boston Red Sox,626,115,185,15,72,74,45,.296,.371,.447,.818,hitter
+Brad Penny,2009,Boston Red Sox,5,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ramon E Ramirez,2009,Boston Red Sox,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Josh Reddick,2009,Boston Red Sox,59,5,10,2,4,2,17,.169,.210,.339,.549,hitter
+Takashi Saito,2009,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+John Smoltz,2009,Boston Red Sox,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Jonathan Van Every,2009,Boston Red Sox,11,1,4,1,3,2,5,.364,.462,.636,1.098,hitter
+Jason Varitek,2009,Boston Red Sox,364,41,76,14,51,54,90,.209,.313,.390,.703,hitter
+Gil Velazquez,2009,Boston Red Sox,2,0,0,0,0,0,0,.000,.333,.000,.333,hitter
+Billy Wagner,2009,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tim Wakefield,2009,Boston Red Sox,2,0,1,0,0,0,1,.500,.500,.500,1.000,hitter
+Chris Woodward,2009,Seattle Mariners,67,7,16,0,5,5,15,.239,.288,.254,.542,hitter
+Kevin Youkilis,2009,Boston Red Sox,491,99,150,27,94,77,125,.305,.413,.548,.961,hitter
+Jose Ascanio,2009,Chicago Cubs,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Mitch Atkins,2009,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jeff Baker,2009,Colorado Rockies,23,0,3,0,3,1,7,.130,.167,.217,.384,hitter
+Justin Berg,2009,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Andrés Blanco,2009,Chicago Cubs,123,15,31,1,12,8,14,.252,.303,.341,.644,hitter
+Milton Bradley,2009,Chicago Cubs,393,61,101,12,40,66,95,.257,.378,.397,.775,hitter
+Esmailin Caridad,2009,Chicago Cubs,2,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tyler Colvin,2009,Chicago Cubs,17,1,3,0,2,2,5,.176,.250,.176,.426,hitter
+Neal Cotts,2009,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ryan Dempster,2009,Chicago Cubs,64,2,8,0,5,4,20,.125,.176,.141,.317,hitter
+Mike Fontenot,2009,Chicago Cubs,377,38,89,9,43,35,83,.236,.301,.377,.678,hitter
+Chad Fox,2009,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jake Fox,2009,Chicago Cubs,216,23,56,11,44,14,47,.259,.311,.468,.779,hitter
+Ryan Freel,2009,Baltimore Orioles,15,2,2,0,1,5,4,.133,.350,.133,.483,hitter
+Kosuke Fukudome,2009,Chicago Cubs,499,79,129,11,54,93,112,.259,.375,.421,.796,hitter
+Sam Fuld,2009,Chicago Cubs,97,17,29,1,2,17,10,.299,.409,.412,.821,hitter
+Joey Gathright,2009,Chicago Cubs,14,2,3,0,0,1,6,.214,.267,.214,.481,hitter
+Tom Gorzelanny,2009,Pittsburgh Pirates,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+John Grabow,2009,Pittsburgh Pirates,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kevin Gregg,2009,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Angel Guzman,2009,Chicago Cubs,3,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Rich Harden,2009,Chicago Cubs,43,3,8,0,0,1,15,.186,.205,.209,.414,hitter
+Kevin Hart,2009,Chicago Cubs,9,2,2,0,1,0,3,.222,.222,.222,.444,hitter
+Aaron Heilman,2009,Chicago Cubs,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Koyie Hill,2009,Chicago Cubs,253,26,60,2,24,27,78,.237,.312,.324,.636,hitter
+Micah Hoffpauir,2009,Chicago Cubs,234,28,56,10,35,20,46,.239,.300,.427,.727,hitter
+Reed Johnson,2009,Chicago Cubs,165,23,42,4,22,13,27,.255,.330,.412,.742,hitter
+Derrek Lee,2009,Chicago Cubs,532,91,163,35,111,76,109,.306,.393,.579,.972,hitter
+Ted Lilly,2009,Chicago Cubs,57,2,5,0,2,2,27,.088,.119,.140,.259,hitter
+Carlos Marmol,2009,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Sean Marshall,2009,Chicago Cubs,13,2,3,0,2,1,5,.231,.286,.231,.517,hitter
+Aaron Miles,2009,Chicago Cubs,157,17,29,0,5,8,21,.185,.224,.242,.466,hitter
+David Patton,2009,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Aramis Ramirez,2009,Chicago Cubs,306,46,97,15,65,28,43,.317,.389,.516,.905,hitter
+Jeff Samardzija,2009,Chicago Cubs,5,1,1,1,1,0,1,.200,.200,.800,1.000,hitter
+Bobby Scales,2009,Chicago Cubs,124,15,30,3,15,11,32,.242,.312,.411,.723,hitter
+Alfonso Soriano,2009,Chicago Cubs,477,64,115,20,55,40,118,.241,.303,.423,.726,hitter
+Geovany Soto,2009,Chicago Cubs,331,27,72,11,47,50,77,.218,.321,.381,.702,hitter
+Jeff Stevens,2009,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+So Taguchi,2009,Chicago Cubs,11,1,3,0,0,1,4,.273,.333,.364,.697,hitter
+Ryan Theriot,2009,Chicago Cubs,602,81,171,7,54,51,93,.284,.343,.369,.712,hitter
+Luis Vizcaino,2009,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jason Waddell,2009,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Randy Wells,2009,Chicago Cubs,47,5,9,0,2,2,7,.191,.224,.255,.479,hitter
+Carlos Zambrano,2009,Chicago Cubs,69,7,15,4,11,1,28,.217,.225,.464,.689,hitter
+Bronson Arroyo,2009,Cincinnati Reds,62,4,7,0,0,0,27,.113,.113,.161,.274,hitter
+Homer Bailey,2009,Cincinnati Reds,38,0,3,0,2,0,17,.079,.079,.079,.158,hitter
+Wladimir Balentien,2009,Seattle Mariners,155,18,33,4,13,13,43,.213,.271,.355,.626,hitter
+Kevin Barker,2009,Cincinnati Reds,32,2,9,0,3,3,9,.281,.333,.375,.708,hitter
+Jay Bruce,2009,Cincinnati Reds,345,47,77,22,58,38,75,.223,.303,.470,.773,hitter
+Jared Burton,2009,Cincinnati Reds,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Wilkin Castillo,2009,Cincinnati Reds,3,0,2,0,1,0,0,.667,.667,.667,1.334,hitter
+Francisco Cordero,2009,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Johnny Cueto,2009,Cincinnati Reds,46,5,6,0,1,3,17,.130,.184,.130,.314,hitter
+Chris Dickerson,2009,Cincinnati Reds,255,31,70,2,15,39,66,.275,.370,.373,.743,hitter
+Edwin Encarnación,2009,Cincinnati Reds,139,10,29,5,16,24,38,.209,.333,.374,.707,hitter
+Carlos Fisher,2009,Cincinnati Reds,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Juan Francisco,2009,Cincinnati Reds,21,4,9,1,7,3,7,.429,.520,.619,1.139,hitter
+Jonny Gomes,2009,Cincinnati Reds,281,39,75,20,51,26,85,.267,.338,.541,.879,hitter
+Alex Gonzalez,2009,Cincinnati Reds,243,16,51,3,26,15,36,.210,.258,.296,.554,hitter
+Jerry Hairston,2009,Cincinnati Reds,307,47,78,8,27,21,46,.254,.305,.397,.702,hitter
+Ryan Hanigan,2009,Cincinnati Reds,251,22,66,3,11,37,31,.263,.361,.331,.692,hitter
+Aaron Harang,2009,Cincinnati Reds,47,1,7,1,6,1,12,.149,.167,.234,.401,hitter
+Ramon Hernandez,2009,Cincinnati Reds,287,25,74,5,37,33,34,.258,.336,.362,.698,hitter
+Daniel Herrera,2009,Cincinnati Reds,2,0,0,0,0,1,1,.000,.333,.000,.333,hitter
+Paul Janish,2009,Cincinnati Reds,256,36,54,1,16,26,40,.211,.296,.305,.601,hitter
+Justin Lehr,2009,Cincinnati Reds,22,1,2,0,1,1,8,.091,.130,.136,.266,hitter
+Mike Lincoln,2009,Cincinnati Reds,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Matt Maloney,2009,Cincinnati Reds,12,1,3,0,0,1,5,.250,.308,.250,.558,hitter
+Robert Manuel,2009,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Nick Masset,2009,Cincinnati Reds,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Darnell McDonald,2009,Cincinnati Reds,105,12,28,2,10,5,31,.267,.306,.400,.706,hitter
+Corky Miller,2009,Chicago White Sox,39,5,8,0,5,3,9,.205,.262,.282,.544,hitter
+Laynce Nix,2009,Cincinnati Reds,309,42,74,15,46,22,81,.239,.291,.476,.767,hitter
+Micah Owings,2009,Cincinnati Reds,54,7,14,3,10,1,19,.259,.281,.537,.818,hitter
+Brandon Phillips,2009,Cincinnati Reds,584,78,161,20,98,44,75,.276,.329,.447,.776,hitter
+Ramon Ramirez,2009,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Arthur Rhodes,2009,Cincinnati Reds,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Danny Richar,2009,Cincinnati Reds,8,1,2,0,0,1,1,.250,.333,.250,.583,hitter
+Josh Roenicke,2009,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Scott Rolen,2009,Toronto Blue Jays,338,52,108,8,43,26,42,.320,.370,.476,.846,hitter
+Adam Rosales,2009,Cincinnati Reds,230,23,49,4,19,26,46,.213,.303,.317,.620,hitter
+Drew Stubbs,2009,Cincinnati Reds,180,27,48,8,17,15,49,.267,.323,.439,.762,hitter
+Drew Sutton,2009,Cincinnati Reds,66,10,14,1,9,7,20,.212,.297,.348,.645,hitter
+Craig Tatum,2009,Cincinnati Reds,68,3,11,1,6,7,10,.162,.250,.221,.471,hitter
+Willy Taveras,2009,Cincinnati Reds,404,56,97,1,15,18,58,.240,.275,.285,.560,hitter
+Pedro Viola,2009,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Edinson Volquez,2009,Cincinnati Reds,16,0,1,0,0,0,8,.063,.063,.063,.126,hitter
+Joey Votto,2009,Cincinnati Reds,469,82,151,25,84,70,106,.322,.414,.567,.981,hitter
+David Weathers,2009,Cincinnati Reds,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kip Wells,2009,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Winston Abreu,2009,Tampa Bay Rays,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Greg Aquino,2009,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Josh Barfield,2009,Cleveland Indians,20,5,8,0,2,0,7,.400,.400,.450,.850,hitter
+Rafael Betancourt,2009,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Michael Brantley,2009,Cleveland Indians,112,10,35,0,11,8,19,.313,.358,.348,.706,hitter
+Asdrúbal Cabrera,2009,Cleveland Indians,523,81,161,6,68,44,89,.308,.361,.438,.799,hitter
+Jamey Carroll,2009,Cleveland Indians,315,53,87,2,26,36,63,.276,.355,.340,.695,hitter
+Shin-Soo Choo,2009,Cleveland Indians,583,87,175,20,86,78,151,.300,.394,.489,.883,hitter
+Trevor Crowe,2009,Cleveland Indians,183,22,43,1,17,11,39,.235,.278,.333,.611,hitter
+Mark DeRosa,2009,Cleveland Indians,278,47,75,13,50,29,63,.270,.342,.457,.799,hitter
+David Dellucci,2009,Cleveland Indians,40,3,11,0,1,2,12,.275,.333,.350,.683,hitter
+Ben Francisco,2009,Cleveland Indians,308,48,77,10,33,33,59,.250,.336,.422,.758,hitter
+Ryan Garko,2009,Cleveland Indians,239,29,68,11,39,20,40,.285,.362,.464,.826,hitter
+Chris Gimenez,2009,Cleveland Indians,111,12,16,3,7,17,36,.144,.256,.243,.499,hitter
+Mike Gosling,2009,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tony Graffanino,2009,Cleveland Indians,23,1,3,0,0,1,5,.130,.167,.174,.341,hitter
+Travis Hafner,2009,Cleveland Indians,338,46,92,16,49,41,67,.272,.355,.470,.825,hitter
+Matt Herges,2009,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+David Huff,2009,Cleveland Indians,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Matt LaPorta,2009,Cleveland Indians,181,29,46,7,21,12,37,.254,.308,.442,.750,hitter
+Aaron Laffey,2009,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Cliff Lee,2009,Cleveland Indians,5,0,0,0,0,1,1,.000,.167,.000,.167,hitter
+Jensen Lewis,2009,Cleveland Indians,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Lou Marson,2009,Philadelphia Phillies,17,3,4,0,0,3,7,.235,.350,.294,.644,hitter
+Andy Marte,2009,Cleveland Indians,155,20,36,6,25,14,30,.232,.293,.400,.693,hitter
+Victor Martinez,2009,Cleveland Indians,377,56,107,15,67,51,51,.284,.368,.464,.832,hitter
+Justin Masterson,2009,Boston Red Sox,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tomo Ohka,2009,Cleveland Indians,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Carl Pavano,2009,Cleveland Indians,2,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jhonny Peralta,2009,Cleveland Indians,582,57,148,11,83,51,134,.254,.316,.375,.691,hitter
+Chris Perez,2009,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Rafael Perez,2009,Cleveland Indians,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Anthony Reyes,2009,Cleveland Indians,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Niuman Romero,2009,Cleveland Indians,14,2,2,0,0,1,5,.143,.200,.143,.343,hitter
+Kelly Shoppach,2009,Cleveland Indians,271,33,58,12,40,33,98,.214,.335,.399,.734,hitter
+Tony Sipp,2009,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Grady Sizemore,2009,Cleveland Indians,436,73,108,18,64,60,92,.248,.343,.445,.788,hitter
+Joe Smith,2009,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jeremy Sowers,2009,Cleveland Indians,2,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jess Todd,2009,St. Louis Cardinals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Wyatt Toregas,2009,Cleveland Indians,51,1,9,0,6,6,12,.176,.267,.196,.463,hitter
+Luis Valbuena,2009,Cleveland Indians,368,52,92,10,31,26,83,.250,.298,.416,.714,hitter
+Luis Vizcaino,2009,Chicago Cubs,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kerry Wood,2009,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Garrett Atkins,2009,Colorado Rockies,354,37,80,9,48,41,58,.226,.308,.342,.650,hitter
+Jeff Baker,2009,Colorado Rockies,23,0,3,0,3,1,7,.130,.167,.217,.384,hitter
+Clint Barmes,2009,Colorado Rockies,550,69,135,23,76,31,121,.245,.294,.440,.734,hitter
+Joe Beimel,2009,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Matt Belisle,2009,Colorado Rockies,3,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Edwin Bellorin,2009,Colorado Rockies,8,1,2,0,0,1,1,.250,.333,.250,.583,hitter
+Rafael Betancourt,2009,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jhoulys Chacín,2009,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jose Contreras,2009,Chicago White Sox,6,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Aaron Cook,2009,Colorado Rockies,44,3,5,0,6,7,14,.114,.245,.136,.381,hitter
+Manny Corpas,2009,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Matt Daley,2009,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jorge De La Rosa,2009,Colorado Rockies,57,3,7,0,3,1,30,.123,.138,.158,.296,hitter
+Adam Eaton,2009,Colorado Rockies,0,1,0,0,1,1,0,.000,1.000,.000,1.000,hitter
+Alan Embree,2009,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Randy Flores,2009,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Josh Fogg,2009,Colorado Rockies,9,0,1,0,0,1,1,.111,.200,.111,.311,hitter
+Dexter Fowler,2009,Colorado Rockies,433,73,115,4,34,67,116,.266,.363,.406,.769,hitter
+Jason Giambi,2009,Oakland Athletics,269,39,52,11,40,50,72,.193,.332,.364,.696,hitter
+Carlos González,2009,Colorado Rockies,278,53,79,13,29,28,70,.284,.353,.525,.878,hitter
+Jason Grilli,2009,Colorado Rockies,2,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jason Hammel,2009,Colorado Rockies,55,1,6,0,0,2,25,.109,.140,.127,.267,hitter
+Brad Hawpe,2009,Colorado Rockies,501,82,143,23,86,79,145,.285,.384,.519,.903,hitter
+Todd Helton,2009,Colorado Rockies,544,79,177,15,86,89,73,.325,.416,.489,.905,hitter
+Matt Herges,2009,Cleveland Indians,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chris Iannetta,2009,Colorado Rockies,289,41,66,16,52,43,75,.228,.344,.460,.804,hitter
+Ubaldo Jiménez,2009,Colorado Rockies,59,5,13,0,2,6,15,.220,.292,.220,.512,hitter
+Jason Marquis,2009,Colorado Rockies,64,7,11,0,8,2,14,.172,.197,.219,.416,hitter
+Mike McCoy,2009,Colorado Rockies,5,1,0,0,0,0,2,.000,.000,.000,.000,hitter
+Franklin Morales,2009,Colorado Rockies,5,0,2,0,1,0,2,.400,.400,.400,.800,hitter
+Matt Murton,2009,Colorado Rockies,52,7,13,1,6,4,14,.250,.304,.404,.708,hitter
+Joel Peralta,2009,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Paul Phillips,2009,Colorado Rockies,45,5,14,1,9,7,3,.311,.396,.422,.818,hitter
+Omar Quintanilla,2009,Colorado Rockies,58,7,10,0,2,8,27,.172,.273,.207,.480,hitter
+Juan Rincon,2009,Colorado Rockies,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Esmil Rogers,2009,Colorado Rockies,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Glendon Rusch,2009,Colorado Rockies,6,0,2,0,0,0,2,.333,.333,.500,.833,hitter
+Seth Smith,2009,Colorado Rockies,335,61,98,15,55,46,67,.293,.378,.510,.888,hitter
+Ryan Speier,2009,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ryan Spilborghs,2009,Colorado Rockies,352,55,85,8,48,34,79,.241,.310,.395,.705,hitter
+Ian Stewart,2009,Colorado Rockies,425,74,97,25,70,56,138,.228,.322,.464,.786,hitter
+Huston Street,2009,Colorado Rockies,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Yorvit Torrealba,2009,Colorado Rockies,213,27,62,2,31,21,42,.291,.351,.380,.731,hitter
+Troy Tulowitzki,2009,Colorado Rockies,543,101,161,32,92,73,112,.297,.377,.552,.929,hitter
+Eric Young Jr.,2009,Colorado Rockies,57,7,14,1,1,4,12,.246,.295,.316,.611,hitter
+Josh Anderson,2009,Detroit Tigers,165,22,40,0,16,8,22,.242,.282,.315,.597,hitter
+Alex Avila,2009,Detroit Tigers,61,9,17,5,14,10,18,.279,.375,.590,.965,hitter
+Miguel Cabrera,2009,Detroit Tigers,611,96,198,34,103,68,107,.324,.396,.547,.943,hitter
+Brent Dlugach,2009,Detroit Tigers,3,1,0,0,0,0,2,.000,.000,.000,.000,hitter
+Freddy Dolsi,2009,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Adam Everett,2009,Detroit Tigers,345,43,82,3,44,22,61,.238,.288,.325,.613,hitter
+Alfredo Figaro,2009,Detroit Tigers,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Armando Galarraga,2009,Detroit Tigers,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Curtis Granderson,2009,Detroit Tigers,631,91,157,30,71,72,141,.249,.327,.453,.780,hitter
+Carlos Guillén,2009,Detroit Tigers,277,36,67,11,41,39,56,.242,.339,.419,.758,hitter
+Aubrey Huff,2009,Baltimore Orioles,430,51,109,13,72,41,74,.253,.321,.405,.726,hitter
+Brandon Inge,2009,Detroit Tigers,562,71,129,27,84,54,170,.230,.314,.406,.720,hitter
+Edwin Jackson,2009,Detroit Tigers,4,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Don Kelly,2009,Detroit Tigers,56,8,14,0,3,4,10,.250,.311,.339,.650,hitter
+Gerald Laird,2009,Detroit Tigers,413,49,93,4,33,40,68,.225,.306,.320,.626,hitter
+Jeff Larish,2009,Detroit Tigers,74,13,16,4,7,15,25,.216,.344,.446,.790,hitter
+Brandon Lyon,2009,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Zach Miner,2009,Detroit Tigers,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Magglio Ordonez,2009,Detroit Tigers,465,54,144,9,50,51,65,.310,.376,.428,.804,hitter
+Ryan Perry,2009,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Placido Polanco,2009,Detroit Tigers,618,82,176,10,72,36,46,.285,.331,.396,.727,hitter
+Rick Porcello,2009,Detroit Tigers,5,0,2,0,2,0,1,.400,.400,.400,.800,hitter
+Ryan Raburn,2009,Detroit Tigers,261,44,76,16,45,26,60,.291,.359,.533,.892,hitter
+Wilkin Ramirez,2009,Detroit Tigers,11,6,4,1,3,1,3,.364,.385,.818,1.203,hitter
+Juan Rincon,2009,Colorado Rockies,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Nate Robertson,2009,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Fernando Rodney,2009,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Dusty Ryan,2009,Detroit Tigers,26,1,4,0,4,4,12,.154,.267,.192,.459,hitter
+Ramon Santiago,2009,Detroit Tigers,262,29,70,7,35,17,57,.267,.318,.385,.703,hitter
+Dane Sardinha,2009,Detroit Tigers,31,1,3,0,3,0,16,.097,.091,.129,.220,hitter
+Bobby Seay,2009,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Marcus Thames,2009,Detroit Tigers,258,33,65,13,36,29,72,.252,.323,.453,.776,hitter
+Clete Thomas,2009,Detroit Tigers,275,46,66,7,39,33,77,.240,.324,.385,.709,hitter
+Matt Treanor,2009,Detroit Tigers,13,0,0,0,0,1,4,.000,.071,.000,.071,hitter
+Justin Verlander,2009,Detroit Tigers,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Jarrod Washburn,2009,Seattle Mariners,3,1,0,0,0,0,2,.000,.000,.000,.000,hitter
+Dontrelle Willis,2009,Detroit Tigers,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Joel Zumaya,2009,Detroit Tigers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Alberto Arias,2009,Houston Astros,1,0,0,0,0,1,1,.000,.500,.000,.500,hitter
+Brandon Backe,2009,Houston Astros,1,0,0,0,0,1,1,.000,.500,.000,.500,hitter
+Yorman Bazardo,2009,Houston Astros,10,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Lance Berkman,2009,Houston Astros,460,73,126,25,80,97,98,.274,.399,.509,.908,hitter
+Geoff Blum,2009,Houston Astros,381,34,94,10,49,33,61,.247,.314,.367,.681,hitter
+Aaron Boone,2009,Houston Astros,13,0,0,0,0,0,2,.000,.071,.000,.071,hitter
+Michael Bourn,2009,Houston Astros,606,97,173,3,35,63,140,.285,.354,.384,.738,hitter
+Doug Brocail,2009,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tim Byrdak,2009,Houston Astros,3,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Chris Coste,2009,Philadelphia Phillies,102,12,25,2,8,14,27,.245,.342,.382,.724,hitter
+Darin Erstad,2009,Houston Astros,134,13,26,2,11,14,31,.194,.268,.328,.596,hitter
+Jeff Fulchino,2009,Houston Astros,3,0,1,0,0,0,0,.333,.333,.667,1.000,hitter
+Geoff Geary,2009,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Sammy Gervacio,2009,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mike Hampton,2009,Houston Astros,37,6,12,1,7,2,8,.324,.350,.432,.782,hitter
+LaTroy Hawkins,2009,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chris Johnson,2009,Houston Astros,22,1,2,0,1,1,6,.091,.130,.091,.221,hitter
+Matt Kata,2009,Houston Astros,50,2,10,0,5,0,5,.200,.212,.220,.432,hitter
+Jeff Keppinger,2009,Houston Astros,305,35,78,7,29,27,33,.256,.320,.387,.707,hitter
+Carlos Lee,2009,Houston Astros,610,65,183,26,102,41,51,.300,.343,.489,.832,hitter
+Wilton Lopez,2009,Houston Astros,5,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Tommy Manzella,2009,Houston Astros,5,0,1,0,0,0,4,.200,.200,.200,.400,hitter
+Kazuo Matsui,2009,Houston Astros,476,56,119,9,46,34,85,.250,.302,.357,.659,hitter
+Edwin Maysonet,2009,Houston Astros,69,9,20,1,7,5,19,.290,.333,.362,.695,hitter
+Jason Michaels,2009,Houston Astros,135,17,32,4,16,16,38,.237,.322,.430,.752,hitter
+Brian Moehler,2009,Houston Astros,42,0,1,0,0,1,18,.024,.068,.024,.092,hitter
+Bud Norris,2009,Houston Astros,16,1,3,0,0,0,4,.188,.235,.188,.423,hitter
+Russ Ortiz,2009,Houston Astros,28,2,5,1,2,1,9,.179,.207,.286,.493,hitter
+Roy Oswalt,2009,Houston Astros,49,4,6,0,2,2,8,.122,.173,.122,.295,hitter
+Chad Paronto,2009,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Felipe Paulino,2009,Houston Astros,25,0,1,0,0,0,16,.040,.040,.040,.080,hitter
+Hunter Pence,2009,Houston Astros,585,76,165,25,72,58,109,.282,.346,.472,.818,hitter
+Humberto Quintero,2009,Houston Astros,157,11,37,4,14,7,41,.236,.286,.376,.662,hitter
+Ivan Rodriguez,2009,Houston Astros,327,41,82,8,34,13,74,.251,.280,.382,.662,hitter
+Wandy Rodriguez,2009,Houston Astros,63,4,8,0,4,1,19,.127,.141,.175,.316,hitter
+Billy Sadler,2009,Houston Astros,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Chris Sampson,2009,Houston Astros,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Jason Smith,2009,Houston Astros,25,1,0,0,1,0,9,.000,.000,.000,.000,hitter
+Miguel Tejada,2009,Houston Astros,635,83,199,14,86,19,48,.313,.340,.455,.795,hitter
+J.R. Towles,2009,Houston Astros,48,7,9,2,3,3,16,.188,.250,.354,.604,hitter
+Jose Valverde,2009,Houston Astros,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Wesley Wright,2009,Houston Astros,4,2,1,0,0,0,1,.250,.250,.250,.500,hitter
+Josh Anderson,2009,Detroit Tigers,165,22,40,0,16,8,22,.242,.282,.315,.597,hitter
+Mike Aviles,2009,Kansas City Royals,120,10,22,1,8,4,26,.183,.208,.250,.458,hitter
+John Bale,2009,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Brian Bannister,2009,Kansas City Royals,5,0,1,0,1,0,2,.200,.200,.200,.400,hitter
+Yuniesky Betancourt,2009,Seattle Mariners,224,15,56,2,22,10,18,.250,.278,.330,.608,hitter
+Willie Bloomquist,2009,Kansas City Royals,434,52,115,4,29,27,73,.265,.308,.355,.663,hitter
+John Buck,2009,Kansas City Royals,186,16,46,8,36,13,55,.247,.299,.484,.783,hitter
+Billy Butler,2009,Kansas City Royals,608,78,183,21,93,58,103,.301,.362,.492,.854,hitter
+Alberto Callaspo,2009,Kansas City Royals,576,79,173,11,73,52,51,.300,.356,.457,.813,hitter
+Bruce Chen,2009,Kansas City Royals,1,0,1,0,0,1,0,1.000,1.000,1.000,2.000,hitter
+Roman Colon,2009,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Coco Crisp,2009,Kansas City Royals,180,30,41,3,14,29,23,.228,.336,.378,.714,hitter
+Juan Cruz,2009,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kyle Davies,2009,Kansas City Royals,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+David DeJesus,2009,Kansas City Royals,558,74,157,13,71,51,87,.281,.347,.434,.781,hitter
+Kyle Farnsworth,2009,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ryan Freel,2009,Baltimore Orioles,15,2,2,0,1,5,4,.133,.350,.133,.483,hitter
+Alex Gordon,2009,Kansas City Royals,164,28,38,6,22,21,43,.232,.324,.378,.702,hitter
+Zack Greinke,2009,Kansas City Royals,6,0,1,0,0,0,2,.167,.167,.333,.500,hitter
+Jose Guillen,2009,Kansas City Royals,281,30,68,9,40,22,50,.242,.314,.367,.681,hitter
+Luis Hernandez,2009,Kansas City Royals,73,4,15,0,4,4,18,.205,.256,.219,.475,hitter
+Luke Hochevar,2009,Kansas City Royals,5,0,0,0,0,0,4,.000,.000,.000,.000,hitter
+Tug Hulett,2009,Kansas City Royals,18,4,2,0,1,1,6,.111,.158,.111,.269,hitter
+Mike Jacobs,2009,Kansas City Royals,434,46,99,19,61,41,132,.228,.297,.401,.698,hitter
+Ron Mahay,2009,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mitch Maier,2009,Kansas City Royals,341,42,83,3,31,43,76,.243,.333,.331,.664,hitter
+Gil Meche,2009,Kansas City Royals,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Miguel Olivo,2009,Kansas City Royals,390,51,97,23,65,19,126,.249,.292,.490,.782,hitter
+Tony Pena Jr.,2009,Kansas City Royals,51,3,5,0,2,2,13,.098,.132,.118,.250,hitter
+Brayan Peña,2009,Kansas City Royals,165,17,45,6,18,12,18,.273,.318,.442,.760,hitter
+Horacio Ramirez,2009,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Joakim Soria,2009,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mark Teahen,2009,Kansas City Royals,524,69,142,12,50,37,123,.271,.325,.408,.733,hitter
+Jamey Wright,2009,Kansas City Royals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tony Abreu,2009,Los Angeles Dodgers,8,0,2,0,1,3,2,.250,.455,.250,.705,hitter
+Brad Ausmus,2009,Los Angeles Dodgers,95,9,28,1,9,5,21,.295,.343,.368,.711,hitter
+Ronald Belisario,2009,Los Angeles Dodgers,4,0,0,0,0,0,3,.000,.000,.000,.000,hitter
+Ronnie Belliard,2009,Washington Nationals,187,26,46,5,22,14,40,.246,.296,.374,.670,hitter
+Chad Billingsley,2009,Los Angeles Dodgers,56,2,10,1,4,4,24,.179,.233,.268,.501,hitter
+Casey Blake,2009,Los Angeles Dodgers,485,84,136,18,79,63,116,.280,.363,.468,.831,hitter
+Jonathan Broxton,2009,Los Angeles Dodgers,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Juan Castro,2009,Los Angeles Dodgers,112,18,31,1,9,6,25,.277,.311,.339,.650,hitter
+Blake DeWitt,2009,Los Angeles Dodgers,49,4,10,2,4,3,7,.204,.245,.388,.633,hitter
+Scott Elbert,2009,Los Angeles Dodgers,5,1,1,0,1,0,2,.200,.200,.400,.600,hitter
+A.J. Ellis,2009,Los Angeles Dodgers,10,0,1,0,1,0,1,.100,.100,.100,.200,hitter
+Andre Ethier,2009,Los Angeles Dodgers,596,92,162,31,106,72,116,.272,.361,.508,.869,hitter
+Rafael Furcal,2009,Los Angeles Dodgers,613,92,165,9,47,61,89,.269,.335,.375,.710,hitter
+Jon Garland,2009,Arizona Diamondbacks,58,3,6,0,1,1,26,.103,.119,.103,.222,hitter
+Charlie Haeger,2009,Los Angeles Dodgers,4,0,0,0,0,0,4,.000,.000,.000,.000,hitter
+Jamie Hoffmann,2009,Los Angeles Dodgers,22,2,4,1,7,0,5,.182,.167,.409,.576,hitter
+Chin-Lung Hu,2009,Los Angeles Dodgers,5,2,2,0,2,0,2,.400,.333,.600,.933,hitter
+Orlando Hudson,2009,Los Angeles Dodgers,551,74,156,9,62,62,99,.283,.357,.417,.774,hitter
+Mitch Jones,2009,Los Angeles Dodgers,13,1,4,0,0,0,6,.308,.400,.385,.785,hitter
+Matt Kemp,2009,Los Angeles Dodgers,606,97,180,26,101,52,139,.297,.352,.490,.842,hitter
+Clayton Kershaw,2009,Los Angeles Dodgers,48,2,5,0,2,3,16,.104,.157,.104,.261,hitter
+Hung-Chih Kuo,2009,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Hiroki Kuroda,2009,Los Angeles Dodgers,28,1,4,0,0,2,11,.143,.200,.143,.343,hitter
+Brent Leach,2009,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+James Loney,2009,Los Angeles Dodgers,576,73,162,13,90,70,68,.281,.357,.399,.756,hitter
+Mark Loretta,2009,Los Angeles Dodgers,181,19,42,0,25,20,21,.232,.309,.276,.585,hitter
+Russell Martin,2009,Los Angeles Dodgers,505,63,126,7,53,69,80,.250,.352,.329,.681,hitter
+James McDonald,2009,Los Angeles Dodgers,9,0,0,0,0,0,6,.000,.000,.000,.000,hitter
+Doug Mientkiewicz,2009,Los Angeles Dodgers,18,0,6,0,3,1,6,.333,.400,.389,.789,hitter
+Eric Milton,2009,Los Angeles Dodgers,8,0,0,0,0,0,3,.000,.111,.000,.111,hitter
+Guillermo Mota,2009,Los Angeles Dodgers,3,0,1,0,1,0,1,.333,.333,.333,.666,hitter
+Will Ohman,2009,Los Angeles Dodgers,2,0,1,0,1,0,1,.500,.500,.500,1.000,hitter
+Vicente Padilla,2009,Texas Rangers,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Xavier Paul,2009,Los Angeles Dodgers,14,3,3,1,1,2,4,.214,.313,.500,.813,hitter
+Juan Pierre,2009,Los Angeles Dodgers,380,57,117,0,31,27,27,.308,.365,.392,.757,hitter
+Manny Ramirez,2009,Los Angeles Dodgers,352,62,102,19,63,71,81,.290,.418,.531,.949,hitter
+Jason Repko,2009,Los Angeles Dodgers,5,1,0,0,1,0,2,.000,.143,.000,.143,hitter
+Travis Schlichting,2009,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jason Schmidt,2009,Los Angeles Dodgers,6,1,1,0,0,0,0,.167,.167,.167,.334,hitter
+George Sherrill,2009,Baltimore Orioles,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Eric Stults,2009,Los Angeles Dodgers,15,1,1,0,2,3,8,.067,.211,.067,.278,hitter
+Jim Thome,2009,Chicago White Sox,345,55,86,23,74,69,116,.249,.372,.493,.865,hitter
+Ramon Troncoso,2009,Los Angeles Dodgers,5,0,0,0,0,0,5,.000,.000,.000,.000,hitter
+Claudio Vargas,2009,Los Angeles Dodgers,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Cory Wade,2009,Los Angeles Dodgers,2,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Jeff Weaver,2009,Los Angeles Dodgers,13,1,3,0,0,0,6,.231,.231,.231,.462,hitter
+Randy Wolf,2009,Los Angeles Dodgers,68,5,11,1,11,2,22,.162,.194,.265,.459,hitter
+Collin Balester,2009,Washington Nationals,8,0,1,0,0,1,2,.125,.222,.125,.347,hitter
+Josh Bard,2009,Washington Nationals,274,20,63,6,31,24,50,.230,.293,.361,.654,hitter
+Joe Beimel,2009,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ronnie Belliard,2009,Washington Nationals,187,26,46,5,22,14,40,.246,.296,.374,.670,hitter
+Jason Bergmann,2009,Washington Nationals,2,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Roger Bernadina,2009,Washington Nationals,4,1,1,0,0,1,1,.250,.400,.500,.900,hitter
+Jamie Burke,2009,Seattle Mariners,41,1,5,1,1,2,13,.122,.163,.195,.358,hitter
+Sean Burnett,2009,Pittsburgh Pirates,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Daniel Cabrera,2009,Washington Nationals,11,0,0,0,0,2,9,.000,.214,.000,.214,hitter
+Alex Cintron,2009,Washington Nationals,26,1,2,0,0,2,7,.077,.143,.077,.220,hitter
+Tyler Clippard,2009,Washington Nationals,7,0,0,0,0,0,4,.000,.000,.000,.000,hitter
+Jesus Colome,2009,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ian Desmond,2009,Washington Nationals,82,9,23,4,12,5,14,.280,.318,.561,.879,hitter
+Ross Detwiler,2009,Washington Nationals,19,1,1,0,1,0,12,.053,.053,.053,.106,hitter
+Elijah Dukes,2009,Washington Nationals,364,38,91,8,58,46,74,.250,.337,.393,.730,hitter
+Adam Dunn,2009,Washington Nationals,546,81,146,38,105,116,177,.267,.398,.529,.927,hitter
+Marco Estrada,2009,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jesus Flores,2009,Washington Nationals,93,13,28,4,15,11,26,.301,.371,.505,.876,hitter
+Victor Garate,2009,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Alberto Gonzalez,2009,Washington Nationals,291,31,77,1,33,14,27,.265,.299,.351,.650,hitter
+Cristian Guzman,2009,Washington Nationals,531,74,151,6,52,16,75,.284,.306,.390,.696,hitter
+Joel Hanrahan,2009,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Willie Harris,2009,Washington Nationals,323,47,76,7,27,57,62,.235,.364,.393,.757,hitter
+Anderson Hernandez,2009,Washington Nationals,231,25,58,1,23,20,41,.251,.310,.320,.630,hitter
+Livan Hernandez,2009,New York Mets,40,0,5,0,0,1,4,.125,.146,.125,.271,hitter
+Mike Hinckley,2009,Washington Nationals,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Nick Johnson,2009,Washington Nationals,353,47,104,6,44,63,66,.295,.408,.402,.810,hitter
+Austin Kearns,2009,Washington Nationals,174,20,34,3,17,32,51,.195,.336,.305,.641,hitter
+Logan Kensing,2009,Florida Marlins,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+John Lannan,2009,Washington Nationals,58,1,9,0,0,2,21,.155,.183,.172,.355,hitter
+Wilfredo Ledezma,2009,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Mike MacDougal,2009,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+J.D. Martin,2009,Washington Nationals,25,3,4,0,0,1,13,.160,.192,.160,.352,hitter
+Shairon Martis,2009,Washington Nationals,24,4,5,0,2,0,6,.208,.208,.250,.458,hitter
+Justin Maxwell,2009,Washington Nationals,89,13,22,4,9,12,32,.247,.343,.449,.792,hitter
+Lastings Milledge,2009,Washington Nationals,24,1,4,0,1,1,10,.167,.231,.167,.398,hitter
+Garrett Mock,2009,Washington Nationals,23,1,2,0,0,0,13,.087,.087,.087,.174,hitter
+Nyjer Morgan,2009,Pittsburgh Pirates,278,39,77,2,27,29,49,.277,.351,.356,.707,hitter
+Michael Morse,2009,Washington Nationals,52,4,13,3,10,3,16,.250,.291,.481,.772,hitter
+Wil Nieves,2009,Washington Nationals,224,20,58,1,26,17,45,.259,.313,.299,.612,hitter
+Scott Olsen,2009,Washington Nationals,15,1,2,0,1,3,7,.133,.278,.133,.411,hitter
+Pete Orr,2009,Washington Nationals,75,5,19,1,10,3,15,.253,.272,.347,.619,hitter
+Jorge Padilla,2009,Washington Nationals,25,3,3,0,0,1,8,.120,.154,.120,.274,hitter
+Corey Patterson,2009,Washington Nationals,15,0,2,0,0,0,6,.133,.133,.133,.266,hitter
+Saul Rivera,2009,Washington Nationals,3,2,1,0,0,1,0,.333,.500,.333,.833,hitter
+Zack Segovia,2009,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Steven Shell,2009,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jorge Sosa,2009,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Craig Stammen,2009,Washington Nationals,31,1,6,0,4,2,10,.194,.242,.290,.532,hitter
+Julian Tavarez,2009,Washington Nationals,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ron Villone,2009,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Kip Wells,2009,Washington Nationals,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Josh Willingham,2009,Washington Nationals,427,70,111,24,61,61,104,.260,.367,.496,.863,hitter
+Ryan Zimmerman,2009,Washington Nationals,610,110,178,33,106,72,119,.292,.364,.525,.889,hitter
+Jordan Zimmermann,2009,Washington Nationals,27,1,4,0,2,1,11,.148,.179,.148,.327,hitter
+Marlon Anderson,2009,New York Mets,4,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Carlos Beltrán,2009,New York Mets,308,50,100,10,48,47,43,.325,.415,.500,.915,hitter
+Angel Berroa,2009,New York Yankees,22,6,3,0,1,0,6,.136,.174,.182,.356,hitter
+Lance Broadway,2009,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Emil Brown,2009,New York Mets,5,0,1,0,0,1,0,.200,.333,.200,.533,hitter
+Robinson Cancel,2009,New York Mets,1,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Luis Castillo,2009,New York Mets,486,77,147,1,40,69,58,.302,.387,.346,.733,hitter
+Ramon Castro,2009,New York Mets,79,5,20,3,13,8,16,.253,.322,.430,.752,hitter
+Ryan Church,2009,New York Mets,232,26,65,2,22,17,36,.280,.332,.375,.707,hitter
+Alex Cora,2009,New York Mets,271,31,68,1,18,25,28,.251,.320,.310,.630,hitter
+Carlos Delgado,2009,New York Mets,94,15,28,4,23,12,20,.298,.393,.521,.914,hitter
+Elmer Dessens,2009,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Nick Evans,2009,New York Mets,65,5,15,1,7,4,20,.231,.275,.385,.660,hitter
+Pedro Feliciano,2009,New York Mets,0,0,0,0,0,1,0,.000,1.000,.000,1.000,hitter
+Nelson Figueroa,2009,New York Mets,22,1,3,0,3,1,8,.136,.174,.227,.401,hitter
+Casey Fossum,2009,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Jeff Francoeur,2009,Atlanta Braves,304,32,76,5,35,12,46,.250,.282,.352,.634,hitter
+Andy Green,2009,New York Mets,4,0,1,0,0,1,1,.250,.400,.250,.650,hitter
+Sean Green,2009,New York Mets,1,0,0,0,0,0,1,.000,.000,.000,.000,hitter
+Anderson Hernandez,2009,Washington Nationals,231,25,58,1,23,20,41,.251,.310,.320,.630,hitter
+Livan Hernandez,2009,New York Mets,40,0,5,0,0,1,4,.125,.146,.125,.271,hitter
+John Maine,2009,New York Mets,27,0,4,0,2,0,11,.148,.148,.148,.296,hitter
+Fernando Martinez,2009,New York Mets,91,11,16,1,8,5,14,.176,.242,.275,.517,hitter
+Ramon Martinez,2009,New York Mets,42,1,7,0,4,1,9,.167,.182,.214,.396,hitter
+Pat Misch,2009,San Francisco Giants,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Daniel Murphy,2009,New York Mets,508,60,135,12,63,38,69,.266,.313,.427,.740,hitter
+Jonathon Niese,2009,New York Mets,8,0,1,0,0,0,3,.125,.125,.125,.250,hitter
+Fernando Nieve,2009,New York Mets,9,0,3,0,1,0,3,.333,.333,.333,.666,hitter
+Darren O'Day,2009,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ángel Pagán,2009,New York Mets,343,54,105,6,32,25,56,.306,.350,.487,.837,hitter
+Bobby Parnell,2009,New York Mets,8,1,1,0,0,0,3,.125,.125,.125,.250,hitter
+Mike Pelfrey,2009,New York Mets,52,4,5,0,4,2,12,.096,.143,.115,.258,hitter
+Oliver Pérez,2009,New York Mets,22,1,6,0,0,1,7,.273,.304,.273,.577,hitter
+J.J. Putz,2009,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tim Redding,2009,New York Mets,29,0,2,0,0,0,9,.069,.069,.069,.138,hitter
+Jeremy Reed,2009,New York Mets,161,9,39,0,9,14,36,.242,.301,.304,.605,hitter
+Argenis Reyes,2009,New York Mets,17,0,2,0,0,1,4,.118,.167,.118,.285,hitter
+José Reyes,2009,New York Mets,147,18,41,2,15,18,19,.279,.355,.395,.750,hitter
+Francisco Rodríguez,2009,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Johan Santana,2009,New York Mets,42,1,7,0,4,5,14,.167,.255,.238,.493,hitter
+Omir Santos,2009,New York Mets,281,28,73,7,40,15,44,.260,.296,.391,.687,hitter
+Brian Schneider,2009,New York Mets,170,11,37,3,24,18,21,.218,.292,.335,.627,hitter
+Gary Sheffield,2009,New York Mets,268,44,74,10,43,40,46,.276,.372,.451,.823,hitter
+Brian Stokes,2009,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Tobi Stoner,2009,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Cory Sullivan,2009,New York Mets,136,17,34,2,15,19,22,.250,.338,.382,.720,hitter
+Jon Switzer,2009,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+Ken Takahashi,2009,New York Mets,2,0,0,0,0,0,2,.000,.000,.000,.000,hitter
+Fernando Tatis,2009,New York Mets,340,42,96,8,48,22,54,.282,.339,.438,.777,hitter
+Josh Thole,2009,New York Mets,53,2,17,0,9,4,5,.321,.356,.396,.752,hitter
+Wilson Valdez,2009,New York Mets,86,11,22,0,7,8,10,.256,.326,.337,.663,hitter
+Billy Wagner,2009,New York Mets,0,0,0,0,0,0,0,.000,.000,.000,.000,hitter
+David Wright,2009,New York Mets,535,88,164,10,72,74,140,.307,.390,.447,.837,hitter
