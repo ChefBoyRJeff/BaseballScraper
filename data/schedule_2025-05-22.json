@@ -1,0 +1,258 @@
+[
+  {
+    "date": "2025-05-19T23:40Z",
+    "name": "Cleveland Guardians at Minnesota Twins",
+    "shortName": "CLE @ MIN",
+    "status": "Final",
+    "competitors": [
+      {
+        "name": "Minnesota Twins",
+        "score": "6"
+      },
+      {
+        "name": "Cleveland Guardians",
+        "score": "5"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-21T16:35Z",
+    "name": "Cincinnati Reds at Pittsburgh Pirates",
+    "shortName": "CIN @ PIT",
+    "status": "Final",
+    "competitors": [
+      {
+        "name": "Pittsburgh Pirates",
+        "score": "3"
+      },
+      {
+        "name": "Cincinnati Reds",
+        "score": "1"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-21T17:10Z",
+    "name": "Chicago Cubs at Miami Marlins",
+    "shortName": "CHC @ MIA",
+    "status": "Final",
+    "competitors": [
+      {
+        "name": "Miami Marlins",
+        "score": "1"
+      },
+      {
+        "name": "Chicago Cubs",
+        "score": "2"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-21T17:10Z",
+    "name": "Houston Astros at Tampa Bay Rays",
+    "shortName": "HOU @ TB",
+    "status": "Final",
+    "competitors": [
+      {
+        "name": "Tampa Bay Rays",
+        "score": "8"
+      },
+      {
+        "name": "Houston Astros",
+        "score": "4"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-21T17:10Z",
+    "name": "Baltimore Orioles at Milwaukee Brewers",
+    "shortName": "BAL @ MIL",
+    "status": "Final",
+    "competitors": [
+      {
+        "name": "Milwaukee Brewers",
+        "score": "4"
+      },
+      {
+        "name": "Baltimore Orioles",
+        "score": "8"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-21T17:15Z",
+    "name": "Detroit Tigers at St. Louis Cardinals",
+    "shortName": "DET @ STL",
+    "status": "Final",
+    "competitors": [
+      {
+        "name": "St. Louis Cardinals",
+        "score": "1"
+      },
+      {
+        "name": "Detroit Tigers",
+        "score": "5"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-21T18:10Z",
+    "name": "Seattle Mariners at Chicago White Sox",
+    "shortName": "SEA @ CHW",
+    "status": "Final",
+    "competitors": [
+      {
+        "name": "Chicago White Sox",
+        "score": "5"
+      },
+      {
+        "name": "Seattle Mariners",
+        "score": "6"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-21T19:45Z",
+    "name": "Kansas City Royals at San Francisco Giants",
+    "shortName": "KC @ SF",
+    "status": "Final",
+    "competitors": [
+      {
+        "name": "San Francisco Giants",
+        "score": "4"
+      },
+      {
+        "name": "Kansas City Royals",
+        "score": "8"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-21T19:55Z",
+    "name": "Cleveland Guardians at Minnesota Twins",
+    "shortName": "CLE @ MIN",
+    "status": "Final",
+    "competitors": [
+      {
+        "name": "Minnesota Twins",
+        "score": "1"
+      },
+      {
+        "name": "Cleveland Guardians",
+        "score": "5"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-21T22:45Z",
+    "name": "Atlanta Braves at Washington Nationals",
+    "shortName": "ATL @ WSH",
+    "status": "Postponed",
+    "competitors": [
+      {
+        "name": "Washington Nationals",
+        "score": "0"
+      },
+      {
+        "name": "Atlanta Braves",
+        "score": "0"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-21T22:45Z",
+    "name": "New York Mets at Boston Red Sox",
+    "shortName": "NYM @ BOS",
+    "status": "Final",
+    "competitors": [
+      {
+        "name": "Boston Red Sox",
+        "score": "1"
+      },
+      {
+        "name": "New York Mets",
+        "score": "5"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-21T23:05Z",
+    "name": "Texas Rangers at New York Yankees",
+    "shortName": "TEX @ NYY",
+    "status": "Final",
+    "competitors": [
+      {
+        "name": "New York Yankees",
+        "score": "4"
+      },
+      {
+        "name": "Texas Rangers",
+        "score": "3"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-21T23:07Z",
+    "name": "San Diego Padres at Toronto Blue Jays",
+    "shortName": "SD @ TOR",
+    "status": "Final",
+    "competitors": [
+      {
+        "name": "Toronto Blue Jays",
+        "score": "14"
+      },
+      {
+        "name": "San Diego Padres",
+        "score": "0"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-22T00:40Z",
+    "name": "Philadelphia Phillies at Colorado Rockies",
+    "shortName": "PHI @ COL",
+    "status": "Final",
+    "competitors": [
+      {
+        "name": "Colorado Rockies",
+        "score": "5"
+      },
+      {
+        "name": "Philadelphia Phillies",
+        "score": "9"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-22T02:05Z",
+    "name": "Los Angeles Angels at Athletics Athletics",
+    "shortName": "LAA @ ATH",
+    "status": "Final",
+    "competitors": [
+      {
+        "name": "Athletics",
+        "score": "5"
+      },
+      {
+        "name": "Los Angeles Angels",
+        "score": "10"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-22T02:10Z",
+    "name": "Arizona Diamondbacks at Los Angeles Dodgers",
+    "shortName": "ARI @ LAD",
+    "status": "Final",
+    "competitors": [
+      {
+        "name": "Los Angeles Dodgers",
+        "score": "3"
+      },
+      {
+        "name": "Arizona Diamondbacks",
+        "score": "1"
+      }
+    ]
+  }
+]

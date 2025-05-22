@@ -13,6 +13,7 @@ python "$basePath\bots\python\scrape_player_stats.py"
 python "$basePath\bots\python\scrape_players.py"
 python "$basePath\bots\python\scrape_injuries.py"
 python "$basePath\bots\python\scrape_schedule.py"
+python "$basePath\bots\python\scrape_historical_data.py"
 
 # Run Node.js scrapers
 Write-Host "Running Node.js scrapers..."

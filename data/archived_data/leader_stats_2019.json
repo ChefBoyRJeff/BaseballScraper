@@ -1,0 +1,1125 @@
+{
+  "copyright": "Copyright 2025 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "leagueLeaders": [
+    {
+      "leaderCategory": "battingAverage",
+      "season": "2019",
+      "gameType": {
+        "id": "R",
+        "description": "Regular Season"
+      },
+      "leaders": [
+        {
+          "rank": 1,
+          "value": ".172",
+          "team": {
+            "id": 117,
+            "name": "Houston Astros",
+            "link": "/api/v1/teams/117"
+          },
+          "league": {
+            "id": 103,
+            "name": "AL",
+            "link": "/api/v1/league/103"
+          },
+          "person": {
+            "id": 434378,
+            "fullName": "Justin Verlander",
+            "link": "/api/v1/people/434378",
+            "firstName": "Justin",
+            "lastName": "Verlander"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2019",
+          "numTeams": 1
+        },
+        {
+          "rank": 2,
+          "value": ".186",
+          "team": {
+            "id": 117,
+            "name": "Houston Astros",
+            "link": "/api/v1/teams/117"
+          },
+          "league": {
+            "id": 103,
+            "name": "AL",
+            "link": "/api/v1/league/103"
+          },
+          "person": {
+            "id": 543037,
+            "fullName": "Gerrit Cole",
+            "link": "/api/v1/people/543037",
+            "firstName": "Gerrit",
+            "lastName": "Cole"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2019",
+          "numTeams": 1
+        },
+        {
+          "rank": 3,
+          "value": ".192",
+          "team": {
+            "id": 138,
+            "name": "St. Louis Cardinals",
+            "link": "/api/v1/teams/138"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 656427,
+            "fullName": "Jack Flaherty",
+            "link": "/api/v1/people/656427",
+            "firstName": "Jack",
+            "lastName": "Flaherty"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2019",
+          "numTeams": 1
+        },
+        {
+          "rank": 4,
+          "value": ".196",
+          "team": {
+            "id": 113,
+            "name": "Cincinnati Reds",
+            "link": "/api/v1/teams/113"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 543243,
+            "fullName": "Sonny Gray",
+            "link": "/api/v1/people/543243",
+            "firstName": "Sonny",
+            "lastName": "Gray"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2019",
+          "numTeams": 1
+        },
+        {
+          "rank": 5,
+          "value": ".202",
+          "team": {
+            "id": 113,
+            "name": "Cincinnati Reds",
+            "link": "/api/v1/teams/113"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 622491,
+            "fullName": "Luis Castillo",
+            "link": "/api/v1/people/622491",
+            "firstName": "Luis",
+            "lastName": "Castillo"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2019",
+          "numTeams": 1
+        }
+      ],
+      "statGroup": "pitching",
+      "totalSplits": 61
+    },
+    {
+      "leaderCategory": "homeRuns",
+      "season": "2019",
+      "gameType": {
+        "id": "R",
+        "description": "Regular Season"
+      },
+      "leaders": [
+        {
+          "rank": 1,
+          "value": "53",
+          "team": {
+            "id": 121,
+            "name": "New York Mets",
+            "link": "/api/v1/teams/121"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 624413,
+            "fullName": "Pete Alonso",
+            "link": "/api/v1/people/624413",
+            "firstName": "Pete",
+            "lastName": "Alonso"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2019",
+          "numTeams": 1
+        },
+        {
+          "rank": 2,
+          "value": "49",
+          "team": {
+            "id": 113,
+            "name": "Cincinnati Reds",
+            "link": "/api/v1/teams/113"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 553993,
+            "fullName": "Eugenio Su\u00e1rez",
+            "link": "/api/v1/people/553993",
+            "firstName": "Eugenio",
+            "lastName": "Su\u00e1rez"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2019",
+          "numTeams": 1
+        },
+        {
+          "rank": 3,
+          "value": "48",
+          "team": {
+            "id": 118,
+            "name": "Kansas City Royals",
+            "link": "/api/v1/teams/118"
+          },
+          "league": {
+            "id": 103,
+            "name": "AL",
+            "link": "/api/v1/league/103"
+          },
+          "person": {
+            "id": 624585,
+            "fullName": "Jorge Soler",
+            "link": "/api/v1/people/624585",
+            "firstName": "Jorge",
+            "lastName": "Soler"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2019",
+          "numTeams": 1
+        },
+        {
+          "rank": 4,
+          "value": "47",
+          "team": {
+            "id": 119,
+            "name": "Los Angeles Dodgers",
+            "link": "/api/v1/teams/119"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 641355,
+            "fullName": "Cody Bellinger",
+            "link": "/api/v1/people/641355",
+            "firstName": "Cody",
+            "lastName": "Bellinger"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2019",
+          "numTeams": 1
+        },
+        {
+          "rank": 5,
+          "value": "45",
+          "team": {
+            "id": 108,
+            "name": "Los Angeles Angels",
+            "link": "/api/v1/teams/108"
+          },
+          "league": {
+            "id": 103,
+            "name": "AL",
+            "link": "/api/v1/league/103"
+          },
+          "person": {
+            "id": 545361,
+            "fullName": "Mike Trout",
+            "link": "/api/v1/people/545361",
+            "firstName": "Mike",
+            "lastName": "Trout"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2019",
+          "numTeams": 1
+        }
+      ],
+      "statGroup": "hitting",
+      "totalSplits": 549
+    },
+    {
+      "leaderCategory": "battingAverage",
+      "season": "2019",
+      "gameType": {
+        "id": "R",
+        "description": "Regular Season"
+      },
+      "leaders": [
+        {
+          "rank": 1,
+          "value": ".335",
+          "team": {
+            "id": 145,
+            "name": "Chicago White Sox",
+            "link": "/api/v1/teams/145"
+          },
+          "league": {
+            "id": 103,
+            "name": "AL",
+            "link": "/api/v1/league/103"
+          },
+          "person": {
+            "id": 641313,
+            "fullName": "Tim Anderson",
+            "link": "/api/v1/people/641313",
+            "firstName": "Tim",
+            "lastName": "Anderson"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2019",
+          "numTeams": 1
+        },
+        {
+          "rank": 2,
+          "value": ".329",
+          "team": {
+            "id": 158,
+            "name": "Milwaukee Brewers",
+            "link": "/api/v1/teams/158"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 592885,
+            "fullName": "Christian Yelich",
+            "link": "/api/v1/people/592885",
+            "firstName": "Christian",
+            "lastName": "Yelich"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2019",
+          "numTeams": 1
+        },
+        {
+          "rank": 3,
+          "value": ".329",
+          "team": {
+            "id": 109,
+            "name": "Arizona Diamondbacks",
+            "link": "/api/v1/teams/109"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 606466,
+            "fullName": "Ketel Marte",
+            "link": "/api/v1/people/606466",
+            "firstName": "Ketel",
+            "lastName": "Marte"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2019",
+          "numTeams": 1
+        },
+        {
+          "rank": 4,
+          "value": ".327",
+          "team": {
+            "id": 147,
+            "name": "New York Yankees",
+            "link": "/api/v1/teams/147"
+          },
+          "league": {
+            "id": 103,
+            "name": "AL",
+            "link": "/api/v1/league/103"
+          },
+          "person": {
+            "id": 518934,
+            "fullName": "DJ LeMahieu",
+            "link": "/api/v1/people/518934",
+            "firstName": "DJ",
+            "lastName": "LeMahieu"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2019",
+          "numTeams": 1
+        },
+        {
+          "rank": 5,
+          "value": ".319",
+          "team": {
+            "id": 120,
+            "name": "Washington Nationals",
+            "link": "/api/v1/teams/120"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 543685,
+            "fullName": "Anthony Rendon",
+            "link": "/api/v1/people/543685",
+            "firstName": "Anthony",
+            "lastName": "Rendon"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2019",
+          "numTeams": 1
+        }
+      ],
+      "statGroup": "hitting",
+      "totalSplits": 135
+    },
+    {
+      "leaderCategory": "battingAverage",
+      "season": "2019",
+      "gameType": {
+        "id": "R",
+        "description": "Regular Season"
+      },
+      "leaders": [
+        {
+          "rank": 1,
+          "value": ".218",
+          "team": {
+            "id": 117,
+            "name": "Houston Astros",
+            "link": "/api/v1/teams/117"
+          },
+          "league": {
+            "id": 103,
+            "name": "AL",
+            "link": "/api/v1/league/103"
+          },
+          "person": {
+            "id": 455139,
+            "fullName": "Robinson Chirinos",
+            "link": "/api/v1/people/455139",
+            "firstName": "Robinson",
+            "lastName": "Chirinos"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2019",
+          "numTeams": 1
+        },
+        {
+          "rank": 2,
+          "value": ".231",
+          "team": {
+            "id": 139,
+            "name": "Tampa Bay Rays",
+            "link": "/api/v1/teams/139"
+          },
+          "league": {
+            "id": 103,
+            "name": "AL",
+            "link": "/api/v1/league/103"
+          },
+          "person": {
+            "id": 572287,
+            "fullName": "Mike Zunino",
+            "link": "/api/v1/people/572287",
+            "firstName": "Mike",
+            "lastName": "Zunino"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2019",
+          "numTeams": 1
+        },
+        {
+          "rank": 3,
+          "value": ".235",
+          "team": {
+            "id": 113,
+            "name": "Cincinnati Reds",
+            "link": "/api/v1/teams/113"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 571466,
+            "fullName": "Tucker Barnhart",
+            "link": "/api/v1/people/571466",
+            "firstName": "Tucker",
+            "lastName": "Barnhart"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2019",
+          "numTeams": 1
+        },
+        {
+          "rank": 4,
+          "value": ".237",
+          "team": {
+            "id": 138,
+            "name": "St. Louis Cardinals",
+            "link": "/api/v1/teams/138"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 425877,
+            "fullName": "Yadier Molina",
+            "link": "/api/v1/people/425877",
+            "firstName": "Yadier",
+            "lastName": "Molina"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2019",
+          "numTeams": 1
+        },
+        {
+          "rank": 5,
+          "value": ".238",
+          "team": {
+            "id": 135,
+            "name": "San Diego Padres",
+            "link": "/api/v1/teams/135"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 595978,
+            "fullName": "Austin Hedges",
+            "link": "/api/v1/people/595978",
+            "firstName": "Austin",
+            "lastName": "Hedges"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2019",
+          "numTeams": 1
+        },
+        {
+          "rank": 5,
+          "value": ".238",
+          "team": {
+            "id": 114,
+            "name": "Cleveland Indians",
+            "link": "/api/v1/teams/114"
+          },
+          "league": {
+            "id": 103,
+            "name": "AL",
+            "link": "/api/v1/league/103"
+          },
+          "person": {
+            "id": 547379,
+            "fullName": "Roberto P\u00e9rez",
+            "link": "/api/v1/people/547379",
+            "firstName": "Roberto",
+            "lastName": "P\u00e9rez"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2019",
+          "numTeams": 1
+        }
+      ],
+      "statGroup": "catching",
+      "totalSplits": 30
+    },
+    {
+      "leaderCategory": "runsBattedIn",
+      "season": "2019",
+      "gameType": {
+        "id": "R",
+        "description": "Regular Season"
+      },
+      "leaders": [
+        {
+          "rank": 1,
+          "value": "126",
+          "team": {
+            "id": 120,
+            "name": "Washington Nationals",
+            "link": "/api/v1/teams/120"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 543685,
+            "fullName": "Anthony Rendon",
+            "link": "/api/v1/people/543685",
+            "firstName": "Anthony",
+            "lastName": "Rendon"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2019",
+          "numTeams": 1
+        },
+        {
+          "rank": 2,
+          "value": "123",
+          "team": {
+            "id": 145,
+            "name": "Chicago White Sox",
+            "link": "/api/v1/teams/145"
+          },
+          "league": {
+            "id": 103,
+            "name": "AL",
+            "link": "/api/v1/league/103"
+          },
+          "person": {
+            "id": 547989,
+            "fullName": "Jos\u00e9 Abreu",
+            "link": "/api/v1/people/547989",
+            "firstName": "Jos\u00e9",
+            "lastName": "Abreu"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2019",
+          "numTeams": 1
+        },
+        {
+          "rank": 3,
+          "value": "121",
+          "team": {
+            "id": 144,
+            "name": "Atlanta Braves",
+            "link": "/api/v1/teams/144"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 518692,
+            "fullName": "Freddie Freeman",
+            "link": "/api/v1/people/518692",
+            "firstName": "Freddie",
+            "lastName": "Freeman"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2019",
+          "numTeams": 1
+        },
+        {
+          "rank": 4,
+          "value": "120",
+          "team": {
+            "id": 121,
+            "name": "New York Mets",
+            "link": "/api/v1/teams/121"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 624413,
+            "fullName": "Pete Alonso",
+            "link": "/api/v1/people/624413",
+            "firstName": "Pete",
+            "lastName": "Alonso"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2019",
+          "numTeams": 1
+        },
+        {
+          "rank": 5,
+          "value": "118",
+          "team": {
+            "id": 115,
+            "name": "Colorado Rockies",
+            "link": "/api/v1/teams/115"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 571448,
+            "fullName": "Nolan Arenado",
+            "link": "/api/v1/people/571448",
+            "firstName": "Nolan",
+            "lastName": "Arenado"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2019",
+          "numTeams": 1
+        },
+        {
+          "rank": 5,
+          "value": "118",
+          "team": {
+            "id": 109,
+            "name": "Arizona Diamondbacks",
+            "link": "/api/v1/teams/109"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 500871,
+            "fullName": "Eduardo Escobar",
+            "link": "/api/v1/people/500871",
+            "firstName": "Eduardo",
+            "lastName": "Escobar"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2019",
+          "numTeams": 1
+        }
+      ],
+      "statGroup": "hitting",
+      "totalSplits": 693
+    },
+    {
+      "leaderCategory": "homeRuns",
+      "season": "2019",
+      "gameType": {
+        "id": "R",
+        "description": "Regular Season"
+      },
+      "leaders": [
+        {
+          "rank": 1,
+          "value": "207",
+          "team": {
+            "id": 143,
+            "name": "Philadelphia Phillies",
+            "link": "/api/v1/teams/143"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 592663,
+            "fullName": "J.T. Realmuto",
+            "link": "/api/v1/people/592663",
+            "firstName": "J.T.",
+            "lastName": "Realmuto"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2019",
+          "numTeams": 1
+        },
+        {
+          "rank": 2,
+          "value": "178",
+          "team": {
+            "id": 158,
+            "name": "Milwaukee Brewers",
+            "link": "/api/v1/teams/158"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 518735,
+            "fullName": "Yasmani Grandal",
+            "link": "/api/v1/people/518735",
+            "firstName": "Yasmani",
+            "lastName": "Grandal"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2019",
+          "numTeams": 1
+        },
+        {
+          "rank": 3,
+          "value": "173",
+          "team": {
+            "id": 146,
+            "name": "Miami Marlins",
+            "link": "/api/v1/teams/146"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 595751,
+            "fullName": "Jorge Alfaro",
+            "link": "/api/v1/people/595751",
+            "firstName": "Jorge",
+            "lastName": "Alfaro"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2019",
+          "numTeams": 1
+        },
+        {
+          "rank": 4,
+          "value": "161",
+          "team": {
+            "id": 115,
+            "name": "Colorado Rockies",
+            "link": "/api/v1/teams/115"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 547172,
+            "fullName": "Tony Wolters",
+            "link": "/api/v1/people/547172",
+            "firstName": "Tony",
+            "lastName": "Wolters"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2019",
+          "numTeams": 1
+        },
+        {
+          "rank": 5,
+          "value": "153",
+          "team": {
+            "id": 117,
+            "name": "Houston Astros",
+            "link": "/api/v1/teams/117"
+          },
+          "league": {
+            "id": 103,
+            "name": "AL",
+            "link": "/api/v1/league/103"
+          },
+          "person": {
+            "id": 455139,
+            "fullName": "Robinson Chirinos",
+            "link": "/api/v1/people/455139",
+            "firstName": "Robinson",
+            "lastName": "Chirinos"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2019",
+          "numTeams": 1
+        }
+      ],
+      "statGroup": "catching",
+      "totalSplits": 106
+    },
+    {
+      "leaderCategory": "homeRuns",
+      "season": "2019",
+      "gameType": {
+        "id": "R",
+        "description": "Regular Season"
+      },
+      "leaders": [
+        {
+          "rank": 1,
+          "value": "41",
+          "team": {
+            "id": 109,
+            "name": "Arizona Diamondbacks",
+            "link": "/api/v1/teams/109"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 502190,
+            "fullName": "Mike Leake",
+            "link": "/api/v1/people/502190",
+            "firstName": "Mike",
+            "lastName": "Leake"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2019",
+          "numTeams": 2
+        },
+        {
+          "rank": 2,
+          "value": "39",
+          "team": {
+            "id": 116,
+            "name": "Detroit Tigers",
+            "link": "/api/v1/teams/116"
+          },
+          "league": {
+            "id": 103,
+            "name": "AL",
+            "link": "/api/v1/league/103"
+          },
+          "person": {
+            "id": 571510,
+            "fullName": "Matthew Boyd",
+            "link": "/api/v1/people/571510",
+            "firstName": "Matthew",
+            "lastName": "Boyd"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2019",
+          "numTeams": 1
+        },
+        {
+          "rank": 3,
+          "value": "36",
+          "team": {
+            "id": 136,
+            "name": "Seattle Mariners",
+            "link": "/api/v1/teams/136"
+          },
+          "league": {
+            "id": 103,
+            "name": "AL",
+            "link": "/api/v1/league/103"
+          },
+          "person": {
+            "id": 579328,
+            "fullName": "Yusei Kikuchi",
+            "link": "/api/v1/people/579328",
+            "firstName": "Yusei",
+            "lastName": "Kikuchi"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2019",
+          "numTeams": 1
+        },
+        {
+          "rank": 3,
+          "value": "36",
+          "team": {
+            "id": 117,
+            "name": "Houston Astros",
+            "link": "/api/v1/teams/117"
+          },
+          "league": {
+            "id": 103,
+            "name": "AL",
+            "link": "/api/v1/league/103"
+          },
+          "person": {
+            "id": 434378,
+            "fullName": "Justin Verlander",
+            "link": "/api/v1/people/434378",
+            "firstName": "Justin",
+            "lastName": "Verlander"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2019",
+          "numTeams": 1
+        },
+        {
+          "rank": 5,
+          "value": "35",
+          "team": {
+            "id": 145,
+            "name": "Chicago White Sox",
+            "link": "/api/v1/teams/145"
+          },
+          "league": {
+            "id": 103,
+            "name": "AL",
+            "link": "/api/v1/league/103"
+          },
+          "person": {
+            "id": 625643,
+            "fullName": "Reynaldo L\u00f3pez",
+            "link": "/api/v1/people/625643",
+            "firstName": "Reynaldo",
+            "lastName": "L\u00f3pez"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2019",
+          "numTeams": 1
+        }
+      ],
+      "statGroup": "pitching",
+      "totalSplits": 745
+    }
+  ]
+}

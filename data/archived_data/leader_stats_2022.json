@@ -1,0 +1,1097 @@
+{
+  "copyright": "Copyright 2025 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "leagueLeaders": [
+    {
+      "leaderCategory": "battingAverage",
+      "season": "2022",
+      "gameType": {
+        "id": "R",
+        "description": "Regular Season"
+      },
+      "leaders": [
+        {
+          "rank": 1,
+          "value": ".186",
+          "team": {
+            "id": 109,
+            "name": "Arizona Diamondbacks",
+            "link": "/api/v1/teams/109"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 668678,
+            "fullName": "Zac Gallen",
+            "link": "/api/v1/people/668678",
+            "firstName": "Zac",
+            "lastName": "Gallen"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2022",
+          "numTeams": 1
+        },
+        {
+          "rank": 1,
+          "value": ".186",
+          "team": {
+            "id": 117,
+            "name": "Houston Astros",
+            "link": "/api/v1/teams/117"
+          },
+          "league": {
+            "id": 103,
+            "name": "AL",
+            "link": "/api/v1/league/103"
+          },
+          "person": {
+            "id": 434378,
+            "fullName": "Justin Verlander",
+            "link": "/api/v1/people/434378",
+            "firstName": "Justin",
+            "lastName": "Verlander"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2022",
+          "numTeams": 1
+        },
+        {
+          "rank": 3,
+          "value": ".190",
+          "team": {
+            "id": 145,
+            "name": "Chicago White Sox",
+            "link": "/api/v1/teams/145"
+          },
+          "league": {
+            "id": 103,
+            "name": "AL",
+            "link": "/api/v1/league/103"
+          },
+          "person": {
+            "id": 656302,
+            "fullName": "Dylan Cease",
+            "link": "/api/v1/people/656302",
+            "firstName": "Dylan",
+            "lastName": "Cease"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2022",
+          "numTeams": 1
+        },
+        {
+          "rank": 4,
+          "value": ".194",
+          "team": {
+            "id": 139,
+            "name": "Tampa Bay Rays",
+            "link": "/api/v1/teams/139"
+          },
+          "league": {
+            "id": 103,
+            "name": "AL",
+            "link": "/api/v1/league/103"
+          },
+          "person": {
+            "id": 663556,
+            "fullName": "Shane McClanahan",
+            "link": "/api/v1/people/663556",
+            "firstName": "Shane",
+            "lastName": "McClanahan"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2022",
+          "numTeams": 1
+        },
+        {
+          "rank": 5,
+          "value": ".197",
+          "team": {
+            "id": 158,
+            "name": "Milwaukee Brewers",
+            "link": "/api/v1/teams/158"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 669203,
+            "fullName": "Corbin Burnes",
+            "link": "/api/v1/people/669203",
+            "firstName": "Corbin",
+            "lastName": "Burnes"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2022",
+          "numTeams": 1
+        }
+      ],
+      "statGroup": "pitching",
+      "totalSplits": 45
+    },
+    {
+      "leaderCategory": "homeRuns",
+      "season": "2022",
+      "gameType": {
+        "id": "R",
+        "description": "Regular Season"
+      },
+      "leaders": [
+        {
+          "rank": 1,
+          "value": "62",
+          "team": {
+            "id": 147,
+            "name": "New York Yankees",
+            "link": "/api/v1/teams/147"
+          },
+          "league": {
+            "id": 103,
+            "name": "AL",
+            "link": "/api/v1/league/103"
+          },
+          "person": {
+            "id": 592450,
+            "fullName": "Aaron Judge",
+            "link": "/api/v1/people/592450",
+            "firstName": "Aaron",
+            "lastName": "Judge"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2022",
+          "numTeams": 1
+        },
+        {
+          "rank": 2,
+          "value": "46",
+          "team": {
+            "id": 143,
+            "name": "Philadelphia Phillies",
+            "link": "/api/v1/teams/143"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 656941,
+            "fullName": "Kyle Schwarber",
+            "link": "/api/v1/people/656941",
+            "firstName": "Kyle",
+            "lastName": "Schwarber"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2022",
+          "numTeams": 1
+        },
+        {
+          "rank": 3,
+          "value": "40",
+          "team": {
+            "id": 121,
+            "name": "New York Mets",
+            "link": "/api/v1/teams/121"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 624413,
+            "fullName": "Pete Alonso",
+            "link": "/api/v1/people/624413",
+            "firstName": "Pete",
+            "lastName": "Alonso"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2022",
+          "numTeams": 1
+        },
+        {
+          "rank": 3,
+          "value": "40",
+          "team": {
+            "id": 108,
+            "name": "Los Angeles Angels",
+            "link": "/api/v1/teams/108"
+          },
+          "league": {
+            "id": 103,
+            "name": "AL",
+            "link": "/api/v1/league/103"
+          },
+          "person": {
+            "id": 545361,
+            "fullName": "Mike Trout",
+            "link": "/api/v1/people/545361",
+            "firstName": "Mike",
+            "lastName": "Trout"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2022",
+          "numTeams": 1
+        },
+        {
+          "rank": 5,
+          "value": "38",
+          "team": {
+            "id": 144,
+            "name": "Atlanta Braves",
+            "link": "/api/v1/teams/144"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 663586,
+            "fullName": "Austin Riley",
+            "link": "/api/v1/people/663586",
+            "firstName": "Austin",
+            "lastName": "Riley"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2022",
+          "numTeams": 1
+        }
+      ],
+      "statGroup": "hitting",
+      "totalSplits": 539
+    },
+    {
+      "leaderCategory": "battingAverage",
+      "season": "2022",
+      "gameType": {
+        "id": "R",
+        "description": "Regular Season"
+      },
+      "leaders": [
+        {
+          "rank": 1,
+          "value": ".326",
+          "team": {
+            "id": 121,
+            "name": "New York Mets",
+            "link": "/api/v1/teams/121"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 643446,
+            "fullName": "Jeff McNeil",
+            "link": "/api/v1/people/643446",
+            "firstName": "Jeff",
+            "lastName": "McNeil"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2022",
+          "numTeams": 1
+        },
+        {
+          "rank": 2,
+          "value": ".325",
+          "team": {
+            "id": 119,
+            "name": "Los Angeles Dodgers",
+            "link": "/api/v1/teams/119"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 518692,
+            "fullName": "Freddie Freeman",
+            "link": "/api/v1/people/518692",
+            "firstName": "Freddie",
+            "lastName": "Freeman"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2022",
+          "numTeams": 1
+        },
+        {
+          "rank": 3,
+          "value": ".317",
+          "team": {
+            "id": 138,
+            "name": "St. Louis Cardinals",
+            "link": "/api/v1/teams/138"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 502671,
+            "fullName": "Paul Goldschmidt",
+            "link": "/api/v1/people/502671",
+            "firstName": "Paul",
+            "lastName": "Goldschmidt"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2022",
+          "numTeams": 1
+        },
+        {
+          "rank": 4,
+          "value": ".316",
+          "team": {
+            "id": 142,
+            "name": "Minnesota Twins",
+            "link": "/api/v1/teams/142"
+          },
+          "league": {
+            "id": 103,
+            "name": "AL",
+            "link": "/api/v1/league/103"
+          },
+          "person": {
+            "id": 650333,
+            "fullName": "Luis Arraez",
+            "link": "/api/v1/people/650333",
+            "firstName": "Luis",
+            "lastName": "Arraez"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2022",
+          "numTeams": 1
+        },
+        {
+          "rank": 5,
+          "value": ".311",
+          "team": {
+            "id": 147,
+            "name": "New York Yankees",
+            "link": "/api/v1/teams/147"
+          },
+          "league": {
+            "id": 103,
+            "name": "AL",
+            "link": "/api/v1/league/103"
+          },
+          "person": {
+            "id": 592450,
+            "fullName": "Aaron Judge",
+            "link": "/api/v1/people/592450",
+            "firstName": "Aaron",
+            "lastName": "Judge"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2022",
+          "numTeams": 1
+        }
+      ],
+      "statGroup": "hitting",
+      "totalSplits": 130
+    },
+    {
+      "leaderCategory": "battingAverage",
+      "season": "2022",
+      "gameType": {
+        "id": "R",
+        "description": "Regular Season"
+      },
+      "leaders": [
+        {
+          "rank": 1,
+          "value": ".202",
+          "team": {
+            "id": 119,
+            "name": "Los Angeles Dodgers",
+            "link": "/api/v1/teams/119"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 669257,
+            "fullName": "Will Smith",
+            "link": "/api/v1/people/669257",
+            "firstName": "Will",
+            "lastName": "Smith"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2022",
+          "numTeams": 1
+        },
+        {
+          "rank": 2,
+          "value": ".212",
+          "team": {
+            "id": 147,
+            "name": "New York Yankees",
+            "link": "/api/v1/teams/147"
+          },
+          "league": {
+            "id": 103,
+            "name": "AL",
+            "link": "/api/v1/league/103"
+          },
+          "person": {
+            "id": 624431,
+            "fullName": "Jose Trevino",
+            "link": "/api/v1/people/624431",
+            "firstName": "Jose",
+            "lastName": "Trevino"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2022",
+          "numTeams": 1
+        },
+        {
+          "rank": 3,
+          "value": ".213",
+          "team": {
+            "id": 117,
+            "name": "Houston Astros",
+            "link": "/api/v1/teams/117"
+          },
+          "league": {
+            "id": 103,
+            "name": "AL",
+            "link": "/api/v1/league/103"
+          },
+          "person": {
+            "id": 455117,
+            "fullName": "Mart\u00edn Maldonado",
+            "link": "/api/v1/people/455117",
+            "firstName": "Mart\u00edn",
+            "lastName": "Maldonado"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2022",
+          "numTeams": 1
+        },
+        {
+          "rank": 4,
+          "value": ".222",
+          "team": {
+            "id": 135,
+            "name": "San Diego Padres",
+            "link": "/api/v1/teams/135"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 543592,
+            "fullName": "Austin Nola",
+            "link": "/api/v1/people/543592",
+            "firstName": "Austin",
+            "lastName": "Nola"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2022",
+          "numTeams": 1
+        },
+        {
+          "rank": 5,
+          "value": ".225",
+          "team": {
+            "id": 147,
+            "name": "New York Yankees",
+            "link": "/api/v1/teams/147"
+          },
+          "league": {
+            "id": 103,
+            "name": "AL",
+            "link": "/api/v1/league/103"
+          },
+          "person": {
+            "id": 543309,
+            "fullName": "Kyle Higashioka",
+            "link": "/api/v1/people/543309",
+            "firstName": "Kyle",
+            "lastName": "Higashioka"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2022",
+          "numTeams": 1
+        }
+      ],
+      "statGroup": "catching",
+      "totalSplits": 28
+    },
+    {
+      "leaderCategory": "runsBattedIn",
+      "season": "2022",
+      "gameType": {
+        "id": "R",
+        "description": "Regular Season"
+      },
+      "leaders": [
+        {
+          "rank": 1,
+          "value": "131",
+          "team": {
+            "id": 121,
+            "name": "New York Mets",
+            "link": "/api/v1/teams/121"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 624413,
+            "fullName": "Pete Alonso",
+            "link": "/api/v1/people/624413",
+            "firstName": "Pete",
+            "lastName": "Alonso"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2022",
+          "numTeams": 1
+        },
+        {
+          "rank": 1,
+          "value": "131",
+          "team": {
+            "id": 147,
+            "name": "New York Yankees",
+            "link": "/api/v1/teams/147"
+          },
+          "league": {
+            "id": 103,
+            "name": "AL",
+            "link": "/api/v1/league/103"
+          },
+          "person": {
+            "id": 592450,
+            "fullName": "Aaron Judge",
+            "link": "/api/v1/people/592450",
+            "firstName": "Aaron",
+            "lastName": "Judge"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2022",
+          "numTeams": 1
+        },
+        {
+          "rank": 3,
+          "value": "126",
+          "team": {
+            "id": 114,
+            "name": "Cleveland Guardians",
+            "link": "/api/v1/teams/114"
+          },
+          "league": {
+            "id": 103,
+            "name": "AL",
+            "link": "/api/v1/league/103"
+          },
+          "person": {
+            "id": 608070,
+            "fullName": "Jos\u00e9 Ram\u00edrez",
+            "link": "/api/v1/people/608070",
+            "firstName": "Jos\u00e9",
+            "lastName": "Ram\u00edrez"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2022",
+          "numTeams": 1
+        },
+        {
+          "rank": 4,
+          "value": "115",
+          "team": {
+            "id": 138,
+            "name": "St. Louis Cardinals",
+            "link": "/api/v1/teams/138"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 502671,
+            "fullName": "Paul Goldschmidt",
+            "link": "/api/v1/people/502671",
+            "firstName": "Paul",
+            "lastName": "Goldschmidt"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2022",
+          "numTeams": 1
+        },
+        {
+          "rank": 5,
+          "value": "107",
+          "team": {
+            "id": 121,
+            "name": "New York Mets",
+            "link": "/api/v1/teams/121"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 596019,
+            "fullName": "Francisco Lindor",
+            "link": "/api/v1/people/596019",
+            "firstName": "Francisco",
+            "lastName": "Lindor"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2022",
+          "numTeams": 1
+        },
+        {
+          "rank": 5,
+          "value": "107",
+          "team": {
+            "id": 117,
+            "name": "Houston Astros",
+            "link": "/api/v1/teams/117"
+          },
+          "league": {
+            "id": 103,
+            "name": "AL",
+            "link": "/api/v1/league/103"
+          },
+          "person": {
+            "id": 663656,
+            "fullName": "Kyle Tucker",
+            "link": "/api/v1/people/663656",
+            "firstName": "Kyle",
+            "lastName": "Tucker"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2022",
+          "numTeams": 1
+        }
+      ],
+      "statGroup": "hitting",
+      "totalSplits": 622
+    },
+    {
+      "leaderCategory": "homeRuns",
+      "season": "2022",
+      "gameType": {
+        "id": "R",
+        "description": "Regular Season"
+      },
+      "leaders": [
+        {
+          "rank": 1,
+          "value": "158",
+          "team": {
+            "id": 120,
+            "name": "Washington Nationals",
+            "link": "/api/v1/teams/120"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 660688,
+            "fullName": "Keibert Ruiz",
+            "link": "/api/v1/people/660688",
+            "firstName": "Keibert",
+            "lastName": "Ruiz"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2022",
+          "numTeams": 1
+        },
+        {
+          "rank": 2,
+          "value": "149",
+          "team": {
+            "id": 133,
+            "name": "Oakland Athletics",
+            "link": "/api/v1/teams/133"
+          },
+          "league": {
+            "id": 103,
+            "name": "AL",
+            "link": "/api/v1/league/103"
+          },
+          "person": {
+            "id": 669221,
+            "fullName": "Sean Murphy",
+            "link": "/api/v1/people/669221",
+            "firstName": "Sean",
+            "lastName": "Murphy"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2022",
+          "numTeams": 1
+        },
+        {
+          "rank": 3,
+          "value": "116",
+          "team": {
+            "id": 143,
+            "name": "Philadelphia Phillies",
+            "link": "/api/v1/teams/143"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 592663,
+            "fullName": "J.T. Realmuto",
+            "link": "/api/v1/people/592663",
+            "firstName": "J.T.",
+            "lastName": "Realmuto"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2022",
+          "numTeams": 1
+        },
+        {
+          "rank": 4,
+          "value": "110",
+          "team": {
+            "id": 136,
+            "name": "Seattle Mariners",
+            "link": "/api/v1/teams/136"
+          },
+          "league": {
+            "id": 103,
+            "name": "AL",
+            "link": "/api/v1/league/103"
+          },
+          "person": {
+            "id": 663728,
+            "fullName": "Cal Raleigh",
+            "link": "/api/v1/people/663728",
+            "firstName": "Cal",
+            "lastName": "Raleigh"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2022",
+          "numTeams": 1
+        },
+        {
+          "rank": 5,
+          "value": "106",
+          "team": {
+            "id": 115,
+            "name": "Colorado Rockies",
+            "link": "/api/v1/teams/115"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 553869,
+            "fullName": "Elias D\u00edaz",
+            "link": "/api/v1/people/553869",
+            "firstName": "Elias",
+            "lastName": "D\u00edaz"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2022",
+          "numTeams": 1
+        }
+      ],
+      "statGroup": "catching",
+      "totalSplits": 116
+    },
+    {
+      "leaderCategory": "homeRuns",
+      "season": "2022",
+      "gameType": {
+        "id": "R",
+        "description": "Regular Season"
+      },
+      "leaders": [
+        {
+          "rank": 1,
+          "value": "38",
+          "team": {
+            "id": 120,
+            "name": "Washington Nationals",
+            "link": "/api/v1/teams/120"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 680686,
+            "fullName": "Josiah Gray",
+            "link": "/api/v1/people/680686",
+            "firstName": "Josiah",
+            "lastName": "Gray"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2022",
+          "numTeams": 1
+        },
+        {
+          "rank": 2,
+          "value": "33",
+          "team": {
+            "id": 147,
+            "name": "New York Yankees",
+            "link": "/api/v1/teams/147"
+          },
+          "league": {
+            "id": 103,
+            "name": "AL",
+            "link": "/api/v1/league/103"
+          },
+          "person": {
+            "id": 543037,
+            "fullName": "Gerrit Cole",
+            "link": "/api/v1/people/543037",
+            "firstName": "Gerrit",
+            "lastName": "Cole"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2022",
+          "numTeams": 1
+        },
+        {
+          "rank": 3,
+          "value": "32",
+          "team": {
+            "id": 136,
+            "name": "Seattle Mariners",
+            "link": "/api/v1/teams/136"
+          },
+          "league": {
+            "id": 103,
+            "name": "AL",
+            "link": "/api/v1/league/103"
+          },
+          "person": {
+            "id": 592662,
+            "fullName": "Robbie Ray",
+            "link": "/api/v1/people/592662",
+            "firstName": "Robbie",
+            "lastName": "Ray"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2022",
+          "numTeams": 1
+        },
+        {
+          "rank": 4,
+          "value": "30",
+          "team": {
+            "id": 136,
+            "name": "Seattle Mariners",
+            "link": "/api/v1/teams/136"
+          },
+          "league": {
+            "id": 103,
+            "name": "AL",
+            "link": "/api/v1/league/103"
+          },
+          "person": {
+            "id": 594835,
+            "fullName": "Marco Gonzales",
+            "link": "/api/v1/people/594835",
+            "firstName": "Marco",
+            "lastName": "Gonzales"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2022",
+          "numTeams": 1
+        },
+        {
+          "rank": 4,
+          "value": "30",
+          "team": {
+            "id": 115,
+            "name": "Colorado Rockies",
+            "link": "/api/v1/teams/115"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 608566,
+            "fullName": "Germ\u00e1n M\u00e1rquez",
+            "link": "/api/v1/people/608566",
+            "firstName": "Germ\u00e1n",
+            "lastName": "M\u00e1rquez"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2022",
+          "numTeams": 1
+        }
+      ],
+      "statGroup": "pitching",
+      "totalSplits": 735
+    }
+  ]
+}
