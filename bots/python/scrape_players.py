@@ -1,67 +1,94 @@
-# scrape_players.py
-# Scrapes player rosters by iterating through hardcoded ESPN MLB team IDs.
-
-import requests
-import json
+# This script fetches historical MLB player statistics for the seasons 2019 to 2024
+# and saves them in JSON and CSV formats. It uses the MLB Stats API to get the data.
+# scrape_players.py - Pulls all active MLB players and their bio info
 import os
+import json
+import csv
+import requests
 from datetime import datetime
 from time import sleep
 
-TEAM_IDS = {
-    1: "Angels", 2: "Diamondbacks", 3: "Braves", 4: "Orioles", 5: "Red Sox",
-    6: "Cubs", 7: "White Sox", 8: "Reds", 9: "Guardians", 10: "Rockies",
-    11: "Tigers", 12: "Astros", 13: "Royals", 14: "Dodgers", 15: "Marlins",
-    16: "Brewers", 17: "Twins", 18: "Yankees", 19: "Mets", 20: "Athletics",
-    21: "Phillies", 22: "Pirates", 23: "Padres", 24: "Giants", 25: "Mariners",
-    26: "Cardinals", 27: "Rays", 28: "Rangers", 29: "Blue Jays", 30: "Nationals"
-}
+OUTPUT_DIR = "./data"
+TEAMS_URL = "https://statsapi.mlb.com/api/v1/teams?sportId=1"
+ROSTER_URL = "https://statsapi.mlb.com/api/v1/teams/{team_id}/roster"
+PLAYER_BIO_URL = "https://statsapi.mlb.com/api/v1/people/{player_id}"
 
-BASE_URL = "https://site.api.espn.com/apis/site/v2/sports/baseball/mlb/teams"
+def log(msg):
+    print(f"[{datetime.now().isoformat()}] {msg}")
 
-def fetch_players():
-    players = []
-    failed = []
+def fetch_json(url):
+    try:
+        res = requests.get(url, timeout=10)
+        res.raise_for_status()
+        return res.json()
+    except Exception as e:
+        log(f"❌ Error fetching {url}: {e}")
+        return None
 
-    for team_id, team_name in TEAM_IDS.items():
-        url = f"{BASE_URL}/{team_id}/roster"
-        try:
-            res = requests.get(url)
-            res.raise_for_status()
-            data = res.json()
-            for group in data.get("athletes", []):
-                for player in group.get("items", []):
-                    players.append({
-                        "team": team_name,
-                        "name": player.get("fullName"),
-                        "position": player.get("position", {}).get("name", "N/A"),
-                        "jersey": player.get("jersey", ""),
-                        "height": player.get("displayHeight", ""),
-                        "weight": player.get("displayWeight", ""),
-                        "age": player.get("age", "")
-                    })
-        except Exception as e:
-            print(f"❌ Failed for team {team_name} ({team_id}): {e}")
-            failed.append(team_name)
-        sleep(0.2)  # throttle requests
+def fetch_team_list():
+    data = fetch_json(TEAMS_URL)
+    if not data:
+        return []
+    return [(team["id"], team["name"]) for team in data["teams"]]
 
-    return players, failed
+def fetch_team_roster(team_id):
+    data = fetch_json(ROSTER_URL.format(team_id=team_id))
+    if not data:
+        return []
+    return [entry["person"]["id"] for entry in data.get("roster", [])]
 
-def save(players):
-    today = datetime.today().strftime("%Y-%m-%d")
-    os.makedirs("data", exist_ok=True)
+def fetch_player_info(player_id):
+    data = fetch_json(PLAYER_BIO_URL.format(player_id=player_id))
+    if not data or "people" not in data:
+        return None
+    return data["people"][0]
 
-    with open(f"data/players_{today}.json", "w") as f:
-        json.dump(players, f, indent=2)
+def normalize_player(p, team_name):
+    return {
+        "name": p.get("fullName", ""),
+        "team": team_name,
+        "jersey": p.get("jerseyNumber", ""),
+        "position": p.get("primaryPosition", {}).get("name", ""),
+        "age": p.get("currentAge", ""),
+        "height": p.get("height", ""),
+        "weight": p.get("weight", ""),
+        "batSide": p.get("batSide", {}).get("code", ""),
+        "throwSide": p.get("pitchHand", {}).get("code", "")
+    }
 
-    with open(f"data/players_{today}.csv", "w") as f:
-        f.write("team,name,position,jersey,height,weight,age\n")
-        for p in players:
-            f.write(f'"{p["team"]}","{p["name"]}","{p["position"]}","{p["jersey"]}","{p["height"]}","{p["weight"]}","{p["age"]}"\n')
+def save_to_files(players, date_str):
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    json_path = os.path.join(OUTPUT_DIR, f"players_{date_str}.json")
+    csv_path = os.path.join(OUTPUT_DIR, f"players_{date_str}.csv")
 
-    print(f"✅ Players list saved: {len(players)} total.")
+    with open(json_path, "w") as jf:
+        json.dump(players, jf, indent=2)
+
+    with open(csv_path, "w", newline="") as cf:
+        writer = csv.DictWriter(cf, fieldnames=players[0].keys())
+        writer.writeheader()
+        writer.writerows(players)
+
+    log(f"✅ Saved {len(players)} players to {json_path} and {csv_path}")
+
+def main():
+    log("📡 Fetching MLB player rosters...")
+    today = datetime.now().strftime("%Y-%m-%d")
+    all_players = []
+
+    teams = fetch_team_list()
+    for team_id, team_name in teams:
+        log(f"🔍 Processing {team_name}...")
+        player_ids = fetch_team_roster(team_id)
+        for pid in player_ids:
+            pinfo = fetch_player_info(pid)
+            if pinfo:
+                player = normalize_player(pinfo, team_name)
+                all_players.append(player)
+            sleep(0.25)
+
+    save_to_files(all_players, today)
+    log("🎯 Roster scrape complete.")
 
 if __name__ == "__main__":
-    players, failed = fetch_players()
-    save(players)
-    if failed:
-        print(f"⚠️ Failed teams: {', '.join(failed)}")
+    main()

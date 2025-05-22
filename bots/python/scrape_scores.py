@@ -1,72 +1,70 @@
-# scrape_scores.py
-# Scrapes daily MLB scores from ESPN and saves as JSON and CSV.
-
+# This script fetches historical MLB player statistics for the seasons 2019 to 2024
+# and saves them in JSON and CSV formats. It uses the MLB Stats API to get the data.
+# scrape_scores.py - Refactored ESPN scoreboard scraper
 import os
 import json
 import requests
-import pandas as pd
 from datetime import datetime
-from dotenv import load_dotenv
 
-# Load environment variables
-load_dotenv()
-DATA_DIR = os.getenv("DATA_DIR", "./data")
+OUTPUT_DIR = "./data"
+SCORES_URL = "https://site.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard"
 
-def log(message):
-    print(f"[{datetime.now().isoformat()}] {message}")
+def log(msg):
+    print(f"[{datetime.now().isoformat()}] {msg}")
 
 def fetch_scores():
-    today = datetime.today()
-    display_date = today.strftime('%Y-%m-%d')
-    api_date = today.strftime('%Y%m%d')
-
-    url = f"https://site.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates={api_date}"
-
     try:
-        res = requests.get(url)
-        res.raise_for_status()
-        data = res.json()
+        response = requests.get(SCORES_URL, timeout=10)
+        response.raise_for_status()
+        return response.json()
     except Exception as e:
-        log(f"❌ Failed to fetch scoreboard data: {e}")
-        return [], display_date
+        log(f"❌ Failed to fetch scores: {e}")
+        return None
 
+def parse_scores(data):
     games = []
-    for game in data.get("events", []):
+    for event in data.get("events", []):
         try:
-            competition = game.get("competitions", [])[0]
+            competition = event["competitions"][0]
             competitors = competition.get("competitors", [])
-            status = game.get("status", {}).get("type", {}).get("description", "Unknown")
+            game = {
+                "date": event.get("date"),
+                "name": event.get("name"),
+                "status": competition.get("status", {}).get("type", {}).get("description", ""),
+                "homeTeam": "",
+                "awayTeam": "",
+                "homeScore": "",
+                "awayScore": ""
+            }
 
-            home = next(team for team in competitors if team["homeAway"] == "home")
-            away = next(team for team in competitors if team["homeAway"] == "away")
+            for team in competitors:
+                if team.get("homeAway") == "home":
+                    game["homeTeam"] = team.get("team", {}).get("displayName", "")
+                    game["homeScore"] = team.get("score", "0")
+                elif team.get("homeAway") == "away":
+                    game["awayTeam"] = team.get("team", {}).get("displayName", "")
+                    game["awayScore"] = team.get("score", "0")
 
-            games.append({
-                "date": display_date,
-                "home_team": home["team"]["displayName"],
-                "home_score": home.get("score"),
-                "away_team": away["team"]["displayName"],
-                "away_score": away.get("score"),
-                "status": status
-            })
+            games.append(game)
         except Exception as e:
-            log(f"⚠️ Error parsing game: {e}")
-
-    return games, display_date
+            log(f"⚠️ Error parsing event: {e}")
+    return games
 
 def save_scores(games, date_str):
-    os.makedirs(DATA_DIR, exist_ok=True)
-
-    json_path = os.path.join(DATA_DIR, f"scores_{date_str}.json")
-    csv_path = os.path.join(DATA_DIR, f"scores_{date_str}.csv")
-
-    with open(json_path, "w") as f:
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    file_path = os.path.join(OUTPUT_DIR, f"scores_{date_str}.json")
+    with open(file_path, "w") as f:
         json.dump(games, f, indent=2)
+    log(f"✅ Saved {len(games)} games to {file_path}")
 
-    pd.DataFrame(games).to_csv(csv_path, index=False)
-
-    log(f"✅ Scraped and saved {len(games)} game scores for {date_str}.")
+def main():
+    log("📡 Fetching today’s MLB scores...")
+    today = datetime.now().strftime("%Y-%m-%d")
+    raw = fetch_scores()
+    if raw:
+        parsed = parse_scores(raw)
+        save_scores(parsed, today)
+    log("🎯 Score scrape complete.")
 
 if __name__ == "__main__":
-    scores, date_str = fetch_scores()
-    if scores:
-        save_scores(scores, date_str)
+    main()

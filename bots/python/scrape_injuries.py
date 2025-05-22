@@ -1,57 +1,57 @@
-# scrape_injuries.py
-# Scrapes player injury data from ESPN's JSON API for the MLB season.
-
+# This script fetches historical MLB player statistics for the seasons 2019 to 2024
+# and saves them in JSON and CSV formats. It uses the MLB Stats API to get the data.
+# scrape_injuries.py - Pull current injury data for MLB players from ESPN
 import os
 import json
 import requests
 from datetime import datetime
-from dotenv import load_dotenv
 
-# Load environment variables from .env
-load_dotenv()
-DATA_DIR = os.getenv("DATA_DIR", "./data")
-
-URL = 'https://site.api.espn.com/apis/site/v2/sports/baseball/mlb/injuries'
+OUTPUT_DIR = "./data"
+INJURY_URL = "https://site.api.espn.com/apis/site/v2/sports/baseball/mlb/injuries"
 
 def log(msg):
     print(f"[{datetime.now().isoformat()}] {msg}")
 
 def fetch_injuries():
     try:
-        response = requests.get(URL)
-        response.raise_for_status()
-        data = response.json()
+        res = requests.get(INJURY_URL, timeout=10)
+        res.raise_for_status()
+        return res.json()
     except Exception as e:
-        log(f"❌ Error fetching injury data: {e}")
-        return []
+        log(f"❌ Failed to fetch injury data: {e}")
+        return None
 
-    injuries = []
-
-    for team in data.get('injuries', []):
-        if 'players' not in team:
-            continue  # Skip teams with no injuries
-
-        for player in team['players']:
-            injuries.append({
-                'team': team['team']['displayName'],
-                'name': player.get('fullName'),
-                'position': player.get('position', {}).get('abbreviation'),
-                'status': player.get('status'),
-                'injury': player.get('injury'),
-                'date': player.get('date')
+def parse_injuries(data):
+    parsed = []
+    for team_entry in data.get("teams", []):
+        team_name = team_entry.get("team", {}).get("displayName", "")
+        for item in team_entry.get("injuries", []):
+            athlete = item.get("athlete", {})
+            parsed.append({
+                "name": athlete.get("fullName", ""),
+                "team": team_name,
+                "position": athlete.get("position", {}).get("abbreviation", ""),
+                "injury": item.get("details", ""),
+                "status": item.get("status", {}).get("description", ""),
+                "date": item.get("date", "")
             })
+    return parsed
 
-    return injuries
-
-def save_injuries(injuries):
-    date_str = datetime.now().strftime('%Y-%m-%d')
-    os.makedirs(DATA_DIR, exist_ok=True)
-    filepath = os.path.join(DATA_DIR, f'injuries_{date_str}.json')
-    with open(filepath, 'w') as f:
+def save_to_file(injuries, date_str):
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    path = os.path.join(OUTPUT_DIR, f"injuries_{date_str}.json")
+    with open(path, "w") as f:
         json.dump(injuries, f, indent=2)
-    log(f"✅ Injuries data saved: {filepath} ({len(injuries)} players)")
+    log(f"✅ Saved injury report to {path}")
 
-if __name__ == '__main__':
-    injuries = fetch_injuries()
-    save_injuries(injuries)
-    log("✅ Injuries data fetch complete.")
+def main():
+    log("📡 Fetching MLB injury data from ESPN...")
+    today = datetime.now().strftime("%Y-%m-%d")
+    data = fetch_injuries()
+    if data:
+        injuries = parse_injuries(data)
+        save_to_file(injuries, today)
+    log("🎯 Injury scrape complete.")
+
+if __name__ == "__main__":
+    main()
