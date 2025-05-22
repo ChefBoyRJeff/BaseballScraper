@@ -458,158 +458,6 @@
       "totalSplits": 130
     },
     {
-      "leaderCategory": "battingAverage",
-      "season": "2022",
-      "gameType": {
-        "id": "R",
-        "description": "Regular Season"
-      },
-      "leaders": [
-        {
-          "rank": 1,
-          "value": ".202",
-          "team": {
-            "id": 119,
-            "name": "Los Angeles Dodgers",
-            "link": "/api/v1/teams/119"
-          },
-          "league": {
-            "id": 104,
-            "name": "NL",
-            "link": "/api/v1/league/104"
-          },
-          "person": {
-            "id": 669257,
-            "fullName": "Will Smith",
-            "link": "/api/v1/people/669257",
-            "firstName": "Will",
-            "lastName": "Smith"
-          },
-          "sport": {
-            "id": 1,
-            "link": "/api/v1/sports/1",
-            "abbreviation": "MLB"
-          },
-          "season": "2022",
-          "numTeams": 1
-        },
-        {
-          "rank": 2,
-          "value": ".212",
-          "team": {
-            "id": 147,
-            "name": "New York Yankees",
-            "link": "/api/v1/teams/147"
-          },
-          "league": {
-            "id": 103,
-            "name": "AL",
-            "link": "/api/v1/league/103"
-          },
-          "person": {
-            "id": 624431,
-            "fullName": "Jose Trevino",
-            "link": "/api/v1/people/624431",
-            "firstName": "Jose",
-            "lastName": "Trevino"
-          },
-          "sport": {
-            "id": 1,
-            "link": "/api/v1/sports/1",
-            "abbreviation": "MLB"
-          },
-          "season": "2022",
-          "numTeams": 1
-        },
-        {
-          "rank": 3,
-          "value": ".213",
-          "team": {
-            "id": 117,
-            "name": "Houston Astros",
-            "link": "/api/v1/teams/117"
-          },
-          "league": {
-            "id": 103,
-            "name": "AL",
-            "link": "/api/v1/league/103"
-          },
-          "person": {
-            "id": 455117,
-            "fullName": "Mart\u00edn Maldonado",
-            "link": "/api/v1/people/455117",
-            "firstName": "Mart\u00edn",
-            "lastName": "Maldonado"
-          },
-          "sport": {
-            "id": 1,
-            "link": "/api/v1/sports/1",
-            "abbreviation": "MLB"
-          },
-          "season": "2022",
-          "numTeams": 1
-        },
-        {
-          "rank": 4,
-          "value": ".222",
-          "team": {
-            "id": 135,
-            "name": "San Diego Padres",
-            "link": "/api/v1/teams/135"
-          },
-          "league": {
-            "id": 104,
-            "name": "NL",
-            "link": "/api/v1/league/104"
-          },
-          "person": {
-            "id": 543592,
-            "fullName": "Austin Nola",
-            "link": "/api/v1/people/543592",
-            "firstName": "Austin",
-            "lastName": "Nola"
-          },
-          "sport": {
-            "id": 1,
-            "link": "/api/v1/sports/1",
-            "abbreviation": "MLB"
-          },
-          "season": "2022",
-          "numTeams": 1
-        },
-        {
-          "rank": 5,
-          "value": ".225",
-          "team": {
-            "id": 147,
-            "name": "New York Yankees",
-            "link": "/api/v1/teams/147"
-          },
-          "league": {
-            "id": 103,
-            "name": "AL",
-            "link": "/api/v1/league/103"
-          },
-          "person": {
-            "id": 543309,
-            "fullName": "Kyle Higashioka",
-            "link": "/api/v1/people/543309",
-            "firstName": "Kyle",
-            "lastName": "Higashioka"
-          },
-          "sport": {
-            "id": 1,
-            "link": "/api/v1/sports/1",
-            "abbreviation": "MLB"
-          },
-          "season": "2022",
-          "numTeams": 1
-        }
-      ],
-      "statGroup": "catching",
-      "totalSplits": 28
-    },
-    {
       "leaderCategory": "runsBattedIn",
       "season": "2022",
       "gameType": {
@@ -788,6 +636,158 @@
       ],
       "statGroup": "hitting",
       "totalSplits": 622
+    },
+    {
+      "leaderCategory": "battingAverage",
+      "season": "2022",
+      "gameType": {
+        "id": "R",
+        "description": "Regular Season"
+      },
+      "leaders": [
+        {
+          "rank": 1,
+          "value": ".202",
+          "team": {
+            "id": 119,
+            "name": "Los Angeles Dodgers",
+            "link": "/api/v1/teams/119"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 669257,
+            "fullName": "Will Smith",
+            "link": "/api/v1/people/669257",
+            "firstName": "Will",
+            "lastName": "Smith"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2022",
+          "numTeams": 1
+        },
+        {
+          "rank": 2,
+          "value": ".212",
+          "team": {
+            "id": 147,
+            "name": "New York Yankees",
+            "link": "/api/v1/teams/147"
+          },
+          "league": {
+            "id": 103,
+            "name": "AL",
+            "link": "/api/v1/league/103"
+          },
+          "person": {
+            "id": 624431,
+            "fullName": "Jose Trevino",
+            "link": "/api/v1/people/624431",
+            "firstName": "Jose",
+            "lastName": "Trevino"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2022",
+          "numTeams": 1
+        },
+        {
+          "rank": 3,
+          "value": ".213",
+          "team": {
+            "id": 117,
+            "name": "Houston Astros",
+            "link": "/api/v1/teams/117"
+          },
+          "league": {
+            "id": 103,
+            "name": "AL",
+            "link": "/api/v1/league/103"
+          },
+          "person": {
+            "id": 455117,
+            "fullName": "Mart\u00edn Maldonado",
+            "link": "/api/v1/people/455117",
+            "firstName": "Mart\u00edn",
+            "lastName": "Maldonado"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2022",
+          "numTeams": 1
+        },
+        {
+          "rank": 4,
+          "value": ".222",
+          "team": {
+            "id": 135,
+            "name": "San Diego Padres",
+            "link": "/api/v1/teams/135"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 543592,
+            "fullName": "Austin Nola",
+            "link": "/api/v1/people/543592",
+            "firstName": "Austin",
+            "lastName": "Nola"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2022",
+          "numTeams": 1
+        },
+        {
+          "rank": 5,
+          "value": ".225",
+          "team": {
+            "id": 147,
+            "name": "New York Yankees",
+            "link": "/api/v1/teams/147"
+          },
+          "league": {
+            "id": 103,
+            "name": "AL",
+            "link": "/api/v1/league/103"
+          },
+          "person": {
+            "id": 543309,
+            "fullName": "Kyle Higashioka",
+            "link": "/api/v1/people/543309",
+            "firstName": "Kyle",
+            "lastName": "Higashioka"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2022",
+          "numTeams": 1
+        }
+      ],
+      "statGroup": "catching",
+      "totalSplits": 28
     },
     {
       "leaderCategory": "homeRuns",

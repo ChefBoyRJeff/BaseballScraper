@@ -2,158 +2,6 @@
   "copyright": "Copyright 2025 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
   "leagueLeaders": [
     {
-      "leaderCategory": "battingAverage",
-      "season": "2021",
-      "gameType": {
-        "id": "R",
-        "description": "Regular Season"
-      },
-      "leaders": [
-        {
-          "rank": 1,
-          "value": ".185",
-          "team": {
-            "id": 119,
-            "name": "Los Angeles Dodgers",
-            "link": "/api/v1/teams/119"
-          },
-          "league": {
-            "id": 104,
-            "name": "NL",
-            "link": "/api/v1/league/104"
-          },
-          "person": {
-            "id": 453286,
-            "fullName": "Max Scherzer",
-            "link": "/api/v1/people/453286",
-            "firstName": "Max",
-            "lastName": "Scherzer"
-          },
-          "sport": {
-            "id": 1,
-            "link": "/api/v1/sports/1",
-            "abbreviation": "MLB"
-          },
-          "season": "2021",
-          "numTeams": 2
-        },
-        {
-          "rank": 2,
-          "value": ".199",
-          "team": {
-            "id": 119,
-            "name": "Los Angeles Dodgers",
-            "link": "/api/v1/teams/119"
-          },
-          "league": {
-            "id": 104,
-            "name": "NL",
-            "link": "/api/v1/league/104"
-          },
-          "person": {
-            "id": 621111,
-            "fullName": "Walker Buehler",
-            "link": "/api/v1/people/621111",
-            "firstName": "Walker",
-            "lastName": "Buehler"
-          },
-          "sport": {
-            "id": 1,
-            "link": "/api/v1/sports/1",
-            "abbreviation": "MLB"
-          },
-          "season": "2021",
-          "numTeams": 1
-        },
-        {
-          "rank": 3,
-          "value": ".200",
-          "team": {
-            "id": 158,
-            "name": "Milwaukee Brewers",
-            "link": "/api/v1/teams/158"
-          },
-          "league": {
-            "id": 104,
-            "name": "NL",
-            "link": "/api/v1/league/104"
-          },
-          "person": {
-            "id": 605540,
-            "fullName": "Brandon Woodruff",
-            "link": "/api/v1/people/605540",
-            "firstName": "Brandon",
-            "lastName": "Woodruff"
-          },
-          "sport": {
-            "id": 1,
-            "link": "/api/v1/sports/1",
-            "abbreviation": "MLB"
-          },
-          "season": "2021",
-          "numTeams": 1
-        },
-        {
-          "rank": 4,
-          "value": ".201",
-          "team": {
-            "id": 158,
-            "name": "Milwaukee Brewers",
-            "link": "/api/v1/teams/158"
-          },
-          "league": {
-            "id": 104,
-            "name": "NL",
-            "link": "/api/v1/league/104"
-          },
-          "person": {
-            "id": 669203,
-            "fullName": "Corbin Burnes",
-            "link": "/api/v1/people/669203",
-            "firstName": "Corbin",
-            "lastName": "Burnes"
-          },
-          "sport": {
-            "id": 1,
-            "link": "/api/v1/sports/1",
-            "abbreviation": "MLB"
-          },
-          "season": "2021",
-          "numTeams": 1
-        },
-        {
-          "rank": 5,
-          "value": ".203",
-          "team": {
-            "id": 144,
-            "name": "Atlanta Braves",
-            "link": "/api/v1/teams/144"
-          },
-          "league": {
-            "id": 104,
-            "name": "NL",
-            "link": "/api/v1/league/104"
-          },
-          "person": {
-            "id": 450203,
-            "fullName": "Charlie Morton",
-            "link": "/api/v1/people/450203",
-            "firstName": "Charlie",
-            "lastName": "Morton"
-          },
-          "sport": {
-            "id": 1,
-            "link": "/api/v1/sports/1",
-            "abbreviation": "MLB"
-          },
-          "season": "2021",
-          "numTeams": 1
-        }
-      ],
-      "statGroup": "pitching",
-      "totalSplits": 39
-    },
-    {
       "leaderCategory": "homeRuns",
       "season": "2021",
       "gameType": {
@@ -315,6 +163,158 @@
       "leaders": [
         {
           "rank": 1,
+          "value": ".185",
+          "team": {
+            "id": 119,
+            "name": "Los Angeles Dodgers",
+            "link": "/api/v1/teams/119"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 453286,
+            "fullName": "Max Scherzer",
+            "link": "/api/v1/people/453286",
+            "firstName": "Max",
+            "lastName": "Scherzer"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2021",
+          "numTeams": 2
+        },
+        {
+          "rank": 2,
+          "value": ".199",
+          "team": {
+            "id": 119,
+            "name": "Los Angeles Dodgers",
+            "link": "/api/v1/teams/119"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 621111,
+            "fullName": "Walker Buehler",
+            "link": "/api/v1/people/621111",
+            "firstName": "Walker",
+            "lastName": "Buehler"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2021",
+          "numTeams": 1
+        },
+        {
+          "rank": 3,
+          "value": ".200",
+          "team": {
+            "id": 158,
+            "name": "Milwaukee Brewers",
+            "link": "/api/v1/teams/158"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 605540,
+            "fullName": "Brandon Woodruff",
+            "link": "/api/v1/people/605540",
+            "firstName": "Brandon",
+            "lastName": "Woodruff"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2021",
+          "numTeams": 1
+        },
+        {
+          "rank": 4,
+          "value": ".201",
+          "team": {
+            "id": 158,
+            "name": "Milwaukee Brewers",
+            "link": "/api/v1/teams/158"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 669203,
+            "fullName": "Corbin Burnes",
+            "link": "/api/v1/people/669203",
+            "firstName": "Corbin",
+            "lastName": "Burnes"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2021",
+          "numTeams": 1
+        },
+        {
+          "rank": 5,
+          "value": ".203",
+          "team": {
+            "id": 144,
+            "name": "Atlanta Braves",
+            "link": "/api/v1/teams/144"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 450203,
+            "fullName": "Charlie Morton",
+            "link": "/api/v1/people/450203",
+            "firstName": "Charlie",
+            "lastName": "Morton"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2021",
+          "numTeams": 1
+        }
+      ],
+      "statGroup": "pitching",
+      "totalSplits": 39
+    },
+    {
+      "leaderCategory": "battingAverage",
+      "season": "2021",
+      "gameType": {
+        "id": "R",
+        "description": "Regular Season"
+      },
+      "leaders": [
+        {
+          "rank": 1,
           "value": ".328",
           "team": {
             "id": 119,
@@ -456,158 +456,6 @@
       ],
       "statGroup": "hitting",
       "totalSplits": 132
-    },
-    {
-      "leaderCategory": "battingAverage",
-      "season": "2021",
-      "gameType": {
-        "id": "R",
-        "description": "Regular Season"
-      },
-      "leaders": [
-        {
-          "rank": 1,
-          "value": ".209",
-          "team": {
-            "id": 119,
-            "name": "Los Angeles Dodgers",
-            "link": "/api/v1/teams/119"
-          },
-          "league": {
-            "id": 104,
-            "name": "NL",
-            "link": "/api/v1/league/104"
-          },
-          "person": {
-            "id": 669257,
-            "fullName": "Will Smith",
-            "link": "/api/v1/people/669257",
-            "firstName": "Will",
-            "lastName": "Smith"
-          },
-          "sport": {
-            "id": 1,
-            "link": "/api/v1/sports/1",
-            "abbreviation": "MLB"
-          },
-          "season": "2021",
-          "numTeams": 1
-        },
-        {
-          "rank": 2,
-          "value": ".211",
-          "team": {
-            "id": 158,
-            "name": "Milwaukee Brewers",
-            "link": "/api/v1/teams/158"
-          },
-          "league": {
-            "id": 104,
-            "name": "NL",
-            "link": "/api/v1/league/104"
-          },
-          "person": {
-            "id": 553882,
-            "fullName": "Omar Narv\u00e1ez",
-            "link": "/api/v1/people/553882",
-            "firstName": "Omar",
-            "lastName": "Narv\u00e1ez"
-          },
-          "sport": {
-            "id": 1,
-            "link": "/api/v1/sports/1",
-            "abbreviation": "MLB"
-          },
-          "season": "2021",
-          "numTeams": 1
-        },
-        {
-          "rank": 3,
-          "value": ".230",
-          "team": {
-            "id": 117,
-            "name": "Houston Astros",
-            "link": "/api/v1/teams/117"
-          },
-          "league": {
-            "id": 103,
-            "name": "AL",
-            "link": "/api/v1/league/103"
-          },
-          "person": {
-            "id": 455117,
-            "fullName": "Mart\u00edn Maldonado",
-            "link": "/api/v1/people/455117",
-            "firstName": "Mart\u00edn",
-            "lastName": "Maldonado"
-          },
-          "sport": {
-            "id": 1,
-            "link": "/api/v1/sports/1",
-            "abbreviation": "MLB"
-          },
-          "season": "2021",
-          "numTeams": 1
-        },
-        {
-          "rank": 4,
-          "value": ".232",
-          "team": {
-            "id": 147,
-            "name": "New York Yankees",
-            "link": "/api/v1/teams/147"
-          },
-          "league": {
-            "id": 103,
-            "name": "AL",
-            "link": "/api/v1/league/103"
-          },
-          "person": {
-            "id": 596142,
-            "fullName": "Gary S\u00e1nchez",
-            "link": "/api/v1/people/596142",
-            "firstName": "Gary",
-            "lastName": "S\u00e1nchez"
-          },
-          "sport": {
-            "id": 1,
-            "link": "/api/v1/sports/1",
-            "abbreviation": "MLB"
-          },
-          "season": "2021",
-          "numTeams": 1
-        },
-        {
-          "rank": 5,
-          "value": ".233",
-          "team": {
-            "id": 139,
-            "name": "Tampa Bay Rays",
-            "link": "/api/v1/teams/139"
-          },
-          "league": {
-            "id": 103,
-            "name": "AL",
-            "link": "/api/v1/league/103"
-          },
-          "person": {
-            "id": 572287,
-            "fullName": "Mike Zunino",
-            "link": "/api/v1/people/572287",
-            "firstName": "Mike",
-            "lastName": "Zunino"
-          },
-          "sport": {
-            "id": 1,
-            "link": "/api/v1/sports/1",
-            "abbreviation": "MLB"
-          },
-          "season": "2021",
-          "numTeams": 1
-        }
-      ],
-      "statGroup": "catching",
-      "totalSplits": 25
     },
     {
       "leaderCategory": "runsBattedIn",
@@ -760,6 +608,158 @@
       ],
       "statGroup": "hitting",
       "totalSplits": 668
+    },
+    {
+      "leaderCategory": "battingAverage",
+      "season": "2021",
+      "gameType": {
+        "id": "R",
+        "description": "Regular Season"
+      },
+      "leaders": [
+        {
+          "rank": 1,
+          "value": ".209",
+          "team": {
+            "id": 119,
+            "name": "Los Angeles Dodgers",
+            "link": "/api/v1/teams/119"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 669257,
+            "fullName": "Will Smith",
+            "link": "/api/v1/people/669257",
+            "firstName": "Will",
+            "lastName": "Smith"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2021",
+          "numTeams": 1
+        },
+        {
+          "rank": 2,
+          "value": ".211",
+          "team": {
+            "id": 158,
+            "name": "Milwaukee Brewers",
+            "link": "/api/v1/teams/158"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 553882,
+            "fullName": "Omar Narv\u00e1ez",
+            "link": "/api/v1/people/553882",
+            "firstName": "Omar",
+            "lastName": "Narv\u00e1ez"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2021",
+          "numTeams": 1
+        },
+        {
+          "rank": 3,
+          "value": ".230",
+          "team": {
+            "id": 117,
+            "name": "Houston Astros",
+            "link": "/api/v1/teams/117"
+          },
+          "league": {
+            "id": 103,
+            "name": "AL",
+            "link": "/api/v1/league/103"
+          },
+          "person": {
+            "id": 455117,
+            "fullName": "Mart\u00edn Maldonado",
+            "link": "/api/v1/people/455117",
+            "firstName": "Mart\u00edn",
+            "lastName": "Maldonado"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2021",
+          "numTeams": 1
+        },
+        {
+          "rank": 4,
+          "value": ".232",
+          "team": {
+            "id": 147,
+            "name": "New York Yankees",
+            "link": "/api/v1/teams/147"
+          },
+          "league": {
+            "id": 103,
+            "name": "AL",
+            "link": "/api/v1/league/103"
+          },
+          "person": {
+            "id": 596142,
+            "fullName": "Gary S\u00e1nchez",
+            "link": "/api/v1/people/596142",
+            "firstName": "Gary",
+            "lastName": "S\u00e1nchez"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2021",
+          "numTeams": 1
+        },
+        {
+          "rank": 5,
+          "value": ".233",
+          "team": {
+            "id": 139,
+            "name": "Tampa Bay Rays",
+            "link": "/api/v1/teams/139"
+          },
+          "league": {
+            "id": 103,
+            "name": "AL",
+            "link": "/api/v1/league/103"
+          },
+          "person": {
+            "id": 572287,
+            "fullName": "Mike Zunino",
+            "link": "/api/v1/people/572287",
+            "firstName": "Mike",
+            "lastName": "Zunino"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2021",
+          "numTeams": 1
+        }
+      ],
+      "statGroup": "catching",
+      "totalSplits": 25
     },
     {
       "leaderCategory": "homeRuns",

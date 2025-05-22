@@ -514,6 +514,158 @@
       "totalSplits": 129
     },
     {
+      "leaderCategory": "runsBattedIn",
+      "season": "2024",
+      "gameType": {
+        "id": "R",
+        "description": "Regular Season"
+      },
+      "leaders": [
+        {
+          "rank": 1,
+          "value": "144",
+          "team": {
+            "id": 147,
+            "name": "New York Yankees",
+            "link": "/api/v1/teams/147"
+          },
+          "league": {
+            "id": 103,
+            "name": "AL",
+            "link": "/api/v1/league/103"
+          },
+          "person": {
+            "id": 592450,
+            "fullName": "Aaron Judge",
+            "link": "/api/v1/people/592450",
+            "firstName": "Aaron",
+            "lastName": "Judge"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2024",
+          "numTeams": 1
+        },
+        {
+          "rank": 2,
+          "value": "130",
+          "team": {
+            "id": 119,
+            "name": "Los Angeles Dodgers",
+            "link": "/api/v1/teams/119"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 660271,
+            "fullName": "Shohei Ohtani",
+            "link": "/api/v1/people/660271",
+            "firstName": "Shohei",
+            "lastName": "Ohtani"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2024",
+          "numTeams": 1
+        },
+        {
+          "rank": 3,
+          "value": "118",
+          "team": {
+            "id": 114,
+            "name": "Cleveland Guardians",
+            "link": "/api/v1/teams/114"
+          },
+          "league": {
+            "id": 103,
+            "name": "AL",
+            "link": "/api/v1/league/103"
+          },
+          "person": {
+            "id": 608070,
+            "fullName": "Jos\u00e9 Ram\u00edrez",
+            "link": "/api/v1/people/608070",
+            "firstName": "Jos\u00e9",
+            "lastName": "Ram\u00edrez"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2024",
+          "numTeams": 1
+        },
+        {
+          "rank": 4,
+          "value": "112",
+          "team": {
+            "id": 158,
+            "name": "Milwaukee Brewers",
+            "link": "/api/v1/teams/158"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 642715,
+            "fullName": "Willy Adames",
+            "link": "/api/v1/people/642715",
+            "firstName": "Willy",
+            "lastName": "Adames"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2024",
+          "numTeams": 1
+        },
+        {
+          "rank": 4,
+          "value": "112",
+          "team": {
+            "id": 133,
+            "name": "Oakland Athletics",
+            "link": "/api/v1/teams/133"
+          },
+          "league": {
+            "id": 103,
+            "name": "AL",
+            "link": "/api/v1/league/103"
+          },
+          "person": {
+            "id": 667670,
+            "fullName": "Brent Rooker",
+            "link": "/api/v1/people/667670",
+            "firstName": "Brent",
+            "lastName": "Rooker"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2024",
+          "numTeams": 1
+        }
+      ],
+      "statGroup": "hitting",
+      "totalSplits": 596
+    },
+    {
       "leaderCategory": "battingAverage",
       "season": "2024",
       "gameType": {
@@ -692,158 +844,6 @@
       ],
       "statGroup": "catching",
       "totalSplits": 32
-    },
-    {
-      "leaderCategory": "runsBattedIn",
-      "season": "2024",
-      "gameType": {
-        "id": "R",
-        "description": "Regular Season"
-      },
-      "leaders": [
-        {
-          "rank": 1,
-          "value": "144",
-          "team": {
-            "id": 147,
-            "name": "New York Yankees",
-            "link": "/api/v1/teams/147"
-          },
-          "league": {
-            "id": 103,
-            "name": "AL",
-            "link": "/api/v1/league/103"
-          },
-          "person": {
-            "id": 592450,
-            "fullName": "Aaron Judge",
-            "link": "/api/v1/people/592450",
-            "firstName": "Aaron",
-            "lastName": "Judge"
-          },
-          "sport": {
-            "id": 1,
-            "link": "/api/v1/sports/1",
-            "abbreviation": "MLB"
-          },
-          "season": "2024",
-          "numTeams": 1
-        },
-        {
-          "rank": 2,
-          "value": "130",
-          "team": {
-            "id": 119,
-            "name": "Los Angeles Dodgers",
-            "link": "/api/v1/teams/119"
-          },
-          "league": {
-            "id": 104,
-            "name": "NL",
-            "link": "/api/v1/league/104"
-          },
-          "person": {
-            "id": 660271,
-            "fullName": "Shohei Ohtani",
-            "link": "/api/v1/people/660271",
-            "firstName": "Shohei",
-            "lastName": "Ohtani"
-          },
-          "sport": {
-            "id": 1,
-            "link": "/api/v1/sports/1",
-            "abbreviation": "MLB"
-          },
-          "season": "2024",
-          "numTeams": 1
-        },
-        {
-          "rank": 3,
-          "value": "118",
-          "team": {
-            "id": 114,
-            "name": "Cleveland Guardians",
-            "link": "/api/v1/teams/114"
-          },
-          "league": {
-            "id": 103,
-            "name": "AL",
-            "link": "/api/v1/league/103"
-          },
-          "person": {
-            "id": 608070,
-            "fullName": "Jos\u00e9 Ram\u00edrez",
-            "link": "/api/v1/people/608070",
-            "firstName": "Jos\u00e9",
-            "lastName": "Ram\u00edrez"
-          },
-          "sport": {
-            "id": 1,
-            "link": "/api/v1/sports/1",
-            "abbreviation": "MLB"
-          },
-          "season": "2024",
-          "numTeams": 1
-        },
-        {
-          "rank": 4,
-          "value": "112",
-          "team": {
-            "id": 158,
-            "name": "Milwaukee Brewers",
-            "link": "/api/v1/teams/158"
-          },
-          "league": {
-            "id": 104,
-            "name": "NL",
-            "link": "/api/v1/league/104"
-          },
-          "person": {
-            "id": 642715,
-            "fullName": "Willy Adames",
-            "link": "/api/v1/people/642715",
-            "firstName": "Willy",
-            "lastName": "Adames"
-          },
-          "sport": {
-            "id": 1,
-            "link": "/api/v1/sports/1",
-            "abbreviation": "MLB"
-          },
-          "season": "2024",
-          "numTeams": 1
-        },
-        {
-          "rank": 4,
-          "value": "112",
-          "team": {
-            "id": 133,
-            "name": "Oakland Athletics",
-            "link": "/api/v1/teams/133"
-          },
-          "league": {
-            "id": 103,
-            "name": "AL",
-            "link": "/api/v1/league/103"
-          },
-          "person": {
-            "id": 667670,
-            "fullName": "Brent Rooker",
-            "link": "/api/v1/people/667670",
-            "firstName": "Brent",
-            "lastName": "Rooker"
-          },
-          "sport": {
-            "id": 1,
-            "link": "/api/v1/sports/1",
-            "abbreviation": "MLB"
-          },
-          "season": "2024",
-          "numTeams": 1
-        }
-      ],
-      "statGroup": "hitting",
-      "totalSplits": 596
     },
     {
       "leaderCategory": "homeRuns",

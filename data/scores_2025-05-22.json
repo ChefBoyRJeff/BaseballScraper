@@ -1,75 +1,51 @@
 [
   {
     "date": "2025-05-22",
-    "home_team": "MIN",
-    "home_score": "6",
+    "home_team": "NYY",
+    "home_score": "0",
+    "away_team": "TEX",
+    "away_score": "0",
+    "status": "Scheduled"
+  },
+  {
+    "date": "2025-05-22",
+    "home_team": "TOR",
+    "home_score": "0",
+    "away_team": "SD",
+    "away_score": "0",
+    "status": "Scheduled"
+  },
+  {
+    "date": "2025-05-22",
+    "home_team": "COL",
+    "home_score": "0",
+    "away_team": "PHI",
+    "away_score": "0",
+    "status": "Scheduled"
+  },
+  {
+    "date": "2025-05-22",
+    "home_team": "ATH",
+    "home_score": "0",
+    "away_team": "LAA",
+    "away_score": "0",
+    "status": "Scheduled"
+  },
+  {
+    "date": "2025-05-22",
+    "home_team": "DET",
+    "home_score": "0",
     "away_team": "CLE",
-    "away_score": "5",
-    "status": "Final"
+    "away_score": "0",
+    "status": "Scheduled"
   },
   {
     "date": "2025-05-22",
     "home_team": "PIT",
-    "home_score": "3",
-    "away_team": "CIN",
-    "away_score": "1",
-    "status": "Final"
-  },
-  {
-    "date": "2025-05-22",
-    "home_team": "MIA",
-    "home_score": "1",
-    "away_team": "CHC",
-    "away_score": "2",
-    "status": "Final"
-  },
-  {
-    "date": "2025-05-22",
-    "home_team": "TB",
-    "home_score": "8",
-    "away_team": "HOU",
-    "away_score": "4",
-    "status": "Final"
-  },
-  {
-    "date": "2025-05-22",
-    "home_team": "MIL",
-    "home_score": "4",
-    "away_team": "BAL",
-    "away_score": "8",
-    "status": "Final"
-  },
-  {
-    "date": "2025-05-22",
-    "home_team": "STL",
-    "home_score": "1",
-    "away_team": "DET",
-    "away_score": "5",
-    "status": "Final"
-  },
-  {
-    "date": "2025-05-22",
-    "home_team": "CHW",
-    "home_score": "5",
-    "away_team": "SEA",
-    "away_score": "6",
-    "status": "Final"
-  },
-  {
-    "date": "2025-05-22",
-    "home_team": "SF",
-    "home_score": "4",
-    "away_team": "KC",
-    "away_score": "8",
-    "status": "Final"
-  },
-  {
-    "date": "2025-05-22",
-    "home_team": "MIN",
-    "home_score": "1",
-    "away_team": "CLE",
-    "away_score": "5",
-    "status": "Final"
+    "home_score": "0",
+    "away_team": "MIL",
+    "away_score": "0",
+    "status": "Scheduled"
   },
   {
     "date": "2025-05-22",
@@ -77,54 +53,22 @@
     "home_score": "0",
     "away_team": "ATL",
     "away_score": "0",
-    "status": "Postponed"
+    "status": "Scheduled"
   },
   {
     "date": "2025-05-22",
     "home_team": "BOS",
-    "home_score": "1",
-    "away_team": "NYM",
-    "away_score": "5",
-    "status": "Final"
-  },
-  {
-    "date": "2025-05-22",
-    "home_team": "NYY",
-    "home_score": "4",
-    "away_team": "TEX",
-    "away_score": "3",
-    "status": "Final"
-  },
-  {
-    "date": "2025-05-22",
-    "home_team": "TOR",
-    "home_score": "14",
-    "away_team": "SD",
+    "home_score": "0",
+    "away_team": "BAL",
     "away_score": "0",
-    "status": "Final"
+    "status": "Scheduled"
   },
   {
     "date": "2025-05-22",
-    "home_team": "COL",
-    "home_score": "5",
-    "away_team": "PHI",
-    "away_score": "9",
-    "status": "Final"
-  },
-  {
-    "date": "2025-05-22",
-    "home_team": "ATH",
-    "home_score": "5",
-    "away_team": "LAA",
-    "away_score": "10",
-    "status": "Final"
-  },
-  {
-    "date": "2025-05-22",
-    "home_team": "LAD",
-    "home_score": "3",
-    "away_team": "ARI",
-    "away_score": "1",
-    "status": "Final"
+    "home_team": "HOU",
+    "home_score": "0",
+    "away_team": "SEA",
+    "away_score": "0",
+    "status": "Scheduled"
   }
 ]

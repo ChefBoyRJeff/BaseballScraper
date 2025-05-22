@@ -458,158 +458,6 @@
       "totalSplits": 134
     },
     {
-      "leaderCategory": "battingAverage",
-      "season": "2023",
-      "gameType": {
-        "id": "R",
-        "description": "Regular Season"
-      },
-      "leaders": [
-        {
-          "rank": 1,
-          "value": ".224",
-          "team": {
-            "id": 139,
-            "name": "Tampa Bay Rays",
-            "link": "/api/v1/teams/139"
-          },
-          "league": {
-            "id": 103,
-            "name": "AL",
-            "link": "/api/v1/league/103"
-          },
-          "person": {
-            "id": 542194,
-            "fullName": "Christian Bethancourt",
-            "link": "/api/v1/people/542194",
-            "firstName": "Christian",
-            "lastName": "Bethancourt"
-          },
-          "sport": {
-            "id": 1,
-            "link": "/api/v1/sports/1",
-            "abbreviation": "MLB"
-          },
-          "season": "2023",
-          "numTeams": 1
-        },
-        {
-          "rank": 2,
-          "value": ".225",
-          "team": {
-            "id": 141,
-            "name": "Toronto Blue Jays",
-            "link": "/api/v1/teams/141"
-          },
-          "league": {
-            "id": 103,
-            "name": "AL",
-            "link": "/api/v1/league/103"
-          },
-          "person": {
-            "id": 672386,
-            "fullName": "Alejandro Kirk",
-            "link": "/api/v1/people/672386",
-            "firstName": "Alejandro",
-            "lastName": "Kirk"
-          },
-          "sport": {
-            "id": 1,
-            "link": "/api/v1/sports/1",
-            "abbreviation": "MLB"
-          },
-          "season": "2023",
-          "numTeams": 1
-        },
-        {
-          "rank": 3,
-          "value": ".227",
-          "team": {
-            "id": 158,
-            "name": "Milwaukee Brewers",
-            "link": "/api/v1/teams/158"
-          },
-          "league": {
-            "id": 104,
-            "name": "NL",
-            "link": "/api/v1/league/104"
-          },
-          "person": {
-            "id": 661388,
-            "fullName": "William Contreras",
-            "link": "/api/v1/people/661388",
-            "firstName": "William",
-            "lastName": "Contreras"
-          },
-          "sport": {
-            "id": 1,
-            "link": "/api/v1/sports/1",
-            "abbreviation": "MLB"
-          },
-          "season": "2023",
-          "numTeams": 1
-        },
-        {
-          "rank": 3,
-          "value": ".227",
-          "team": {
-            "id": 142,
-            "name": "Minnesota Twins",
-            "link": "/api/v1/teams/142"
-          },
-          "league": {
-            "id": 103,
-            "name": "AL",
-            "link": "/api/v1/league/103"
-          },
-          "person": {
-            "id": 680777,
-            "fullName": "Ryan Jeffers",
-            "link": "/api/v1/people/680777",
-            "firstName": "Ryan",
-            "lastName": "Jeffers"
-          },
-          "sport": {
-            "id": 1,
-            "link": "/api/v1/sports/1",
-            "abbreviation": "MLB"
-          },
-          "season": "2023",
-          "numTeams": 1
-        },
-        {
-          "rank": 5,
-          "value": ".231",
-          "team": {
-            "id": 119,
-            "name": "Los Angeles Dodgers",
-            "link": "/api/v1/teams/119"
-          },
-          "league": {
-            "id": 104,
-            "name": "NL",
-            "link": "/api/v1/league/104"
-          },
-          "person": {
-            "id": 669257,
-            "fullName": "Will Smith",
-            "link": "/api/v1/people/669257",
-            "firstName": "Will",
-            "lastName": "Smith"
-          },
-          "sport": {
-            "id": 1,
-            "link": "/api/v1/sports/1",
-            "abbreviation": "MLB"
-          },
-          "season": "2023",
-          "numTeams": 1
-        }
-      ],
-      "statGroup": "catching",
-      "totalSplits": 29
-    },
-    {
       "leaderCategory": "runsBattedIn",
       "season": "2023",
       "gameType": {
@@ -760,6 +608,158 @@
       ],
       "statGroup": "hitting",
       "totalSplits": 611
+    },
+    {
+      "leaderCategory": "battingAverage",
+      "season": "2023",
+      "gameType": {
+        "id": "R",
+        "description": "Regular Season"
+      },
+      "leaders": [
+        {
+          "rank": 1,
+          "value": ".224",
+          "team": {
+            "id": 139,
+            "name": "Tampa Bay Rays",
+            "link": "/api/v1/teams/139"
+          },
+          "league": {
+            "id": 103,
+            "name": "AL",
+            "link": "/api/v1/league/103"
+          },
+          "person": {
+            "id": 542194,
+            "fullName": "Christian Bethancourt",
+            "link": "/api/v1/people/542194",
+            "firstName": "Christian",
+            "lastName": "Bethancourt"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2023",
+          "numTeams": 1
+        },
+        {
+          "rank": 2,
+          "value": ".225",
+          "team": {
+            "id": 141,
+            "name": "Toronto Blue Jays",
+            "link": "/api/v1/teams/141"
+          },
+          "league": {
+            "id": 103,
+            "name": "AL",
+            "link": "/api/v1/league/103"
+          },
+          "person": {
+            "id": 672386,
+            "fullName": "Alejandro Kirk",
+            "link": "/api/v1/people/672386",
+            "firstName": "Alejandro",
+            "lastName": "Kirk"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2023",
+          "numTeams": 1
+        },
+        {
+          "rank": 3,
+          "value": ".227",
+          "team": {
+            "id": 158,
+            "name": "Milwaukee Brewers",
+            "link": "/api/v1/teams/158"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 661388,
+            "fullName": "William Contreras",
+            "link": "/api/v1/people/661388",
+            "firstName": "William",
+            "lastName": "Contreras"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2023",
+          "numTeams": 1
+        },
+        {
+          "rank": 3,
+          "value": ".227",
+          "team": {
+            "id": 142,
+            "name": "Minnesota Twins",
+            "link": "/api/v1/teams/142"
+          },
+          "league": {
+            "id": 103,
+            "name": "AL",
+            "link": "/api/v1/league/103"
+          },
+          "person": {
+            "id": 680777,
+            "fullName": "Ryan Jeffers",
+            "link": "/api/v1/people/680777",
+            "firstName": "Ryan",
+            "lastName": "Jeffers"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2023",
+          "numTeams": 1
+        },
+        {
+          "rank": 5,
+          "value": ".231",
+          "team": {
+            "id": 119,
+            "name": "Los Angeles Dodgers",
+            "link": "/api/v1/teams/119"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 669257,
+            "fullName": "Will Smith",
+            "link": "/api/v1/people/669257",
+            "firstName": "Will",
+            "lastName": "Smith"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2023",
+          "numTeams": 1
+        }
+      ],
+      "statGroup": "catching",
+      "totalSplits": 29
     },
     {
       "leaderCategory": "homeRuns",

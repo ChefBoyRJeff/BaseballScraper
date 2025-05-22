@@ -2,158 +2,6 @@
   "copyright": "Copyright 2025 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
   "leagueLeaders": [
     {
-      "leaderCategory": "battingAverage",
-      "season": "2020",
-      "gameType": {
-        "id": "R",
-        "description": "Regular Season"
-      },
-      "leaders": [
-        {
-          "rank": 1,
-          "value": ".159",
-          "team": {
-            "id": 113,
-            "name": "Cincinnati Reds",
-            "link": "/api/v1/teams/113"
-          },
-          "league": {
-            "id": 104,
-            "name": "NL",
-            "link": "/api/v1/league/104"
-          },
-          "person": {
-            "id": 545333,
-            "fullName": "Trevor Bauer",
-            "link": "/api/v1/people/545333",
-            "firstName": "Trevor",
-            "lastName": "Bauer"
-          },
-          "sport": {
-            "id": 1,
-            "link": "/api/v1/sports/1",
-            "abbreviation": "MLB"
-          },
-          "season": "2020",
-          "numTeams": 1
-        },
-        {
-          "rank": 2,
-          "value": ".161",
-          "team": {
-            "id": 135,
-            "name": "San Diego Padres",
-            "link": "/api/v1/teams/135"
-          },
-          "league": {
-            "id": 104,
-            "name": "NL",
-            "link": "/api/v1/league/104"
-          },
-          "person": {
-            "id": 659275,
-            "fullName": "Dinelson Lamet",
-            "link": "/api/v1/people/659275",
-            "firstName": "Dinelson",
-            "lastName": "Lamet"
-          },
-          "sport": {
-            "id": 1,
-            "link": "/api/v1/sports/1",
-            "abbreviation": "MLB"
-          },
-          "season": "2020",
-          "numTeams": 1
-        },
-        {
-          "rank": 3,
-          "value": ".167",
-          "team": {
-            "id": 114,
-            "name": "Cleveland Indians",
-            "link": "/api/v1/teams/114"
-          },
-          "league": {
-            "id": 103,
-            "name": "AL",
-            "link": "/api/v1/league/103"
-          },
-          "person": {
-            "id": 669456,
-            "fullName": "Shane Bieber",
-            "link": "/api/v1/people/669456",
-            "firstName": "Shane",
-            "lastName": "Bieber"
-          },
-          "sport": {
-            "id": 1,
-            "link": "/api/v1/sports/1",
-            "abbreviation": "MLB"
-          },
-          "season": "2020",
-          "numTeams": 1
-        },
-        {
-          "rank": 4,
-          "value": ".168",
-          "team": {
-            "id": 142,
-            "name": "Minnesota Twins",
-            "link": "/api/v1/teams/142"
-          },
-          "league": {
-            "id": 103,
-            "name": "AL",
-            "link": "/api/v1/league/103"
-          },
-          "person": {
-            "id": 628317,
-            "fullName": "Kenta Maeda",
-            "link": "/api/v1/people/628317",
-            "firstName": "Kenta",
-            "lastName": "Maeda"
-          },
-          "sport": {
-            "id": 1,
-            "link": "/api/v1/sports/1",
-            "abbreviation": "MLB"
-          },
-          "season": "2020",
-          "numTeams": 1
-        },
-        {
-          "rank": 5,
-          "value": ".184",
-          "team": {
-            "id": 145,
-            "name": "Chicago White Sox",
-            "link": "/api/v1/teams/145"
-          },
-          "league": {
-            "id": 103,
-            "name": "AL",
-            "link": "/api/v1/league/103"
-          },
-          "person": {
-            "id": 608337,
-            "fullName": "Lucas Giolito",
-            "link": "/api/v1/people/608337",
-            "firstName": "Lucas",
-            "lastName": "Giolito"
-          },
-          "sport": {
-            "id": 1,
-            "link": "/api/v1/sports/1",
-            "abbreviation": "MLB"
-          },
-          "season": "2020",
-          "numTeams": 1
-        }
-      ],
-      "statGroup": "pitching",
-      "totalSplits": 40
-    },
-    {
       "leaderCategory": "homeRuns",
       "season": "2020",
       "gameType": {
@@ -343,6 +191,158 @@
       "leaders": [
         {
           "rank": 1,
+          "value": ".159",
+          "team": {
+            "id": 113,
+            "name": "Cincinnati Reds",
+            "link": "/api/v1/teams/113"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 545333,
+            "fullName": "Trevor Bauer",
+            "link": "/api/v1/people/545333",
+            "firstName": "Trevor",
+            "lastName": "Bauer"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2020",
+          "numTeams": 1
+        },
+        {
+          "rank": 2,
+          "value": ".161",
+          "team": {
+            "id": 135,
+            "name": "San Diego Padres",
+            "link": "/api/v1/teams/135"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 659275,
+            "fullName": "Dinelson Lamet",
+            "link": "/api/v1/people/659275",
+            "firstName": "Dinelson",
+            "lastName": "Lamet"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2020",
+          "numTeams": 1
+        },
+        {
+          "rank": 3,
+          "value": ".167",
+          "team": {
+            "id": 114,
+            "name": "Cleveland Indians",
+            "link": "/api/v1/teams/114"
+          },
+          "league": {
+            "id": 103,
+            "name": "AL",
+            "link": "/api/v1/league/103"
+          },
+          "person": {
+            "id": 669456,
+            "fullName": "Shane Bieber",
+            "link": "/api/v1/people/669456",
+            "firstName": "Shane",
+            "lastName": "Bieber"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2020",
+          "numTeams": 1
+        },
+        {
+          "rank": 4,
+          "value": ".168",
+          "team": {
+            "id": 142,
+            "name": "Minnesota Twins",
+            "link": "/api/v1/teams/142"
+          },
+          "league": {
+            "id": 103,
+            "name": "AL",
+            "link": "/api/v1/league/103"
+          },
+          "person": {
+            "id": 628317,
+            "fullName": "Kenta Maeda",
+            "link": "/api/v1/people/628317",
+            "firstName": "Kenta",
+            "lastName": "Maeda"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2020",
+          "numTeams": 1
+        },
+        {
+          "rank": 5,
+          "value": ".184",
+          "team": {
+            "id": 145,
+            "name": "Chicago White Sox",
+            "link": "/api/v1/teams/145"
+          },
+          "league": {
+            "id": 103,
+            "name": "AL",
+            "link": "/api/v1/league/103"
+          },
+          "person": {
+            "id": 608337,
+            "fullName": "Lucas Giolito",
+            "link": "/api/v1/people/608337",
+            "firstName": "Lucas",
+            "lastName": "Giolito"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2020",
+          "numTeams": 1
+        }
+      ],
+      "statGroup": "pitching",
+      "totalSplits": 40
+    },
+    {
+      "leaderCategory": "battingAverage",
+      "season": "2020",
+      "gameType": {
+        "id": "R",
+        "description": "Regular Season"
+      },
+      "leaders": [
+        {
+          "rank": 1,
           "value": ".364",
           "team": {
             "id": 147,
@@ -484,158 +484,6 @@
       ],
       "statGroup": "hitting",
       "totalSplits": 142
-    },
-    {
-      "leaderCategory": "battingAverage",
-      "season": "2020",
-      "gameType": {
-        "id": "R",
-        "description": "Regular Season"
-      },
-      "leaders": [
-        {
-          "rank": 1,
-          "value": ".188",
-          "team": {
-            "id": 145,
-            "name": "Chicago White Sox",
-            "link": "/api/v1/teams/145"
-          },
-          "league": {
-            "id": 103,
-            "name": "AL",
-            "link": "/api/v1/league/103"
-          },
-          "person": {
-            "id": 543510,
-            "fullName": "James McCann",
-            "link": "/api/v1/people/543510",
-            "firstName": "James",
-            "lastName": "McCann"
-          },
-          "sport": {
-            "id": 1,
-            "link": "/api/v1/sports/1",
-            "abbreviation": "MLB"
-          },
-          "season": "2020",
-          "numTeams": 1
-        },
-        {
-          "rank": 2,
-          "value": ".199",
-          "team": {
-            "id": 113,
-            "name": "Cincinnati Reds",
-            "link": "/api/v1/teams/113"
-          },
-          "league": {
-            "id": 104,
-            "name": "NL",
-            "link": "/api/v1/league/104"
-          },
-          "person": {
-            "id": 571466,
-            "fullName": "Tucker Barnhart",
-            "link": "/api/v1/people/571466",
-            "firstName": "Tucker",
-            "lastName": "Barnhart"
-          },
-          "sport": {
-            "id": 1,
-            "link": "/api/v1/sports/1",
-            "abbreviation": "MLB"
-          },
-          "season": "2020",
-          "numTeams": 1
-        },
-        {
-          "rank": 3,
-          "value": ".208",
-          "team": {
-            "id": 119,
-            "name": "Los Angeles Dodgers",
-            "link": "/api/v1/teams/119"
-          },
-          "league": {
-            "id": 104,
-            "name": "NL",
-            "link": "/api/v1/league/104"
-          },
-          "person": {
-            "id": 669257,
-            "fullName": "Will Smith",
-            "link": "/api/v1/people/669257",
-            "firstName": "Will",
-            "lastName": "Smith"
-          },
-          "sport": {
-            "id": 1,
-            "link": "/api/v1/sports/1",
-            "abbreviation": "MLB"
-          },
-          "season": "2020",
-          "numTeams": 1
-        },
-        {
-          "rank": 4,
-          "value": ".221",
-          "team": {
-            "id": 138,
-            "name": "St. Louis Cardinals",
-            "link": "/api/v1/teams/138"
-          },
-          "league": {
-            "id": 104,
-            "name": "NL",
-            "link": "/api/v1/league/104"
-          },
-          "person": {
-            "id": 425877,
-            "fullName": "Yadier Molina",
-            "link": "/api/v1/people/425877",
-            "firstName": "Yadier",
-            "lastName": "Molina"
-          },
-          "sport": {
-            "id": 1,
-            "link": "/api/v1/sports/1",
-            "abbreviation": "MLB"
-          },
-          "season": "2020",
-          "numTeams": 1
-        },
-        {
-          "rank": 5,
-          "value": ".222",
-          "team": {
-            "id": 139,
-            "name": "Tampa Bay Rays",
-            "link": "/api/v1/teams/139"
-          },
-          "league": {
-            "id": 103,
-            "name": "AL",
-            "link": "/api/v1/league/103"
-          },
-          "person": {
-            "id": 605421,
-            "fullName": "Michael P\u00e9rez",
-            "link": "/api/v1/people/605421",
-            "firstName": "Michael",
-            "lastName": "P\u00e9rez"
-          },
-          "sport": {
-            "id": 1,
-            "link": "/api/v1/sports/1",
-            "abbreviation": "MLB"
-          },
-          "season": "2020",
-          "numTeams": 1
-        }
-      ],
-      "statGroup": "catching",
-      "totalSplits": 29
     },
     {
       "leaderCategory": "runsBattedIn",
@@ -788,6 +636,158 @@
       ],
       "statGroup": "hitting",
       "totalSplits": 512
+    },
+    {
+      "leaderCategory": "battingAverage",
+      "season": "2020",
+      "gameType": {
+        "id": "R",
+        "description": "Regular Season"
+      },
+      "leaders": [
+        {
+          "rank": 1,
+          "value": ".188",
+          "team": {
+            "id": 145,
+            "name": "Chicago White Sox",
+            "link": "/api/v1/teams/145"
+          },
+          "league": {
+            "id": 103,
+            "name": "AL",
+            "link": "/api/v1/league/103"
+          },
+          "person": {
+            "id": 543510,
+            "fullName": "James McCann",
+            "link": "/api/v1/people/543510",
+            "firstName": "James",
+            "lastName": "McCann"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2020",
+          "numTeams": 1
+        },
+        {
+          "rank": 2,
+          "value": ".199",
+          "team": {
+            "id": 113,
+            "name": "Cincinnati Reds",
+            "link": "/api/v1/teams/113"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 571466,
+            "fullName": "Tucker Barnhart",
+            "link": "/api/v1/people/571466",
+            "firstName": "Tucker",
+            "lastName": "Barnhart"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2020",
+          "numTeams": 1
+        },
+        {
+          "rank": 3,
+          "value": ".208",
+          "team": {
+            "id": 119,
+            "name": "Los Angeles Dodgers",
+            "link": "/api/v1/teams/119"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 669257,
+            "fullName": "Will Smith",
+            "link": "/api/v1/people/669257",
+            "firstName": "Will",
+            "lastName": "Smith"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2020",
+          "numTeams": 1
+        },
+        {
+          "rank": 4,
+          "value": ".221",
+          "team": {
+            "id": 138,
+            "name": "St. Louis Cardinals",
+            "link": "/api/v1/teams/138"
+          },
+          "league": {
+            "id": 104,
+            "name": "NL",
+            "link": "/api/v1/league/104"
+          },
+          "person": {
+            "id": 425877,
+            "fullName": "Yadier Molina",
+            "link": "/api/v1/people/425877",
+            "firstName": "Yadier",
+            "lastName": "Molina"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2020",
+          "numTeams": 1
+        },
+        {
+          "rank": 5,
+          "value": ".222",
+          "team": {
+            "id": 139,
+            "name": "Tampa Bay Rays",
+            "link": "/api/v1/teams/139"
+          },
+          "league": {
+            "id": 103,
+            "name": "AL",
+            "link": "/api/v1/league/103"
+          },
+          "person": {
+            "id": 605421,
+            "fullName": "Michael P\u00e9rez",
+            "link": "/api/v1/people/605421",
+            "firstName": "Michael",
+            "lastName": "P\u00e9rez"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "season": "2020",
+          "numTeams": 1
+        }
+      ],
+      "statGroup": "catching",
+      "totalSplits": 29
     },
     {
       "leaderCategory": "homeRuns",

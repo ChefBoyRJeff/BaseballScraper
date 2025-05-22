@@ -1954,15 +1954,6 @@
   },
   {
     "team": "Cleveland Guardians",
-    "name": "Doug Nikhazy",
-    "position": "Starting Pitcher",
-    "jersey": "65",
-    "height": "6' 0\"",
-    "weight": "210 lbs",
-    "age": 25
-  },
-  {
-    "team": "Cleveland Guardians",
     "name": "Luis Ortiz",
     "position": "Starting Pitcher",
     "jersey": "45",
@@ -4150,15 +4141,6 @@
   },
   {
     "team": "Minnesota Twins",
-    "name": "Mickey Gasper",
-    "position": "Second Base",
-    "jersey": "11",
-    "height": "5' 10\"",
-    "weight": "205 lbs",
-    "age": 29
-  },
-  {
-    "team": "Minnesota Twins",
     "name": "Brooks Lee",
     "position": "Third Base",
     "jersey": "2",
@@ -4447,15 +4429,6 @@
   },
   {
     "team": "New York Yankees",
-    "name": "Fernando Cruz",
-    "position": "Relief Pitcher",
-    "jersey": "63",
-    "height": "6' 2\"",
-    "weight": "237 lbs",
-    "age": 35
-  },
-  {
-    "team": "New York Yankees",
     "name": "Yerry De los Santos",
     "position": "Relief Pitcher",
     "jersey": "73",
@@ -4480,6 +4453,15 @@
     "height": "6' 1\"",
     "weight": "200 lbs",
     "age": 29
+  },
+  {
+    "team": "New York Yankees",
+    "name": "Brent Headrick",
+    "position": "Relief Pitcher",
+    "jersey": "47",
+    "height": "6' 6\"",
+    "weight": "235 lbs",
+    "age": 27
   },
   {
     "team": "New York Yankees",

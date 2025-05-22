@@ -1,55 +1,4 @@
 name,team,stat,value
-Carlos Rodón,New York Yankees,battingAverage,.167
-Yoshinobu Yamamoto,Los Angeles Dodgers,battingAverage,.172
-Nathan Eovaldi,Texas Rangers,battingAverage,.179
-Hunter Brown,Houston Astros,battingAverage,.185
-Tyler Mahle,Texas Rangers,battingAverage,.185
-Joe Ryan,Minnesota Twins,battingAverage,.185
-Max Fried,New York Yankees,battingAverage,.186
-Paul Skenes,Pittsburgh Pirates,battingAverage,.190
-Freddy Peralta,Milwaukee Brewers,battingAverage,.193
-Nick Pivetta,San Diego Padres,battingAverage,.193
-Michael King,San Diego Padres,battingAverage,.195
-Grant Holmes,Atlanta Braves,battingAverage,.196
-Zack Wheeler,Philadelphia Phillies,battingAverage,.196
-Jacob deGrom,Texas Rangers,battingAverage,.199
-Bryan Woo,Seattle Mariners,battingAverage,.200
-Merrill Kelly,Arizona Diamondbacks,battingAverage,.201
-Tyler Anderson,Los Angeles Angels,battingAverage,.202
-Garrett Crochet,Boston Red Sox,battingAverage,.205
-Andrew Heaney,Pittsburgh Pirates,battingAverage,.206
-Corbin Burnes,Arizona Diamondbacks,battingAverage,.207
-Shane Smith,Chicago White Sox,battingAverage,.207
-Kris Bubic,Kansas City Royals,battingAverage,.210
-Robbie Ray,San Francisco Giants,battingAverage,.210
-Kodai Senga,New York Mets,battingAverage,.210
-Kevin Gausman,Toronto Blue Jays,battingAverage,.214
-Tarik Skubal,Detroit Tigers,battingAverage,.220
-Cristopher Sánchez,Philadelphia Phillies,battingAverage,.220
-Bailey Falter,Pittsburgh Pirates,battingAverage,.225
-Jeffrey Springs,Athletics,battingAverage,.225
-Tomoyuki Sugano,Baltimore Orioles,battingAverage,.227
-Spencer Schwellenbach,Atlanta Braves,battingAverage,.228
-Framber Valdez,Houston Astros,battingAverage,.228
-Jake Irvin,Washington Nationals,battingAverage,.229
-Matthew Liberatore,St. Louis Cardinals,battingAverage,.229
-Mitchell Parker,Washington Nationals,battingAverage,.229
-Erick Fedde,St. Louis Cardinals,battingAverage,.230
-Seth Lugo,Kansas City Royals,battingAverage,.230
-Jameson Taillon,Chicago Cubs,battingAverage,.230
-Jesús Luzardo,Philadelphia Phillies,battingAverage,.231
-Nick Lodolo,Cincinnati Reds,battingAverage,.232
-Dustin May,Los Angeles Dodgers,battingAverage,.234
-Dylan Cease,San Diego Padres,battingAverage,.235
-Luis L. Ortiz,Cleveland Guardians,battingAverage,.235
-Luis Castillo,Seattle Mariners,battingAverage,.236
-Chris Paddack,Minnesota Twins,battingAverage,.236
-Clay Holmes,New York Mets,battingAverage,.238
-Randy Vásquez,San Diego Padres,battingAverage,.238
-Sonny Gray,St. Louis Cardinals,battingAverage,.239
-Zac Gallen,Arizona Diamondbacks,battingAverage,.241
-Taj Bradley,Tampa Bay Rays,battingAverage,.242
-David Peterson,New York Mets,battingAverage,.242
 Shohei Ohtani,Los Angeles Dodgers,homeRuns,17
 Kyle Schwarber,Philadelphia Phillies,homeRuns,17
 Aaron Judge,New York Yankees,homeRuns,16
@@ -116,6 +65,57 @@ Austin Riley,Atlanta Braves,homeRuns,8
 Juan Soto,New York Mets,homeRuns,8
 Rowdy Tellez,Seattle Mariners,homeRuns,8
 Austin Wells,New York Yankees,homeRuns,8
+Carlos Rodón,New York Yankees,battingAverage,.167
+Yoshinobu Yamamoto,Los Angeles Dodgers,battingAverage,.172
+Nathan Eovaldi,Texas Rangers,battingAverage,.179
+Hunter Brown,Houston Astros,battingAverage,.185
+Tyler Mahle,Texas Rangers,battingAverage,.185
+Joe Ryan,Minnesota Twins,battingAverage,.185
+Max Fried,New York Yankees,battingAverage,.186
+Paul Skenes,Pittsburgh Pirates,battingAverage,.190
+Freddy Peralta,Milwaukee Brewers,battingAverage,.193
+Nick Pivetta,San Diego Padres,battingAverage,.193
+Michael King,San Diego Padres,battingAverage,.195
+Grant Holmes,Atlanta Braves,battingAverage,.196
+Zack Wheeler,Philadelphia Phillies,battingAverage,.196
+Jacob deGrom,Texas Rangers,battingAverage,.199
+Bryan Woo,Seattle Mariners,battingAverage,.200
+Merrill Kelly,Arizona Diamondbacks,battingAverage,.201
+Tyler Anderson,Los Angeles Angels,battingAverage,.202
+Garrett Crochet,Boston Red Sox,battingAverage,.205
+Andrew Heaney,Pittsburgh Pirates,battingAverage,.206
+Corbin Burnes,Arizona Diamondbacks,battingAverage,.207
+Shane Smith,Chicago White Sox,battingAverage,.207
+Kris Bubic,Kansas City Royals,battingAverage,.210
+Robbie Ray,San Francisco Giants,battingAverage,.210
+Kodai Senga,New York Mets,battingAverage,.210
+Kevin Gausman,Toronto Blue Jays,battingAverage,.214
+Tarik Skubal,Detroit Tigers,battingAverage,.220
+Cristopher Sánchez,Philadelphia Phillies,battingAverage,.220
+Bailey Falter,Pittsburgh Pirates,battingAverage,.225
+Jeffrey Springs,Athletics,battingAverage,.225
+Tomoyuki Sugano,Baltimore Orioles,battingAverage,.227
+Spencer Schwellenbach,Atlanta Braves,battingAverage,.228
+Framber Valdez,Houston Astros,battingAverage,.228
+Jake Irvin,Washington Nationals,battingAverage,.229
+Matthew Liberatore,St. Louis Cardinals,battingAverage,.229
+Mitchell Parker,Washington Nationals,battingAverage,.229
+Erick Fedde,St. Louis Cardinals,battingAverage,.230
+Seth Lugo,Kansas City Royals,battingAverage,.230
+Jameson Taillon,Chicago Cubs,battingAverage,.230
+Jesús Luzardo,Philadelphia Phillies,battingAverage,.231
+Nick Lodolo,Cincinnati Reds,battingAverage,.232
+Dustin May,Los Angeles Dodgers,battingAverage,.234
+Dylan Cease,San Diego Padres,battingAverage,.235
+Luis L. Ortiz,Cleveland Guardians,battingAverage,.235
+Luis Castillo,Seattle Mariners,battingAverage,.236
+Chris Paddack,Minnesota Twins,battingAverage,.236
+Clay Holmes,New York Mets,battingAverage,.238
+Randy Vásquez,San Diego Padres,battingAverage,.238
+Sonny Gray,St. Louis Cardinals,battingAverage,.239
+Zac Gallen,Arizona Diamondbacks,battingAverage,.241
+Taj Bradley,Tampa Bay Rays,battingAverage,.242
+David Peterson,New York Mets,battingAverage,.242
 Aaron Judge,New York Yankees,battingAverage,.402
 Freddie Freeman,Los Angeles Dodgers,battingAverage,.368
 Jacob Wilson,Athletics,battingAverage,.341
@@ -166,39 +166,6 @@ Kyle Tucker,Chicago Cubs,battingAverage,.278
 Kerry Carpenter,Detroit Tigers,battingAverage,.278
 Corbin Carroll,Arizona Diamondbacks,battingAverage,.278
 Nolan Schanuel,Los Angeles Angels,battingAverage,.277
-Austin Wells,New York Yankees,battingAverage,.201
-Yainer Diaz,Houston Astros,battingAverage,.210
-Luis Torrens,New York Mets,battingAverage,.210
-Jose Trevino,Cincinnati Reds,battingAverage,.210
-Elias Díaz,San Diego Padres,battingAverage,.212
-Danny Jansen,Tampa Bay Rays,battingAverage,.221
-Freddy Fermin,Kansas City Royals,battingAverage,.225
-Drake Baldwin,Atlanta Braves,battingAverage,.227
-Martín Maldonado,San Diego Padres,battingAverage,.228
-Will Smith,Los Angeles Dodgers,battingAverage,.229
-Miguel Amaya,Chicago Cubs,battingAverage,.232
-Sean Murphy,Atlanta Braves,battingAverage,.235
-Patrick Bailey,San Francisco Giants,battingAverage,.236
-Jonah Heim,Texas Rangers,battingAverage,.236
-Dillon Dingler,Detroit Tigers,battingAverage,.237
-Ryan Jeffers,Minnesota Twins,battingAverage,.239
-J.T. Realmuto,Philadelphia Phillies,battingAverage,.239
-William Contreras,Milwaukee Brewers,battingAverage,.240
-Cal Raleigh,Seattle Mariners,battingAverage,.243
-Alejandro Kirk,Toronto Blue Jays,battingAverage,.245
-Carlos Narváez,Boston Red Sox,battingAverage,.245
-Pedro Pagés,St. Louis Cardinals,battingAverage,.245
-Gabriel Moreno,Arizona Diamondbacks,battingAverage,.249
-Joey Bart,Pittsburgh Pirates,battingAverage,.256
-Bo Naylor,Cleveland Guardians,battingAverage,.257
-Matt Thaiss,Chicago White Sox,battingAverage,.258
-Carson Kelly,Chicago Cubs,battingAverage,.262
-Liam Hicks,Miami Marlins,battingAverage,.270
-Keibert Ruiz,Washington Nationals,battingAverage,.270
-Adley Rutschman,Baltimore Orioles,battingAverage,.271
-Logan O'Hoppe,Los Angeles Angels,battingAverage,.272
-Shea Langeliers,Athletics,battingAverage,.277
-Hunter Goodman,Colorado Rockies,battingAverage,.314
 Aaron Judge,New York Yankees,runsBattedIn,44
 Seiya Suzuki,Chicago Cubs,runsBattedIn,43
 Wilmer Flores,San Francisco Giants,runsBattedIn,42
@@ -254,6 +221,39 @@ Brandon Nimmo,New York Mets,runsBattedIn,27
 Andy Pages,Los Angeles Dodgers,runsBattedIn,27
 Dansby Swanson,Chicago Cubs,runsBattedIn,27
 Fernando Tatis Jr.,San Diego Padres,runsBattedIn,27
+Austin Wells,New York Yankees,battingAverage,.201
+Yainer Diaz,Houston Astros,battingAverage,.210
+Luis Torrens,New York Mets,battingAverage,.210
+Jose Trevino,Cincinnati Reds,battingAverage,.210
+Elias Díaz,San Diego Padres,battingAverage,.212
+Danny Jansen,Tampa Bay Rays,battingAverage,.221
+Freddy Fermin,Kansas City Royals,battingAverage,.225
+Drake Baldwin,Atlanta Braves,battingAverage,.227
+Martín Maldonado,San Diego Padres,battingAverage,.228
+Will Smith,Los Angeles Dodgers,battingAverage,.229
+Miguel Amaya,Chicago Cubs,battingAverage,.232
+Sean Murphy,Atlanta Braves,battingAverage,.235
+Patrick Bailey,San Francisco Giants,battingAverage,.236
+Jonah Heim,Texas Rangers,battingAverage,.236
+Dillon Dingler,Detroit Tigers,battingAverage,.237
+Ryan Jeffers,Minnesota Twins,battingAverage,.239
+J.T. Realmuto,Philadelphia Phillies,battingAverage,.239
+William Contreras,Milwaukee Brewers,battingAverage,.240
+Cal Raleigh,Seattle Mariners,battingAverage,.243
+Alejandro Kirk,Toronto Blue Jays,battingAverage,.245
+Carlos Narváez,Boston Red Sox,battingAverage,.245
+Pedro Pagés,St. Louis Cardinals,battingAverage,.245
+Gabriel Moreno,Arizona Diamondbacks,battingAverage,.249
+Joey Bart,Pittsburgh Pirates,battingAverage,.256
+Bo Naylor,Cleveland Guardians,battingAverage,.257
+Matt Thaiss,Chicago White Sox,battingAverage,.258
+Carson Kelly,Chicago Cubs,battingAverage,.262
+Liam Hicks,Miami Marlins,battingAverage,.270
+Keibert Ruiz,Washington Nationals,battingAverage,.270
+Adley Rutschman,Baltimore Orioles,battingAverage,.271
+Logan O'Hoppe,Los Angeles Angels,battingAverage,.272
+Shea Langeliers,Athletics,battingAverage,.277
+Hunter Goodman,Colorado Rockies,battingAverage,.314
 Shea Langeliers,Athletics,homeRuns,58
 Adley Rutschman,Baltimore Orioles,homeRuns,53
 Alejandro Kirk,Toronto Blue Jays,homeRuns,52
